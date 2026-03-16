@@ -1,10 +1,10 @@
 ---
-title: "Roasted Creamy Tomato Soup"
+title: "Roasted Creamy Tomato Soup Recipe"
 slug: "roasted-creamy-tomato-soup"
-description: "Roasted quartered tomatoes with onions, carrots, garlic, and herbs. Tossed in olive oil, salt, pepper, Italian seasoning. Slow roast for caramelized edges and deep aroma. Blend with broth and fresh basil. Simmer gently, stir in cream for richness. Texture slightly chunky or velvety smooth depending on blending. A warming bowl with complex roasted flavors, hint of herbaceous brightness, and subtle sweet earthiness from carrots and caramelized onion. Mostly hands-off with mostly visual and tactile cues guiding doneness."
-metaDescription: "Roasted creamy tomato soup bursts with caramelized edges, fresh herbs, and rich cream. Chunky or smooth texture, smoky paprika twist optional for depth."
-ogDescription: "Caramelized roasted tomatoes merge with basil and cream, simmered gently. Rustic or silky texture, a hint of smoked paprika lifts the flavors subtly."
-focusKeyphrase: "creamy tomato soup"
+description: "Roasted creamy tomato soup with Roma tomatoes, carrots, onions, and garlic blended with vegetable broth and fresh basil. Finished with cream for a warming comfort food."
+metaDescription: "Roasted creamy tomato soup made with Roma tomatoes, carrots, onions, garlic, and fresh basil. Blended smooth with vegetable broth and cream. Make it tonight."
+ogDescription: "Roasted tomatoes, carrots, onions, and garlic simmered into a creamy soup with fresh basil and a hint of herbaceous brightness."
+focusKeyphrase: "roasted creamy tomato soup"
 date: 2025-10-13
 draft: false
 image: roasted-creamy-tomato-soup.jpg
@@ -21,9 +21,16 @@ tags:
 - "easy dinner"
 - "roasted"
 keywords:
-- "creamy tomato soup"
-- "roasted tomato"
-- "basil tomato soup"
+- "roasted creamy tomato soup"
+- "creamy tomato soup recipe"
+- "roasted tomato soup with carrots and garlic"
+- "homemade roasted tomato soup with onions"
+- "creamy roasted tomato soup with fresh basil"
+- "tomato soup"
+- "roasted vegetable soup"
+- "comfort food tomato soup"
+- "vegetarian tomato soup"
+- "roasted roma tomato soup with vegetable broth"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "180"
@@ -74,3 +81,79 @@ faq:
 - "q: How to store leftovers safely? a: Chill soup covered quickly. Keeps fridge fresh 2 to 3 days tops. Freeze in portioned containers. Reheat slow stove, add splash broth to loosen thickened soup. Stir often to blend cream if separated. Avoid microwave reheating if can, often uneven heating breaks cream texture."
 
 ---
+
+Chop the tomatoes first—stems off, then quarters. Three things happen when you roast: the water leaves, the sugar concentrates, the acid mellows. That's the whole move.
+
+## Why You'll Love This Roasted Tomato Soup
+
+Tastes like comfort. Nothing fancy. Just tomato, but deeper than raw ever gets.
+Vegetarian and works for literally every season—summer when tomatoes are cheap, winter when you need something warm that doesn't feel heavy.
+Takes 75 minutes total but most of it's the oven doing the work. Actual hands-on time is maybe 15 minutes.
+Freezes stupid well. Make a double batch. Leftovers are somehow better the next day.
+No complicated technique. Roast, blend, simmer. Done. The oven does the real cooking for you.
+
+## What You Need for Roasted Vegetable Soup
+
+Two and a half pounds of Roma tomatoes. Not beefsteak. Romas have less water and more flesh—matters. Quarter them. Press out some seeds with your fingers. Doesn't have to be perfect, just get the majority out so it's not bitter later.
+
+One medium yellow onion chopped roughly. Two carrots peeled and chopped. Four garlic cloves smashed—not minced, just cracked open with the side of your knife. Tablespoon of fresh parsley chopped up. The herbs matter.
+
+Two tablespoons extra virgin olive oil. Teaspoon of sea salt. Half teaspoon black pepper. Teaspoon Italian seasoning. Optional smoked paprika if you want a hint of smoke underneath everything. Four cups low sodium vegetable broth. Quarter cup fresh basil—fresh, not dried. A third cup of half and half or heavy cream, depending on how rich you want it.
+
+That's it.
+
+## How to Make Roasted Tomato Soup with Carrots and Garlic
+
+Heat the oven to 360. Not 400. Lower temp means the tomatoes actually roast instead of burn on the edges while the middle stays mealy.
+
+Dump everything in a bowl. Tomatoes, onion, carrots, garlic, parsley, olive oil, salt, pepper, Italian seasoning, the paprika if you're using it. Toss it until the oil coats everything. Spread it on a big rimmed baking sheet in a single layer. Don't crowd it.
+
+Roast for 42 minutes. Stir it once around the 20-minute mark. You're looking for the edges to caramelize and go dark brown—not black, brown. The garlic should smell sweet and mellow, not sharp. The carrots soften but don't fall apart.
+
+Pour the whole pan into a large pot. All the juice, all the caramelized bits stuck to the bottom. Add the vegetable broth and the basil. Cold basil at this point. It'll brighten the flavor.
+
+## How to Get Roasted Creamy Tomato Soup with Fresh Basil Smooth
+
+This is where people mess up. Use an immersion blender. Pulse it. Don't go nuts with the button.
+
+You want some texture. Leave it a little rough. Rustic. That's how it's supposed to taste. If you want it completely smooth, go ahead—but it loses something. The flecks of tomato skin, the soft bits of vegetable, that's what makes it feel real instead of processed.
+
+Simmer it on low heat for 28 minutes after blending. Gentle heat. Barely bubbling. Stir it every few minutes so nothing sticks to the bottom. The longer simmer is what makes everything taste like one thing instead of separate ingredients mixed together.
+
+Off heat. Pour in the cream. Watch the color shift from orange to this peachy pink. If you want it smoother at this point, blend it again. Or leave it textured. Both work.
+
+## Roasted Tomato Soup Tips and Common Mistakes
+
+Taste it before you serve. It might need salt. Might need a pinch of sugar if the tomatoes were acidic. Might need more broth if it's too thick. This is the only time you fix it.
+
+Don't use canned tomatoes for this. It's a roasted tomato soup—the roasting is the whole point. Canned already broke down. You're not getting the caramelization.
+
+Crowding the pan is real. Everything steams instead of roasts. Take the extra minute to spread it out.
+
+Cream goes in after the heat stops. If you dump cold cream into boiling soup it can curdle. Doesn't always, but it can. Off the heat, stir it in slow. Way safer.
+
+Leftovers thicken. When you reheat it, add a splash of broth to loosen it up. It'll be thinner but taste just as good.
+
+For dairy-free—coconut cream works. So does plain yogurt stirred in after everything cools slightly. Not during the hot stage.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Tomato Soup
+
+**Can I use cherry tomatoes instead of Roma?**
+You can but don't. Romas have more flesh. Cherry tomatoes are mostly water and seed. They'll take longer and taste thinner.
+
+**How long does it keep in the fridge?**
+Four days easy. Five if you're lucky. Freeze it and it goes way longer—like three months. Thaw it overnight in the fridge, reheat on low.
+
+**What if I want it thicker?**
+Don't blend it at all. Leave all the vegetables chunky. Or simmer it longer at the end. The cream also makes it thicker if you use heavy cream instead of half and half.
+
+**Can I make this without the cream?**
+Yeah. It's still good. Just lighter. Maybe add a splash more broth so it doesn't feel thin. The vegetarian angle works either way.
+
+**Do I have to roast everything together or can I roast just the tomatoes?**
+Just roast the tomatoes if you want. The onion and carrots add sweetness and body though. They're not optional. But you could roast them separately at higher heat if you're worried about timing.
+
+**What's the best garnish?**
+Fresh basil. Or croutons for crunch. Or just a drizzle of olive oil and black pepper. All three if you're going full comfort food.
