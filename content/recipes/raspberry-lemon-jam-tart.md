@@ -1,10 +1,10 @@
 ---
-title: "Raspberry Lemon Jam Tart"
+title: "Raspberry Lemon Jam Tart with Coconut Cream"
 slug: "raspberry-lemon-jam-tart"
-description: "A rectangular tart with a crisp buttery crust, tangy lemon-raspberry filling thickened with potato starch, topped with whipped coconut cream and fresh berries. A twist on classic lemon-raspberry. Uses arrowroot and coconut cream instead of corn starch and dairy, perfect for a dairy-free variation and a silkier texture. Balances sweet and tart with a firm yet tender crust. Cooling and resting times adjusted slightly for better set and slice. Builds on lessons learned about avoiding soggy bottoms by chilling dough longer."
-metaDescription: "Raspberry Lemon Jam Tart with crisp buttery crust, tangy jam-lemon filling thickened with arrowroot, topped with whipped coconut cream and fresh raspberries."
-ogDescription: "Rectangular tart. Buttery crust crisp, tangy raspberry-lemon filling, thickened arrowroot style. Coconut cream topping. Chill times and textures nailed down."
-focusKeyphrase: "Raspberry Lemon Jam Tart"
+description: "Raspberry lemon jam tart with buttery crust, arrowroot filling, and whipped coconut cream topping. Tangy, crisp, dairy-free dessert with fresh berries."
+metaDescription: "Make this raspberry lemon jam tart with buttery crust, arrowroot thickener, and coconut cream. Dairy-free, tangy, and elegant. Try it tonight."
+ogDescription: "Buttery raspberry lemon jam tart topped with whipped coconut cream and fresh berries. Tangy, crisp, and dairy-free."
+focusKeyphrase: "raspberry lemon jam tart"
 date: 2025-08-05
 draft: false
 image: raspberry-lemon-jam-tart.jpg
@@ -21,9 +21,16 @@ tags:
 - "lemon"
 - "no bake"
 keywords:
-- "raspberry tart"
-- "lemon tart"
-- "coconut cream topping"
+- "raspberry lemon jam tart"
+- "lemon raspberry tart"
+- "raspberry lemon dessert"
+- "buttery crust raspberry jam tart"
+- "lemon raspberry tart with coconut cream"
+- "coconut cream topped lemon tart"
+- "arrowroot jam tart"
+- "dairy-free lemon tart"
+- "fresh berry tart recipe"
+- "crispy crust jam tart"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"
@@ -87,3 +94,92 @@ faq:
 - "q: How long keep leftover tart? a: Store chilled in fridge uncovered or loosely covered for up to 3 days. Topping may soften after day two. Freeze sliced tart wrapped tightly; thaw slowly in fridge. Coconut cream topping better fresh; redo if stored longer."
 
 ---
+
+Chill the dough 45 minutes minimum. Roll it thin. Press into a tart pan with a removable bottom—this matters. Bake the crust first until the edges go golden but the base stays pale. This is the move. Then comes the filling—a lemon raspberry custard that thickens on the stove while you whisk constantly. Strain it through a fine sieve so it's silky. Pour into the crust. Bake again, just 10-12 minutes, until the edges set but the center still jiggles slightly. Cool it. Chill it overnight if you can. Top with whipped coconut cream and fresh raspberries. Done.
+
+## Why You'll Love This Lemon Raspberry Tart
+
+Takes 1 hour 15 minutes total and most of that's waiting—actual work is maybe 30 minutes.
+No mixer needed. A food processor handles the crust. A saucepan and a whisk handle everything else.
+Works with what you have. No heavy cream? Coconut cream does the job, maybe better. No cornstarch? Arrowroot powder works the same way.
+The crust actually turns crispy. Not soggy. Not dense. Crispy all the way through because you dock it and bake it first.
+Tastes like something from a bakery but you made it in your own kitchen.
+Lasts cold in the fridge for days. Might be better the next day, actually.
+
+## What You Need for a Raspberry Lemon Dessert
+
+Crust first. Unbleached flour—220 ml. Sugar, 12 ml. Fine sea salt, just 1 ml. Cold unsalted butter cubed, 110 ml—this is the important part. Cold butter. Not room temperature. One large egg. Fresh lemon juice, 12 ml. Vanilla extract, 2 ml. Ice water only if the dough won't hold together.
+
+Filling needs granulated sugar, 100 ml. Arrowroot powder, 12 ml—not cornstarch, this one. Seedless raspberry jam, 150 ml, though regular works if that's what you have. Fresh lemon juice again, 100 ml this time. Four large eggs. Unsalted butter cubed, 110 ml.
+
+Topping is simple. Canned coconut cream, chilled, 120 ml. Powdered sugar, 25 ml. Fresh raspberries for the top if you want them.
+
+That's it. Nothing fancy.
+
+## How to Make a Buttery Crust Raspberry Jam Tart
+
+Start with the crust because it needs to chill. Food processor gets the flour, sugar, salt going for a few pulses. Add the cold butter cubes. Pulse again until the butter looks like peas mixed in. This takes maybe 10 seconds total. Overmix it and the butter warms up and your crust gets tough. You'll feel it—stop when you see small lumps still visible in the flour.
+
+Crack in the egg. Add the lemon juice and vanilla. Process again, but briefly. The dough should just barely clump together. If it's dry and won't hold, add ice water one teaspoon at a time. Sticky dough is worse than dry, so go slow. Form it into a rectangle with your hands, wrap it in plastic, put it in the fridge for 45 minutes minimum. Longer is fine. This rest is what stops the crust from shrinking later.
+
+When it's rested, flour a surface and roll the dough to 3 mm thick. You want a rectangle about 34 by 11 cm—roughly 13 ½ by 4 ½ inches. Use your tart pan as a guide so you get the shape right. Patch any cracks with your fingers. It doesn't need to be perfect.
+
+Transfer it gently into the removable bottom tart pan. Press it into the corners. Trim the edges clean. Take a fork and dock the base all over—poke holes everywhere. This stops it from bubbling up when it bakes and prevents warping.
+
+Preheat the oven to 190°C (375°F) with the rack on the lower level. While the oven heats, chill the tart pan on a baking sheet. Cold dough going straight into hot heat makes the crust snap when you bite it. This is what you want.
+
+Bake for 18 minutes until the edges turn golden and the base feels firm but isn't browned yet. If you see bubbles at the center, poke it again with the fork. Let it cool just slightly before you pour the filling in.
+
+## How to Get the Filling Right for Lemon Raspberry Tart
+
+Heavy saucepan. Medium heat. Whisk the sugar and arrowroot powder together first. Gradually add the jam, then the lemon juice, then the eggs, then the butter cubes. Keep whisking. Constantly. The mixture thickens at first, then it gets glossy. That's the sign. A gentle boil for 1-2 minutes until the sauce coats the back of a spoon—thick but still pourable.
+
+This is the step that makes it silky. Strain it through a fine mesh sieve. Catches the cooked egg bits and any jam pulp. The filling comes out smooth. Pour it evenly into the baked crust.
+
+Reduce the oven to 180°C (350°F). Bake for 10-12 minutes. The filling should jiggle slightly in the center but be nearly set around the edges. It'll firm up more as it cools. Don't overbake it. Remove from the oven.
+
+Cool it at room temperature for 15 minutes. Then chill it uncovered in the fridge for at least 2 ½ hours. Overnight is better. The longer it sits cold, the cleaner it slices.
+
+## Lemon Raspberry Tart Tips and Common Mistakes
+
+Don't use warm butter for the crust. It's the whole thing. Warm butter = tough crust every time. Keep it cold.
+
+If the dough tears when you transfer it, don't panic. Patch it with a bit of extra dough. Press it in place. It bakes fine.
+
+Strain the filling. This one matters if you want it to look good. Cooked egg bits and jam pulp make it look grainy instead of silky.
+
+The center jiggles when it comes out of the oven. This is right. It'll set as it cools and chills.
+
+Use a knife dipped in hot water and wiped dry to slice. Wipe the knife between cuts. This one trick makes the difference between clean slices and a messy tart.
+
+Fresh berries on top go on right before serving. If you add them hours early, they weep. Save them for the last minute.
+
+Coconut cream has a thick layer on top and liquid underneath. Scoop the solid part. The liquid goes in smoothies or chai or gets thrown out. Some brands separate more than others. Chill the can first—separation is less dramatic when it's cold.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Lemon Raspberry Jam Tart
+
+**Can I make this no bake tart ahead of time?**
+Bake it the night before. Chill it overnight. Whip the coconut cream and add it an hour or two before you serve. The crust stays crispy, the filling stays set. Works perfectly.
+
+**What if I don't have arrowroot powder?**
+Cornstarch does the same job. Use the same amount. The filling thickens the same way.
+
+**Can I use regular raspberry jam instead of seedless?**
+Yeah. Seeds don't ruin it. They're just there. If you prefer no seeds, seedless works smoother.
+
+**How long does this tart last?**
+Stays cold in the fridge for three or four days. The crust softens slightly over time but it's still good. Doesn't freeze well—the crust gets weird.
+
+**Why strain the filling?**
+Catches the cooked egg bits so the filling looks smooth instead of speckled. Makes it taste silky when you bite into it.
+
+**Can I use heavy cream instead of coconut cream?**
+Sure. Chill both the bowl and the beaters first. Whip it until stiff peaks form. Works exactly the same way.
+
+**What if my crust shrinks?**
+It shrank because the dough wasn't rested long enough or the butter was too warm. Next time, rest it longer. Keep the butter cold. Dock it really well.
+
+**Is the tart actually crispy or is it soggy?**
+Crispy. Baking the crust first and docking it all over stops it from absorbing filling liquid. The bottom stays snappy.
