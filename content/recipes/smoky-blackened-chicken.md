@@ -1,10 +1,10 @@
 ---
-title: "Smoky Blackened Chicken"
+title: "Chicken Wing Rub with Paprika & Cayenne"
 slug: "smoky-blackened-chicken"
-description: "Chicken breasts coated in butter, dredged through a spicy rub with paprika, thyme, cayenne, and others. Cooked in a hot skillet to get that charred blackened crust, then finished in the oven to juicy perfection. Adjust seasoning slightly, swap thyme for oregano for a twist. Visual cues like bubbling butter and dark pepper crust tell when to flip or remove. Oven finish ensures no raw spots inside, critical for even cooking. Serves 4."
-metaDescription: "Smoky Blackened Chicken with buttery spice crust, cast iron sear, oven finish. Juicy inside, dark char outside, fresh herbs toggle, heat dialed to taste."
-ogDescription: "Blackened chicken breasts with smoky paprika, spice crust, buttery sear; cast iron skillet heat cues guide cooking; oven finish locks juiciness, easy serve."
-focusKeyphrase: "smoky blackened chicken"
+description: "Chicken wing rub with smoked paprika, cayenne, garlic powder, and oregano. This dry rub seasoning creates a flavorful crust on chicken breasts or wings."
+metaDescription: "Chicken wing rub recipe with paprika, cayenne, and oregano. Easy dry rub seasoning for juicy, flavorful chicken. Save this one."
+ogDescription: "Smoky paprika and cayenne dry rub for perfectly seasoned chicken wings and breasts every time."
+focusKeyphrase: "chicken wing rub"
 date: 2025-10-12
 draft: false
 image: smoky-blackened-chicken.jpg
@@ -21,9 +21,18 @@ tags:
 - "main dish"
 - "easy dinner"
 keywords:
-- "blackened chicken"
-- "spicy chicken crust"
-- "smoked paprika chicken"
+- "chicken wing rub"
+- "dry rub for chicken wings"
+- "chicken spice rub"
+- "hot wing rub"
+- "bbq chicken rub"
+- "chicken rub seasoning"
+- "chicken wing seasoning"
+- "wing rub"
+- "chicken dry rub recipe"
+- "buffalo chicken dry rub"
+- "chicken rub recipe"
+- "dry rub chicken"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -67,3 +76,96 @@ faq:
 - "q: Best way to store leftovers? a: Cool thoroughly before fridge; wrap tight to stop drying. Use airtight containers or foil packs. Reheat in skillet for crust return or oven on low to avoid rubberiness. Shred for salads, sandwiches; avoid microwave reheats often, crust softens fast."
 
 ---
+
+Four chicken breasts. A skillet that's smoking. Seven minutes of prep, then you've got dinner. The rub does everything—makes the crust, makes it taste like something, makes you wonder why you didn't do this sooner.
+
+## Why You'll Love This Chicken Wing Rub
+
+Thirty minutes total. That's it. Your whole dinner, start to finish.
+
+The spice rub actually sticks. Not powdery. Not falling off the second you bite. It cooks into the chicken, gets dark and crispy, tastes smoky without tasting like char.
+
+Works on anything—breasts, thighs, wings, even pork chops. Been doing this three years and haven't gotten bored yet.
+
+One skillet. One bowl for the rub. Cleanup doesn't suck. Everything goes in the same pan you cooked in, or straight in the oven if it's ovenproof.
+
+Leftovers are actually better cold. Slice it thin, throw it on a salad, put it in a sandwich. Still tastes spicy and good, not dried out.
+
+## What You Need for This Chicken Spice Rub
+
+Smoked paprika. That's where the flavor lives—the smokiness, the depth. Regular paprika does almost nothing.
+
+Garlic powder and onion powder. Not fresh. Dried. They stay put in the rub instead of burning off.
+
+Oregano, thyme, salt, pepper, cayenne. The cayenne's the heat—not crazy hot, just a push in the back of your throat. Could add more. Some people do.
+
+Butter. Three tablespoons. It's the glue. Holds the spices on the chicken instead of letting them fall into the pan. Also makes the crust brown better than oil alone.
+
+Olive oil for the pan. Shimmering hot. That's when you know it's ready.
+
+Four boneless skinless chicken breasts. The easiest version. Could use wings. Could use bone-in. Takes longer but tastes meaner.
+
+## How to Make a Chicken Wing Rub That Actually Works
+
+Mix your dry spices in a small bowl first. Smoked paprika, oregano, garlic powder, onion powder, salt, pepper, cayenne, thyme. Stir it. Smells smoky already. That's the sign you got it right.
+
+Melt the butter. Forty seconds in the microwave. Watch it. You want it melted, not brown. Brown butter burns the spices before they even hit the pan.
+
+Pat your chicken dry. This matters more than people think. Wet chicken won't hold the rub. Won't get a real crust. Dry it like you're getting it ready for something important. Because you are.
+
+Dunk each breast in the warm butter. Work fast—butter cools and gets thick. Coat it evenly, all sides. Then press the spice mix into the chicken. Don't sprinkle. Press. This crust is everything.
+
+Heat a large skillet over medium-high. Cast iron if you have it. Stainless works. Non-stick will work but won't brown as well. You want the pan hot enough that a drop of water sizzles and disappears. Not smoking yet. Almost.
+
+Add olive oil to the hot pan. Wait until it shimmers. That specific shimmer means the oil is ready. Slip the chicken in carefully—it'll crackle. That crackle is good. That means the sear is happening.
+
+Cook four to six minutes per side. Don't move it. Don't poke it. Watch the crust develop. It'll go from tan to golden to dark brown to almost black spots. The darker it gets, the better it tastes. But don't flip early. The crust needs time to form and pull away from the pan. When you try to lift it and it doesn't stick, flip.
+
+## How to Get Crispy Chicken Skin—Even Without Skin
+
+The second side cooks the same way. Four to six minutes. Watch for that same dark crust. Listen for that sizzle to calm down a little—that's when the crust has set and won't stick.
+
+Once both sides have color, slide the skillet into a 405-degree oven. Only if it's ovenproof—cast iron is, stainless usually is, non-stick isn't. If you can't use the skillet, transfer the chicken to a baking dish.
+
+Let it go 16 to 22 minutes. The timer's not the point. Temperature is. Poke it with a probe. 165 degrees F inside and you're done. The juices should run clear. No pink. None.
+
+Pull it out. Let it sit five minutes on a plate. This isn't wasting time. This is where the juices redistribute into the meat instead of running out when you cut it. You'll see the difference when you slice it—the meat stays juicy, the crust stays crisp.
+
+## Chicken Dry Rub Tips and What Goes Wrong
+
+If the crust sticks to the pan, don't flip yet. It'll let go when it's ready. Forcing it means you rip the crust off and ruin the whole thing. Just wait.
+
+If the butter was hot enough, the spices go dark and bitter. Let it cool to warm. Not hot. Warm.
+
+The rub works better if you let it sit on the chicken for a minute or two before cooking. Gives the spices time to kind of stick to the butter. Haven't tested it scientifically but it feels better.
+
+You can make extra rub. Store it in a jar. Use it on pork, fish, even roasted vegetables. It doesn't go bad—just stays there. Works cold or room temperature. Keeps for months.
+
+The cayenne controls the heat. Use less if you hate spicy. Use more if you want it to bite. A quarter teaspoon more makes a real difference. A half teaspoon makes it actually hot.
+
+Some people brown the butter first for nuttiness. Skip it. The spices will burn. Keep it plain.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Dry Rub for Chicken
+
+**Can I use this rub on actual chicken wings?**
+Yeah. Wings take longer though—maybe 25 to 30 minutes in the oven, depends on size. The rub works the same way. Coat them in butter and spice, sear them, finish in the oven.
+
+**What if I don't have smoked paprika?**
+Regular paprika works. Won't taste as good. Not even close. Smoked paprika is the whole thing. Get some.
+
+**Can I make a big batch of this dry rub seasoning mix and use it later?**
+Totally. Mix the spices, store in a jar, use whenever. Just add butter right before you coat the chicken. The butter's what makes it stick.
+
+**How do I know if the chicken is actually done?**
+Probe thermometer. 165 degrees F inside. No pink. That's the rule. Don't rely on color or time. Every skillet is different. Every piece of chicken is a different thickness.
+
+**Does this buffalo chicken dry rub work on boneless thighs instead of breasts?**
+Better on thighs, honestly. More forgiving. Harder to dry out. Takes about the same time. Just might need an extra minute or two in the oven.
+
+**Can I use this hot wing spice rub in the air fryer?**
+Yes. 400 degrees, 12 to 15 minutes, shake the basket halfway. Won't get the same pan-sear crust but it still works. The rub still tastes good.
+
+**What's the best thing to serve this chicken with?**
+Nothing. It stands on its own. Or side of greens. Or grilled vegetables. Or rice. Doesn't matter. The chicken is the point here.
