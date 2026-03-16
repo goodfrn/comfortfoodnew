@@ -1,10 +1,10 @@
 ---
-title: "Rocket Chicken Spätzle"
+title: "Rocket Chicken Spätzle with Shiitake"
 slug: "rocket-chicken-spatzle"
-description: "Chicken thighs browned with shiitake mushrooms and shallots, simmered in broth. Cherry tomatoes swell, release juice. Arugula stirred in last minute, wilts bright green. Durum wheat spätzle cooked al dente, folded in with Parmesan. No butter, no cream needed. A rustic pasta dish with a peppery edge and umami depth. Quick midweek meal, no fuss. Variations add bell pepper or kale. Cooked patiently, don’t rush liquid reduction or chicken won’t caramelize. Watch spätzle closely, overcooking kills bite. Balance brothy with cheesy, leafy with meaty. A rebel’s take on a German classic with Mediterranean twist."
-metaDescription: "Rocket Chicken Spätzle with browned chicken, shiitake mushrooms, cherry tomatoes, and arugula tossed in broth and pecorino cheese. Rustic twist, bold flavors."
-ogDescription: "Browned chicken, shiitake mushrooms, cherry tomatoes, and peppery arugula tossed with spätzle and pecorino. Rustic, earthy, with sharp contrasts and rich textures."
-focusKeyphrase: "Rocket Chicken Spätzle"
+description: "Chicken thighs seared with shiitake mushrooms and cherry tomatoes, finished with peppery arugula and pecorino romano. A rustic pasta dish with umami depth and bright, fresh flavor."
+metaDescription: "Seared chicken spätzle with shiitake mushrooms, cherry tomatoes, and arugula. Quick rustic pasta with pecorino romano. Make it tonight."
+ogDescription: "Chicken thighs, shiitake mushrooms, cherry tomatoes, and fresh arugula meet spätzle pasta. Rustic, peppery, and packed with flavor."
+focusKeyphrase: "chicken spätzle with shiitake mushrooms"
 date: 2025-08-20
 draft: false
 image: rocket-chicken-spatzle.jpg
@@ -20,9 +20,15 @@ tags:
 - "italian"
 - "mushroom"
 keywords:
-- "spätzle"
-- "chicken thighs"
-- "pecorino romano"
+- "chicken spätzle with shiitake mushrooms"
+- "seared chicken with arugula"
+- "cherry tomato chicken pasta"
+- "chicken thighs mushroom broth"
+- "pan seared chicken mushroom spätzle"
+- "arugula chicken with cherry tomatoes"
+- "mushroom chicken"
+- "chicken pasta"
+- "spätzle with chicken and tomatoes"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"
@@ -63,3 +69,51 @@ faq:
 - "q: Can leftovers be stored? a: Refrigerate in airtight container. Best eaten within 2 days. Reheat gently in skillet with splash water to loosen sauce. Avoid microwave unless covered to keep moisture."
 
 ---
+
+Set the skillet hot. Medium-high. Chicken goes in first—spread it out, don't move it around. That's how you get the crust. Five minutes and it's already golden, and then the mushrooms hit the pan.
+
+## Why You'll Love This Chicken Pasta
+
+Takes 50 minutes total and tastes like you spent three hours on it. The chicken thighs stay actually juicy—not like breast meat, all dry and pointless. Mushrooms get deep and soft. Cherry tomatoes break down into this sauce that's kind of sweet, kind of sharp depending on how ripe they are. Arugula at the end keeps it from being too heavy. And the pecorino—it melts into the pasta and ties everything together. Works cold the next day, maybe even better then. Not complicated. Just hot pan, good timing, sharp cheese at the end.
+
+## Ingredients for Seared Chicken with Arugula and Mushroom Broth
+
+Chicken thighs. Two hundred grams, cut into chunks. Not breast—thighs don't dry out. Shiitake mushrooms, fresh, about two hundred grams sliced. They shrink. Plan for that. Shallot. One large one, minced. Garlic. Two cloves. Olive oil. Seventy mil. That sounds like a lot. It's not. Chicken broth. Four hundred mil. Cherry tomatoes, halved, four hundred fifty grams. Arugula. A bunch. Roughly chopped. Spätzle pasta—three hundred fifty grams. Use fresh if you can find it. Dried works. Just takes longer. Pecorino romano. Grated. One hundred fifty grams. That's a lot of cheese. Good.
+
+## How to Make Pan Seared Chicken Mushroom Spätzle
+
+Heat the oil till it shimmers. Seriously—wait for that shimmer. Toss in the chicken chunks spread them out across the bottom. Don't mess with them. Leave it alone for five minutes. You'll know when—the edges turn gold and when you peek, there's a crust. Now mushrooms hit the pan. Shallot. Garlic. Stir this part. Six, seven minutes. The mushrooms shrink down to maybe half their size and the shallots go soft and translucent. Smell it. That's when you know you're close. Sharp garlic aroma, not burnt—that matters.
+
+Pour in the broth. Gets loud. Vigorous boil. Then simmer. Just steady bubbling. Twelve minutes and the liquid should've dropped by half or so. Then cherry tomatoes go in. They start leaking juice immediately, edges curl up a bit, break down but stay whole—don't smash them. Seven minutes. That's enough.
+
+## How to Get Cherry Tomato Chicken Pasta Just Right
+
+After the tomatoes, the arugula goes in. One minute. Toss it fast. Leaves wilt but stay green. There should be sauce clinging to the chicken and coating the bottom—thick but not soup. Not drown-the-pasta thick. If it looks dry, add a bit more broth. Do that now, before the pasta joins.
+
+Spätzle needs salted boiling water. Large pot. Cook it till just shy of tender—that firm bounce when you bite. Fresh spätzle takes two, three minutes. Dried takes five, six. Depends on the brand. Drain it. Keep some of the cooking water—just a splash. Might need it.
+
+Transfer the pasta straight to the skillet. Off heat. Sprinkle the pecorino all over. Toss hard. The cheese melts slightly, coats everything, brings the sauce together. Salt. Fresh black pepper. Taste it. Adjust. Serve right away. That sharpness from the cheese balances the bitter greens and the sweet tomatoes. Everything works.
+
+If the spätzle clumped up or stuck, stir in the reserved water a little at a time. Keep texture loose. Never mushy.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chicken Pasta with Mushrooms
+
+**Can you use chicken breast instead of thighs?**
+Technically yes. It'll be drier. Thighs are better. They stay juicy even if you don't baby them.
+
+**What if you can't find fresh shiitakes?**
+Cremini. Portobello. Brown mushrooms work. Won't taste exactly the same but close enough. Don't bother with dried. Tastes like nothing.
+
+**How long does this keep in the fridge?**
+Three, four days. Reheats okay. Add a splash of broth when you warm it up. The pasta soaks it all back in.
+
+**Can you make this ahead?**
+Cook everything separate. Keep the chicken mixture in one container, the cooked spätzle in another. Toss them together when you're ready to eat. Cheese and arugula go in last.
+
+**What if the sauce breaks or looks greasy?**
+Pecorino can split if the pan's too hot when you add it. Keep the heat off. Just residual warmth. Toss fast. If it still breaks, add a splash of broth and stir slow. Brings it back usually.
+
+**Is there a substitute for arugula?**
+Spinach works. Basil works. Kale doesn't—too tough. Arugula gives you that peppery bite at the end that matters here.
