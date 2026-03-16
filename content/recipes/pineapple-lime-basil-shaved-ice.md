@@ -1,10 +1,10 @@
 ---
-title: "Pineapple Lime Basil Shaved Ice"
+title: "Pineapple Lime Shaved Ice with Vanilla Ice Cream"
 slug: "pineapple-lime-basil-shaved-ice"
-description: "A refreshing frozen dessert combining pineapple frozen and fresh components, blended with zesty lime and fragrant basil. Uses shaved frozen pineapple over vanilla ice cream with a twist of honey replacing sugar, and fresh mint instead of basil. Prepare by slicing and freezing pineapple wedges, macerating fresh slices with citrus and sweetener, then assembling with ice cream and grated frozen fruit. Focus on texture contrasts between shaved icy fruit and creamy ice cream. Aroma brightens with lime zest and fresh mint. Timing based on fruit softness and sugar dissolution rather than a clock. No eggs, gluten, or nuts."
-metaDescription: "Pineapple lime basil shaved ice with honey-sweet macerated slices and fluffy frozen fruit shavings over vanilla ice cream. Bright, crisp, layered textures in every bite."
-ogDescription: "Fluffy shaved pineapple ice with honey-macerated lime slices on vanilla ice cream. Fresh mint swaps basil for sharp aroma. Watch timing for mix of textures."
-focusKeyphrase: "pineapple lime basil shaved ice"
+description: "Refreshing pineapple lime shaved ice layered with creamy vanilla ice cream. Fresh pineapple, zesty lime, and honey create a light summer frozen dessert with perfect texture contrast."
+metaDescription: "Make pineapple lime shaved ice at home with fresh pineapple, lime zest, honey, and vanilla ice cream. A refreshing summer frozen dessert. Try it tonight."
+ogDescription: "Shaved frozen pineapple with lime zest, honey, and vanilla ice cream. Bright, refreshing, and naturally sweet."
+focusKeyphrase: "pineapple lime shaved ice"
 date: 2025-08-02
 draft: false
 image: pineapple-lime-basil-shaved-ice.jpg
@@ -20,9 +20,18 @@ tags:
 - "dessert"
 - "easy"
 keywords:
-- "pineapple shaved ice"
-- "macerated fruit dessert"
-- "frozen fruit shaved ice"
+- "pineapple lime shaved ice"
+- "shaved ice recipe"
+- "pineapple dessert"
+- "summer frozen dessert"
+- "easy pineapple dessert"
+- "pineapple lime honey shaved ice"
+- "shaved frozen pineapple"
+- "vanilla ice cream dessert"
+- "fresh pineapple recipe"
+- "frozen pineapple lime treat"
+- "homemade shaved ice"
+- "pineapple mint dessert"
 breadcrumb: ["Home", "Recipes", "Frozen Treats"]
 nutrition: 
  calories: "180"
@@ -60,3 +69,70 @@ faq:
 - "q: How do I store leftover shaved ice or macerated pineapple? a: Not recommended to store shaved ice more than very short time. Shavings melt fast lose texture. Macerated pineapple kept covered in fridge 1-2 days max. Drain excess juices before storing to keep pieces intact. Can freeze macerated slices but texture softens after thaw. Best prepared fresh same day. Ice cream leftovers refreeze fine if not melted."
 
 ---
+
+Peel it thick enough to skip the bitter parts. Slice lengthwise, wedge it out, freeze half. Meanwhile the other half goes soft in honey and lime—the whole thing takes 30 minutes of hands-on work, maybe, and then you just wait. Ice cream goes down first. Then the shaved frozen part. Then the macerated slices with their juice pooling around everything. It's stupid easy and looks like you tried.
+
+## Why You'll Love This Pineapple Dessert
+
+Takes 30 minutes total, mostly waiting. Summer dessert that actually feels cold, not heavy like ice cream alone.
+Shaved frozen pineapple with vanilla ice cream creates this texture thing—light and crunchy and melting all at once. Hard to explain.
+Works with store-bought ice cream. Doesn't need basil if you don't have it; mint works, lime does the real work anyway.
+Looks fancy. People think you spent hours. You didn't.
+No cooking involved. Just a freezer and a grater.
+
+## What You Need for This Easy Pineapple Dessert
+
+One large fresh pineapple—size matters here. Small ones are mealy. Pick one that's heavy for its size, smells sharp.
+Honey. A tablespoon or so. Agave works. Maple works too. Just something to pull juice from the fruit.
+Lime. One small one. Zest it first, keep the zest separate, then juice it. The zest hits harder than you'd think.
+Vanilla ice cream. Store-bought is fine. Homemade is fine. Doesn't matter as much as you think.
+Mint leaves, maybe. Finely chopped. Optional but it changes things—the peppery part wakes everything up. Basil would work too if you have it.
+
+## How to Make Shaved Frozen Pineapple with Vanilla Ice Cream
+
+Peel the pineapple. This is the part where people hesitate. Go thick—thicker than you think you should. You're avoiding the bitter layer under the skin, not scraping it perfectly smooth. Just get the outside off.
+Slice it in half lengthwise. Then slice each half into three wedges. Pull the core out—it's tough, skip it for now. Use a knife and just get it gone.
+Take three of those wedges. Put them in a freezer bag, flatten them as much as you can, squeeze air out. Freeze them until they're rock solid. At least four hours. This part you can't rush.
+
+While that happens, slice up the remaining three wedges. Thin—like 1/8 inch or so. Not paper thin, just thin enough they'll soften when the liquid hits them.
+Dump the slices in a bowl. Add the honey, the lime zest you saved, the lime juice. Mint if you're using it. Stir it gently—you're not mashing, just coating everything.
+Let it sit. 25 to 35 minutes. It's macerating now. The honey pulls juice from the fruit. The slices get softer. Halfway through, stir it again. That's it.
+Around minute 30, rub a slice between your fingers. Should feel sticky, not gritty. If it still feels grainy from the honey, give it five more minutes. If it's turning to mush, you waited too long.
+
+## How to Get the Texture Right—Shaving and Serving
+
+Pull the frozen wedges out. Use a microplane or a box grater—the coarse side. Shave the frozen pineapple directly over the ice cream. Don't press. Just let the grater do it. The fruit comes off light and fluffy like fresh snow.
+It should tumble down onto the ice cream naturally. If you're pressing hard and getting clumps, you're working too hard.
+Spoon the macerated pineapple on top and around. All that juice goes with it. Drizzle a tiny bit more lime juice on top right before serving. The zest too if you have extra.
+Serve immediately. The ice cream melts, the shaved ice melts, everything gets soft fast. That's kind of the point—catch it cold.
+
+## Pineapple Lime Shaved Ice Tips and Common Mistakes
+
+Don't skip the freezing step. Four hours minimum. You need it actually frozen, not just cold. Soft pineapple won't shave—it'll smash.
+Fresh lime matters. Dried lime is basically nothing. Fresh zest, fresh juice. That's where the brightness comes from.
+Over-macerating is real. Slices go from soft to mushy in about five minutes if you're not watching. You want them still intact, just tender.
+Mint is optional but not really. It adds something peppery that makes the pineapple taste sharper. Basil would do the same thing if you have it growing.
+If the pineapple is small or not very sweet, add a tiny pinch of salt to the maceration. Just salt. Sounds weird. Wakes up the fruit.
+No microplane? Use a fine box grater. Careful though—it'll be more uneven. Or pulse the frozen pineapple in a blender but you lose the texture control that way. Just grate it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Pineapple Lime Honey Shaved Ice
+
+**Can I make this dessert ahead of time?**
+No, not really. The shaved ice melts fast. The macerated pineapple gets mushier the longer it sits. Make it same day, do the components separately, assemble when you're eating.
+
+**What if I don't have a microplane?**
+Box grater works. Coarse side. Takes longer but it works. Just don't press—let gravity do it.
+
+**How long does the macerated pineapple last?**
+Maybe overnight in the fridge. After that it goes soft and kind of mushy. Not terrible but loses the texture. Freeze it if you want to save it, though it's different that way.
+
+**Can I use canned or frozen pineapple?**
+Not for the shaved part. It won't freeze right. For the macerated slices—maybe, but it's already soft so you lose that whole texture thing. Fresh pineapple is the point here.
+
+**Does the basil actually matter?**
+Mint works just fine. The basil would add something different—more herbal, peppery in a different way. But lime and mint is already good. Don't buy basil if you don't have it.
+
+**Should the ice cream be vanilla?**
+Vanilla's the safe play because it doesn't fight the fruit. Coconut would work. Cream would work. Something that's not aggressive. Not mint chocolate chip. Not strawberry. Something neutral.
