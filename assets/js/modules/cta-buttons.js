@@ -165,78 +165,39 @@ export function initCTAButtons() {
       }
     });
   }
-  // BOUTON IMPRIMER
-  const printButton = document.getElementById('printButton');
-  
-  if (printButton) {
-  
-    printButton.addEventListener('click', function(e) {
-      e.preventDefault();
-  
-      const selectors = [
-        'h1',
-        '.italic.leading-relaxed',
-        '.grid.grid-cols-2.gap-4.text-sm',
-        '#ingredients',
-        '#steps',
-        '.card.bg-slate-50.border'
-      ];
-  
-      let content = '';
-  
-      selectors.forEach(selector => {
-        const el = document.querySelector(selector);
-        if (el) {
-          content += el.outerHTML;
-        }
-      });
-  
-      const printWindow = window.open('', '', 'width=800,height=900');
-  
-      printWindow.document.write(`
-        <html>
-        <head>
-          <title>Print Recipe</title>
-          <style>
-            body{
-              font-family: Arial, sans-serif;
-              margin:40px;
-              line-height:1.6;
-              color:#111;
-            }
-  
-            h1{
-              font-size:26px;
-              margin-bottom:10px;
-            }
-  
-            h2{
-              font-size:20px;
-              margin-top:24px;
-            }
-  
-            ul,ol{
-              margin-left:20px;
-            }
-  
-            img, nav, aside, button{
-              display:none !important;
-            }
-          </style>
-        </head>
-        <body>
-          ${content}
-        </body>
-        </html>
-      `);
-  
-      printWindow.document.close();
-      printWindow.focus();
-      printWindow.print();
-      printWindow.close();
-  
-    }); 
-  }
+// BOUTON IMPRIMER
+const printButton = document.getElementById('printButton');
+
+if (printButton) {
+  printButton.addEventListener('click', function(e) {
+    e.preventDefault();
+
+    const card = document.getElementById('recipe-card');
+    if (!card) return;
+
+    const printWindow = window.open('', '', 'width=800,height=900');
+
+    printWindow.document.write(`
+      <html>
+      <head>
+        <title>Print Recipe</title>
+        <style>
+          * { box-sizing: border-box; }
+          body { margin: 0; padding: 0; font-family: Georgia, serif; }
+          .rc-actions, .rc-actions-bottom { display: none !important; }
+        </style>
+      </head>
+      <body>
+        ${card.innerHTML}
+      </body>
+      </html>
+    `);
+
+    printWindow.document.close();
+    printWindow.focus();
+    printWindow.print();
+    printWindow.close();
+  });
 }
 
 // Fonction pour afficher les notifications toast
