@@ -1,10 +1,10 @@
 ---
-title: "Tangy Bean Yogurt Salad"
+title: "Gyro Sauce Recipe with Chickpeas"
 slug: "tangy-bean-yogurt-salad"
-description: "A chilled blend of kidney beans, chickpeas, celery and scallions tossed in a tangy herbed yogurt dressing with bright lemon zest and a hint of sweetness. A refreshing change from usual bean salads; creamy, crisp, and herbaceous. Runs well as a side or light lunch. Beans must be rinsed well then thoroughly dried to avoid watery mess. Yogurt base gets punchy with apple cider vinegar and fresh lemon oils, balanced by subtle sugar and fresh parsley for brightness. Chill long enough for flavors to marry but toss again before serving to wake it up."
-metaDescription: "Tangy Bean Yogurt Salad mixed with kidney beans, chickpeas, scallions, celery. Vibrant tangy dressing, lemon zest brightens creamy yogurt base. Chill then toss."
-ogDescription: "Beans rinsed, dried, mixed with herbed yogurt dressing, sharp lemon zest, apple cider vinegar tang. Chill well. Crunchy celery, scallions add bite. Serve cold or slightly warmed."
-focusKeyphrase: "bean yogurt salad"
+description: "Gyro sauce recipe made with chickpeas, kidney beans, Greek yogurt, and fresh parsley. Tangy apple cider vinegar dressing with lemon zest creates a refreshing bean salad perfect for any meal."
+metaDescription: "Gyro sauce recipe using chickpeas, kidney beans, and Greek yogurt with apple cider vinegar. Fresh parsley and lemon zest make this bean salad unforgettable. Try it tonight."
+ogDescription: "Creamy gyro sauce with chickpeas and kidney beans tossed in Greek yogurt, apple cider vinegar, and fresh parsley. Bright, herbaceous, and delicious."
+focusKeyphrase: "gyro sauce recipe"
 date: 2026-01-09
 draft: false
 image: tangy-bean-yogurt-salad.jpg
@@ -21,9 +21,18 @@ tags:
 - "lemon"
 - "side dish"
 keywords:
+- "gyro sauce recipe"
+- "chickpea salad recipe"
 - "bean salad"
-- "yogurt dressing"
-- "kidney beans"
+- "greek yogurt dressing"
+- "chickpea salad"
+- "garbanzo bean salad"
+- "homemade gyro sauce"
+- "mediterranean chickpea salad"
+- "bean and chickpea salad"
+- "greek yogurt salad dressing"
+- "tzatziki dressing recipe"
+- "three bean salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "150"
@@ -66,3 +75,91 @@ faq:
 - "q: How long can leftovers keep? a: Covered in fridge 1 day max recommended. Salad starts to slimy after 24 hrs, herb flavor dulls. Can leave at room temp 15-20 mins before serving to open flavors. Avoid more than 30 mins out; yogurt thins, salad wilts. Freeze not advised; yogurt texture wrecked."
 
 ---
+
+Kidney beans, chickpeas, fresh herbs, lemon. That's the base. Greek yogurt does the heavy lifting in the dressing — makes it creamy without being heavy. Apple cider vinegar brings the tang you actually want in a gyro sauce, not some weak vinegar that disappears after five minutes.
+
+## Why You'll Love This Chickpea Salad Recipe
+
+Takes 12 minutes to throw together. Seriously. No cooking. Just chop and mix.
+Works cold straight from the fridge or sit it out 20 minutes and it's still good. Better, even.
+Healthy protein without tasting like you're eating healthy. The beans stay intact, not mushy. Celery snaps when you bite it.
+Side dish that actually holds up. Doesn't wilt. Doesn't get soggy if you make it ahead — gets better.
+Lemon zest instead of lemon juice alone. Changes everything. Brighter. More complex than you'd think for something this simple.
+
+## What You Need for a Chickpea Salad
+
+Kidney beans and chickpeas. Both canned. Rinse them, pat them completely dry — that matters. Wet beans get soggy fast and the whole salad suffers. Use a kitchen towel or a salad spinner if you have one.
+
+Greek yogurt. Not sour cream. Not mayo. The yogurt holds everything without weighing it down. If you're doing dairy-free, coconut or cashew yogurt works, but thick ones. Thin ones fall apart.
+
+Apple cider vinegar. It's sharper than white vinegar but not aggressive. You could use lemon juice instead — honestly might be better if you have fresh lemons. White wine vinegar works too, just different vibe.
+
+Lemon zest. A full teaspoon. Not juice. The zest gives you that brightness without extra liquid that makes things soggy.
+
+Scallions and celery. Thinly sliced and diced small. They're the crunch. They're what makes this not just beans in yogurt. Fresh flat-leaf parsley. A third of a cup. Chopped. Dried doesn't cut it here.
+
+Sugar. Three quarters of a teaspoon. Not much. Just rounds out the sharpness. Honey or maple syrup work if that's what you have.
+
+Salt and pepper. Taste it before you call it done.
+
+## How to Make Greek Gyro Sauce
+
+Wash and drain the beans. Both cans. Then pat them dry with a towel. Press them gently. Get the moisture off. This is the single thing that keeps them from turning into mush by hour two.
+
+Get a medium bowl. Whisk together the Greek yogurt, apple cider vinegar, lemon zest, sugar, most of the parsley, salt, and pepper. This is your base. The dressing. It should taste bright and creamy at the same time. Not too thick. Not too thin. Like something you'd want to eat on its own.
+
+Stir in the beans and chickpeas. Scallions next. Celery last. Stir gently. You're not trying to break them. Leave them whole. That's where the texture lives.
+
+Cover it. Put it in the fridge. This is important.
+
+## How to Get This Chickpea Salad Dressing Right
+
+Refrigerate between 55 minutes to an hour minimum. Longer is fine — up to 22 to 24 hours, actually. After that it starts to get weird. The beans soften more than you want. But the flavors need time. They don't meld at room temperature. The dressing soaks in. The tang spreads. The lemon gets brighter somehow.
+
+Before you eat it, toss it hard. Redistribute everything. The dressing settles on the bottom. The fresher it looks, the better it tastes.
+
+Cold is how it's meant to be eaten. But if it sits out 15, 20 minutes before you eat it, that's fine. The celery stays crunchy. The scallions still snap. It opens up a little. Less cold = more flavor, but less crunch. Pick your moment.
+
+If you're in a rush, 45 minutes works. Not ideal. The flavors haven't settled yet. They'll taste separate instead of together. But it's edible. Longer than 24 hours and the texture starts to go soft. The whole thing gets slimy. Don't do that.
+
+## Chickpea Salad Tips and Common Mistakes
+
+Pat the beans dry. Seriously. The number one way this falls apart is wet beans. They leach water into the dressing. Everything gets sloppy. Takes an extra 30 seconds and saves the whole dish.
+
+Don't mash anything. Mix, don't fold. You want the beans to stay distinct. That's the whole point. The contrast between the soft inside and what holds its shape.
+
+Taste before you refrigerate. The flavors will come together and settle as it sits, but salt doesn't change. If it needs salt, add it now. If it needs more lemon, add it now. You can't take it out later.
+
+For a dairy-free chickpea salad recipe, use thick coconut or cashew yogurt. Thin ones break down when they sit. Same amount. Works the same way.
+
+Cilantro or basil instead of parsley changes the whole thing. Dramatically. Not bad, just different. It becomes a different salad. Keep that in mind.
+
+You can drop the sugar completely if you want it sharper and more savory. Some people prefer that. The dressing tastes brighter without the round edges.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Greek Gyro Sauce
+
+**Can I make this ahead?**
+Yeah. Up to 24 hours. It gets better as it sits. The flavors settle. After that the texture goes off. The beans soften too much and the whole thing gets mushy.
+
+**What's the difference between this and tzatziki dressing recipe?**
+Tzatziki is yogurt, dill, cucumber. This is a bean salad with yogurt dressing. Different thing entirely. This one has texture from the beans and celery. Tzatziki is smooth. Use tzatziki if you want something for pita or lamb. Use this if you want an actual salad.
+
+**Can I use canned chickpeas that aren't drained?**
+No. Drain and dry them. The liquid makes everything soggy. It's the whole reason you need the towel.
+
+**Does this work as a side dish for gyros?**
+Yeah, it works. It's not traditional, but it's lighter than tzatziki and it holds better. Doesn't drip. Doesn't break. Works cold. People don't complain.
+
+**What if I don't have lemon zest?**
+Use lemon juice instead. Not the same — it adds liquid, which makes things wetter — but it still tastes good. Just reduce it to a teaspoon so you don't water it down too much.
+
+**How long is a bean salad with black beans and kidney beans good for?**
+24 hours max. Three bean salad, green bean salad, any of these hold longer because there's less yogurt involved. This one has enough dressing that it breaks down after a day. The yogurt gets thin. The beans get softer than they should be.
+
+**Can I use white vinegar instead of apple cider vinegar?**
+White vinegar is sharper. It tastes meaner. Apple cider vinegar is rounder. But yeah, white works. Same amount. Just know it's going to taste more aggressive.
+
+**What if I use dried beans instead of canned?**
+Then you're not making this recipe. You're cooking dried beans first. Which takes hours. The whole point of this is 12 minutes, no cooking. Stick with canned.
