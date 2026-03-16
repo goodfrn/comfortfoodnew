@@ -1,10 +1,10 @@
 ---
-title: "Warm Apple Rosemary Butter Mocktail"
+title: "Hot Apple Cider with Cinnamon & Rosemary"
 slug: "warm-apple-rosemary-butter"
-description: "A cozy blend of simmered apple juice with fresh rosemary and a pat of rich butter. Citrus from a lemon twist cuts through, while a dash of cinnamon powder adds warmth. Ideal for chilly evenings. No alcohol, perfect replacement for mulled drinks. Uses fresh herbs for aroma, butter to round out sharp edges. Adjust sweetness to taste or swap apple juice for pear for a twist. Cozy, comforting, with layered flavors that evolve as it cools. Visual cues and aromas guide doneness. A simple, rustic warm mocktail to sip slow."
-metaDescription: "Warm Apple Rosemary Butter Mocktail brings simmered apple cider with fresh rosemary, cinnamon, and butter for rich layered flavor. Citrus brightness from lemon twist."
-ogDescription: "Simmer apple cider with rosemary and butter for a cozy warm mocktail. Cinnamon and lemon bring layers of warmth. No alcohol, slowly evolving taste and aroma."
-focusKeyphrase: "Warm Apple Rosemary Butter Mocktail"
+description: "Hot apple cider recipe simmered with fresh rosemary, cinnamon, ginger, and a touch of butter. Naturally sweetened with honey, topped with lemon zest. A comforting mocktail."
+metaDescription: "Hot apple cider made with fresh apple juice, rosemary, cinnamon, ginger, and butter. Warm, spiced, and perfect for cozy nights. Try it tonight."
+ogDescription: "Warm spiced apple cider with fresh rosemary, cinnamon, ginger, butter, and honey. Cozy comfort in a mug."
+focusKeyphrase: "hot apple cider"
 date: 2025-09-23
 draft: false
 image: warm-apple-rosemary-butter.jpg
@@ -21,9 +21,17 @@ tags:
 - "lemon"
 - "comfort food"
 keywords:
-- "apple cider"
-- "rosemary"
-- "cinnamon powder"
+- "hot apple cider"
+- "warm apple cider"
+- "hot spiced apple cider"
+- "apple cider mocktail"
+- "cinnamon apple cider drink"
+- "hot mulled cider"
+- "spiced warm cider"
+- "apple cider cinnamon drink"
+- "hot cider drink"
+- "apple cider with rosemary"
+- "warm spiced cider"
 breadcrumb: ["Home", "Recipes", "Non-Alcoholic Cocktails"]
 nutrition: 
  calories: "120"
@@ -66,3 +74,83 @@ faq:
 - "q: How to store leftovers? a: Seal in airtight container, refrigerate for up to 2 days. Reheat gently over low heat, avoid microwave for best aroma retention. Butter layer may dissipate but flavor intact. Can strain before storage if prefer clearer drink. Stir well before serving, spice settles at bottom sometimes."
 
 ---
+
+Pour the cider in. Bruise the rosemary. Listen for it to steam before it actually boils—that's the move. Twenty-two minutes start to finish, and most of that is you standing there smelling how good it gets.
+
+## Why You'll Love This Hot Apple Cider Drink
+
+Tastes like comfort in a mug. The kind of drink that makes your hands warm before the first sip even lands.
+
+Cinnamon and ginger do the work here—no fancy equipment, no techniques. Just a pot and ten minutes of attention.
+
+Works when everything else tastes like nothing. Cold day, bad week, mid-morning slump. Hot cider drink hits different than coffee.
+
+Butter melts on top. Makes it feel expensive. Costs almost nothing.
+
+You can make it three times before lunch if people keep asking. Scales easy. Leftovers heat up in thirty seconds.
+
+## What You Need for Hot Apple Cider
+
+Four cups of cider. Fresh stuff works better than the bottled kind that's been sitting. Not the spiced version—you're doing that part.
+
+Rosemary sprig. Bruise it between your fingers first. That breaks the oils open. Makes the whole thing smell different.
+
+Ground cinnamon. A teaspoon. More if you're into it. Cinnamon stick works too but it sits there looking at you—powder gets into everything faster.
+
+Fresh ginger. Thin slice. Just one. It's stronger than you think. Skip it if ginger's not your thing. The drink works.
+
+Lemon slice plus the zest for after. Zest does most of the work. The slice is just there floating around, getting soft.
+
+Butter—two teaspoons, unsalted. Goes in at the end. Melts into a thin layer on top. Sweet and rich without tasting like butter.
+
+Honey or maple syrup. A tablespoon, maybe less. Adjust it as you go. Honey makes it warmer. Maple makes it taste like fall.
+
+Nutmeg optional. A pinch. Adds something but it's not necessary.
+
+## How to Make Hot Apple Cider Drink
+
+Pour the cider into a small pot. Nothing fancy—a regular pot works. Add the rosemary sprig you already bruised, the ginger slice, the cinnamon, and the lemon slice. Just drop them in.
+
+Turn the heat to medium. Don't crank it. You're listening for gentle bubbling, not a rolling boil. The aromas start blooming around five minutes in. Seriously—your kitchen changes. Stir once or twice while it's warming. Not constantly. Just a couple times.
+
+## How to Get the Flavor Right in Hot Cider
+
+This is where it matters. When the liquid's starting to warm, add the honey or maple syrup. Add it slow. Taste as you go. You can always add more sweetness. You can't take it out.
+
+Let it keep heating. Watch for the rosemary to darken a little bit. The lemon peel edges curl up slightly—that's your signal it's been in there long enough. Five to seven more minutes. That's it.
+
+Butter goes in last. After you pull it off the heat. Watch it melt and coat the surface like a soft glaze. It changes everything. Don't skip it.
+
+## Hot Cider Tips and What Actually Goes Wrong
+
+Fish out the rosemary sprig and lemon slice before you serve it, unless you like rustic bits floating around. Some people do. Most don't.
+
+If the lemon got bitter—overcooked, or you left it in too long—add a fresh slice of apple or more sweetener to fix it. Rebalances fast.
+
+The spices mute when it cools. Drink it warm. If it sits and gets cold, reheat gently on the stove. Microwave works but it's never as good.
+
+Want less bite? Skip the ginger. Want it mellower? Use pear juice instead of apple cider. Half and half works too.
+
+Fine mesh sieve makes it clear if that matters to you. If you don't have one, the bits add rustic charm. That's not me being nice—they actually taste good.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Hot Apple Cider Drink
+
+**Can you make this ahead?**
+Not really. It's better hot and fresh. You can heat the cider with spices, let it cool, then reheat gently before serving. Tastes almost as good. Almost.
+
+**What if you want to add alcohol?**
+Fireball whiskey or spiced rum work. Add after heat's off—alcohol burns off if you keep it hot. A shot or two per mug. Changes the whole thing but in a good way.
+
+**Does apple cider vinegar work instead of regular cider?**
+Different drink entirely. Apple cider vinegar is sharper, tangier. Works if you want that—add less of it and dilute with water or regular juice. Not the same comfort thing though.
+
+**How long does it stay hot?**
+Twenty minutes in a regular mug. Thirty in an insulated one. After that it's just warm. That's when you reheat.
+
+**Can you make a big batch for a group?**
+Double or triple it easy. Keep it on low heat. Flavors get stronger the longer it sits, so watch it. Stir gently. Tastes better fresh but stays drinkable for a couple hours.
+
+**What's the difference between honey and maple syrup?**
+Honey tastes warmer, rounder. Maple syrup tastes like fall. Both work. Pick whatever's in your cabinet.
