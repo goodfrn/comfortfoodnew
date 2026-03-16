@@ -1,10 +1,10 @@
 ---
-title: "Spiced Pork Chili Pot Pie"
+title: "Chili Verde Recipe with Ground Pork"
 slug: "spiced-pork-chili-pie"
-description: "Savory pork chili loaded with veggies simmered with spices, topped with cheesy tortillas creating a crispy crust. Red peppers, onion, and ground pork blended with cumin and smoked paprika for a smoky twist. Baked with melted cheese sealed in wheat tortillas. Hearty and warming, with a bit of sweet corn and tomato base. Rinsed kidney beans add texture and protein. Quick-prep dish, midweek comfort. Lean pork and simple pantry spices. Totally removable crust from traditional pie. Slightly altered cooking to tweak flavor and texture balance."
-metaDescription: "Spiced Pork Chili Pot Pie with smoky chipotle, lean pork, veggies, cheesy tortilla crust. Hearty chili baked and crisped for 6 servings comfort meal."
-ogDescription: "Smoky spiced pork chili topped with folded cheddar tortillas. Crispy crust seals in hearty chili, veggies, beans, corn. Easy midweek comfort baked dish."
-focusKeyphrase: "Spiced Pork Chili Pot Pie"
+description: "Make chili verde with ground pork, red bell peppers, and kidney beans simmered in chipotle sauce. Topped with cheddar cheese and wheat tortillas for a comforting casserole."
+metaDescription: "Chili verde recipe featuring lean ground pork, diced red peppers, kidney beans, and smoky chipotle sauce. Baked with cheddar cheese and tortillas. Try it tonight."
+ogDescription: "Ground pork chili verde with red peppers, kidney beans, and chipotle sauce baked under a cheesy tortilla crust."
+focusKeyphrase: "chili verde recipe"
 date: 2025-07-26
 draft: false
 image: spiced-pork-chili-pie.jpg
@@ -21,9 +21,18 @@ tags:
 - "one pot"
 - "comfort food"
 keywords:
-- "pork chili"
-- "pot pie"
-- "chipotle sauce"
+- "chili verde recipe"
+- "chile verde recipe"
+- "chili pork verde"
+- "green chile pork recipe"
+- "taco casserole with tortillas"
+- "tortilla casserole"
+- "pork chili recipes"
+- "mexican casserole tortilla"
+- "ground pork casserole"
+- "chipotle pork chili"
+- "baked tortilla casserole"
+- "kidney bean chili"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "370"
@@ -80,3 +89,96 @@ faq:
 - "q: How to store leftovers? a: Cover ramekins tightly with foil or plastic wrap. Refrigerate up to 3 days. Can freeze but tortillas soften. Reheat in oven for crisp. Microwave for speed but loses crispness. Adjust reheating time as needed."
 
 ---
+
+Spoon the chili into ramekins, lay a tortilla crust on top, and you've got something that tastes like it took all day but didn't. One pot. One pan in the oven. Done in an hour.
+
+## Why You'll Love This Chili Verde Pork Recipe
+
+Comes together fast — 20 minutes of prep, then you're mostly waiting. Actual hands-on cooking time is maybe 15 minutes total.
+
+One pot for the pork with green chiles and spices, one baking sheet for the tortillas. Cleanup isn't nothing, but it's minimal compared to what you're getting.
+
+Tastes better the next day. Not sure why. Just does.
+
+Works for a crowd or just yourself. Scales down easy. The ramekins are honestly just a nice vessel — you could pour it in a bowl instead if you wanted.
+
+## What You Need for Green Chile Pork Verde
+
+Red bell peppers. Two and a half. Seeded, diced. Not green. Red ones have more sugar, less bite.
+
+Lean ground pork. 480 grams. Whatever ground pork is at your store works. Doesn't have to be fancy.
+
+One medium onion chopped fine. Yellow or white. Doesn't matter much.
+
+Oil for the pan. 25 milliliters. One and a half tablespoons. Vegetable oil. Olive oil burns too fast over medium-high heat.
+
+Chili seasoning and cumin — that's 20 milliliters of seasoning mix and 5 milliliters of ground cumin. You could make your own spice blend instead. Probably tastes better. I don't bother.
+
+Diced tomatoes from a can. 796 milliliters. Kidney beans, drained and rinsed. 540 milliliters. Frozen corn. 100 grams. Smoky chipotle sauce. 50 milliliters. Just that much.
+
+For the crust: milk, olive oil, six tortillas, and cheddar cheese sliced. 150 milliliters milk, 35 milliliters olive oil, six 8-inch wheat tortillas, 180 grams cheese. The tortillas matter — flimsy ones tear when you dip them. Thicker ones work.
+
+## How to Make Chile Verde Pork Recipe
+
+Oven to 195 Celsius. Middle rack. That's the setup.
+
+Heat oil in a large pot over medium-high. Add the bell peppers and onion. You're looking for them to soften, to go from firm to kind of yielding when you stir them. About 6 minutes. Don't rush this — the vegetables should start picking up color at the edges.
+
+Ground pork goes in next. Break it apart as it hits the oil. Stir constantly. You want it to crumble, not clump together in one mass. Takes about 8 minutes. When it's mostly brown but not fully, move to the next step — it'll keep cooking.
+
+Stir in the chili seasoning and cumin. Just two minutes. The spices should bloom a little, release their smell. You'll know when it's right.
+
+Pour everything else in — tomatoes, beans, corn, chipotle sauce. Stir it once. Reduce heat to low. Simmer uncovered for around 20 minutes. The sauce thickens, gets darker, starts to smell like it's actually been simmering. Taste it now. Salt and pepper. Adjust.
+
+## How to Get the Tortilla Crust Crispy on Green Chile and Pork
+
+Spoon the chili into six ramekins evenly. Two-thirds full or so. Arrange them on a baking sheet.
+
+Mix milk and olive oil in a shallow dish. Just whisk them together. Nothing fancy.
+
+Dip each tortilla into that milk mixture fast. Not a soak. A dip. One second in, out. They should be moist but not falling apart.
+
+Lay cheese on one half of each tortilla — not too thin, not heaping. Fold it in half. Press gently so the cheese doesn't slide out. It will anyway sometimes. That's fine.
+
+Set the folded tortilla on top of each ramekin of chili. Press down a little. You want contact between the tortilla and the chili, not just sitting on top.
+
+Bake for 18 minutes. The tortillas go golden and crispy at the edges. The cheese melts through. You'll see it browning.
+
+Pull everything out. Let it sit for 5 minutes. The ramekins stay hot for a while — careful when you pick them up.
+
+## Chile Verde Pork Recipe Tips and Common Mistakes
+
+Don't skip the dipping step with the milk and oil. Sounds weird. It keeps the tortillas from drying out too much in the oven while they still crisp up. They end up with this weird texture that actually works — crispy outside, chewy inside.
+
+The chili simmering for 20 minutes matters. That's when the flavors settle. Everything melds. You can go longer if you want — 25, 30 minutes. The sauce just gets thicker and darker. Nothing wrong with that.
+
+Chipotle sauce is the thing here. Don't use regular hot sauce instead. Wrong heat profile. Too vinegary. The chipotle adds smoke, which makes it taste like someone actually worked on this.
+
+Frozen corn is fine. Fresh would be better in summer. Canned works too. Just drain it first.
+
+If the tortillas tear while you're dipping them — and they will sometimes — just keep going. Use it anyway. The chili holds it together in the oven.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chili Verde Pork Recipe
+
+**Can I use ground beef instead of pork for this chili pork recipe?**
+Yeah. Ground beef works. Tastes a bit heavier. Brown it the same way. Don't overcrowd the pan or it steams instead of browning.
+
+**How long does the chile verde pork recipe keep in the fridge?**
+Three days easy. Maybe four. The tortilla gets soft but the chili tastes better on day two, so it balances out. Reheat in the oven at 160 Celsius until it's warm through.
+
+**Can I make this taco casserole without the tortilla crust?**
+Just eat the pork with green chiles as a chili. Works cold, works hot, works on rice, works on toast. The tortilla crust is nice but not required.
+
+**What if I don't have chipotle sauce?**
+You need the smoke somehow. Smoked paprika works — use about 2 milliliters. Or just skip it and add more regular hot sauce. It'll be different but not bad.
+
+**Can I use a casserole dish instead of ramekins?**
+Sure. Spread the chili in a 9-by-13 baking dish. Use six tortillas cut to fit, or overlap them. Same 18 minutes in the oven. Just watch the edges — they brown faster in a wide dish.
+
+**Can I prep this ahead and bake it later?**
+Make the chili the day before. Keep it in the fridge. Assemble the whole thing the morning you want to bake it, cover it, and bake when ready. Add a few minutes to the time if it's cold from the fridge — maybe 20 or 22 minutes instead of 18.
+
+**Do I have to use kidney beans?**
+Black beans work. Pinto beans work. Black beans make it taste a bit earthier. Doesn't matter much.
