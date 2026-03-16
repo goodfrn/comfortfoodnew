@@ -1,10 +1,10 @@
 ---
-title: "Roasted Veggie Soup Twist"
+title: "Roasted Veggie Soup with Chickpeas & Thyme"
 slug: "roasted-veggie-soup"
-description: "A vibrant, hearty soup with roasted peppers, carrots, and leeks swapping in onions and yellow peppers changed to red. Cannellini beans replaced by chickpeas, tomatoes swapped with fire-roasted diced tomatoes. Olive oil reduced slightly. Oven roasting now 18 minutes for slight char. Soup simmers 7 minutes. Added thyme for earthiness. Served with crusty rye bread, toasted. Layers of savory, sweet, slightly smoky flavors. Veggies tender but hold shape. Protein-packed beans swapped. Overall balanced, simple pantry staples transformed. Sensory from roasting develops depth. Quick to prep, even quicker to devour. Gluten, dairy, nuts, eggs all excluded, clean label, plant-forward. Warm, nutritious. Easy weeknight or weekend weekend. Bold colors, fresh herbs. Comfort in a bowl."
-metaDescription: "Roasted Veggie Soup Twist features vibrant veggies, smoky flavors. Quick to prepare. Comforting, nutritious, and packed with wholesome goodness."
-ogDescription: "Roasted Veggie Soup Twist offers hearty flavors, simple ingredients. Cozy up with this plant-forward dish filled with roasted goodness."
-focusKeyphrase: "Roasted Veggie Soup"
+description: "Roasted veggie soup loaded with red peppers, carrots, leeks, and fire-roasted tomatoes. Chickpeas add protein; thyme brings earthy depth. Simple, satisfying comfort."
+metaDescription: "Roasted veggie soup recipe with red peppers, carrots, chickpeas, and fire-roasted tomatoes. Hearty, plant-forward, ready in minutes. Make it tonight."
+ogDescription: "Vibrant roasted veggie soup with red peppers, carrots, leeks, chickpeas, and fire-roasted tomatoes. Earthy thyme. Served with toasted rye bread."
+focusKeyphrase: "roasted vegetable soup"
 date: 2025-07-18
 draft: false
 image: roasted-veggie-soup.jpg
@@ -21,9 +21,16 @@ tags:
 - "healthy"
 - "easy dinner"
 keywords:
-- "soup recipe"
-- "veggie soup"
-- "cold weather recipe"
+- "roasted vegetable soup"
+- "chickpea soup"
+- "roasted red pepper soup"
+- "vegetable soup recipe"
+- "healthy vegetable soup"
+- "roasted carrot soup"
+- "fire-roasted tomato soup"
+- "vegetarian soup"
+- "hearty vegetable soup"
+- "thyme soup recipe"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "220"
@@ -65,3 +72,57 @@ faq:
 - "q: Can I make this soup spicy? a: Sure, add red pepper flakes. Or diced jalapeños. Start small. Increase as you go. Test the heat before serving."
 
 ---
+
+Preheat to 425. Sheet pan goes first. Everything else happens in one pot after.
+
+## Why You'll Love This Roasted Vegetable Soup
+
+Takes 40 minutes total. Literally 10 minutes of actual work. The roasted red peppers and carrots do something sweet that store-bought never gets. Chickpeas make it stick to your ribs without feeling heavy. Cold night thing. Hot bowl thing. Works either way. And you get actual char on the vegetables — not just boiled mush in broth. Thyme ties it all together, but you'd barely know it's there. The kind of soup that tastes like it took way longer than it did.
+
+## What You Need for Roasted Vegetable Soup
+
+Red bell peppers. Not yellow, not orange. Red ones get sweeter when they roast. Two carrots sliced into half moons — thinner than you think, actually. One leek cleaned really well because dirt hides in there. Olive oil. 1.5 tablespoons. That's enough. Chicken or vegetable broth, four cups. Fire-roasted diced tomatoes from a can — the roasting part matters, don't sub regular. One can of chickpeas rinsed and drained. Fresh thyme leaves. A teaspoon. Not dried. Dried tastes like nothing. Salt. Black pepper. Rye bread sliced and toasted on the side — it's not optional.
+
+## How to Make Roasted Vegetable Soup
+
+Heat the oven to 425. Line a baking sheet with parchment, doesn't have to be perfect. Toss the peppers and carrots and leek with olive oil and salt and pepper right on the sheet. Spread them out so they're mostly in one layer. Roast for 18 minutes. Stir it halfway through — at nine minutes, give or take. You're looking for soft spots and some brown edges. Some actual color.
+
+While that goes, throw the broth and fire-roasted tomatoes and chickpeas and thyme in a pot. Don't heat it yet. Just sitting there. When the vegetables come out, dump them straight in. Bring the whole thing to a gentle boil. Not aggressive. Just warm enough that it's moving. Simmer for seven minutes. That's it. The vegetables already cooked. This is just marrying flavors.
+
+## How to Get the Best Roasted Vegetable Soup Texture
+
+The char matters. If your vegetables come out pale, the oven wasn't hot enough or you didn't space them right. Crowded pan equals steamed, not roasted. Don't do that. Also, don't skip stirring halfway. One side burns, the other side stays soft. Stir once. That's all.
+
+The soup itself should be brothy, not thick. If you want it thicker, blend half of it — puree some of the vegetables and broth together, stir it back in. Makes it creamy without cream. Or leave it as is. Chunks are good. The chickpeas hold their shape if you don't overcook, and they shouldn't. Seven minutes on the simmer. Not more.
+
+## Roasted Vegetable Soup Tips and Common Mistakes
+
+Don't peel the carrots if your carrots are young. The skin holds flavor. Also, leeks need actual attention — slice them lengthwise, fan them open, rinse between the layers. Dirt everywhere in there.
+
+Fresh thyme. This matters more than you'd think. Dried thyme tastes like yard clippings. One teaspoon of fresh is plenty. Break it off the stem into the pot. The stem parts are fine, they soften up.
+
+The rye bread isn't garnish. It's part of it. Toast it until it's crunchy, like actually crunchy. Dip it. Let it get soggy. That's the whole thing. White bread is boring. Sourdough works. Pumpernickel works. Rye is best though.
+
+Taste it before serving. Salt it now if it needs it. Black pepper too. The fire-roasted tomatoes already have salt, the broth has salt, so you might not need much. Might. Depends on your broth.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Vegetable Soup
+
+**Can you make this roasted vegetable soup ahead of time?**
+Yeah. Make it the day before. Flavors get better. Reheat gently. Don't boil it. Cold is fine too — tastes different but good.
+
+**What if you don't have fresh thyme?**
+Don't use dried. Seriously. Use nothing instead. Or use fresh basil. Or parsley. Thyme is specific though.
+
+**Can you swap the chickpeas for something else in this hearty roasted soup?**
+White beans work. Lentils would be weird. Chickpeas are the right texture here.
+
+**Should you peel the vegetables before roasting them?**
+Carrots, no. Leeks, yes — mostly. Peel the outer layer and the root. Peppers, no. The skin chars and adds something.
+
+**How long does leftover roasted red pepper chickpea soup keep?**
+Four days in the fridge. Freezes okay for like two months. Thaw it in the pot, reheat slow.
+
+**Can you make this in a slow cooker?**
+Skip the roasting. Just put everything raw in there and go four hours on low. Tastes different. Less char. Softer vegetables. Not terrible, just not the same thing.
