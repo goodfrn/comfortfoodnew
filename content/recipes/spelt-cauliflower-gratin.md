@@ -1,10 +1,10 @@
 ---
-title: "Spelt Cauliflower Gratin"
+title: "Cauliflower Gratin with Spelt Grains"
 slug: "spelt-cauliflower-gratin"
-description: "Cauliflower gratin with spelt grains, creamy béchamel spiked with nutmeg and cayenne. Sautéed onions and garlic build the base. White wine and broth deepen flavors. Gruyère and Parmesan cheese create a golden crust. A cozy vegetarian main, adaptable to what’s on hand. Substitutions suggested for dairy and wine. Techniques for perfect spelt texture and tender-crisp cauliflower. Timing cues based on sight and smell more than clocks. Make ahead option included. Rich but not heavy, with a touch of heat and aromatic notes. A rustic, layered casserole to savor slowly."
-metaDescription: "Spelt cauliflower gratin with nutty grains, tender-crisp florets, creamy béchamel spiced with smoked paprika. Layered, baked, golden crust, rustic French style."
-ogDescription: "Chewy spelt, just-tender cauliflower, creamy béchamel spiked with nutmeg and smoked paprika. Golden crust with Gruyère and Parmesan. Rustic, textured, slow savor."
-focusKeyphrase: "spelt cauliflower gratin"
+description: "Creamy cauliflower gratin layered with spelt grains, béchamel sauce, Gruyère and Parmesan cheese. Nutmeg and smoked paprika add warmth to this vegetarian casserole."
+metaDescription: "Cauliflower gratin recipe with spelt grains, creamy béchamel, Gruyère and Parmesan cheese. Vegetarian comfort food made with real ingredients. Make it tonight."
+ogDescription: "Layered cauliflower gratin with spelt, béchamel, Gruyère and Parmesan. A vegetarian casserole with warmth and depth."
+focusKeyphrase: "cauliflower gratin"
 date: 2025-08-12
 draft: false
 image: spelt-cauliflower-gratin.jpg
@@ -21,9 +21,18 @@ tags:
 - "spelt"
 - "comfort food"
 keywords:
-- "spelt grains"
 - "cauliflower gratin"
-- "French vegetarian casserole"
+- "baked cauliflower cheese"
+- "cauliflower au gratin"
+- "spelt grain recipes"
+- "cheesy cauliflower bake"
+- "vegetarian casserole"
+- "cauliflower gratin recipe"
+- "baked cauliflower parmesan"
+- "recipes using spelt"
+- "roasted cauliflower with cheese"
+- "au gratin cauliflower recipe"
+- "spelt recipes"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"
@@ -98,3 +107,134 @@ faq:
 - "q: What about dairy substitutes? a: Use oat or almond milk warmed. Vegan butter ok but sauce thinner, less rich. Nutmeg and paprika help mask changes in flavor profile. Cheese swap aged vegan alternatives but expect less gooey melt."
 
 ---
+
+Spelt grains absorb everything. The shallots, the broth, the wine—all of it becomes part of the grain itself. Layer that with cauliflower, drown it in béchamel, top it with cheese that crisps under heat. This is the gratin that doesn't feel light. Doesn't apologize for being comfort food.
+
+## Why You'll Love This Cauliflower Au Gratin
+
+Make-ahead without the soggy mess. Chill it up to 6 hours, bake cold, and the texture holds. Grains stay chewy, cauliflower stays tender, cheese crust actually crisps.
+
+Vegetarian without feeling like a compromise. The spelt does real work here—it's not a side to the cheese, it's equal. Substantial. Feeds four people and nobody's looking for meat.
+
+One dish. One oven. Prep takes time, but everything happens in one pot, one pan, one baking vessel. Cleanup isn't nothing, but it's fast.
+
+Smoked paprika instead of cayenne. Warmer. More complex. Tastes like someone actually thought about the flavors instead of just heating it up.
+
+Works with what you have. Broccoli instead of cauliflower. Comté instead of Gruyère. It all holds. The technique matters more than the exact ingredients.
+
+## What You Need for Baked Cauliflower and Cheese
+
+**Spelt grains.** Hulled or pearled—pearled cooks faster. Rinse it first. About 220 grams, give or take.
+
+**Shallots and garlic.** Two shallots, finely chopped. Three cloves of garlic, minced. Don't skip the shallots. They're sweeter than onion, dissolve into the grains.
+
+**Olive oil or clarified butter.** 50 milliliters. Clarified butter browns less aggressively if you're nervous about heat. Oil works fine.
+
+**Dry vermouth or dry white wine.** 100 milliliters. The wine deglazes the pan, scrapes up all the flavor bits. Use something you'd actually drink.
+
+**Broth—vegetable or chicken.** 700 milliliters. Vegetable tastes cleaner. Chicken tastes richer. Pick one.
+
+**Bay leaf. Salt. Black pepper.**
+
+**Cauliflower.** One medium head, broken into small florets. Not tiny—you want them to hold their shape. Too small and they disappear into sauce.
+
+**Butter.** 60 grams for the béchamel. Cold helps, but warm works.
+
+**All-purpose flour.** 45 grams. This thickens the sauce.
+
+**Whole milk.** 700 milliliters, warmed before you add it. Cold milk plus hot roux makes lumps.
+
+**Parmesan cheese.** 60 grams grated, fresh. Not the shaker can. Actually grate it.
+
+**Nutmeg and smoked paprika.** Just a quarter teaspoon each. Nutmeg goes into the sauce. Paprika too.
+
+**Panko breadcrumbs mixed with remaining Parmesan.** Two tablespoons breadcrumbs. Just enough to create a crust.
+
+**Gruyère or aged cheddar.** 120 grams. Gruyère tastes more complex. Aged cheddar tastes sharper. Both work. Both melt.
+
+## How to Make Baked Cauliflower Au Gratin
+
+**The spelt mixture comes first.** Warm the oil in a large skillet over medium-high heat. When it shimmers, add shallots and garlic. Stir for about 3 minutes until they turn translucent and smell punchy. Watch them—they brown fast and that's where flavor turns bitter. Not there yet.
+
+Add the rinsed spelt. Toss it around for a minute, coating everything in oil. Salt and pepper now—plenty of pepper. The grains taste different when seasoned early.
+
+Pour in the vermouth. Let it bubble hard. Stir and watch it reduce until almost dry. You'll hear the sizzle slow down. That's when you know the wine's done its job.
+
+Pour in broth with the bay leaf. Crank the heat until it boils, then cover it and drop the heat to medium-low. Simmer 18 to 20 minutes. The liquid absorbs, grains puff up, but they should still have bite. Taste one. If it's mushy, you overcooked it. If it's too firm, add a tablespoon or two of water and cook a few more minutes.
+
+Salt and pepper again if it needs it. Pull out the bay leaf. Leave it uncovered to cool a bit.
+
+**While the spelt's going, start the cauliflower.** Preheat the oven to 190°C. Middle rack.
+
+Bring a pot of salted water to boil. Blanch the cauliflower for about 6 minutes. You want it tender-crisp. Poke it with a fork—slight resistance but not crunchy. Drain it thoroughly. This matters. Wet florets make a soggy gratin. Toss them on a kitchen towel if you need to dry them out more.
+
+## How to Get the Cheese Crust Crispy and the Sauce Perfect
+
+**Make the béchamel while everything else finishes.** Medium heat, melt the butter in a saucepan. When the foaming stops but before it browns, sprinkle in the flour. Whisk it hard for about 90 seconds. This cooks out the raw flour taste and builds the roux. It should smell slightly nutty. No color darkening.
+
+Slowly pour in the warmed milk while whisking constantly. This is the part where people get lumps. Don't rush. Keep whisking. Bring it to a gentle boil, keep stirring. When it thickens—when it coats the spoon—reduce the heat. Let it simmer for 5 to 7 minutes, stirring often. The sauce gets luscious this way. Not gluey. If it's too thick, splash in more milk. Too thin? Return it to low heat and let it reduce a bit more.
+
+Off the heat, whisk in half the Parmesan, the nutmeg, the smoked paprika. Salt carefully. The cheese is already salty. Taste it. Adjust.
+
+Mix the remaining Parmesan with the breadcrumbs in a small bowl. This is your crust topping. Press it lightly onto the béchamel layer but don't compact it.
+
+**Layer everything in a large ovenproof dish.** Spread the spelt in an even layer across the bottom. Scatter cauliflower on top. Ladle the béchamel evenly over the cauliflower—don't leave dry spots. Sprinkle the Gruyère generously. Top with that breadcrumb-Parmesan mixture.
+
+Cover loosely with foil and chill if you want. Up to 6 hours. Bring it to room temperature before baking.
+
+Bake uncovered for 20 to 25 minutes or until the cheese melts and turns golden brown and the edges bubble. Watch the last 5 minutes closely. The color changes fast. You want crispy. Not burnt.
+
+Remove it. Let it rest for 15 minutes. The cuts are cleaner this way. The flavors settle.
+
+## Cauliflower Cheese Bake Tips and Common Mistakes
+
+**Don't skip blanching the cauliflower.** Raw florets release water into the béchamel. The whole gratin turns soft and sad. Six minutes in boiling salted water gives you tender-crisp without releasing all that moisture.
+
+**Drain everything thoroughly.** After blanching, let the cauliflower sit on a towel. A few minutes. Patience here pays off in crispness later.
+
+**The roux color matters.** Pale golden with a nutty smell. Too dark and the whole sauce tastes burnt. Too pale and the sauce tastes like flour. There's a sweet spot. You'll recognize it when you smell it.
+
+**Warm milk into hot roux prevents lumps.** Cold milk seizes up the roux. Lumps form. You can whisk through it, but why bother. Warm the milk first.
+
+**Too thick sauce?** A splash of milk thins it. Too thin? A flour slurry whisked in carefully—equal parts flour and water mixed into a smooth paste, then added while whisking—fixes it. Or just let it simmer a bit longer on low heat.
+
+**Spelt sometimes cooks faster if it's pearled.** Adjust the time down slightly. Taste it at 15 minutes if it's pearled.
+
+**You can make the spelt in advance.** Cook it the day before. Reheat it gently with a bit of broth before assembling the gratin. Weeknight shortcut.
+
+**Smoked paprika adds warmth.** It's earthier than cayenne, less spicy. If you want actual heat, add cayenne instead. If you want smoky, use the paprika.
+
+**Substitutions work fine here.** Broccoli instead of cauliflower changes the texture but not the technique. Comté instead of Gruyère works. Aged cheddar definitely works. Fresh Pecorino works for Parmesan. Trust the technique more than the exact ingredient.
+
+**The layering creates texture.** Chewy spelt grains. Tender cauliflower. Creamy sauce underneath. Crispy cheese crust on top. All of it together is the point. One layer can't carry the dish alone.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Baked Cauliflower Au Gratin
+
+**Can I make this ahead and bake it later?**
+Up to 6 hours covered in the fridge. Bring it to room temperature before baking or add 5 to 10 minutes to the baking time. Cold gratin bakes slower.
+
+**What if my béchamel is too thick?**
+Pour in a splash of milk and whisk it in. Happens constantly. Not a problem.
+
+**Can I use dried herbs instead of fresh?**
+Haven't tried it with dried. Fresh Parmesan matters more here than herbs anyway.
+
+**Do I really need to blanch the cauliflower?**
+Yes. Raw cauliflower releases too much moisture. Blanching sets it, keeps it tender-crisp instead of mushy. Don't skip it.
+
+**What's the difference between hulled and pearled spelt?**
+Pearled cooks faster—maybe 2 to 3 minutes less. Hulled takes the full time. Check at 15 minutes if you use pearled.
+
+**Can I substitute oat milk for whole milk in the béchamel?**
+It works. Texture's different—slightly thinner even after simmering. Use a bit less and reduce it longer if you need it thicker.
+
+**Why smoked paprika instead of cayenne?**
+Cayenne brings heat and sharpness. Smoked paprika brings warmth and depth. This gratin doesn't need heat. It needs complexity. Use cayenne if you actually want spice.
+
+**How do I know when the spelt is done?**
+Taste it. Grains should be plump but still have a slight chew. Not mushy. Not hard. The liquid should mostly absorb but a little moisture remaining is fine.
+
+**Can I use Romanesco instead of cauliflower?**
+Sure. Texture's slightly different but it works. Cook time similar.
