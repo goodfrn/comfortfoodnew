@@ -1,10 +1,10 @@
 ---
-title: "Spicy Pork Rice Cakes"
+title: "Tteokbokki Recipe with Pork and Gochujang"
 slug: "spicy-pork-rice-cakes"
-description: "Rice cakes (tteok) soaked to soften, then stir-fried with spicy fermented chili paste and ground lean pork. Bell peppers and onions add crunch and sweetness. Mirin and soy sauce blend in creating a tangy, umami-rich sauce thickened during simmer. Garnished with fresh green onions and coriander. Adjust proportions slightly for texture balance and flavor depth. Substituting minced chicken or turkey works; different oils can influence aroma. Cooking cues rely on visual softening, sizzling sounds, caramelizing edges. Balancing moisture prevents soggy or undercooked bites. Classic Korean street food vibes but tuned for home kitchens with easy swaps, time-saving tips, and attention to aroma and mouthfeel."
-metaDescription: "Spicy Pork Rice Cakes simmered in thick gochujang sauce with crunchy bell peppers and tender chewy tteok; bold Korean street food made approachable at home."
-ogDescription: "Bold spicy pork tteokbokki with crunchy peppers, chewy rice cakes simmered in thick glazy sauce. Korean street food with hints of sesame and mirin aroma."
-focusKeyphrase: "Spicy Pork Rice Cakes"
+description: "Tteokbokki with sliced rice cakes, ground pork, and gochujang in a spicy stir-fry. Bell peppers and onions add crunch while mirin and soy sauce create umami depth."
+metaDescription: "Make tteokbokki with pork, rice cakes, and gochujang sauce. Stir-fried with bell peppers and onions for authentic Korean street food. Try it tonight."
+ogDescription: "Spicy tteokbokki stir-fry with ground pork, rice cakes, gochujang, and fresh vegetables. Easy Korean recipe."
+focusKeyphrase: "tteokbokki"
 date: 2025-09-28
 draft: false
 image: spicy-pork-rice-cakes.jpg
@@ -21,9 +21,16 @@ tags:
 - "pork"
 - "easy dinner"
 keywords:
-- "rice cakes"
-- "ground pork"
-- "gochujang"
+- "tteokbokki"
+- "tteokbokki recipe"
+- "korean rice cakes"
+- "korean tteokbokki recipe"
+- "spicy rice cakes"
+- "stir fried pork"
+- "gochujang recipe"
+- "korean food tteokbokki"
+- "pork stir fry recipe"
+- "korean dish tteokbokki"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "350"
@@ -71,3 +78,82 @@ faq:
 - "q: How to store leftovers? a: Refrigerate in airtight container up to 2 days. Rice cakes firm and toughen; reheat with splash water or broth to soften. Microwave or pan reheat on low, stirring often to avoid sticking. Freeze not ideal, texture degrades. For best, prepare fresh and portion."
 
 ---
+
+Forty-five minutes total and you're eating spicy chewy rice cakes coated in glossy gochujang sauce with crispy pork scattered through. This is tteokbokki — the Korean rice cake dish that looks complicated but absolutely isn't.
+
+## Why You'll Love This Korean Tteokbokki Recipe
+
+Comes together in under an hour. That's faster than ordering it.
+Ground pork instead of just sauce — turns it into actual dinner, not a snack. Works as a side or standalone.
+The heat hits you but doesn't wreck your mouth. Spicy the way it should be.
+Leftovers taste better the next day. Rice cakes soften more, sauce gets deeper. Cold from the fridge works too.
+One pan by the end. Cleanup's fast.
+
+## What You Need for Korean Rice Cakes Tteokbokki
+
+Korean rice cakes. The sliced kind. Get frozen ones if fresh aren't around — thaw them but don't rinse. The starch matters.
+Gochujang is the whole thing. It's fermented chili paste. Not the same as regular chili powder. Don't swap it.
+Mirin sweetens it. Balances the heat. Use the real stuff or honey, not fake corn syrup versions.
+Sesame oil. A little goes a long way. Toasted sesame oil only — the regular kind is flavorless.
+Soy sauce. Regular. Nothing fancy.
+Ground pork. Lean works, fattier is fine too. Chicken if you want lighter, but pork has better texture when it browns.
+Red bell peppers. Just ones that look good. Not green. They're sweeter.
+One onion. Sliced thin.
+Scallions and cilantro at the end. Fresh. Changes everything.
+
+## How to Make Korean Tteokbokki
+
+Start with the rice cakes. Cold water. Bowl. Cover them and let them sit — about 35 minutes. You want them soft enough to bend but not falling apart. This is important. The soaking water gets used later, so don't toss it.
+
+While that's happening, make the sauce. Whisk together mirin, water, gochujang, sesame oil, and soy sauce in a separate bowl. Taste it now. It should be salty, spicy, slightly sweet — all three hitting at once. Adjust if it's too salty or not spicy enough. This is your chance before it hits the rice cakes.
+
+Heat up a large non-stick skillet on high. Add half the vegetable oil. Crumble the ground pork in — spread it thin across the pan. Don't just dump it. You want it to brown in actual pieces, not steam. Listen for sizzling. No liquid pooling. Takes about 5 to 7 minutes. The pork should look light brown and crumbly when it's done.
+
+Toss in the sliced peppers and onion. Stir-fry for 6 minutes. They need snap still — soft but not limp. Once they're there, move everything to a plate and set aside.
+
+## How to Get Korean Rice Cakes Perfectly Tender
+
+Drain the rice cakes really well. Don't rinse them. The starch on them is what thickens the sauce and helps soften the cakes more. Save about 250 milliliters of that soaking water — measure it out.
+
+Wipe the skillet. Add the remaining oil, heat to medium. Add the drained rice cakes and stir gently for about 6 minutes. They'll start puffing up, edges getting tender and sticky. Watch them, don't walk away.
+
+Pour in that reserved soaking water. Let it simmer gently while stirring — 4 minutes. The cakes will swell more, sauce will thicken. They should still hold shape. Not falling apart.
+
+Return the pork and veggie mix to the pan. Pour in the gochujang sauce. Stir gently for 3 to 4 minutes. Everything should get coated in this glossy red sauce. The whole pan smells nutty and sharp and sweet at once. That's the sign it's working.
+
+## Korean Tteokbokki Tips and What Goes Wrong
+
+Finish with fresh scallions and cilantro right before serving. Bright herbal punch. Serves immediately — rice cakes firm up as they cool, so eat them hot.
+
+Rice cakes too tough? Soak longer next time. Or add a splash of water when you reheat.
+
+Want less heat? Use half the gochujang. Add mild chili flakes on the side so people can adjust.
+
+Ground chicken works fine if you want it lighter. Avocado oil smells better than vegetable oil if you care about that. But don't overcook. Cakes get gummy and weird.
+
+Stir constantly during that final simmer. Prevents sticking. Makes sure the sauce coats everything evenly. Color should be rich red, pork browned, peppers still vibrant. Sesame smell mixed with chili and sweet mirin. When you hear gentle bubbling, not aggressive boiling — that's right.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Korean Tteokbokki Recipe
+
+**Can I make this with store-bought Korean rice cake instead of fresh?**
+Yeah. Frozen works perfectly. Just thaw them first. Some places sell them already sliced, which saves time. The starch on them is still there either way, so don't rinse.
+
+**What if I can't find gochujang?**
+Don't bother substituting with regular chili powder. Get gochujang online or at any Korean market. It's fermented, completely different thing. Not worth making this without it.
+
+**How spicy is this actually?**
+Medium heat. Gochujang is spicy but not brutal. The mirin and soy sauce balance it. If you hate spice, cut the gochujang in half and taste as you go.
+
+**Can I use ground chicken instead of pork?**
+Works fine. Texture's lighter, less juicy. Pork browns better and stays crumbly, but chicken does the job.
+
+**Do the rice cakes really need to soak for 35 minutes?**
+Yeah. They soften without turning to mush. Skip this and they'll be too firm. Soak longer if they're still tough — 40 minutes is fine.
+
+**What's the starch water for?**
+It thickens the sauce and helps the rice cakes soften more evenly. This is why you don't rinse them and why you save the soaking water. Matters more than you'd think.
+
+**Can I make this ahead?**
+Sort of. Prep everything separately. Keep the sauce, pork mixture, and rice cakes in different containers. Combine and heat when you eat. Tastes better fresh but leftovers are actually good cold from the fridge the next day.
