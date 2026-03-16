@@ -1,10 +1,10 @@
 ---
-title: "Nordic Shrimp Tartare Salad"
+title: "Nordic Shrimp Tartare Salad with Asian Pear"
 slug: "shrimp-tartare-salad"
-description: "A refreshing riff on shrimp tartare with subtle East Asian touches. Combines sushi-style rice with crisp cucumber, juicy Asian pear, and aromatic ginger for crunch and zing. Mayonnaise and teriyaki drizzle add creamy-sweet contrast. Simple, bold flavors. No nuts, dairy, gluten. Fruit and sea mingling. Textural play between soft, crispy, creamy. A bowl of summer freshness packed with umami snap. Uses natural sweetness of pear and gentle brine of shrimp. Light but filling. A riff on sushi, salad, and tartare all in one. Visual appeal from black and white sesame seeds. Timing cues from rice steaming and ingredient textures."
-metaDescription: "Nordic Shrimp Tartare Salad blends sushi rice with crisp cucumber, Asian pear, toasted sesame oil, and a gentle teriyaki drizzle. Umami meets fresh crunch."
-ogDescription: "Cold shrimp tartare on warm vinegar rice, diced fruit and veggies, toasted sesame oil aroma, mayo drizzle, black and white sesame seeds for snap and contrast."
-focusKeyphrase: "Nordic Shrimp Tartare Salad"
+description: "Nordic shrimp tartare salad combines fresh shrimp, sushi rice, crisp cucumber, and Asian pear with ginger and sesame mayo. Light, refreshing, and packed with umami."
+metaDescription: "Nordic shrimp tartare salad with cucumber, Asian pear, ginger, and sesame mayo. Fresh, easy, and ready in minutes. Make it tonight."
+ogDescription: "Fresh Nordic shrimp tartare with sushi rice, Asian pear, cucumber, and ginger. Light, bold flavors in one beautiful bowl."
+focusKeyphrase: "Nordic shrimp tartare salad"
 date: 2025-08-12
 draft: false
 image: shrimp-tartare-salad.jpg
@@ -21,9 +21,15 @@ tags:
 - "healthy"
 - "easy"
 keywords:
-- "shrimp tartare"
-- "sesame mayo dressing"
-- "sushi style rice"
+- "Nordic shrimp tartare salad"
+- "shrimp tartare with cucumber and ginger"
+- "asian pear shrimp salad"
+- "sushi rice shrimp tartare salad"
+- "ginger teriyaki shrimp salad"
+- "seafood rice bowl"
+- "healthy shrimp tartare"
+- "shrimp salad"
+- "easy seafood tartare bowl"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "410"
@@ -86,3 +92,129 @@ faq:
 - "q: How to store leftovers? a: Rice and shrimp salad separate containers best to avoid sogginess. Rice cools completely then covered tightly; fridge only good for day or two. Salad with mayo gets softer, flavors meld but veggies lose crispness. Bring rice back close to room temp before serving again, no microwave for rice or it gets gummy. No freezing advised for texture reasons."
 
 ---
+
+Rinse the rice. Actually rinse it three times minimum — the water should go from milky to clear. This matters more than you'd think.
+
+## Why You'll Love This Nordic Shrimp Tartare Salad
+
+Takes 43 minutes total, but most of that's rice sitting around being rice. The actual salad part? Ten minutes tops.
+Nordic shrimp. Fresh. Cold. You can taste the ocean in them. Not the frozen kind that tastes like nothing.
+Works as a healthy lunch that doesn't feel like you're eating healthy. Asian pear adds this crisp sweetness that shouldn't work but does. The sesame oil carries everything.
+Seafood done right — no overcooking, no heavy sauce burying the flavor. Just shrimp tartare with the right vegetables and rice underneath.
+Genuinely easy if you don't panic about the rice. One pot. One bowl. Chop and go. And the mouthfeel — warm rice, cold salad, that contrast just hits different.
+
+## What You Need for a Nordic Shrimp Tartare Salad
+
+Sushi rice. Medium-grain like Calrose. 370 grams. Not regular white rice — the starch content matters for the stickiness that holds everything together.
+
+Water. 460 milliliters. Measure it. Too much and you get mush. Too little and it stays crunchy inside.
+
+Rice vinegar. 35 milliliters. Not white vinegar. Rice vinegar is gentler, slightly sweet. The vinegar-sugar-salt mix seasons the rice as it cools.
+
+Sugar. About a tablespoon dissolved with the vinegar. Balances the acid. Not sweet — just rounds it out.
+
+Fine salt. A third of a teaspoon. That's it.
+
+Two Persian cucumbers, diced small. Watery inside but it doesn't matter — you're patting the shrimp dry anyway, so a little moisture is fine.
+
+Three-quarters of an Asian pear. Peeled, cored, diced to match the cucumber. Firm. Sweet. Stays crisp even after sitting with the acid. Fuji apple works if you can't find pear.
+
+Two green onions, sliced thin. The brightness matters.
+
+Toasted sesame oil. 25 milliliters. This is the whole point of the dressing — don't skip it, don't use regular sesame oil, don't use regular oil pretending.
+
+Fresh lime juice. 20 milliliters. Bottled works. Fresh is better. Doesn't matter much either way.
+
+Pickled ginger. 10 milliliters chopped. That sour-sharp taste cuts through the richness. Fresh ginger with a splash of rice vinegar mimics it if you don't have pickled.
+
+Nordic shrimp. 400 grams. Fresh or thawed. The size matters — they should be small to medium, delicate. Pat them completely dry before mixing. Water kills the whole thing.
+
+Sesame mayo. 50 milliliters. Kewpie mayo mixed with a touch of sesame oil, or homemade mayo whisked with sesame oil. Store-bought works.
+
+Teriyaki sauce. 45 milliliters optional but recommended. Just a thin drizzle. Adds depth without drowning it.
+
+Black and white sesame seeds. Toasted. For the finish.
+
+## How to Make the Rice for Shrimp Tartare
+
+Rinse the rice three times under cold water. Let the water run clear. This removes the starch that would make everything clumpy. It takes a minute. Do it.
+
+Heavy-bottomed pot. Rice and water. Bring it to a hard boil — you want to hear it, see the aggression. Then drop the heat to the lowest setting, cover it tight. No peeking. No lifting the lid to check. This is crucial. Cook for 13 minutes.
+
+You'll notice the sound changes. The boiling softens, becomes gentler. The pot base should feel hot but not angry. Around 13 minutes — could be 12, could be 14 depending on your stove. Listen more than you watch the clock.
+
+Remove from heat. Keep the lid on. Steam for 7 minutes without touching it. This is when the rice finishes cooking in its own steam. The grains shift, separate slightly, become fluffy instead of dense.
+
+While it rests, mix the vinegar, sugar, and salt in a small bowl. Stir until the sugar dissolves completely. No graininess.
+
+Fold this mixture into the warm rice gently with a fork. Don't mash. Fold. Fluff the grains. Let it cool to room temperature — this takes maybe 5 minutes if you spread it on a plate, 10 if you leave it in the pot. Cool rice is the right rice. Warm rice tastes gummy.
+
+## How to Build the Nordic Shrimp Tartare Salad
+
+Dice the cucumbers and Asian pear into small, uniform cubes. Consistency matters. Thickness in the pieces means they all break down at the same rate and feel the same in your mouth.
+
+Slice the green onions thin. The sharp green flavor is essential here. It cuts through the sesame oil.
+
+In a large bowl, toss the cucumbers, pears, green onions, sesame oil, lime juice, and pickled ginger together. The oil carries the aroma. The ginger adds brightness. Taste it. Adjust the acid if you need more lime or less ginger. Trust your mouth.
+
+Shrimp. 400 grams. Make sure they're patted completely dry. Any water kills the texture and dilutes the flavors. This matters. Add them to the bowl. Mix gently. They're delicate. You're not trying to break them apart. Light toss. That's enough.
+
+A round mold, about 4.5 inches diameter. Press about one-quarter of the rice into it flat. The stickiness of the rice holds the shape. You feel it grip. Spoon the shrimp salad on top gently. Don't push. Don't squish. The salad should sit on top like it's resting there, not be forced down.
+
+## Finishing the Seafood Rice Bowl
+
+Sesame mayo in thin lines or small dollops. You're not covering the salad. You're accenting it. Maybe a thin shimmer of teriyaki if you want — adds complexity, a little umami, a hint of sweetness. Optional but it works.
+
+Sesame seeds. Black and white. Generous handful. Toasted. This is texture and color and the finish. This is what makes you want to eat it.
+
+Serve immediately. Warm rice underneath. Cool shrimp tartare on top. The contrast in temperature is part of the whole thing. Mouthfeel matters as much as taste.
+
+If you have no sushi rice, use short to medium grain. Watch it more carefully. It'll cook differently. Less starch means it won't hold together as well, but it still works. Just adjust water and timing.
+
+No Asian pear? Fuji or Gala apple. Similar crunch. Similar sweetness. Different texture but close enough. You could probably use grape slices honestly. Haven't tried it. Probably works.
+
+## Nordic Shrimp Tartare Tips and Common Mistakes
+
+Don't skip resting the rice. Rushing results in crunchy centers or gluey outside. The resting time is nonnegotiable. This is where the texture happens.
+
+The shrimp dryness is actually crucial. Water is your enemy here. Pat them. Then pat them again. Then pat them once more.
+
+Sesame oil is not optional. Regular oil doesn't have the aroma. The whole point is that toasted sesame smell that comes through. Use good toasted sesame oil. It changes everything.
+
+Pickled ginger adds brightness. If you're using fresh ginger instead, use less — it's stronger. Start with a teaspoon, taste, add more if you want. It's easy to overdo fresh ginger.
+
+The teriyaki is truly optional but recommended for depth. If you're using it, use a good bottled one or make a quick reduction of soy, mirin, and sugar. Don't cheap out on this — it's the final layer.
+
+Rice cooker? Works. Sushi setting. Stir in the vinegar mix while hot. Still good.
+
+Chopsticks or small forks for serving. The texture interplay is evident in every bite. You'll notice the warm rice, the cool salad, the crunch of pear, the sweetness of shrimp. Each component.
+
+Time pressure? Use a rice cooker, prep the salad components while the rice cooks. 43 minutes total but you're not standing there watching it the whole time.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Shrimp Tartare Salad
+
+**Can I prep this ahead?**
+Cook the rice ahead — totally fine. Make the salad components ahead in separate containers. Mix everything together right before serving or the shrimp gets watery. The rice needs to cool completely anyway, so that actually works out.
+
+**What if I can't find Nordic shrimp?**
+Use whatever fresh small shrimp you can find. The flavor won't be identical but the dish still works. Avoid the giant tiger shrimp — too meaty, wrong vibe. Smaller is better for tartare.
+
+**Does the rice have to be warm when I fold in the vinegar?**
+Warm or slightly warm. If it's cold it doesn't absorb the vinegar properly. If it's hot it gets mushy. Lukewarm is the target. You'll feel the difference.
+
+**Can I use regular rice vinegar or does it have to be sushi vinegar?**
+Regular rice vinegar. The sushi vinegar has sugar already mixed in so you'd be double-sweetening. Regular rice vinegar plus sugar is exactly what you want.
+
+**What about the ginger tartare swap if I only have fresh ginger?**
+Use half as much — fresh is stronger. Mix it with a tiny splash of rice vinegar so it mimics the pickled version's acidity. Not the same but it works.
+
+**How long does this actually stay good in the fridge?**
+The rice keeps for days. The shrimp tartare salad keeps for maybe 8 hours before it gets watery and the shrimp starts degrading. Make it fresh. Or make the rice fresh, store the salad components, assemble on demand.
+
+**Is there a substitute for Asian pear that actually works?**
+Fuji apple. Gala apple. They're firmer than the pear but similar sweetness. Regular pear is mushier so skip that. The point is the crunch — get something that stays crisp when it sits in acid.
+
+**Do I really need to rinse the rice three times?**
+Yes. Twice minimum. The starch is what makes it clumpy. Rinse until the water runs clear. It takes two minutes. Worth it for rice that actually separates.
