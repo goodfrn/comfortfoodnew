@@ -1,10 +1,10 @@
 ---
-title: "Smoky Bacon Tomato Soup"
+title: "Making Tomato Soup with Bacon & Pecorino"
 slug: "smoky-bacon-tomato-soup"
-description: "A rich tomato soup where crispy bacon fat kicks off the flavor base. Onions sweat down in that bacon greasiness till soft and translucent. Garlic added just before flour to unlock aroma. Flour cooks with constant stirring for a lightly nutty, thickened texture. Chicken broth wakes the stew followed by crushed tomatoes with a pinch of brown sugar to cut acidity. Salt and pepper tuned by taste. Simmer gentle to deepen flavors. Purée smooth with immersion blender—tip near bottom for no splash. Bacon bits scatter on top with shredded pecorino for salty creaminess. Swapped granulated sugar for brown, Parmesan for pecorino, cooked onion times shifted slightly."
-metaDescription: "Smoky Bacon Tomato Soup with crispy bacon fat, caramelized onions, garlic aroma, brown sugar balance, and pecorino topping for sharp salty punch."
-ogDescription: "Rich tomato soup simmered with bacon fat, sweet onion, garlic, and brown sugar. Puréed smooth, topped with crispy bacon bits and pecorino romano cheese."
-focusKeyphrase: "Smoky Bacon Tomato Soup"
+description: "Making tomato soup with crispy bacon, crushed tomatoes, and pecorino romano. Chicken broth simmered gently to deepen flavors, finished with a smooth purée."
+metaDescription: "Making tomato soup recipe with bacon, crushed tomatoes, and pecorino romano cheese. Rich, savory comfort in a bowl. Try it tonight."
+ogDescription: "Bacon-forward tomato soup with crushed tomatoes and pecorino. Creamy, savory, and deeply satisfying."
+focusKeyphrase: "making tomato soup"
 date: 2026-01-08
 draft: false
 image: smoky-bacon-tomato-soup.jpg
@@ -21,12 +21,17 @@ tags:
 - "easy dinner"
 - "one pot"
 keywords:
-- "bacon soup"
-- "tomato soup"
-- "pecorino romano"
-- "brown sugar"
-- "caramelized onion"
-- "garlic soup"
+- "making tomato soup"
+- "homemade tomato soup"
+- "tomato soup recipe"
+- "creamy tomato soup"
+- "bacon tomato soup"
+- "cream of tomato soup"
+- "tomato bisque"
+- "roasted tomato soup"
+- "fresh tomato soup"
+- "tomato soup with bacon"
+- "crushed tomato soup"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "210"
@@ -74,3 +79,96 @@ faq:
 - "q: How store leftovers? a: Cool quickly, airtight container. Refrigerate up to 3 days. Freeze if long-term. Reheat gently, stir while warming. Bacon bits lose crunch; add fresh if possible. Pecorino can be added again after reheating."
 
 ---
+
+Bacon sizzling first—that's the move. Everything else is just tomatoes catching fire in the fat, soup getting thick, cheese on top. Takes 40 minutes total if you don't overthink it.
+
+## Why You'll Love This Tomato Soup
+
+Tastes like someone's grandmother made it. That kind of comfort food that fills you up but doesn't sit heavy.
+One pot. Cleanup is actually fast because you're not bouncing between three pans trying to time everything.
+Bacon in the soup itself, not on the side. Changes the whole thing—not just a garnish situation.
+Works as lunch or dinner. Pairs with grilled cheese if you want, works solo if you don't. Doesn't matter.
+Takes 40 minutes start to finish. Actual 40 minutes, not the kind where you're chopping stuff for 20 more.
+
+## What You Need for Homemade Tomato Soup
+
+Thick-cut bacon. Six slices. Regular bacon gets lost. Thick-cut stays crispy and tastes like something.
+
+One medium yellow onion, chopped. Not red. Red's sweeter. Yellow's the baseline.
+
+Three garlic cloves, minced. Not a ton. Enough to know it's there.
+
+All-purpose flour—three tablespoons. This is your thickener. Stops the soup from being watery tomato juice.
+
+Low-sodium chicken broth, four cups. Sodium adds up fast with the bacon and cheese, so watch it.
+
+Two cans crushed tomatoes, 28-ounce each. Canned works. Fresh tomatoes are a different recipe. Don't try to sub unless you've got eight pounds sitting around.
+
+Brown sugar—a tablespoon and a half. Sounds weird. Tomatoes are acidic. Sugar rounds it out. Not sweet. Just less sharp.
+
+Salt and black pepper. A teaspoon of salt going in. Half a teaspoon pepper. You'll taste it before serving anyway.
+
+Half a cup pecorino romano, shredded. Not parmesan. Pecorino's sharper. It cuts through the richness instead of blending in.
+
+## How to Make Homemade Tomato Soup
+
+Large Dutch oven or heavy pot. Medium-high heat. Lay the bacon flat—don't crowd it. Let it cook until the sizzle gets quiet. Maybe four or five minutes, depends on thickness. Listen for it. That's your signal more than a timer.
+
+Pull it out with a slotted spoon. Drain on paper towels. Crumble it later.
+
+Leave the fat. All of it. Then spoon some out—keep three to four tablespoons. More than that and the soup tastes like bacon grease soup instead of tomato soup with bacon. Less than that and you lose the flavor. It's a balance thing.
+
+Medium heat now. Onion goes in. Stir it every so often. Six to nine minutes. You want it soft and kind of translucent, not brown. If it starts to brown, heat's too high. Lower it. The smell gets sweet—that's when you know the sugars are breaking down and it's almost ready.
+
+Garlic next. Just 45 seconds. That's it. The second you smell it—that sharp garlic smell—it's done. Brown garlic tastes bitter. Don't do it.
+
+Sprinkle the flour over everything. Stir constantly. About two and a half minutes. The flour needs to cook a little bit or the soup tastes powdery. You'll see it turn slightly golden. That's good. That's the point.
+
+Pour the broth slowly. Whisk at the same time. This stops lumps from forming. Once it's in, bring it to a boil.
+
+## How to Get Creamed Soups Texture Right
+
+Crushed tomatoes go in now. Both cans. Add the brown sugar at the same time. The sugar's already dissolved into the tomato liquid, so it's doing its job from the beginning.
+
+Salt and pepper. One teaspoon salt, half teaspoon pepper. Taste it in a minute. You can always add more.
+
+Lower the heat to medium-low. Small bubbles coming up, not a rolling boil. Leave it alone for 18 to 25 minutes. Stir once or twice. The soup gets darker, smells deeper, thickens a little on its own. Don't cover it. You want some of the water to evaporate.
+
+Immersion blender time. Stick it in there and blend until it's smooth. Keep the blade near the bottom so tomato doesn't explode everywhere. The soup stays slightly thick from the cooked tomatoes—it's not baby food. It's got texture.
+
+## Roasted Tomato Soup Tips and Common Mistakes
+
+Don't skip crisping the bacon first. It's not a garnish step. The flavor gets into the fat, and that fat carries it through the whole soup. That's where the bacon taste comes from.
+
+Too thick? Add more broth. A quarter cup at a time. Stir and taste.
+
+Too thin after blending? That means your heat was too low and not enough evaporated. Next time, simmer longer.
+
+Salt at the end. The canned broth has salt already, bacon's salty, cheese is salty. Go easy and taste first.
+
+Grilled cheese and tomato soup pairing is real—the richness of cheese with soup this bright works. But the soup stands alone too.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Tomato Soup
+
+**How long does this take?**
+Forty minutes. Twelve for prep if you're slow. Twenty-eight if you're cooking. That's the whole thing.
+
+**Can I use fresh tomatoes instead of canned?**
+Different soup. You'd need eight pounds of fresh tomatoes, peeled and chopped. More steps. Takes longer. Canned works fine—it's picked and cooked at peak ripeness already.
+
+**What if I don't like pecorino?**
+Then don't use it. The soup's good without cheese too. Or use parmesan. It's milder though.
+
+**Can I make this without bacon?**
+Yeah. Use butter instead. Three tablespoons. Heat it, skip straight to the onion. Tastes more like regular tomato soup but it works.
+
+**Does this freeze?**
+Freeze it before the cheese and bacon go on top. Thaw it, heat it, then add the crispy parts. Bacon gets soggy if it sits in the soup anyway.
+
+**Why do I need to spoon out some bacon fat?**
+Too much fat and the whole thing tastes greasy. Three to four tablespoons is enough to carry the flavor without making it heavy. You need some. Just not all.
+
+**Can I use tomato bisque instead?**
+That's already thickened differently. It's not the same thing. This soup is simpler. Flour and blending. Not cream-based.
