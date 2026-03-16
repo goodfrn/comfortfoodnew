@@ -1,10 +1,10 @@
 ---
-title: "Sweet Potato Quinoa Pie"
+title: "Baked Sweet Potato Pie with Quinoa"
 slug: "sweet-potato-quinoa-pie"
-description: "A hearty vegetarian pie using sweet potato and quinoa base. Carrot and leek sauté with broccolini and roasted walnuts. Tangy herbed yogurt sauce on top. Egg-free, wholesome, packed with spices like cinnamon and cayenne. Baked until golden crust forms, filling stays moist and firm enough to slice. Fresh herbs add brightness to creamy yogurt dressing. Suitable for easy main course luncheons or dinners with a twist, comfort without heaviness. Uses mostly pantry staples with subtle swaps to refresh the flavor. A tested combo for stability in texture and flavor punch."
-metaDescription: "Sweet Potato Quinoa Pie; hearty vegetarian base mashed sweet potato; quinoa, smoky paprika; layered veggies, yogurt-herb sauce topping; firm crust holds texture well."
-ogDescription: "Hearty sweet potato and quinoa base; carrot-leek sauté; broccolini and walnuts add crunch; yogurt herb sauce brightens; bake till crust caramelizes golden."
-focusKeyphrase: "Sweet Potato Quinoa Pie"
+description: "Baked sweet potato pie made with quinoa, mashed sweet potato, and whole wheat flour. Topped with roasted walnuts, broccolini, and herbed Greek yogurt sauce with fresh tarragon for a wholesome vegetarian main."
+metaDescription: "Baked sweet potato pie recipe with quinoa base, roasted walnuts, broccolini, and tarragon yogurt sauce. Easy vegetarian dinner. Make it tonight."
+ogDescription: "Hearty baked sweet potato pie with quinoa, walnuts, and fresh herb yogurt sauce. Vegetarian comfort food that actually satisfies."
+focusKeyphrase: "baked sweet potato pie"
 date: 2025-08-13
 draft: false
 image: sweet-potato-quinoa-pie.jpg
@@ -21,9 +21,18 @@ tags:
 - "spice"
 - "squash"
 keywords:
-- "quinoa pie"
-- "sweet potato"
-- "vegetarian main"
+- "baked sweet potato pie"
+- "sweet potato pie recipe"
+- "roasted sweet potatoes"
+- "sweet potato bake"
+- "baked sweet potato recipe"
+- "stuffed sweet potatoes"
+- "vegetarian sweet potato"
+- "sweet potato with quinoa"
+- "roasted sweet potato dish"
+- "oven roasted sweet potatoes"
+- "baked sweet potatoes in oven"
+- "potato pie"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "280"
@@ -88,3 +97,97 @@ faq:
 - "q: How store leftovers? a: Wrap pie well, fridge up to 3 days. Reheat oven preferred to keep crust crisp; microwave makes crust soggy. Sauce can be stored separate to keep fresh, add after warming."
 
 ---
+
+Microwave the sweet potato till it blisters, scoop it out, and build a whole pie that somehow works without eggs. Quinoa holds it together. Spices do the flavor work.
+
+## Why You'll Love This Sweet Potato Pie
+
+Takes an hour fifteen total if you move at a normal pace.
+Vegetarian, which means no hunting for protein — quinoa does that.
+The spiced crust actually stays crisp even after a day. Not soggy the way some pies get.
+Room temperature is better than warm. Weird but true.
+Healthy doesn't mean boring here — the smoked paprika and cinnamon make it taste like something, not like you're eating virtue.
+Leftovers reheat in a 350 oven and come back better than the first time.
+
+## What You Need for Baking With Sweet Potato
+
+One medium-large sweet potato. Raw. The flesh should be orange, actually orange — not the pale kind.
+
+Quinoa. Rinsed thoroughly. Not cooked. Dry. The oven finishes it.
+
+One medium onion and two garlic cloves, chopped however fine you can manage. Food processor is easier but your knife works.
+
+Whole wheat flour or spelt. The spelt tastes a bit nuttier. Either one binds the moisture.
+
+Smoked paprika, ground cinnamon, and allspice. Not a ton of any of it. The paprika replaces cayenne — you get warmth without the bite.
+
+Olive oil. One tablespoon for the crust, another for cooking the garnish.
+
+For the vegetables: one carrot sliced thin on the bias, one leek (white and pale green parts), a bunch of broccolini, and a couple cups of Brussels sprouts leaves. Blanch the sprouts and broccolini ahead or just before.
+
+Walnuts, toasted. About a third of a cup. Pecans don't have the depth here.
+
+Greek yogurt, fresh herbs (parsley and tarragon are the thing), and lemon juice for the sauce.
+
+## How to Make a Sweet Potato Pie
+
+Pierce the raw sweet potato all over with a fork. Microwave it for seven to nine minutes, turning it halfway. Watch for the skin to blister and a soft spot when you poke it. Five minutes rest after — that matters. Scoop the flesh out and mash it lightly with a fork. You need about three quarters of a cup. If it's watery, drain it on a paper towel.
+
+Grease a nine-inch tart pan. Really grease it. Oil all around, even the sides.
+
+Pulse the onion and garlic in a food processor until fine but not pureed — it should still have some texture. Add the mashed sweet potato and pulse again until everything combines but stays coarse. No smoothness. Transfer it to a bowl.
+
+Dump in the dry quinoa, flour, cinnamon, allspice, and smoked paprika. Salt it. Pepper it generously. Mix until you can't see dry flour anymore. This is your crust. It doesn't have eggs. The flour does the binding. The quinoa cooks right in the oven.
+
+Spread the mixture into the tart pan evenly. Dampen your fingers and smooth the top down firmly. Brush olive oil all over the surface with a pastry brush — this promotes browning and keeps the crust from drying out completely.
+
+## How to Get the Crust Actually Crispy
+
+Heat the oven to 400 degrees. Center rack. Bake the pie for thirty-five to forty minutes. The crust should go golden brown and feel slightly firm and springy to the touch. The edges will caramelize a tiny bit. Don't open the oven door constantly or it'll never set right. Watch it through the window.
+
+While that happens: heat one tablespoon of olive oil in a large non-stick skillet over medium heat. Add the carrot slices and leek, cover the pan, and let them soften for four to five minutes, stirring occasionally. They should still have some snap. Add the broccolini and the blanched Brussels sprouts leaves, warm them for two or three minutes. Season with salt and pepper. Toss in the walnuts and lemon juice in the last minute or so to keep them crunchy and the lemon bright.
+
+The pie crust holds firmly but slices cleanly. Not dry. Not wet. The quinoa stays distinct — you can feel it.
+
+## Sweet Potato Pie Tips and Common Mistakes
+
+Reheat leftovers in a 350-degree oven, not the microwave. The crust comes back crispy that way.
+
+If your sweet potato is too wet, bake it unpeeled a bit longer to dry the flesh out. Or drain the mashed stuff on a paper towel for a few minutes.
+
+You can use cooked quinoa instead if you're in a rush, but lower the oven to 350 and watch the crust closely so it doesn't dry out.
+
+No food processor. Mince the onion and garlic by hand. Takes longer. Flavor's the same. Texture is slightly different but nobody notices.
+
+The sauce — Greek yogurt with herbs and lemon — stays better cold. Make it ahead. The tarragon adds something anise-forward that seems weird until you taste it with the spiced crust. Then it works.
+
+Vegan version: swap the Greek yogurt for coconut yogurt or a cashew spread. Add a splash of apple cider vinegar to the sauce. Gets sharp the way the yogurt version gets bright.
+
+The flour is essential. Can't skip it. Whole wheat and spelt both add nuttiness on top of binding.
+
+Serve it warm or room temperature. Actually room temperature is better. The flavors sit right.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Baked Sweet Potato Pie
+
+**Can I make this pie ahead of time?**
+Yeah. Bake it fully, let it cool, and cover it. Eat it the next day cold or reheat it. The crust actually holds better by the next day.
+
+**What if I don't have a food processor?**
+Chop the onion and garlic as fine as you can. Mix everything by hand. Works fine. Slightly more texture in the crust but that's not a bad thing.
+
+**Does the quinoa really cook in the oven?**
+Yeah. Dry quinoa cooks through in thirty-five to forty minutes with the moisture from the sweet potato and the heat. It gets tender, not mushy.
+
+**Can I use regular potatoes instead of sweet potatoes?**
+Not the same dish. Regular potatoes don't have the sweetness to balance the spices. The whole thing tastes different.
+
+**What does the smoked paprika do differently than cayenne?**
+Paprika is warmer, less bite. Cayenne would make it hotter and sharper. The paprika sits in the background and adds smokiness without burning your mouth.
+
+**How long does this keep?**
+Three or four days in the fridge covered. Reheat it in a 350-degree oven. Microwave makes it soft and weird.
+
+**Can I make the yogurt sauce vegan?**
+Coconut yogurt or a cashew cream works. Add lemon juice and herbs the same way. Taste more acidic, less creamy, but if that's what you need it's fine.
