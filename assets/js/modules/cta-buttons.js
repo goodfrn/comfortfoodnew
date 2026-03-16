@@ -165,6 +165,7 @@ export function initCTAButtons() {
       }
     });
   }
+}
 // BOUTON IMPRIMER
 const printButton = document.getElementById('printButton');
 
