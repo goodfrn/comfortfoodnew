@@ -1,10 +1,10 @@
 ---
-title: "Marinated Broiled Flank Steak"
+title: "Marinated Broiled Flank Steak with Red Wine"
 slug: "marinated-broiled-flank-steak"
-description: "Thin flank steak soaked in red wine, oil, lemon, and shallots. Broiled to medium or medium-rare, rested before slicing against the grain. Fingerling potatoes roasted at 400F until tender. Optional rich red wine and beef broth reduction with honey for drizzle. Prep involves marinating at least 5 hours; broiling 5-7 minutes each side, rest 10 minutes. Visual doneness found by color change and firm but springy texture. Aromas of herbs and caramelizing shallots signal progress. Practical swaps include balsamic vinegar for lemon, or chicken broth if beef unavailable. Serves 4 with fingerling potatoes and greens, balancing smoky meat with crisp tubers and velvety sauce."
-metaDescription: "Marinated broiled flank steak with fingerling potatoes, red wine reduction. Tender cuts rested, herb aromas, crisp edges, and rich sauce come together here."
-ogDescription: "Broil flank steak marinated hours, sliced against grain. Crispy roasted fingerlings, savory wine reduction drizzled warm. Herb scents, brown crust, juices locked in."
-focusKeyphrase: "Marinated broiled flank steak"
+description: "Marinated broiled flank steak soaked in red wine, lemon, and fresh herbs. Tender, juicy beef broiled to medium-rare, served with roasted fingerling potatoes and optional wine reduction."
+metaDescription: "Marinated broiled flank steak in red wine, lemon, thyme, and rosemary. Broiled to perfection with fingerling potatoes. Make it tonight."
+ogDescription: "Tender flank steak marinated in red wine and fresh herbs, broiled and served with roasted fingerling potatoes and rich sauce."
+focusKeyphrase: "marinated broiled flank steak"
 date: 2026-01-07
 draft: false
 image: marinated-broiled-flank-steak.jpg
@@ -21,9 +21,15 @@ tags:
 - "lemon"
 - "main dish"
 keywords:
-- "flank steak marinade"
-- "broiled steak cooking times"
-- "potato roasting tips"
+- "marinated broiled flank steak"
+- "red wine marinated flank steak"
+- "flank steak recipe"
+- "flank steak with lemon and shallots"
+- "broiled flank steak with fingerling potatoes"
+- "flank steak marinade with thyme and rosemary"
+- "beef dinner"
+- "marinated flank steak"
+- "easy flank steak dinner"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"
@@ -78,3 +84,93 @@ faq:
 - "q: How to store leftovers? a: Wrap steak tightly foil or airtight container fridge, keeps 3 to 4 days. Potatoes best reheated in oven to restore crispness, sauce reheat gently stove top or microwave short bursts."
 
 ---
+
+Throw the steak in a bag. Red wine, olive oil, lemon juice, shallots, herbs—that's the whole thing. Five and a half hours later it comes out tender enough that you actually want to eat it instead of chew it like rubber. Broil it. Potatoes on the side. Done in under 6 hours total, most of that's just waiting.
+
+## Why You'll Love This Marinated Flank Steak
+
+The marinade does actual work. Not like—some rubs that just sit there. This one breaks down the fibers with acid and oil. You taste it.
+
+Takes five to six hours, sure. But you're not standing there doing anything. Throw it in the fridge in the morning, cook dinner that night. Works as an easy weeknight dinner if you plan ahead. If you don't plan ahead, overnight in the fridge means it's ready the next day.
+
+One broiler. One pan. Potatoes roast while the steak goes. Cleanup's maybe ten minutes.
+
+Lemon and shallots in the marinade. Red wine. Thyme and rosemary. Tastes like you actually know what you're doing. Honestly might be the easiest way to look impressive without trying.
+
+## What You Need for Marinated Flank Steak
+
+One and a half pounds of flank steak. Not skirt. Flank's thinner, takes the marinade faster.
+
+Dry red wine. A cup of it. Cheap wine works fine—don't open something you'd actually drink.
+
+Extra virgin olive oil. A quarter cup. Not light olive oil. The flavor matters here.
+
+Fresh lemon juice. Three tablespoons. Not from a bottle. Actual lemons.
+
+Two large shallots, rough chop. Size doesn't matter much, you're just flavoring the liquid anyway.
+
+Fresh thyme leaves and rosemary, finely chopped. Tablespoon of each. Dried works in a pinch—use maybe half as much. Tastes different though. Not better.
+
+Kosher salt and black pepper. Teaspoon each.
+
+For the potatoes: one pound of fingerling potatoes, halved. Two tablespoons olive oil. Salt and pepper.
+
+For the sauce (optional but worth it): olive oil, a shallot minced, half cup red wine, half cup beef broth or chicken broth, a teaspoon of honey or maple syrup.
+
+## How to Make Marinated Broiled Flank Steak
+
+Gallon bag. Dump the steak in. Add the red wine, olive oil, lemon juice, the chopped shallots, thyme, rosemary, salt, and pepper. Squeeze it gently—not violent, just enough to coat the meat and get everything moving around. That's it for the marinade.
+
+Straight into the fridge. Five to six hours minimum. Overnight's better if you have time. The acid in the wine and lemon softens the fibers. The oil helps it all get absorbed. Don't rush this part. Thin cuts take flavors fast but they need the time.
+
+While it's marinating, wash the fingerling potatoes and cut them in half. Toss them with olive oil, salt, and pepper until they're slick. Not drowning in oil—just coated. Lay them skin-side down on a rimmed baking sheet. Four hundred degrees in the oven. Eighteen to twenty-five minutes depending on how big they are. You're looking for the skin to crackle and the inside to go fork tender. If you're impatient, poke one after fifteen minutes to check. That tells you everything.
+
+## How to Broil Flank Steak for Maximum Tenderness
+
+Pull the steak from the fridge fifteen minutes before you broil it. Temperature matters more than people think. Let it sit on the counter, still in the bag if you want.
+
+Line a baking sheet with foil. Take the steak out, let the excess marinade drip off. Too much liquid on the pan steams the meat instead of browning it. That's the opposite of what you want.
+
+Broiler on the top rack. High heat. Five to seven minutes per side depending on thickness and how you like it. You're watching for deep browning with maybe some charring on the edges. The edges curl a tiny bit when it's getting close.
+
+Meat thermometer near the center: one thirty for medium rare, one fifty-five for medium. Don't stab it early or the juices leak out. That's what ruins it.
+
+## Red Wine Marinated Flank Steak Tips and Mistakes
+
+Let it rest. Seriously. Eight to ten minutes wrapped loosely in foil after it comes off the broiler. That's not a suggestion. The juices redistribute. If you skip it, the edges dry out and the middle's still bleeding. That's bad.
+
+When you slice, find the grain. It runs one direction. Cut against it, not with it. Short fibers mean tender bites. Quarter inch thick. Thicker than that and you're back to chewing.
+
+If you're making the sauce: medium heat, olive oil in a saucepan, add the minced shallot. One to two minutes until it goes soft and smells like something. Pour in the red wine and beef broth, bring it to a boil, then let it simmer fast. Six to twelve minutes until it coats the spoon lightly. Strain out the shallot, add honey or maple syrup to take the edge off the wine acidity. Drizzle it over the sliced steak.
+
+Lemon juice can swap for balsamic vinegar if you want something sweeter. No beef broth? Chicken broth works. Mushroom broth too if you have it. Wine scarce? Grape juice with a splash of vinegar does something. Dry the steak with paper towels before broiling or it steams instead of browns. Use tongs to flip. Forks poke holes. Juices escape. Don't be that person.
+
+Fingerling potatoes can be swapped for baby Yukon gold or red potatoes. Time might shift slightly. Roast until fork tender and crispy on the skin. Shake them with garlic powder or smoked paprika if you want extra flavor.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Flank Steak Recipe
+
+**Can I marinate the flank steak overnight instead of five hours?**
+Yeah. Better, actually. The flavors go deeper. Twenty-four hours is fine too. After that the lemon juice starts to cook the meat like ceviche, which is weird and not what we're doing here.
+
+**What if I don't have fresh herbs, only dried?**
+Use half as much. Dried's more concentrated. The flavor's different—less fresh, more muted. Fresh is better. But dried works.
+
+**How do I know when the broiled flank steak is done without a meat thermometer?**
+One thirty is medium rare—a little pink in the center. One fifty-five is medium—barely pink. If you don't have a thermometer, cut into the thickest part after five minutes and look. Every broiler's different. Yours might run hot.
+
+**Can I grill the flank steak instead of broiling it?**
+Yeah. Same timing. Get the grill hot, oil the grates so it doesn't stick. Watch the edges—they char fast on a grill. Broiler's more forgiving.
+
+**Do I have to make the red wine reduction sauce?**
+No. The steak's good alone. The sauce is just extra. Makes it feel fancier. Takes maybe twelve minutes.
+
+**Why does the recipe say to let the marinade drip off before broiling?**
+Too much liquid on the pan and you're essentially poaching the steak in its own marinade instead of browning it. Brown is flavor. Steam is nothing. Drip off most of it. Leave a little coating.
+
+**Can I use a different cut of beef for this marinated steak recipe?**
+Flank's specifically thin and benefits from the acid in the marinade. Skirt steak's similar, also thin. Thicker cuts like ribeye or strip steak don't need the marinade—they're already tender. Different beef, different approach.
+
+**How long can the marinated flank steak stay in the fridge?**
+Overnight's ideal. Forty-eight hours is probably fine. After that the acid starts breaking it down too much and the texture gets weird. Just cook it.
