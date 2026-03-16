@@ -1,10 +1,10 @@
 ---
-title: "Strawberry Tart Sundae Remix"
+title: "Pavlova With Raspberries and Almond Crumble"
 slug: "strawberry-tart-sundae"
-description: "Triple berry twist on a vanilla sundae. Fresh raspberries swap in, lemon juice adds sharpness. Cornstarch replaced by arrowroot for cleaner finish. Crumble gets mellow almond flour, oats. Sweetened only lightly. Cooked purée hints of popping bubbles, thickens to coat berries and spoon. Assemble with whipped coconut cream for a dairy-free lift. Chill times slightly shifted to avoid over-setting. Recognize bubbling intensity not by timer alone but by thickened shine. Scoops, rosaces, textured rounds. Simple, refreshing, a no-fuss summer treat."
-metaDescription: "Strawberry Tart Sundae Remix blends fresh raspberries with maple syrup, arrowroot thickened glaze, creamy coconut whipped cream, and almond-oat crumble chill-ready summer treat."
-ogDescription: "Fresh raspberries pulsed chunky, maple syrup sweetened, arrowroot thickened glaze, coconut whipped cream topping, almond-oat crunch. Chill, serve, summer dessert done right."
-focusKeyphrase: "Strawberry Tart Sundae Remix"
+description: "Pavlova with raspberries features fresh berries, maple syrup, and lemon juice with an almond-oat crumble topping. Arrowroot powder creates a silky berry filling."
+metaDescription: "Pavlova with raspberries made with fresh fruit, maple syrup, and lemon juice. Topped with crunchy almond-oat crumble and whipped cream. Make it tonight."
+ogDescription: "Fresh raspberries, maple syrup, and lemon juice layered into a stunning pavlova with almond-oat crumble and whipped cream."
+focusKeyphrase: "pavlova with raspberries"
 date: 2025-08-15
 draft: false
 image: strawberry-tart-sundae.jpg
@@ -21,9 +21,16 @@ tags:
 - "raspberry"
 - "dessert"
 keywords:
-- "raspberry dessert"
-- "coconut whipped cream"
-- "maple syrup glaze"
+- "pavlova with raspberries"
+- "berry sundae"
+- "raspberry strawberry dessert"
+- "berry crumble tart"
+- "raspberry and strawberry crumble"
+- "dessert with strawberries and raspberries"
+- "strawberry raspberry crumble"
+- "berry dessert recipe"
+- "almond crumble topping"
+- "whipped cream dessert"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "220"
@@ -76,3 +83,89 @@ faq:
 - "q: Why add lemon juice? a: Acidity brightens flavor, crucial for gel set with arrowroot. Too little, topping lacks lift; too much thins mix. Adds fresh zing that battles maple sweetness. Not just flavor, also affects texture balance."
 
 ---
+
+Scoop ice cream first—that's actually the move here. Warm berry sauce goes right over cold cream, nothing breaks, textures work against each other the way they're supposed to. Takes 31 minutes total if you move. Most of that is waiting for things to cool enough to not melt everything into soup.
+
+## Why You'll Love This Raspberry Strawberry Dessert
+
+Warm berry sauce over cold ice cream. The contrast. It's kind of the whole thing.
+Tastes like you made it at a restaurant, but you just melted some raspberries and threw it on vanilla. Nothing fancy. Works with what you have.
+Crumble goes on top. Almond-oat. Toast it first and the whole dessert smells like a bakery. Not your kitchen. Someone else's kitchen where they know what they're doing.
+Takes 25 minutes to prep. Six minutes on heat if you watch it. Chill time doesn't count—go do something else.
+Vegan if you swap the whipped cream and use coconut ice cream. Doesn't taste like you made sacrifices.
+
+## What You Need for a Berry Sundae
+
+Three-hundred grams of raspberries. Fresh, not frozen unless you have no other option. Halve them if they're huge. The blender gets half of them first—pulse until chunky, not smooth. Save the rest.
+
+Maple syrup. A few tablespoons. Honey works if that's what's there. Not white sugar. Sugar gets sharp. Maple goes caramel. Different thing.
+
+Lemon juice. Fresh. A tablespoon and a teaspoon. Not bottled. Bottled tastes like the bottle.
+
+Arrowroot powder—not cornstarch. Cornstarch leaves a taste. Arrowroot doesn't. Small difference. Matters.
+
+Water to dissolve the powder. Doesn't need to be special.
+
+Vanilla ice cream. Coconut if you're going vegan. Cold. Very cold.
+
+Whipped cream. Real or coconut. Pipe it or dollop it. Doesn't matter much.
+
+Almond-oat crumble. Make it or buy it. If you make it, toast it first. That changes everything.
+
+## How to Make a Raspberry Strawberry Sundae
+
+Get half your raspberries into the blender. Two-thirds cup if you're measuring. Pulse it. Not long. You want pieces, not jam. See red chunks in there still—that's right.
+
+Add the maple syrup and lemon juice and the arrowroot you already mixed into water. Pulse again until it looks combined but rough. Nothing smooth.
+
+Pour the whole thing into a saucepan. Medium heat. Stir constantly. This is not a step you walk away from.
+
+Watch for the bubbles. They'll get dense, like glass beads forming on the surface. That's when it's starting to thicken. Takes maybe three minutes. Maybe four. Depends on your stove. The bubbles tell you.
+
+## How to Get the Berry Sauce Just Right
+
+Once you see the bubbles changing, add the rest of your raspberries. The ones you didn't blend. Stir them in carefully or they'll break into nothing.
+
+Heat for another ninety seconds. Keep stirring or the bottom scorches and the whole thing tastes burnt. A spatula coating thickly in glaze means you're there. It should shine. Flow slow. Not liquid. Not concrete.
+
+Pull it off heat. Let it cool on the counter—not in the fridge yet. You need it warm enough to actually change the texture of the ice cream when it hits, but not steaming. Ten minutes. Fifteen. Depends on how impatient you are.
+
+Once it's barely warm, cover it and put it in the fridge. Twenty minutes minimum. Longer is fine. Flavors marry. Gets better.
+
+## Berry Sundae Tips and Common Mistakes
+
+Frozen raspberries work if fresh isn't an option. Defrost them completely. Drain them hard or the sauce gets watery and breaks. Not worth the risk.
+
+Arrowroot over cornstarch every time. Glossier gel. Cornstarch leaves this weird starchy taste that doesn't belong here.
+
+Maple versus honey. Maple is caramel notes. Honey is honey. Both work. White sugar is too sharp. Passes it up.
+
+Toasted crumble changes the whole dessert. Costs nothing. Takes five minutes in the oven. Smells like burnt nuts and bread—good burnt, not bad burnt. Totally worth it.
+
+If the sauce comes out too runny, mix extra arrowroot into cold water, stir it in, heat again for thirty seconds. Fixes it. Doesn't ruin anything.
+
+Serve right after assembly or chill for a few minutes if you want flavors to settle. Don't wait longer—ice cream disappears into a puddle and nobody wanted that.
+
+Whipped coconut cream works as well as dairy cream. Tastes lighter. Not vegan by accident. Actually good.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Berry Sundae
+
+**Can I make the sauce ahead of time?**
+Yeah. It keeps for three days, maybe four. Cold in the fridge. Just reheat it in the saucepan for a minute when you're ready. Needs to be warm when it hits the ice cream.
+
+**What if I don't have arrowroot powder?**
+Cornstarch works. Texture's different though. Less glossy. Starchy taste lingers a bit. Not the end of the world.
+
+**Can I use strawberries instead of raspberries?**
+Sure. Quarter them. They're bigger. Follow the same steps. Might need an extra minute on heat because they're denser. Watch the bubbles, not the clock.
+
+**Should the sauce be hot or warm when I pour it?**
+Warm. Not hot. If it's steaming, it melts the ice cream too fast and everything gets mushy. You want the edges soft, the middle still frozen. Warm does that. Hot doesn't.
+
+**How long does the raspberry and strawberry dessert last?**
+Once you assemble it? Eat it. The crumble gets soft sitting there. The ice cream melts. Assembly is the moment. Do it and eat it.
+
+**Can I make the crumble days ahead?**
+Yes. Store it dry. Toast it again before you use it if it's been a few days. Brings the smell back. Doesn't cost much.
