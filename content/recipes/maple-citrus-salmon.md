@@ -1,10 +1,10 @@
 ---
-title: "Maple Citrus Salmon"
+title: "Roasted Salmon with Pomegranate Seeds"
 slug: "maple-citrus-salmon"
-description: "Salmon filet roasted with a tart twist of fresh cranberries swapped for tangy pomegranate seeds. Maple syrup replaced with agave nectar for a different sweetness profile. Dijon mustard traded for grainy brown mustard giving a rustic bite. Salmon cooks gently at slightly lower temp, preserving texture. Garnished with fresh dill instead of cerfeuil to complement the citrus tones added in marinade. Balanced sweet, tart, and savory. Easy midweek meal."
-metaDescription: "Maple Citrus Salmon roasted gently with pomegranate seeds, agave nectar, grainy mustard, fresh dill; balanced sweet and tart flavors in six servings."
-ogDescription: "Roast salmon with crisp skin topped by tart pomegranate, agave sweetness, grainy mustard, and fresh dill; watch for flaky texture, cook time around 18 mins."
-focusKeyphrase: "Maple Citrus Salmon"
+description: "Roasted salmon filet topped with pomegranate seeds, agave nectar, and grainy brown mustard. Lemon zest and fresh dill add bright citrus notes to this easy, balanced weeknight dinner."
+metaDescription: "Roasted salmon filet with pomegranate seeds, agave nectar, and lemon zest. Grainy mustard and fresh dill create a balanced, savory-sweet dish. Make it tonight."
+ogDescription: "Wild salmon filet roasted with pomegranate seeds, agave, and grainy mustard. Bright lemon zest and dill elevate this easy dinner."
+focusKeyphrase: "roasted salmon with pomegranate seeds"
 date: 2025-08-07
 draft: false
 image: maple-citrus-salmon.jpg
@@ -20,9 +20,18 @@ tags:
 - "citrus"
 - "healthy"
 keywords:
-- "salmon filet recipe"
-- "citrus salmon glaze"
-- "oven roasted salmon"
+- "roasted salmon with pomegranate seeds"
+- "salmon filet"
+- "roasted salmon"
+- "pomegranate glazed salmon"
+- "healthy salmon dinner"
+- "salmon with lemon zest"
+- "roasted salmon with citrus"
+- "salmon with agave nectar"
+- "wild salmon recipe"
+- "easy salmon dinner"
+- "grainy mustard salmon"
+- "salmon with fresh dill"
 breadcrumb: ["Home", "Recipes", "Seafood"]
 nutrition: 
  calories: "320"
@@ -61,3 +70,74 @@ faq:
 - "q: How to store leftovers? a: Refrigerate sealed container up to 2 days. Texture changes; reheat gently at low temp to avoid drying. Cold slices fine for salads or sandwiches but lose glaze crispness. Freeze not recommended; flaky fish suffers."
 
 ---
+
+Skin side down, 190°C, 18 minutes. That's it. Wild salmon doesn't need much—just something that makes the top shine and taste like it came from somewhere expensive.
+
+## Why You'll Love This Roasted Salmon With Citrus
+
+Takes 35 minutes total. Seventeen to prep, eighteen to roast. Weeknight energy but tastes like you planned it.
+The pomegranate glazed salmon gets this sticky-sweet crust that doesn't taste healthy—but it is. Agave and mustard do that.
+One pan. Skin stays crispy. Flesh stays moist. Not always easy on the same filet, but this works.
+Leftovers are actually better cold. Maybe temperature doesn't matter. Just tastes good either way.
+
+## What You Need for Roasted Salmon With Pomegranate
+
+A wild salmon filet with skin, about 900 grams. Farmed works. Wild tastes different—cleaner, less oily.
+Pomegranate seeds. Chop them a bit. Not dust. Just break them down enough they stick to the glaze instead of rolling off.
+Agave nectar instead of maple. Lighter color. Less heavy. Honey works too but it's sweeter—add less if you go that way.
+Grainy brown mustard. Whole grain, not smooth. The texture matters here—those little seeds catch when you chew it.
+Lemon zest. Half a lemon's worth. Get it before you juice anything. Microplane works. So does a box grater if you go gentle.
+Fresh dill. A few sprigs. Dried doesn't work. The flavor turns into something else, something dusty.
+Salt and cracked black pepper. That's actually it.
+
+## How to Make Roasted Salmon With Citrus and Pomegranate
+
+Rack goes middle. Oven to 190°C—375 if you're in Fahrenheit. Let it preheat. This matters because the pomegranate glaze needs that initial heat or it steams instead of crisps.
+
+Line a baking sheet with parchment. Slap the salmon skin side down. Pat the flesh side dry. Water on there means the glaze slides off or steams. You want it to stick.
+
+Salt and pepper the flesh side only. Not the skin. The skin gets seasoned from the heat and from whatever juice runs down. Oversalt it and you ruin it.
+
+Small bowl. Pomegranate seeds. Agave nectar. Mustard. Lemon zest. Stir it until it looks like jam—sticky, chunky, not a sauce. It should barely move when you tilt the bowl.
+
+Spoon it across the salmon. Press it down a little. Not hard. Just enough so it doesn't fall off when you move the pan.
+
+Into the oven. Eighteen minutes. Maybe seventeen if your filet is thin. Maybe nineteen if it's thick. Listen for that faint crackle sound—that's the sugars hitting real heat. It'll stop crackling around minute fifteen. That's fine. Keep it in anyway.
+
+Flesh should go opaque and flake when you press it with a fork but still feel a tiny bit soft in the middle when you touch it. That's the target. Not cooked through completely. That's the mistake most people make.
+
+## How to Get Roasted Salmon Skin Crispy and Moist
+
+The skin-side-down method keeps skin on the pan so the heat hits it directly. No flipping. Skin gets crispy. Flesh stays moist from the steaming that happens inside.
+The glaze sits on top and protects the flesh from drying out. It's sweet and thick so it acts like a little blanket. The pomegranate seeds actually insulate.
+Temperature matters. 190°C is hot enough for the glaze to caramelize but not so hot that the outside cooks before the inside gets opaque. Too hot and the top burns while the inside stays raw.
+
+## Roasted Salmon Tips and Common Mistakes
+
+Don't skip the drying step. Moisture on the flesh means the glaze doesn't adhere and the whole thing gets watery.
+The glaze is thick on purpose. If it looks too stiff, add a few drops of water—not lemon juice, it'll curdle the agave. Just a tiny splash of water.
+Rest it three minutes minimum. Slice too fast and all the juice runs out onto the plate instead of staying in the fish. The dill goes on while it's still hot so it wilts a tiny bit and smells like itself.
+Serve it warm or lukewarm. Cold is fine but the glaze gets hard and tastes like candy instead of part of the fish. Warm keeps it soft, keeps it shiny, keeps the whole thing looking like you meant to do this.
+Watch your oven. Every oven runs different. If yours runs hot, subtract a minute. If it's older, add a minute. Seventeen to nineteen is the real window.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Salmon With Citrus
+
+**Can I use maple syrup instead of agave nectar?**
+Yeah. It'll taste a bit deeper, a bit richer. Maple's thicker so use maybe 15 ml instead of 20 ml or it gets too heavy.
+
+**What if I don't have pomegranate seeds?**
+Skip them. The glaze still works. You lose the texture and the tartness. Cranberries work if you have them—same tart thing going on.
+
+**How long does this keep in the fridge?**
+Four days, cold. The skin gets soft but the fish stays good. Eat it straight from the fridge or let it sit a few minutes at room temperature.
+
+**Can I make this with a salmon steak instead of a filet?**
+Not really. The bone-in thing changes how it cooks. Filets are easier. Steaks work but the timing gets weird—might take longer.
+
+**Does the dill have to go on at the end?**
+Yes. Under the glaze it gets bitter and weird. On top while it's hot, it stays bright and tastes like itself.
+
+**Is wild salmon significantly healthier than farmed?**
+It tastes cleaner. Healthier depends on what you're measuring. Wild's lower in fat. Farmed has more omega-3s from the feed. Either one is good. Taste is the real difference here.
