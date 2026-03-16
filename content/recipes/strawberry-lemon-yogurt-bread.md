@@ -1,10 +1,10 @@
 ---
-title: "Strawberry Lemon Yogurt Bread"
+title: "Strawberry Bread with Yogurt and Lemon"
 slug: "strawberry-lemon-yogurt-bread"
-description: "A tangy, moist loaf with fresh strawberries and a bright lemon bite. Yogurt keeps it tender, applesauce replaces oil for moisture and a lighter crumb. Flour dusts the berries to avoid sinking. A simple glaze made of powdered sugar and lemon zest crowns the loaf with a sweet-tart finish. Baking cues rely more on scent and texture than times—listen for the soft crack as crust sets; toothpick test for internal doneness. Sub vanilla with almond extract for a nutty twist or swap strawberries for blueberries. Don’t overfold berries or color bleeds. Cooling on rack is essential to keep crust crisp beneath the glaze."
-metaDescription: "Strawberry lemon yogurt bread with tangy lemon zest, moist crumb from yogurt and applesauce. Flour coats berries to stop sinking. Glaze adds sweet-tart finish."
-ogDescription: "Moist tangy loaf with strawberry bursts and crisp lemon glaze. Yogurt and applesauce keep texture light. Watch for aroma and crack for doneness cues."
-focusKeyphrase: "strawberry lemon yogurt bread"
+description: "Moist strawberry bread made with Greek yogurt, applesauce, and fresh lemon juice. Tender crumb with a sweet-tart glaze finish."
+metaDescription: "Strawberry bread recipe using Greek yogurt and applesauce for a moist, tender loaf. Fresh lemon zest crowns the top. Make it tonight."
+ogDescription: "Greek yogurt strawberry bread with lemon zest glaze. Fresh berries, applesauce, and bright citrus in every slice."
+focusKeyphrase: "strawberry bread"
 date: 2025-10-04
 draft: false
 image: strawberry-lemon-yogurt-bread.jpg
@@ -21,9 +21,18 @@ tags:
 - "breakfast"
 - "easy"
 keywords:
-- "yogurt bread"
 - "strawberry bread"
-- "lemon zest bread"
+- "yogurt cake recipe"
+- "lemon yogurt cake"
+- "strawberry loaf"
+- "lemon drizzle cake with yogurt"
+- "greek yogurt cake"
+- "yogurt and lemon cake"
+- "blueberry yogurt cake"
+- "easy banana strawberry bread"
+- "lemon cake using yogurt"
+- "recipe for strawberry bread"
+- "yoghurt cake recipe"
 breadcrumb: ["Home", "Recipes", "Breads"]
 nutrition: 
  calories: "210"
@@ -80,3 +89,103 @@ faq:
 - "q: Can I use vanilla extract instead of almond? a: Definitely. Almond adds nuttiness, vanilla is more mellow. Swap 1:1. Changing extracts shifts flavor, no baking impact."
 
 ---
+
+Strawberries go in at the last second—coated in a little flour so they don't sink and bleed color everywhere. The yogurt keeps it moist. The lemon cuts through sweet. Forty minutes and you have breakfast bread for three days.
+
+## Why You'll Love This Strawberry Bread
+
+Takes 30 minutes to prep. You're actually baking in 40 more.
+Fresh strawberries stay whole-ish instead of disappearing into the crumb.
+Greek yogurt makes it tender without needing oil—lighter breakfast or snack.
+Lemon zest and juice do the heavy lifting flavor-wise. Not cloyingly sweet.
+Works cold the next day. Actually better cold.
+
+## What You Need for Lemon Yogurt Bread
+
+Greek yogurt—plain, not flavored. Sour cream works if that's what's open. Buttermilk too, though it'll be a touch tangier.
+
+All-purpose flour. One and a half cups, plus a tablespoon to dust the berries. That flour coating stops them from sinking straight to the bottom.
+
+Baking powder. A teaspoon and a quarter. No baking soda here—the yogurt's doing the lifting, the baking powder backs it up.
+
+Sugar. Three quarters cup. Granulated. Not less, not more—the ratio matters for crumb structure.
+
+Applesauce. A third cup, unsweetened. It's there for moisture. If you want denser and richer, swap it for vegetable oil instead.
+
+Two eggs. Fresh matters more than size.
+
+Lemon. You need the zest from one—roughly a tablespoon—and the juice from that same lemon. Bottled doesn't have the same punch.
+
+Almond extract. A teaspoon. Not vanilla. It threads through and tastes like something actual instead of generic baking.
+
+Fresh strawberries. A cup, hulled and cut into quarters. Not massive pieces. Not tiny.
+
+For the glaze: powdered sugar, milk, more lemon zest. Three quarters cup sugar, between two and three teaspoons of milk, a teaspoon of zest.
+
+Salt. Half a teaspoon in the dry mix.
+
+## How to Make Strawberry Bread
+
+Heat your oven to 350°F first. Line a 9 by 5 loaf pan with parchment or spray it down. The pan needs to release clean—don't skip this.
+
+Whisk the flour, baking powder, and salt in a medium bowl. Actually aerate it. Flour compacts. You're breaking that up. Keep it separate.
+
+In another bowl—and this part matters—mix the yogurt, sugar, applesauce, eggs, lemon zest, lemon juice, and almond extract. Stir until smooth. Don't beat it. Don't keep going. The moment it looks combined, stop.
+
+Pour the dry stuff into the wet stuff. Fold gently. Lumps are fine. Over-stirring kills the crumb. You're looking for just combined.
+
+Dust the strawberries with a tablespoon of flour. This keeps them from sinking and bleeding color through everything. Fold them in soft. Don't stir. Fold.
+
+Pour into the pan. Tap the bottom on the counter a few times—gets the big air bubbles out. Slide into the oven.
+
+After about 40 minutes the smell changes. Shifts from wet dough to something sweet and citrusy. The top gets golden. Edges firm up. Tap it—should sound solid, not hollow, but not rock either. Toothpick in the center comes out clean or with some wet crumbs clinging. Not wet batter.
+
+Pull it out. Let it sit in the pan for 10 minutes—that's crust formation happening. Then loosen the edges with a butter knife and flip it onto a rack. Cool completely. Warm bread and glaze don't mix—it melts and slides off and gets soggy.
+
+## How to Get Lemon Yogurt Cake Dense but Not Dry
+
+The yogurt handles this. It adds moisture and acid. The acid hits the baking powder and creates lift, but it's tender lift. Not airy. The applesauce supplements—adds more moisture without oil weight.
+
+Don't overmix the wet with the dry. That's the enemy. Overmixing develops gluten. Gluten means tough. Fold instead of stir. Fold means gentle. Lumps stay—they dissolve in the oven anyway.
+
+The strawberries coated in flour. Not just for sinking prevention. The flour absorbs their moisture instead of dumping it into the batter. Keeps the crumb stable.
+
+Cool completely before glazing. Warm bread absorbs glaze and it doesn't set. It pools and runs off and looks rough. Cold bread holds it. The glaze sits on top and sets into a thin, actual glaze.
+
+## Strawberry Bread Tips and Common Mistakes
+
+Fresh berries matter. Frozen ones release water when they thaw in the batter. It happens fast and it's hard to control. Fresh and the moisture stays contained.
+
+Slice with a serrated knife. A regular knife crushes it. Serrated actually cuts.
+
+Store airtight. Not in plastic wrap touching the bread—it sweats. Use a container or bag with actual seal. Stays moist for two days easy. After that the crumb starts drying.
+
+It tastes better the next day. Flavors settle. The lemon deepens. The strawberry isn't aggressive anymore.
+
+Don't skip the flour coating on the berries. You'll watch them sink. You'll watch the color bleed. You'll be annoyed for three days.
+
+The glaze thickness depends on your preference. Like it thin and drippy, use three teaspoons milk. Like it thick and sitting, use two. Add milk one drop at a time—once it's too thin you're adding more powdered sugar and starting over.
+
+Lemon zest in the glaze matters. Powdered sugar on its own is one-note. The zest wakes it up.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Strawberry Bread
+
+**Can I use frozen strawberries?**
+They'll release water and the crumb gets weird. Fresh only.
+
+**What if I don't have almond extract?**
+The bread still works. Won't have that specific thread of flavor though. Vanilla's too expected. Skip it instead of substituting.
+
+**How long does it keep?**
+Two days in an airtight container. After that the edges start getting hard. It's not bad, it's just not the same.
+
+**Can I make this with a yogurt cake recipe angle and substitute the berries?**
+Sure. Blueberries work. Raspberries work—though they're softer. Blackberries are fine. Same flour coating applies. Strawberries just happen to be what this is.
+
+**Does the applesauce change the taste?**
+No. You don't taste it. It's there for moisture. If you swap it for oil the crumb gets denser and richer and slightly more cake-like. Both work.
+
+**Can I double it?**
+Yes. Use a bigger pan or two loaves. Check the second one at 35 minutes—it might cook faster depending on your oven. The toothpick test still applies.
