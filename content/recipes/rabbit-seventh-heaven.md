@@ -1,10 +1,10 @@
 ---
-title: "Rabbit Seventh Heaven"
+title: "Rabbit Stew with Dark Rum and Carrot Juice"
 slug: "rabbit-seventh-heaven"
-description: "A rustic rabbit stew enriched with Caribbean dark rum and carrot juice. Butter-browned rabbit pieces become tender through slow simmering. The process involves repeated moistening with carrot juice, developing layers, no heavy cream or nuts. Uses standard pantry items but switches rum proportions and carrot juice volumes for a lighter, nuanced sauce. A twist with shallots instead of onions shifts aroma subtly. Ideal for those craving game with a lively citrus edge in sauce. Simple seasoning; all about patience and attentive simmering. Common pitfalls include overcooking or letting the sauce dry out. Serve with fragrant black mushroom rice for earthiness balance. A confident cook's dish – no shortcuts. You’ll learn to watch, smell, and nudge the pot, not just time it."
-metaDescription: "Rabbit Seventh Heaven slow-simmered in clarified butter with Caribbean dark rum and carrot juice. Rich, tender, gamey stew with shallots and balanced seasoning."
-ogDescription: "Rustic rabbit stew. Browning with patience. Dark rum deglaze. Carrot juice simmer keeps tender. Shallots gently soften. No cream, no shortcuts."
-focusKeyphrase: "rabbit stew Caribbean rum"
+description: "Tender rabbit stew enriched with Caribbean dark rum and fresh carrot juice. Butter-browned rabbit pieces slow-simmer into a nuanced, lively sauce without cream."
+metaDescription: "Rabbit stew with dark rum and carrot juice—tender butter-browned rabbit, shallots, and Caribbean rum. A confident cook's rustic dish. Make it tonight."
+ogDescription: "Tender rabbit stew with Caribbean dark rum, fresh carrot juice, and butter-browned rabbit pieces. Rustic comfort with citrus edge."
+focusKeyphrase: "rabbit stew with dark rum"
 date: 2025-09-29
 draft: false
 image: rabbit-seventh-heaven.jpg
@@ -21,9 +21,16 @@ tags:
 - "easy dinner"
 - "comfort food"
 keywords:
-- "rabbit stew"
-- "Caribbean rum"
-- "carrot juice"
+- "rabbit stew with dark rum"
+- "rabbit stew with carrot juice"
+- "caribbean rabbit stew"
+- "slow cooked rabbit stew"
+- "butter browned rabbit"
+- "rabbit stew recipe"
+- "game meat stew"
+- "comfort food rabbit"
+- "rum and rabbit"
+- "shallot rabbit stew"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "350"
@@ -66,3 +73,83 @@ faq:
 - "q: How to store leftovers? a: Cool quickly, fridge up to 2 days. Reheat gently low heat adding splash carrot juice for moisture. Freezer okay if tightly wrapped, lose some sauce brightness after thaw. Avoid microwaving fast or toughens meat. Let rest after warming before serving again."
 
 ---
+
+Cut the rabbit into eight pieces. Heat the clarified butter low and slow—medium heat at most, because high just burns everything and you lose the whole thing. Shallot goes in after. Then rum. Then carrot juice carries it all home. Fifty minutes and you've got something that tastes like it took you all afternoon.
+
+## Why You'll Love This Caribbean Stew
+
+Takes an hour total, maybe less if your stove runs hot. Most of that is just sitting there simmering—you're not actually doing anything.
+Comfort food that doesn't taste like comfort food. Tastes like rum and carrots and meat that fell apart on its own.
+Works cold the next day, maybe better. The flavors sit overnight and get quieter, smoother.
+Easy dinner without feeling boring. One pot. No sides required, though black mushroom rice is the move if you've got it.
+Rabbit gets tender without falling to pieces. Not the worst thing if it does, but the point is meat that's soft all the way through and still holds its shape.
+
+## What You Need for Rabbit Seventh Heaven
+
+Rabbit—one large one, cut into eight pieces. Not chicken. Rabbit's gamey, denser, holds up to long cooking without getting stringy.
+Clarified butter or ghee. About three and a half tablespoons. Regular butter has water in it and burns faster. Not worth the trouble.
+One shallot, thin sliced. Not onion. Shallots are milder, sweeter, don't overpower the meat the way a whole onion would.
+Caribbean dark rum. Fifty milliliters. The kind that costs a bit more. Light rum tastes thin here. Skip it.
+A litre of fresh carrot juice. Not the bottled stuff that's been sitting. Taste it first—some brands are weird, too sweet or metallic. You might need more as it cooks.
+Sea salt and black pepper. Grind your own pepper. Pre-ground tastes like dust after a month.
+
+## How to Make Easy Rabbit Stew
+
+Get a heavy pot. Thick bottom. Heat the clarified butter until it shimmers—not smoking, just shimmering. Medium heat. Maybe medium-low if your burner runs hot.
+
+Rabbit pieces go in skin-side down first. Don't crowd them. Work in batches if you have to. Let them sit. Twelve to fifteen minutes before you even think about flipping. You're looking for deep golden color, almost mahogany in spots. That's where the flavor lives.
+
+Season as they brown. Salt and pepper right then, not later. Dries the surface. Helps everything brown darker.
+
+The shallot comes next. Stir it gently for four minutes until it goes soft and translucent. Not brown. Brown tastes bitter. You want sweet, delicate.
+
+Pour the rum in slow. You'll hear it sizzle. The alcohol burns off, vapor rises. Scrape the bottom of the pot with a wooden spoon—all those brown bits that stuck. That's what makes the sauce worth eating.
+
+## How to Get Caribbean Rabbit Stew Tender and Rich
+
+Add about a hundred thirty millilitres of carrot juice. That's a bit more than half a cup. Bring it to a gentle simmer. Then turn the heat down to low. This matters. Low heat, not medium. High heat toughens meat.
+
+Cover the pot but leave the lid ajar. Not sealed. You want some moisture to escape so the sauce thickens and coats the meat instead of drowning it.
+
+Check every four minutes or so. If it looks dry or the rabbit's starting to look leathery on top, add thirty to forty millilitres more carrot juice. Keep doing this. The stew should barely bubble. Not a rolling boil. Barely. That takes thirty to thirty-five minutes total.
+
+You'll see the sauce darken. It'll coat the back of a spoon with a faint sheen when you drag a finger across it. That's the sign.
+
+Fork test. Tap a piece of meat with a fork. It should give without shredding. Still hold its shape. If it's tough, keep going. No timer matters more than what the meat tells you.
+
+## Rabbit Stew Tips and Common Mistakes
+
+Don't flip constantly. People do this. Flip, flip, flip, flip. Stop. Let it brown. Patience is the whole thing.
+
+Shallot—not onion. I've tried it both ways. Onion makes it taste like French onion soup instead of Caribbean stew. Shallot stays quiet.
+
+Rum should peek through. Not bite. If it tastes like you're drinking from the bottle, you either used too much or didn't let enough evaporate. The alcohol should be gone; the sweetness and oak should stay.
+
+Carrot juice matters. Bottled stuff that's been sitting tastes processed. Fresh is different. Tastes like actual carrots got juiced yesterday. Also—some brands are naturally sweeter than others. Taste first.
+
+The meat cooks low and slow because rabbit is lean. High heat makes it tough. Doesn't matter how long you cook it then.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Rabbit Seventh Heaven
+
+**Can I use chicken instead of rabbit?**
+Technically, yeah. Tastes completely different though. Chicken's bland next to this. Rabbit's gamey—that's the whole point. If you don't have rabbit, pick something else.
+
+**How long does this actually take?**
+Twenty minutes prep, fifty minutes cooking. One hour ten minutes total. Most of that cooking time is just heat doing the work. You're standing there maybe five minutes actually doing something.
+
+**What if I can't find fresh carrot juice?**
+Bottled works. Not ideal. Tastes a bit more processed. Haven't found a brand that's perfect. Fresh is worth finding if you can.
+
+**Does it freeze?**
+Yeah. Cool it completely first. Freeze in portions. Thaws fine. Tastes the same or maybe better. The flavors settle more.
+
+**Can I make this in a slow cooker?**
+Brown the rabbit and shallot in a pot first—that browning step matters. Then transfer to the slow cooker with the rum and carrot juice. Four to five hours on low. Check it doesn't dry out. Add more juice if needed.
+
+**What starch goes with this?**
+Djon djon rice if you can get black mushrooms. Otherwise any earthy starch—polenta, regular rice, even just bread. The stew's got sweetness and gamey notes. Something neutral balances it. Potatoes work. Nothing fancy required.
+
+**Is the rum necessary?**
+Pretty much yeah. It adds something you can't replace. The sweetness, the depth. Leaving it out makes it taste like regular stew. Skip it if you need to, but don't pretend it's the same dish.
