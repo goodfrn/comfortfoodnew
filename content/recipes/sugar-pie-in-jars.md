@@ -1,10 +1,10 @@
 ---
-title: "Sugar Pie in Jars"
+title: "Strawberry Rhubarb Crisp with Buttery Crust"
 slug: "sugar-pie-in-jars"
-description: "Old-fashioned sugar pie reimagined in jars. Brown sugar custard thickened with cornstarch, folded with eggs and cream. Flaky crust disks sandwich the rich filling. Whipped cream crowns before chilling. Perfect for small servings, easy to store, and surprisingly elegant. Simple pantry staples transformed with technique and timing. No nuts. Creamy, dense filling with a buttery, golden crust. Maple syrup brings depth beyond plain sugar. Making dough in one bowl cuts mess. Watch texture, use touch. Oven temps and cooling crucial here. Classic comfort dessert but with a rustic, portable twist. Rustic yet refined."
-metaDescription: "Sugar Pie in Jars with brown sugar custard and flaky crust disks. Maple syrup adds depth. Layered, chilled, whipped cream crowned individual servings. Rustic and elegant."
-ogDescription: "Old-fashioned sugar pie flipped in jars. Brown sugar, custard, flaky crusts, maple syrup depth, topped with whipped cream. Chilled, portable, rustic layers."
-focusKeyphrase: "Sugar Pie in Jars"
+description: "Make strawberry rhubarb crisp with brown sugar custard filling thickened with cornstarch, maple syrup, and cream. Golden buttery crust with whipped cream topping."
+metaDescription: "Strawberry rhubarb crisp recipe with brown sugar custard, cornstarch thickening, maple syrup, and homemade buttery crust. Make it tonight."
+ogDescription: "Homemade strawberry rhubarb crisp with brown sugar custard, maple syrup, cream, and golden buttery crust."
+focusKeyphrase: "strawberry rhubarb crisp"
 date: 2025-09-27
 draft: false
 image: sugar-pie-in-jars.jpg
@@ -21,9 +21,18 @@ tags:
 - "no bake"
 - "easy"
 keywords:
-- "sugar pie"
-- "brown sugar custard"
-- "maple syrup dessert"
+- "strawberry rhubarb crisp"
+- "strawberry rhubarb crumble"
+- "recipes for strawberry rhubarb crisp"
+- "berry pie fillings"
+- "cream and sugar pie"
+- "homemade apple pie filling"
+- "lemon icebox pie recipe"
+- "making creme caramel"
+- "graham cracker crust cheesecake no bake"
+- "no bake pie"
+- "easy peanut butter pie"
+- "key lime pie no bake recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "410"
@@ -85,3 +94,103 @@ faq:
 - "q: How to store leftovers? a: Keep jars sealed in fridge up to three days. Crust softens slowly but flavor lingers. If unsealed glass, cover tight with plastic wrap to avoid moisture. Freeze not ideal; custard texture degrades. Serve cold, allow slight warming if overly firm."
 
 ---
+
+Thirty minutes of prep. Thirty in the oven. Then the layering starts — three buttery rounds stacked with custard and whipped cream, chilled until the whole thing holds together like it was meant to be this way. Had a jar of this sitting in the back of the fridge once. Grabbed it cold at midnight. Somehow tasted better than it did fresh.
+
+## Why You'll Love This No Bake Comfort Dessert
+
+Three textures happening at once — crisp crust, thick cream filling, cloud of whipped cream. They don't fight. They take turns.
+
+Tastes fancy. Looks fancy. Takes an hour total and most of that's chilling. Not actual work.
+
+Keeps for three days. Maybe four. You'll eat it before then anyway.
+
+Works as a no bake dessert or a full pie situation depending on what you're after. Flexible like that.
+
+The custard's the thing — maple and brown sugar doing something together that tastes like comfort food from a memory you almost have.
+
+## What You Need for Strawberry Rhubarb Crisp Crust and Filling
+
+Cold butter. Not room temperature. If it's soft, the crust gets dense and sad.
+
+All-purpose flour — two cups minus a tablespoon. One tablespoon plus a teaspoon of milk. One egg. The crust is just butter and flour and patience, basically.
+
+Brown sugar packed tight — almost two cups. Cornstarch. Heavy cream. Maple syrup. Two egg yolks and one whole egg beaten together. The filling's a custard that's not quite creme caramel but has that same thick, glossy thing happening.
+
+More heavy cream for whipping — a cup and a half. Sugar for sweetening it. Salt. That's it.
+
+Optional: cinnamon or crystallized ginger for the top. Doesn't need it but doesn't hurt.
+
+## How to Make the Crust for Your No Bake Pie
+
+Flour, sugar, salt go in the food processor first. Pulse until mixed. Add the cold butter cubes — and they have to be cold, the temperature actually matters here — pulse until it looks like small peas. This takes maybe twenty seconds, not more.
+
+Milk and egg go in next. Pulse fast. Watch the dough. The second it starts clustering together, stop. Overmixing makes the crust tough and you'll taste it. Form it into a disc, wrap it, chill it for at least thirty minutes. This matters. The gluten needs to relax or the dough shrinks in the oven.
+
+Light flour on the surface. Roll it out to about three millimeters thick — basically an eighth of an inch. Cut thirty-six rounds with a biscuit cutter or a glass rim. Sharper edges give you cleaner shapes. Lay them on parchment paper.
+
+Cover loosely. Refrigerate again for twenty-five minutes. This second chill is the thing that stops the crusts from spreading all over the pan and helps them brown evenly instead of puffing weird.
+
+## How to Get the Crust Crispy and Golden
+
+Oven to 400 degrees Fahrenheit. Rack low so the bottoms actually cook instead of staying pale and doughy.
+
+Bake for twelve to seventeen minutes. Watch for golden edges. Watch for puffing. The dough should spring back when you touch it. Too pale means underbaked — you'll bite into raw flour. Too dark and the butter tastes burnt, which kills the whole delicate thing.
+
+Cool completely. If you fill them hot the custard seeps in and the texture becomes a mess instead of three separate layers.
+
+## Making the Filling and Assembling Your Layered Dessert
+
+Heavy saucepan. Brown sugar and cornstarch go in together. Whisk them. Add the cream, maple syrup, the beaten egg yolks and whole egg. Stir well. Lumps happen if you don't pay attention.
+
+Medium heat. Not low because the caramelization stalls. Not high because the eggs scramble. Stir constantly. After eight to twelve minutes it thickens — should bubble gently, coat the spoon, cling but still pour. The moment it looks right, pull it off. Carryover heat keeps thickening it.
+
+Transfer to a bowl. Cover the surface with plastic wrap so no skin forms on top. Chill for at least an hour. Resist rushing. The custard stabilizes and the texture gets better.
+
+Whip the chilled cream with sugar until stiff peaks form. Keep the bowl and beaters cold. Don't overbeat or it breaks and gets grainy. Sugar slows the whipping but stabilizes the cream and adds sweetness — it's doing work.
+
+Into a jar or glass — one crust disk on the bottom. Spoon the custard evenly on top. Another crust disk. A generous dollop of whipped cream. One more crust disk on top as a lid. Three layers. Optional technically but the top one seals the cream and adds texture contrast — soft, crisp, soft, crisp.
+
+Seal the jars. Chill at least two hours. The flavors meld. The filling firms up slightly. The crusts soften just enough but stay crisp. Keep them sealed or covered with plastic wrap to avoid condensation.
+
+## No Bake Pie Tips and Common Mistakes
+
+Butter temperature is everything for the crust. Cold. Always. If you forget and pull soft butter out of the cupboard, the crust gets dense and doesn't crisp.
+
+Dough sticking too much when rolling? Chill it another ten minutes. Avoid overhandling. Every time you touch it, it gets warmer and squishier.
+
+The filling splits if you scramble the eggs or heat it too fast. If it happens, whisk gently, add a little cream, reheat slow on low. Usually comes back together.
+
+Honey works instead of maple syrup. Adjust sweetness because honey's different. Arrowroot or tapioca starch can replace cornstarch but they thicken differently — watch the texture.
+
+Visual cues matter more than timers. Your oven's different from mine. Your cream's different. Custard's ready when it's thick and bubbles gently — not boiling hard, just simmering. Crust's ready when edges are golden and it springs back when you touch it. Whipped cream's done when stiff but not dry.
+
+Don't skip the chilling steps. This dessert works because texture layering works. Rush it and you lose everything.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About No Bake Cream and Sugar Pie
+
+**Can I make this ahead?**
+Yeah. Fully assembled, sealed in jars, it keeps three days in the fridge. The crust softens slightly but the flavor gets better. After three days the crust's pretty soft though.
+
+**What if my custard's too thick?**
+Whisk in a tablespoon of cream. Reheat gently. Should loosen up. Happens sometimes depending on how long you cooked it.
+
+**Can I skip the chilling steps?**
+Not really. The dough shrinks in the oven if you don't rest it. The filling breaks if you don't chill it. The layers stay distinct because of the chilling. You can rush it but the texture suffers.
+
+**Is this actually no bake?**
+The crust bakes. The filling doesn't. So half no bake. If you want a full no bake version, use a graham cracker crust and don't bake anything, but then it's different enough that I wouldn't bother calling it the same dessert.
+
+**Can I use a different sweetener instead of maple syrup?**
+Honey works. Brown sugar syrup works. They taste different though. Maple's specific — it's part of the whole thing. Honey tastes lighter. Brown sugar syrup tastes deeper but not maple-y. Try it but know it'll be different.
+
+**What's the difference between this and lemon icebox pie?**
+Lemon icebox pie uses lemon juice and zest, usually no cornstarch, sometimes meringue on top. This is custard-based with brown sugar and maple. Both are no bake desserts but the filling's totally different. Icebox pie's tart. This is sweet and deep.
+
+**Can I make the pecan pie without corn syrup version instead?**
+No. This recipe isn't pecan pie. Pecan pie without corn syrup uses a different filling technique. You'd need a different recipe entirely. This is custard. Different animal.
+
+**Should I use sweetened or unsweetened whipped cream?**
+Make it yourself with heavy cream and sugar. Whipped cream from a can is mostly air and tastes like nothing. Pre-whipped from the dairy case works in a pinch but breaks down fast.
