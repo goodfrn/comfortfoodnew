@@ -1,10 +1,10 @@
 ---
-title: "Oven-Roasted Baby Carrots with Ricotta"
+title: "Roasted Carrots with Ricotta and Lemon"
 slug: "oven-roasted-baby-carrots"
-description: "Carrots roasted until tender, tossed in olive oil and seasoning, paired with a tangy ricotta spread brightened with lemon and fresh thyme. Adjust roast time by size; test softness with fork. Ricotta mix chilled for contrast. Finish with lemon zest and flaky salt for texture and punch. Easy tweaks include swapping ricotta with labneh or goat cheese for creaminess. Use any small carrots but watch timing, bigger ones need longer. Visual and tactile cues guide doneness. Salt and pepper balance earthiness, olive oil brings caramelized edges. A simple roast becomes vibrant from fresh herb and citrus lifts."
-metaDescription: "Oven-roasted baby carrots tossed in olive oil, salt, pepper. Paired with bright ricotta, lemon, thyme. Crisp edges, tender fork test, flaky salt finish."
-ogDescription: "Roast baby carrots for caramelized edges and tender bite. Ricotta mix brightens with lemon and thyme. Fork test guides doneness. Easy swaps, fresh zest finish."
-focusKeyphrase: "oven roasted baby carrots"
+description: "Roasted carrots with crispy edges tossed in olive oil, paired with creamy ricotta spread brightened by fresh lemon juice and thyme. Simple vegetarian side dish."
+metaDescription: "Roasted carrots with ricotta and lemon make an easy vegetarian side dish. Tender baby carrots, creamy ricotta, fresh thyme. Make it tonight."
+ogDescription: "Tender roasted baby carrots with lemon-brightened ricotta spread. Crispy edges, fresh thyme, flaky salt. A simple vegetarian side that impresses."
+focusKeyphrase: "roasted carrots with ricotta and lemon"
 date: 2026-01-14
 draft: false
 image: oven-roasted-baby-carrots.jpg
@@ -21,9 +21,16 @@ tags:
 - "vegetarian"
 - "side dish"
 keywords:
-- "baby carrots"
-- "roasted carrots"
-- "ricotta spread"
+- "roasted carrots with lemon and thyme"
+- "ricotta roasted carrots"
+- "roasted baby carrots"
+- "vegetarian side dishes"
+- "lemon roasted carrots"
+- "side dish recipes"
+- "roasted vegetables"
+- "caramelized carrots ricotta"
+- "baby carrots recipe"
+- "thyme lemon ricotta spread"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "190"
@@ -65,3 +72,81 @@ faq:
 - "q: How to store leftovers? a: Keep carrots and ricotta mix separate if possible. Refrigerate in airtight containers. Use within 2 days. Reheat carrots gently, avoid overheating or drying. Ricotta best served chilled or room temp. Can mix fresh lemon juice before serving again to revive flavors."
 
 ---
+
+Trimmed carrots, sheet pan, 360 degrees. Twenty-eight minutes and you've got something that tastes like you actually planned dinner.
+
+## Why You'll Love This Roasted Vegetables Side Dish
+
+Comes together in 35 minutes flat — 7 minutes chopping, 28 in the oven. Not a lot of standing around.
+The ricotta part is kind of genius. Creamy, tangy, lemon-bright. Sits next to warm roasted carrots and it's just better than it should be for how simple it is.
+Works as a side for literally anything. Fish, chicken, nothing at all. Cold the next day, somehow better.
+Vegetarian, obviously. But tastes substantial enough nobody notices.
+Cleanup isn't much — one sheet, one bowl. Done.
+
+## What You Need for Oven Roasted Baby Carrots with Ricotta
+
+Baby carrots. The small ones. Trim the greens down to an inch — matters more than you'd think.
+
+Olive oil. Two tablespoons to coat, then more to finish. It's worth it.
+
+Salt and pepper. Coarse salt on the carrots before roasting, flaky at the end. Different jobs.
+
+Ricotta cheese. A full cup. Not ricotta salata. Regular, creamy stuff. Greek yogurt works if that's what you have. Labneh too.
+
+Lemon. You need juice and zest. One lemon covers both. Fresh thyme — a teaspoon chopped. Oregano or rosemary if you've got those instead.
+
+## How to Make Roasted Carrots with Lemon and Thyme
+
+Heat the oven to 360. Gets hotter than most recipes call for, but it makes a difference. The edges actually caramelize.
+
+Toss the carrots with two tablespoons of olive oil, salt, pepper. Do it in the pan you're using if you want to skip dishes.
+
+Lay them flat. Single layer. Some overlap is okay. Stacked means steamed. Don't stack. About 28 minutes total.
+
+Watch after 15. Shake the pan or flip them. Color matters more than time here. You're looking for edges that are brown and sweet, not burnt. Carrots are done when a fork slides through without much push. Should give but not fall apart.
+
+While they roast, do the ricotta thing. Cup of ricotta in a bowl. Add the lemon juice, chopped thyme. Whisk it until it's smooth and creamy. Tastes bright. Put it in the fridge while you wait. Cold against hot is the point.
+
+## How to Get Caramelized Carrots with Deep Roast Flavor
+
+The 360-degree oven is the whole secret here. Lower temps steam them instead. Higher temps burn the outside before the inside cooks.
+
+Halfway through roasting, shake the pan or flip everything. Doesn't have to be perfect. Just turn them so they hit hot metal on different sides.
+
+The fork test beats the timer every single time. Don't guess. Push one carrot with a fork. It should slide in like it's going through soft butter. Not mushy. Not crunchy. That moment in between.
+
+Bigger carrots need more time. Thinner ones less. Five minutes difference isn't nothing. That's why you check.
+
+## Roasted Carrots with Ricotta Tips and Mistakes
+
+If carrots look dry partway through, pour a little extra oil over them. Oil hitting a hot pan creates steam that helps them soften. Sounds counterintuitive. Works.
+
+Zest the lemon before you juice it. Way easier. Get the yellow stuff off, then squeeze.
+
+The ricotta goes cold. Carrots go warm. That temperature contrast is doing half the work. Don't warm up the ricotta. Just don't.
+
+Pile it rustic. Dollops unevenly. Looks better, tastes the same, but looks matter.
+
+Flaky salt at the very end if you've got it. Sea salt works. Regular salt disappears. Flaky salt sits on top and adds a snap that gets noticed.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Vegetables Side Dishes
+
+**Can I make this ahead?**
+Roast the carrots earlier. Keep them room temp. Do the ricotta an hour before, chill it. Assemble when you're ready to eat. Warm carrots, cold ricotta — that's the thing that matters.
+
+**What if I don't have fresh thyme?**
+Oregano works. Rosemary too but chop it finer. Dried herbs are flat. Skip them and just add extra lemon zest instead.
+
+**How long do leftovers last?**
+Three days in a container. Ricotta gets watery. Eat the carrots cold, throw new ricotta on top if you're keeping them past day two.
+
+**Can I use regular carrots instead of baby carrots?**
+Yeah. Cut them into sticks or coins so they cook in the same time. Bigger pieces take longer. Adjust by checking with a fork.
+
+**Why does the ricotta mixture taste better cold?**
+The flavors settle. Lemon stops being sharp. Thyme mellows. It's just better after an hour in the fridge. Don't skip that step.
+
+**What other vegetables work this way?**
+Broccolini. Brussels sprouts. Zucchini. The ricotta and lemon thing works with pretty much anything roasted. Times change depending what you use.
