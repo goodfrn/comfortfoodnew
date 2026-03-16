@@ -1,10 +1,10 @@
 ---
-title: "Raspberry Cream Spread"
+title: "Raspberry Cream Spread with Coconut Oil"
 slug: "raspberry-cream-spread"
-description: "A raspberry-based creamy spread blending butter and flour cooked into a thickened fruit purée, whipped with sugar until light and velvety. The recipe swaps classic butter for a mix of butter and coconut oil for richness and subtle aroma. Uses apple purée instead of sugar to introduce natural sweetness and a hint of tartness. Method focuses on heat control and whisking to avoid lumps and graininess. Ideal as a tart filling, frosting alternative, or simply slathered on toast. Holds up refrigerated but benefits from tempering and re-whipping before serving to regain silkiness."
-metaDescription: "Raspberry Cream Spread made with butter and coconut oil, thickened with flour, apple purée instead of sugar, whipped light for a velvety tart filling or toast spread."
-ogDescription: "Rich raspberry cream spread whipped with apple purée, butter, and coconut oil. Watch heat, bubbles, and whip for silky, thick texture. Chill and rewhip before serving."
-focusKeyphrase: "Raspberry Cream Spread"
+description: "Raspberry cream spread blending butter, coconut oil, and apple purée into a velvety, whipped frosting. Perfect for tarts, toast, or filling."
+metaDescription: "Raspberry cream spread recipe made with butter, coconut oil, and fresh raspberry purée. Whipped light and creamy. Make it tonight."
+ogDescription: "Homemade raspberry cream spread with coconut oil, butter, and apple purée. Silky, whipped, and perfect for any occasion."
+focusKeyphrase: "raspberry cream spread"
 date: 2025-08-04
 draft: false
 image: raspberry-cream-spread.jpg
@@ -20,9 +20,16 @@ tags:
 - "coconut"
 - "easy"
 keywords:
-- "raspberry spread"
-- "cream spread"
-- "fruit purée frosting"
+- "raspberry cream spread"
+- "whipped raspberry cream spread"
+- "creamy seedless raspberry spread"
+- "raspberry coconut spread"
+- "raspberry apple fruit spread"
+- "coconut oil raspberry jam"
+- "easy raspberry spread"
+- "homemade jam recipe"
+- "butter and flour fruit spread"
+- "coconut butter spread"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "400"
@@ -62,3 +69,82 @@ faq:
 - "q: How to store spread? a: Airtight container fridge only, up to 4 days max. Rewhip after sitting half hour room temp for softness. For quick warm-up microwave 5 seconds max then stir vigorously. Overheat ruins texture, fats separate. No freezing."
 
 ---
+
+Melted butter and coconut oil. That's where this starts. Flour goes in next—whisk it fast, about 90 seconds, until the smell shifts from raw flour to something almost nutty but not quite toasted. Then the raspberry purée streams in slowly, and the whole thing thickens like magic, glossy and thick enough that a spoon leaves tracks. Five minutes on the heat, maybe three of actual bubbling, and you've got the base. The rest is mixing—adding back the rest of the softened butter with sugar, whipping until it's pale and fluffy, which takes about 6 minutes if you actually stand there and watch it. Doesn't sound like much, but it changes everything.
+
+## Why You'll Love This Raspberry Cream Spread
+
+Takes 30 minutes total. Sounds longer than it is.
+You get an easy homemade jam that's actually creamy—whipped, not spread thin on toast. Sits between butter and jam. Tastes like both, honestly.
+The coconut comes through barely—just enough to make it taste like something you can't quite name.
+Cleanup isn't nothing. One saucepan, one bowl, one mixer. That's kind of it.
+Works on literally anything. Toast, crackers, swirled into yogurt, spooned onto cake. Cold straight from the fridge, or let it warm up a bit. Either way.
+Raspberry coconut spread that doesn't need pectin, doesn't need a thermometer, doesn't need you to know what you're doing.
+
+## What You Need for Raspberry Coconut Butter Spread
+
+Unsalted butter. 280 milliliters, softened. Not melted all the way—soft like you can leave a thumbprint. You use about 50 at the start in the pan with the coconut oil, then the rest gets mixed in cold at the end.
+
+Coconut oil. 90 milliliters. Has to be solid when you start. The one from the jar. Not liquid. It melts with the butter in the pan and changes how the whole thing cooks—too hot and it separates. Just doesn't work the same with other oils.
+
+All-purpose flour. Unbleached. 80 milliliters. This is your thickener. A roux, basically, but with fruit. Works better than cornstarch here. Cornstarch breaks down too fast and gets weird.
+
+Seedless raspberry purée. 200 milliliters, fresh or thawed. Thawed frozen raspberries work fine—maybe better because they're already broken down. The seeds would wreck the texture. Don't skip that part.
+
+Apple purée. 180 milliliters. Unsweetened. Cuts the tartness of the raspberry. Not because apple is sweet—it's not—but it softens the edges. You can taste it's there, kind of. Not in a bad way.
+
+Granulated sugar. 200 milliliters. Goes in at the end with the cold butter. Doesn't go in the hot base. That matters.
+
+## How to Make Raspberry Cream Spread
+
+Start with 50 milliliters of the softened butter and the coconut oil in a medium saucepan. Medium heat. Let it melt together—don't rush. You want them mixed but not bubbling hard. If it's too hot, the flour scrambles when it hits the fat. You'll see it clump. Then it's ruined. So watch the heat.
+
+Once they're melted and swirled together, the flour goes in. All 80 milliliters at once. Start whisking immediately. Aggressive whisking. This is a roux, which is just flour cooked in fat, and you need to keep moving it so it cooks evenly. About 90 seconds in, the smell changes—gone from raw flour to something almost warm and buttery but not brown. That's done. Stop before it gets toasted or bitter. The paste should look smooth and thick at this point.
+
+Now the raspberry purée. Pour it slowly in a steady stream while you keep whisking. Don't dump it all at once. It looks weird at first—the mixture separates and gets grainy—but keep whisking and it comes together. What's happening is gelatinization. The flour is binding the juice into something thick and shiny. Takes about 30 seconds of constant whisking. The color deepens from light pink to something more like wine-dark. It gets glossy. You'll feel the whisk move slower because the mixture's thickening.
+
+Lower the heat. Let it stay at a gentle simmer—you should see slow bubbles, not a rolling boil. Three minutes. Just sitting there, thickening more. The texture gets even glossier and thicker. A spoon dragged through it should leave a track that doesn't immediately fill back in. Still soft—not gelatinous—but it holds.
+
+Pull it off the heat. Don't wait. Too long on the heat and the pectin in the fruit breaks down and you lose that body. It gets thin again. Pour it into a bowl and press cling wrap right onto the surface. No air pockets. The wrap stops a skin from forming on top. Let it cool at room temperature for about an hour and a half, maybe two. You want it cool but not cold when it goes into the mixer.
+
+## How to Get Whipped Raspberry Coconut Spread Fluffy
+
+When it's cool enough, add the remaining 230 milliliters of cold softened butter and the sugar. This is where the texture actually changes. Electric mixer on medium speed. Whip it for about 6 minutes—don't shortcut this part. It'll go from thick and dark to pale and fluffy. Volume increases. It gets light.
+
+Stop halfway through and scrape the sides. There's always butter and sugar sticking to the bowl that the mixer can't reach. Once you scrape it, keep whipping. Six minutes total is usually right, but watch for the color change—that's your real signal. When it goes from dark raspberry to light pink-cream, you're close. It should look almost like frosting. Fluffy. Aerated.
+
+Taste it. Seriously. The apple purée should have cut some of the tartness, but if it's still too sharp, a tiny pinch of salt helps. Or add a little more sugar if it needs sweetness. Just a small pinch at a time—it's already plenty sweet.
+
+## Raspberry Cream Spread Tips and Common Mistakes
+
+The flour stage matters. If it's not cooked long enough, you get a grainy texture and it tastes like raw flour no matter what you do after. If it's cooked too long, it browns and tastes toasted and bitter. That 90-second window is real.
+
+The heat under the fruit mixture has to be gentle. Too hot and it bubbles hard and breaks down. Too cool and it doesn't thicken properly and stays thin. Watch the bubbles. Slow and steady.
+
+Don't overmix at the end. I've made this mistake. You think more whipping means more fluffy, but past 6 minutes the fats separate and it goes greasy and splits. The texture changes. Just set a timer and stop. It'll look good before you think it looks good enough.
+
+Refrigerated, it firms up. A lot. Harder than you'd expect. That's normal. When you want to use it, pull it out 30 minutes before and let it warm up on the counter. If it's still stiff, whip it a little bit with a spatula or back into the mixer for like 30 seconds. Revives it. Don't microwave the whole container—just scoop out what you need and microwave that for 5 seconds. Stir hard. The fats separate easily if you're not careful.
+
+Store it in an airtight container. Four days in the fridge. After that it starts to oxidize and tastes kind of off. Freezer works too—lasts weeks—but the texture changes when it thaws. Gets grainier. Still tastes good. Just different.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Raspberry Spread
+
+**Can you use frozen raspberries for this easy raspberry spread instead of fresh?**
+Yeah. Actually better. Frozen raspberries are already broken down, so they purée easier and the spread sets better. Thaw them first, let them drain a little. Don't use the liquid—just the berries.
+
+**What if your coconut oil is already liquid?**
+This doesn't work the same way. The solid coconut oil is important because it behaves differently when it melts with butter—affects how the whole thing cooks. You could try melting it, but the texture won't be the same. Probably grainier. Not worth it.
+
+**How do you know when the roux is cooked enough but not brown?**
+Smell it. Seriously. Raw flour smells kind of bitter and dusty. When you've cooked it about 90 seconds, the smell shifts to warm and buttery and a little toasted but not dark. That's the moment. Stop there. The color stays light tan—almost white.
+
+**Can you make this raspberry apple fruit spread less sweet?**
+Cut the sugar back to 170 milliliters. Might need to whip it a bit longer—less sugar means it doesn't fluff quite as much. The apple purée is already doing work cutting the tartness, so you've got room. Taste it as you go.
+
+**What's the creamy texture from—why is it fluffy instead of jam-like?**
+The whipping. That air you're beating into the butter while it's cold makes it fluffy. Plus you're using solid butter at the end instead of all melted, so it traps air. It's basically jam that's been whipped into submission. Tastes like butter and jam had a baby.
+
+**Can you store the raspberry coconut spread longer than 4 days?**
+Refrigerator, no. Four days is the limit before it starts to taste off. Freezer, yeah—lasts weeks. Just thaw it slow in the fridge, not on the counter. The texture gets a little grainier when it thaws but it's still fine.
