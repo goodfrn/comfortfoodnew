@@ -1,10 +1,10 @@
 ---
-title: "Tangy Red Cabbage Slaw"
+title: "Coleslaw Recipe with Red Cabbage and Apple Cider Vinegar"
 slug: "tangy-red-cabbage-slaw"
-description: "Crunchy red cabbage shredded fine or chunky, dressed in tart cider vinegar mixed with a hint of maple syrup instead of honey. Salt, cracked black pepper, and a smooth avocado oil swirl in. Marinated until the cabbage softens just slightly, developing that light tang and mellow bitterness. Toss, drain, then serve cold. A splash of brightness paired with that snap of fresh cabbage. Subtle sugar swap for deeper flavor. An easy slaw with a confident bite and balanced zip."
-metaDescription: "Tangy Red Cabbage Slaw with crisp cabbage, sharp apple cider vinegar, maple syrup sweetness, crack black pepper, and silky avocado oil. Chill, toss, serve cold."
-ogDescription: "Crunchy red cabbage slaw tossed in tart apple cider vinegar and maple syrup, cracked pepper, and avocado oil. Chill well, drain excess, then serve bright and crisp."
-focusKeyphrase: "red cabbage slaw"
+description: "Red cabbage coleslaw dressed with apple cider vinegar and maple syrup, finished with avocado oil. Tangy, crunchy, and easy to make at home."
+metaDescription: "Make coleslaw with red cabbage, apple cider vinegar, and maple syrup for a tangy, crunchy side dish. Try it tonight."
+ogDescription: "Tangy red cabbage coleslaw with apple cider vinegar and maple syrup. Crunchy, easy, and perfectly balanced."
+focusKeyphrase: "coleslaw"
 date: 2026-01-25
 draft: false
 image: tangy-red-cabbage-slaw.jpg
@@ -21,9 +21,18 @@ tags:
 - "side dish"
 - "easy"
 keywords:
-- "red cabbage"
-- "cabbage slaw"
-- "maple syrup dressing"
+- "coleslaw"
+- "coleslaw recipe"
+- "red cabbage slaw"
+- "coleslaw dressing"
+- "vinegar slaw"
+- "homemade coleslaw"
+- "easy coleslaw recipe"
+- "cole slaw recipe vinegar"
+- "coleslaw dressing recipe"
+- "simple coleslaw recipe"
+- "slaw recipe"
+- "coleslaw salad"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "55"
@@ -62,3 +71,85 @@ faq:
 - "q: How to store leftovers? a: Airtight container best. Keeps fridge fresh. Lasts 2-3 days max. Juice might settle; toss again before serving. Avoid freezing—cabbage texture ruins. Drain surplus liquid stored separately if needed to preserve crispness."
 
 ---
+
+Shred the cabbage first. You want a mix—some thin strips, some chunky pieces. Texture matters. This actually happened by accident once, knife slipped, and the slaw came out better. Toss it into a bowl that's way bigger than you think you need.
+
+## Why You'll Love This Coleslaw Salad
+
+Takes 12 minutes total. No cooking. Just knife work and waiting.
+Works cold. Stays good in the fridge. Gets better the next day, actually—flavors keep deepening.
+Side dish that works with literally anything. Pulled pork. Fish. Tacos. Nothing. Just the slaw alone.
+Red cabbage stays purple instead of turning brown like green does. Color keeps.
+The dressing is simple. Four ingredients. Not mayo-heavy like some versions. Lighter. Still rich enough.
+
+## What You Need for Coleslaw Dressing
+
+Red cabbage. The whole head. Shredded or chopped—doesn't matter much as long as it's not super thick.
+
+Apple cider vinegar. Not white vinegar. White's too sharp. Apple cider is warm, kind of woody. That's the whole thing right there.
+
+Maple syrup. A few tablespoons. Honey works but it's cloying. Maple's earthier. Tastes like fall.
+
+Kosher salt. Coarser than table salt. Stays on the food instead of disappearing. A teaspoon.
+
+Freshly ground black pepper. Literally just ground it. Pre-ground tastes like nothing. Quarter teaspoon.
+
+Avocado oil. Buttery. Doesn't get weird at room temperature like olive oil does. One tablespoon. Olive oil works if you want a different flavor. Not better, just different.
+
+## How to Make Coleslaw Dressing
+
+The dressing is where everything happens. Whisk apple cider vinegar with maple syrup in a small bowl until they're actually combined. Not like mixed. Combined. There's a difference. The maple dissolves into the vinegar. This takes maybe a minute.
+
+Pour it over the cabbage while the dressing's still in the bowl. Right away. Don't let it sit. The cabbage needs to soak it up while the flavors are concentrated.
+
+Sprinkle kosher salt across the whole pile. Not in one spot. Spread it. Salt draws the moisture out of the cabbage, softens it up, makes it actually take flavor instead of just sitting there crunchy and dumb.
+
+Cracked black pepper goes in now. Fresh. The bite matters.
+
+Drizzle avocado oil last. It's not doing anything chemical—it's just there to add richness and make the whole thing slide together better. It's buttery. Stable.
+
+## How to Get Coleslaw Salad Crispy But Tender
+
+This is backwards from what you'd think. Crispy means raw. You want both somehow.
+
+Cover the bowl tight. Plastic wrap. Lid. Whatever you have. Fridge.
+
+And then time. Forty-five minutes minimum. You could wait 24 hours. Longer is fine, actually better. During this time the cabbage goes from raw and snappy to kind of surrendered, but not mushy. The purple juice starts seeping out—that's salt and vinegar doing what they're supposed to do. The color of the brine deepens too. It's kind of gorgeous if you check on it.
+
+After marinating—seriously, don't skip this—toss it well. Everything redistributes. The excess liquid pools at the bottom. Squeeze some out if it looks too wet. You want it dressed but not drowning. Soggy coleslaw is nobody's favorite.
+
+Serve it cold. Straight from the fridge.
+
+## Coleslaw Recipe Tips and Common Mistakes
+
+Too much liquid kills it. If you've got more than like a quarter inch of dressing pooling, drain it. Use your hands. Squeeze gently.
+
+The dressing tastes too strong at first. Let it sit. By tomorrow it mellows. The cabbage absorbs it. Tastes balanced.
+
+Tried red onion in here once. Good. Not necessary. If you add it, slice it thin.
+
+Don't shred the cabbage super fine. Sounds good in theory. Makes it turn to mush faster. Chunky pieces hold up better.
+
+Maple syrup. Don't skip it. Some people just use vinegar and salt. Flat. Maple rounds it out. You don't taste maple—it just works.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Coleslaw Dressing Recipe
+
+**How long does homemade coleslaw last in the fridge?**
+Three days easy. Four if you're not looking too close. Gets softer after day two but flavor's usually better. The dressing keeps doing its thing the whole time.
+
+**Can you make coleslaw dressing without maple syrup?**
+Yeah. Honey works. Brown sugar works. Regular white sugar doesn't taste the same—too sharp. Maple's earthier. Worth having around.
+
+**What if I use green cabbage instead of red?**
+Works fine. Tastes basically the same. Color turns kind of brownish after a day or two. Red cabbage stays purple forever. That's the only real difference.
+
+**Does coleslaw need to marinate overnight?**
+No. Forty-five minutes and it's ready. Overnight's better—flavors blend more. But you don't have to wait that long.
+
+**Can you substitute avocado oil in the slaw salad dressing?**
+Olive oil works. Use less though—it's punchier. Butter works if you eat it right away. Neutral oil works. Sesame oil changes the whole thing. Depends what you want.
+
+**Is this coleslaw recipe vegetarian?**
+Yeah. It's all plants. No hidden anchovies or anything.
