@@ -1,10 +1,10 @@
 ---
-title: "Sausage Shrimp Jambalaya"
+title: "Sausage Shrimp Jambalaya Recipe One Pot"
 slug: "sausage-shrimp-jambalaya"
-description: "A one-pot jambalaya riff with browned sausage and tender shrimp merged with bell pepper, celery, and onion. Rice absorbed broth, tomatoes, Creole spice for that punch. Simmered slow enough for flavors to marry but fast enough when you're hungry. Shrimp added late, pinked through but not rubbery. A little twist swapping chorizo for sausage ramps smoky notes. Green onions finish. Timing judged by aroma and rice texture, not watch staring."
-metaDescription: "Sausage Shrimp Jambalaya with smoky chorizo, tender shrimp, and Creole spices. One-pot Cajun rice melded with aromatic veggies and broth, rich aroma fills kitchen."
-ogDescription: "Smoky sausage, pink shrimp, Creole spices mingle in one pot. Cajun jambalaya layered flavors, tender textures, vibrant aromas. Quick prep with slow simmer results."
-focusKeyphrase: "Sausage Shrimp Jambalaya"
+description: "Sausage shrimp jambalaya with chorizo, bell pepper, celery, onion, and crushed tomatoes simmered in one pot. Rice absorbs Creole broth for bold flavor."
+metaDescription: "Make sausage shrimp jambalaya with chorizo, bell pepper, tomatoes, and Creole seasoning in one pot. Tender shrimp, tender rice. Try it tonight."
+ogDescription: "One-pot sausage shrimp jambalaya with chorizo, bell pepper, and crushed tomatoes. Bold Creole flavor, done in one pot."
+focusKeyphrase: "sausage shrimp jambalaya"
 date: 2025-10-08
 draft: false
 image: sausage-shrimp-jambalaya.jpg
@@ -21,9 +21,17 @@ tags:
 - "shrimp"
 - "rice"
 keywords:
-- "Sausage jambalaya"
-- "Shrimp jambalaya"
-- "Chorizo cajun rice"
+- "sausage shrimp jambalaya"
+- "jambalaya recipe"
+- "one pot jambalaya"
+- "cajun shrimp and sausage"
+- "creole jambalaya with chorizo"
+- "chorizo and shrimp jambalaya"
+- "one pot rice dishes"
+- "shrimp jambalaya with tomatoes"
+- "cajun rice recipe"
+- "creole seasoning rice"
+- "bell pepper and tomato jambalaya"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "640"
@@ -66,3 +74,91 @@ faq:
 - "q: Storing leftovers? a: Fridge safe 3-4 days in sealed container. Reheat covered on stove or microwave, add splash broth/water if dry. Freeze in portions okay but texture softens; rewarm slow to preserve shrimp bounce."
 
 ---
+
+Set the oil hot. Really hot. The second the sausage hits that pan, you want a sizzle that fills the kitchen. Brown it properly — flip, listen for the pop, watch the color deepen. Takes maybe six minutes. You'll smell the fat rendering out, that's the signal you're doing it right.
+
+## Why You'll Love This Sausage Shrimp Jambalaya
+
+One pot. That's it. Everything happens in the same pan, which means one cleanup and a whole dinner.
+
+Cajun flavor without the complicated spice blend. Creole seasoning does the work. Tastes like it simmered all day. Doesn't need to.
+
+Works cold the next day. Maybe better. Flavors actually settle overnight.
+
+The shrimp doesn't get tough if you time it right — pinks up in four minutes, then you're done. Not some long cook that turns them to rubber.
+
+Feeds a crowd or scales down easy. Double the recipe, still takes basically the same time.
+
+## What You Need for One Pot Cajun Shrimp and Sausage
+
+Two tablespoons of neutral oil. Canola works fine.
+
+Chorizo — sliced, about twelve ounces. Or swap for andouille if you want more heat. Andouille hits different, smokier, spicier from the start.
+
+One medium onion diced. One green bell pepper. Two celery stalks. This is the base. Non-negotiable.
+
+Four garlic cloves minced. Add it late or it burns and the whole thing tastes like char.
+
+Three cups of broth — chicken or vegetable, doesn't matter. One can of crushed tomatoes. One can of diced tomatoes with the juice. The juice matters.
+
+One and a half cups long-grain white rice. Rinse it first. Starch comes off, rice fluffs up better.
+
+One tablespoon of Creole seasoning. Maybe more if you like heat. One pound of raw shrimp, peeled and deveined.
+
+Green onions for the top. That's it.
+
+## How to Make One Pot Sausage Shrimp Jambalaya
+
+Heat the oil in a heavy-bottomed pot — cast iron is perfect but any large pot works. Medium-high heat. You want that sizzle the instant the sausage hits.
+
+Dump the sausage in. Chorizo breaks apart a bit, that's fine. Brown it hard. Flip pieces often, get deep color on both sides. You're not rushing this part. The browning is where the flavor lives. Four to six minutes. Paper towel on a plate, fish the sausage out with a slotted spoon. Let it rest.
+
+The fat stays. That's the whole point.
+
+Onion, bell pepper, celery go into that hot fat. Hear the crackle. Stir constantly. You want them soft and translucent, not mushy — five minutes gets you there. Then kill the heat for a second. Add the garlic, swirl it around for maybe thirty seconds until it smells good. Don't let it brown. Burnt garlic ruins everything. Just doesn't come back from it.
+
+Pour in the broth. Both cans of tomatoes, juice and all. The pot goes quiet, steam starts rising. Sprinkle the Creole seasoning around, let it distribute. Stir it. Bring the whole thing to a boil — let it get aggressive for maybe a minute. Then stir in the rice and the browned sausage back in.
+
+Lower heat to a gentle simmer. Cover loosely. Eighteen minutes. Don't walk away completely but you don't need to hover. Rice swells, absorbs the liquid. Stir occasionally so nothing sticks to the bottom. Taste the broth around the fifteen-minute mark. Needs salt probably. Maybe more Creole. Seasoning is personal, so go light now. You can always add more. Can't take it out.
+
+## How to Get Perfect Creole Jambalaya with Chorizo and Shrimp
+
+Shrimp goes on top. Raw, not cooked first. Close the lid fully now. Watch it. Shrimp pinks up in about four minutes — that's your cue. The second they're pink all the way through, you stop. Overcooked shrimp is rubber. That's the only real mistake you can make here.
+
+Pull the pot off heat. Let it sit five minutes. Covered. This lets the flavors settle and the rice finish absorbing without getting mushy. Then stir everything gently, break up any clumps. The texture should be fluffy, loose. Spoon should move through it easy.
+
+Green onions on top. That sharp fresh hit cuts through all the richness. Serves hot.
+
+## One Pot Jambalaya with Andouille Sausage Tips and Common Mistakes
+
+Rice sticking to the bottom? Stir it gently midway through cooking. Don't agitate it too much or it gets mushy, but a gentle stir prevents the stuck-on char that tastes burnt.
+
+Too watery at the end? You added too much broth. Next time, use two and a half cups instead of three. Or rely more on the tomato juice — don't drain the canned diced. The liquid cooks off as the rice absorbs it, so it takes trial to dial in.
+
+No Creole seasoning? Mix paprika, cayenne, garlic powder, and thyme. Equal parts of each. It's not identical but it works. Close enough.
+
+Andouille sold out? Chorizo is what you have here. Smoked kielbasa works too. Any sausage with some smoke and spice carries this dish.
+
+Ran it once with less garlic because I was lazy. Tasted flat. Do the four cloves.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About One Pot Cajun Shrimp and Sausage Jambalaya
+
+**How long does sausage shrimp jambalaya actually take?**
+Fifteen minutes prep. Thirty-three minutes cooking. Forty-eight minutes total if you're not messing around. Mostly hands-off once the rice goes in.
+
+**Can you make creole jambalaya with chorizo ahead of time?**
+Yeah. Cook it completely, cool it, throw it in a container. Lasts four days in the fridge. Reheats fine on the stovetop with a splash of broth if it's dry. Cold it's actually better — flavors settled.
+
+**What if your shrimp is already cooked?**
+Don't. You'll overcook it. But if you have to — add it in the last minute after rice is done, just to warm it through. Still gonna be a bit rubbery though.
+
+**Is the green bell pepper necessary for cajun rice with bell pepper and tomatoes?**
+Technically no. But it adds sweetness and texture that balances the heat. Skip it and the dish tastes sharper, meaner. Some people like that. I usually keep it.
+
+**How do you know when the rice is done in one pot rice dishes?**
+Taste a grain. Should be tender but still have a tiny bit of resistance when you bite it. Not mushy. Not crunchy. Takes about eighteen minutes but depends on your pot and stove. If it's done early, rice can sit covered for a few minutes.
+
+**Can you substitute the tomatoes in shrimp jambalaya with crushed tomatoes?**
+Use all crushed if you want. Texture's different — more uniform, less chunky. Diced adds visual stuff and texture variation. I'd stick with both cans as written but crushed-only works.
