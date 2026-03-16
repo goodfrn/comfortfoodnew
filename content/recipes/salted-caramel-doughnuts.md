@@ -1,10 +1,10 @@
 ---
-title: "Salted Caramel Doughnuts"
+title: "Salted Caramel Doughnuts with Dulce de Leche"
 slug: "salted-caramel-doughnuts"
-description: "Yeast doughnuts fried golden, filled with rich salted caramel cream, topped with dulce de leche glaze. Uses warm milk proofed with yeast for tender bites. Caramel cream thickened with flour and cornstarch for stability. Dulce de leche glaze spiked with Maldon salt adds crunch and contrast. Frying temp critical to keep edges crisp, insides soft. Dough doubles, rested twice; frying quick, dough puffs. Classic flavors with a subtle twist—brown butter replaces half butter for nutty undertone."
-metaDescription: "Salted Caramel Doughnuts—yeast-risen, browned butter notes, rich caramel cream filling with Maldon salt-crunch. Twice-risen dough, frying temp critical for crisp soft bites."
-ogDescription: "Golden yeast doughnuts filled with salted caramel cream, topped with crunchy Maldon salt glaze. Careful fry temp keeps edges crisp yet soft inside; brown butter twist."
-focusKeyphrase: "Salted Caramel Doughnuts"
+description: "Homemade yeast doughnuts filled with salted caramel cream and topped with dulce de leche glaze. Made with warm milk, brown butter, and cornstarch-thickened filling for soft, tender bites."
+metaDescription: "Salted caramel doughnuts with yeast dough, caramel cream filling, and dulce de leche glaze with Maldon salt. Try it tonight."
+ogDescription: "Fried yeast doughnuts with rich salted caramel cream, dulce de leche glaze, and crispy Maldon salt topping."
+focusKeyphrase: "salted caramel doughnuts"
 date: 2025-09-18
 draft: false
 image: salted-caramel-doughnuts.jpg
@@ -21,11 +21,17 @@ tags:
 - "comfort food"
 - "homemade"
 keywords:
-- "doughnuts"
-- "caramel cream"
-- "brown butter"
-- "frying temperature"
-- "dulce de leche glaze"
+- "salted caramel doughnuts"
+- "yeast doughnuts"
+- "fried doughnuts"
+- "homemade caramel doughnuts"
+- "fried caramel doughnuts"
+- "yeast doughnuts with caramel cream filling"
+- "salted caramel doughnuts with dulce de leche"
+- "fried doughnuts with salted caramel glaze"
+- "homemade fried doughnuts with caramel filling"
+- "dulce de leche doughnuts"
+- "brown butter doughnuts"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "340"
@@ -107,3 +113,113 @@ faq:
 - "q: How store filled doughnuts? a: Eat same day best: crisp outside fades fast. Refrigerate few hours max wrapped airtight. Can reheat 5 min at 150 C oven to regain slight crispness. Avoid long refrigeration or glaze dissolves. Freeze unfilled, thaw and fill. No microwave, messes texture."
 
 ---
+
+Warm milk, yeast, flour—basic stuff that somehow becomes these pillowy fried doughnuts with caramel cream inside. Takes an hour-fifty total, most of it waiting for dough to puff. Then oil sizzles, they float golden, and you're injecting them with this thick caramel custard that cuts through all the fried sweetness with salt on top.
+
+## Why You'll Love These Fried Doughnuts with Salted Caramel
+
+Homemade and actually doable. Not some four-day fermentation thing. Fifty minutes prep, thirty cooking, and the rest is just dough doing its job while you exist elsewhere.
+
+Caramel cream filling tastes like it shouldn't work—custard that's rich but not heavy, injected warm into a still-soft doughnut so it spreads instead of staying in one pocket. Salt on the glaze is the whole point. Without it, just sugar. With it, something happens.
+
+Fried means warm means better. Cold doughnut from a box tastes like a regret. These come out of the oil crispy-outside-tender-inside and stay that way for maybe three hours if you're patient. You won't be.
+
+Comfort food that feels like less work than it is. People think homemade fried doughnuts are impossible. They're not. You already make other things. This is just dough that rises, oil that gets hot, and cream you whisk.
+
+## What You Need for Salted Caramel Doughnuts
+
+Warm milk. Not hot. Blood temperature roughly. Yeast goes in here, ten milliliters, instant kind. All-purpose flour, sifted—four hundred thirty-five grams, which is about three cups minus a tablespoon if you're guessing.
+
+Powdered sugar for the dough, sixty grams. Browned butter, twenty-eight grams, cooled. This matters. Regular melted butter works. Browned butter tastes nutty and deeper, and it's worth the thirty seconds of watching it turn from pale to tan. Sea salt, five milliliters. Two room-temperature eggs. Vanilla extract, five milliliters.
+
+Canola or sunflower oil for frying—you need enough to submerge doughnuts, so probably a liter depending on your pot.
+
+For the caramel cream: granulated sugar, one hundred sixty grams. Water, forty milliliters. Heavy cream, two hundred fifty milliliters. Cold butter, fifty grams, cubed. Flour and cornstarch mixed, forty-five milliliters combined. Whole milk, two hundred fifty milliliters. Two egg yolks. Vanilla bean seeds or paste, one milliliter.
+
+Glaze: dulce de leche or caramel sauce, one hundred twenty-five milliliters. Maldon salt flakes—not regular salt. Flakes sit on top and crunch instead of dissolving.
+
+## How to Make Fried Doughnuts with Caramel Cream Filling
+
+Milk warm, yeast in a bowl, barely swirl it. Don't stir. Let it sit seven minutes until foam bubbles appear on the surface. That foam means the yeast's alive. No foam means start over because dead yeast makes dough that won't rise.
+
+Mix flour, powdered sugar, salt in your mixer bowl. Browned butter goes in—watch it while it browns so you stop before it burns. I did that once. Dough tasted like scorched regret. You want golden tan, nutty smell, nothing darker.
+
+Eggs and vanilla straight into the dry stuff. Pour the foamy milk in. Start mixing slow. Dough looks like a shaggy mess, sticky and loose. Don't panic and add flour. It tightens up on its own. Six minutes of kneading, by hand on a floured surface or mixer on low, and dough becomes smooth and elastic. Slightly tacky. Bounces back when you poke it. Stop there. Overkneading makes it tough and dense.
+
+Ball it up, put it in a greased bowl, cover with a damp cloth loosely. Find a warm spot. Not hot. Warm. I use the oven with just the light on. Two hours until it doubles, puffy when you poke it. Cold kitchen? Add thirty minutes. Patient rising tastes better than fast rising.
+
+Punch it down gently. Turn it onto a floured board. Roll to half an inch thick. Cut with a seven-point-five centimeter cutter. Save the scraps, reroll once, but don't keep squishing them back together or doughnuts get tough.
+
+Place the rounds on parchment paper. Cover again, loose cloth. Eighteen minutes rest. Not longer or they puff too much and collapse when they hit hot oil.
+
+Heat oil to one hundred seventy-five Celsius. Use a thermometer. Too hot burns the outside while the inside stays raw dough. Too cool and they soak up oil like a sponge and taste greasy instead of fried.
+
+Three or four doughnuts in the oil at once. Ninety seconds per side. Watch for rich golden brown, the bubbling quiets but keeps going. Flip gently with a slotted spoon or spider strainer.
+
+Drain on paper towels or better, a cooling rack over a sheet. Twenty minutes minimum or dough softens too much and deflates. Chopstick or skewer poke a hole in the side for filling. Gentle but deep.
+
+## How to Make Salted Caramel Glaze and Cream Filling
+
+Sugar and water in a pan, medium heat. No stirring. Just swirl the pan sometimes. Sugar melts and turns clear, then golden, then amber. Stop before it's dark brown or it tastes burnt instead of caramel. Smell it. You'll know.
+
+Off heat. Pour cream in carefully because it splutters. Stir fast with a wooden spoon until it settles and becomes glossy caramel. Let it cool a minute but not long—you want it pourable but thick.
+
+Separate bowl. Whisk flour and cornstarch together. Add egg yolks and vanilla, whisk until smooth, then pour cold milk in slowly so no lumps form. Mix it.
+
+Combine hot caramel with the egg mixture gradually. This is tempering. You're bringing the eggs to temperature without scrambling them. Pour everything into a saucepan.
+
+Medium heat, whisk constantly. It thickens. Big bubbles form, gravy-like texture. Two minutes at a boil after it thickens keeps the starch cooked.
+
+Pour into a shallow dish, press plastic wrap directly on the surface so no skin forms. Refrigerate ninety minutes until firm but still pipeable.
+
+Pastry bag with a one-centimeter plain tip. That's your filling tool.
+
+Inject cream into each doughnut side. Spin the tip gently inside the hole to spread it evenly instead of shooting it all in one spot.
+
+Whisk powdered sugar and dulce de leche until it's pourable glaze. Add salt flakes just before you top them. Salt early and it dissolves. Salt late and it stays crunchy on top where it should be.
+
+Drizzle or dip. Serve now or refrigerate a few hours. Doughnuts lose crispness fast. Not days. Hours.
+
+## Fried Doughnuts Tips and Common Mistakes
+
+Browned butter adds earthiness. Regular melted butter works fine. So does coconut oil if you want a different flavor running underneath.
+
+Dough too sticky and you panic and add flour. Don't. Dust your hands instead. Adjust the rising time if it's truly wet, but the recipe assumes room temperature, so your kitchen might be colder or warmer.
+
+Instant yeast versus active dry yeast—swap one for the other but proof active dry in the warm milk ten minutes first before mixing the rest.
+
+Oil temperature is everything. Candy thermometer. Use it. Watch it. Too many people guess and end up with dense, oily doughnuts that taste like disappointment.
+
+Caramel cream gets too firm in the fridge and won't pipe. Whisk in two tablespoons of cream and it loosens right up.
+
+Orange zest folded into the dough works. Citrus underneath caramel and salt. Different angle but it works.
+
+Leftover doughnuts dry out but you can revive them five minutes in the oven at one-fifty Celsius. They're not fresh-fried but they're not sad either.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Fried Doughnuts
+
+**Why did my doughnuts stay dense and not rise?**
+Yeast was dead or milk was too hot and killed it, or rising spot was too cold. Warm milk should be about thirty-eight Celsius—blood temperature basically. You want a warm rise spot, not hot. If kitchen's cold, add thirty minutes to the rising time.
+
+**Can I use a stand mixer the whole time?**
+Yeah. Dough hook on low for six minutes instead of kneading by hand. Easier. Same result.
+
+**The caramel cream is too thin to pipe.**
+Let it chill longer or whisk in a tablespoon of flour mixed with cornstarch. Gets thicker faster.
+
+**How long do these stay crispy?**
+Three hours maybe. They're best warm. After that they soften. Not bad, just not the same as when they came out of the oil.
+
+**Can I make the dough the night before?**
+Rise it halfway, punch down, put it in the fridge overnight. Pull it out, let it come to room temp and finish rising the next morning. Dough actually tastes better with the slow cold rise.
+
+**What if I don't have Maldon salt?**
+Kosher salt works. Flakes sit on top same way. Regular table salt dissolves too fast. Avoid it.
+
+**Do I have to inject the filling or can I do something else?**
+Cut them in half and sandwich cream between. Messier. Easier to execute. Different texture but still works. Injecting just distributes it better.
+
+**Oil keeps burning doughnuts on the outside before inside cooks.**
+Oil's too hot. Get a thermometer. One-seventy-five Celsius. Not one-eighty. That five degrees matters way more than you'd think.
