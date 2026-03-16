@@ -1,10 +1,10 @@
 ---
-title: "Stuffed Sufganiyot with Twist"
+title: "Sufganiyot Recipe: Custard & Jelly Donuts"
 slug: "stuffed-sufganiyot"
-description: "Yeast dough fried golden, filled with luscious vanilla custard or strawberry jelly. The dough enriched with brandy and orange zest for depth. Proper fermentation crucial for airy texture. Frying at steady 350°F oil temp ensures crisp exterior and fluffy middle. Filling technique using pastry bag prevents mess. Toss in cinnamon sugar after frying or dust with powdered sugar for that classic finish. Substitute orange brandy for rum, or dairy milk with almond milk for twists. Perfect for holiday baking chaos and eager hands needing quick wins."
-metaDescription: "Stuffed Sufganiyot with Twist—airy fried doughnut rounds filled with thick vanilla custard or vibrant strawberry jelly; brandy, orange zest heighten flavor layers."
-ogDescription: "Yeasty rounds fried to crisp gold, filled gently with chilled custard or sweet jelly. Orange zest and brandy add depth. Watch proofing and oil temp for best texture."
-focusKeyphrase: "Stuffed Sufganiyot"
+description: "Make sufganiyot with yeast dough filled with vanilla custard or strawberry jelly. Orange zest and brandy create depth; fry until golden and crispy. Dust with powdered sugar for a showstopping finish."
+metaDescription: "Sufganiyot recipe for custard and jelly donuts made with orange-infused yeast dough, vanilla custard, and strawberry jelly. Crispy outside, fluffy inside. Try it tonight."
+ogDescription: "Golden sufganiyot filled with vanilla custard or strawberry jelly, infused with orange zest and brandy. Dusted with powdered sugar."
+focusKeyphrase: "sufganiyot"
 date: 2025-10-11
 draft: false
 image: stuffed-sufganiyot.jpg
@@ -21,9 +21,18 @@ tags:
 - "strawberry"
 - "holiday"
 keywords:
-- "fried yeast dough"
-- "vanilla custard filling"
-- "strawberry jelly doughnuts"
+- "sufganiyot"
+- "custard doughnuts"
+- "sufganiyot recipe"
+- "doughnuts for hanukkah"
+- "custard filled donuts"
+- "jelly donuts recipe"
+- "hanukkah sufganiyot"
+- "vanilla custard donut"
+- "homemade jelly donuts"
+- "fried bread with yeast"
+- "easy sufganiyot recipe"
+- "hanukkah donut recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "280"
@@ -93,3 +102,93 @@ faq:
 - "q: How best to store leftovers? a: Room temp in airtight container good for a day. Refrigerate fills texture firmer, custard thickens but dough gets tougher. Reheat briefly in toaster oven for crisp outside; microwave clogs crust fast. Freeze only if no immediate use, but fresh always preferred for crunch and softness."
 
 ---
+
+Warm oil, 350°F exactly, and you're three minutes from biting into a sufganiyot that's actually hollow inside—crispy shell, soft dough, cold custard and strawberry jelly swirled together. This is the Hanukkah doughnut that matters.
+
+## Why You'll Love This Sufganiyot Donut
+
+Holiday dessert that doesn't feel like work, actually. Yeast does most of it. You mix, fold in butter, wait, then fry—that's literally the skill. Takes 2 1/2 hours total but maybe 30 minutes of your hands actually moving.
+
+Custard doughnuts with actual filling inside. Not injected halfway through and hoping. You control exactly how much jelly and custard goes in, both cold, both flavors hitting at once.
+
+Fried bread done right feels impossible at home. This one isn't. Oil temperature matters more than anything else—hit 350°F, keep it there, and they puff instead of greasing out.
+
+Tastes better warm. The contrast between cold custard filling and hot dough is the whole point. Make these for people, watch them eat them immediately.
+
+## What You Need for Sufganiyot Doughnuts
+
+Active dry yeast. 2 1/4 teaspoons. Not instant, not rapid-rise. Affects rise timing and structure.
+
+All-purpose flour, about 2 cups total. Start at 1 3/4, add slowly. Too much flour kills the puff. Dough should stick slightly to your hands.
+
+Two egg yolks and one whole egg. Richness and lift at the same time. Skip the substitutes here.
+
+3/4 cup warm whole milk—110°F matters, hot kills yeast. Almond milk works if you must but the dough texture shifts. Colder and heavier.
+
+Orange zest and juice. One orange, fresh. Not concentrate. Not powdered. Changes the whole dough flavor, tastes less like carnival and more like something someone made.
+
+Brandy or dark rum, one tablespoon. Or skip it. Almond extract works too. Just adds depth to the crumb. Not essential.
+
+Unsalted butter, 6 tablespoons, softened. Room temperature. Cold butter won't fold in evenly, hot melts instead of mixing.
+
+Vegetable oil for frying. Canola or peanut oil. High smoke point. Enough to fill a pot 4 inches deep. You'll need a thermometer—not negotiable.
+
+Strawberry jelly and chilled vanilla custard for filling. Custard needs at least 2-3 hours in the fridge to thicken. Don't skip the chill time.
+
+Powdered sugar and cinnamon sugar mix for dusting. Coating goes on warm dough while it still has surface moisture.
+
+## How to Make Sufganiyot
+
+Mix yeast, 1 tablespoon flour, 1 tablespoon sugar, and 2 1/2 tablespoons warm water in a stand mixer bowl with the dough hook attached. This is your test. Yeasty smell in 5 to 7 minutes means alive. Foam on top says it's ready.
+
+Pour in egg yolks, one whole egg, the milk, orange zest and juice, brandy or your swap, salt, vanilla, and the remaining sugar. Keep mixer on low. The goal is shaggy and rough, not smooth. Rushing here means you're overworking it. Let it sit for a second.
+
+Softened butter goes in one tablespoon at a time. Beat between each addition. Yes, it looks messy. Yes, little butter chunks are supposed to be there. They melt as you knead later. When all butter's in, slowly add the remaining flour—stop when dough climbs the hook and pulls cleanly from the bowl sides. This might be shy of 2 cups. That's fine. Soft dough puffs. Dense dough doesn't.
+
+Turn it out onto a lightly floured surface and knead for 5 minutes. Not aggressive. Gentle. Until non-sticky and smooth but still yielding to pressure. Butter a bowl, roll the dough ball over the surface until coated. Cover with a breathable towel—not plastic, it traps condensation—and set in a warm, draft-free spot. Watch for doubling. Usually takes 1 1/2 hours but depends on your kitchen temp. Could be 1 hour 15. Could be closer to 2.
+
+## How to Get Sufganiyot Crispy and Puffed
+
+Flour your board generously. Roll dough to 3/4 inch thick—this thickness is key. Too thin and they're dense. Too thick and they don't cook through. Use a sharp 2-inch round cutter. Press and twist slightly to seal the edges. Dull cutter edges give you ugly shapes. Sharp cutter, clean rounds.
+
+Place each round on parchment-lined sheet, cover with a towel, and let them proof for 40-50 minutes. They'll puff but won't quite double. Look for soft, pillowy dough that springs back slightly when you touch it but doesn't feel tight.
+
+Heat oil in a heavy pot—at least 4 inches of depth—to exactly 350°F. Use a thermometer. No guessing. If you don't have one, drop a tiny piece of dough in. Quick, steady bubbling and golden in about 60 seconds means ready. Too hot burns the outside raw. Too cool and they come out greasy and heavy.
+
+Fry in small batches. 3 to 4 pieces at a time keeps oil temp stable. They float and need about 60 seconds per side. Color tells you more than anything. Golden, not pale yellow, not dark brown. Watch them. When they're done, pull with a slotted spoon onto paper towels.
+
+## Sufganiyot Tips and Common Mistakes
+
+Dough can over-proof. You'll know because it doubles then shrinks back during the second proof. This means it got gassy and collapsed. Punch it down, reshape quickly, and proof again.
+
+Oil temperature is everything. Smoking oil? Too hot. Pull off heat for 30 seconds, let it cool slightly, test again. If dough floats in seconds but doesn't brown evenly, temp's still creeping up. Adjust.
+
+Roll dough once. Re-roll scraps once. After that, toss them. They get tough and won't puff right.
+
+Sugar coating sticks best while dough is still warm. Cool too long and the powder slides off. Warm dough has residual moisture that makes sugar stick.
+
+Filling goes in after frying and cooling just slightly—you want dough warm enough to accept filling but cool enough you won't burn yourself. Use a pastry bag with a large round tip. Poke a hole in the center, pipe until it swells or jelly leaks out a bit. Gentle—too aggressive and dough tears.
+
+Cold filling stays cold longer. Warm custard will heat the dough and make it soggy. This contrast is non-negotiable.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Hanukkah Doughnuts and Custard Donuts
+
+**Can I make the dough the night before?**
+Yeah, you can. Mix everything through the first rise, then cover and refrigerate. Let it come to room temp in the morning before shaping. Flavor gets better actually—orange juice has time to soak in.
+
+**What if I don't have a custard donut filling recipe ready?**
+Make vanilla custard. Whisk egg yolks, sugar, cornstarch, salt in a saucepan. Heat milk separately until steaming. Pour hot milk slowly into eggs while whisking constantly. Cook over medium heat, stirring, until thick. Strain it, cool, chill 2-3 hours. Or buy chilled custard and chill it more. Store-bought works fine.
+
+**Can I use jelly donuts filling instead?**
+That's kind of the point. Jelly alone is good. Jelly plus custard together is better. But one filling works. Doesn't matter which.
+
+**What oil is best for frying?**
+Canola or peanut. High smoke point, neutral taste. Olive oil will break down at 350°F and taste weird. Coconut oil changes the flavor too much. Just use canola.
+
+**How long do they stay good?**
+Best warm and fresh, obviously. Eaten same day is ideal. Store covered at room temperature, they stay okay for one day. Reheat gently in the oven at 300°F for 5 minutes if they firm up. Fridge makes them stale faster.
+
+**Can I make custard filled donuts without the orange?**
+Skip it. Use lemon zest instead, or almond extract. Or just add more vanilla. The orange isn't load-bearing—it's a flavor accent. Works without it.
