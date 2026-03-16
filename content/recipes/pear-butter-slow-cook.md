@@ -1,10 +1,10 @@
 ---
-title: "Pear Butter Slow-Cook"
+title: "Homemade Pear Butter with Lemon Juice"
 slug: "pear-butter-slow-cook"
-description: "Pear butter made from ripe Anjou pears cooked down with lemon juice and sugar. Transforms fresh fruit into a silky, spreadable preserve through gentle simmering and constant stirring. Yields about 2 jars of 250 ml. Vegetarian, vegan, nut-free, lactose-free, gluten-free, dairy-free, egg-free. Prep includes slicing, cooking, pureeing, and slow reducing to thickened butter consistency. Sugar amount customizable based on tartness of pears and preference. Lasts refrigerated up to two weeks."
-metaDescription: "Pear Butter Slow-Cook turns ripe Anjou pears into thick, golden spread with gentle simmering and constant stirring. Yields two jars, vegan, gluten-free."
-ogDescription: "Slow-simmered Anjou pears cooked down to a soft, spreadable butter. Gentle heat, constant stir, thick finish. Holds flavor and texture well refrigerated."
-focusKeyphrase: "Pear Butter Slow-Cook"
+description: "Make silky pear butter from fresh Anjou pears, lemon juice, and sugar. This slow-cooked preserve transforms ripe fruit into a spreadable, vegan-friendly condiment perfect for toast."
+metaDescription: "Homemade pear butter recipe using Anjou pears and lemon juice. Slow-cooked to creamy perfection. Vegan and easy to make. Try it tonight."
+ogDescription: "Silky pear butter made from fresh Anjou pears, lemon juice, and sugar. A simple, vegan-friendly preserve you can make at home."
+focusKeyphrase: "pear butter"
 date: 2025-09-19
 draft: false
 image: pear-butter-slow-cook.jpg
@@ -22,8 +22,14 @@ tags:
 - "homemade"
 keywords:
 - "pear butter"
-- "slow cooking"
-- "Anjou pears"
+- "homemade pear butter recipe"
+- "pear butter with lemon juice"
+- "easy pear butter"
+- "slow cooker jam"
+- "anjou pear jam slow cooker"
+- "homemade jam"
+- "vegan preserves"
+- "how to make pear butter from scratch"
 breadcrumb: ["Home", "Recipes", "Preserves"]
 nutrition: 
  calories: "85"
@@ -57,3 +63,53 @@ faq:
 - "q: Is pectin needed? a: Not usually if simmering low and long. Pectin helps if pears super watery or cook time shortened. Add pinch near end. Powdered better than liquid here because it doesn’t dilute. Skip if texture solid enough for spreading."
 
 ---
+
+Slice the pears. Thirteen of them. Lemon juice goes in first—not after, it stops the oxidation from the jump. Medium-high heat, and listen. That's the key. The sound changes when they start to give up their juice. Takes about 12 minutes if you're stirring constantly, which you should be.
+
+## Why You'll Love This Homemade Pear Butter
+
+Three and a half hours total, most of it hands-off simmering. Slow cooker vibes without needing the actual slow cooker—just a pot and heat and time. Vegan by nature, no butter anywhere despite the name. Works cold straight from the jar, works spread on toast while it's still warm. The color shifts from pale to this deep amber that makes it look expensive. Tastes better than store jam because you control the sugar. One jar keeps for two weeks in the fridge. Freezes forever if you want it to.
+
+## What You Need for Easy Pear Butter
+
+Anjou pears. Thirteen of them, cored and sliced thin. Not Bosc. Bosc gets grainy when you cook them down. The lemon juice—one whole lemon, squeezed. This is non-negotiable. Stops browning, adds brightness, keeps the pear taste from going flat. Granulated sugar. Start with 150 grams. You'll taste at the end and add more or stop there. That's it. Three ingredients for homemade jam that tastes like you actually know what you're doing.
+
+## How to Make Pear Butter from Scratch
+
+Get your pears in a large heavy pan—cast iron works, stainless works, doesn't matter as long as the bottom's solid and the sides are high. Toss them with the lemon juice. Medium-high heat. Stir constantly. You're listening for the sound to change, from the quiet clink of fruit hitting the pan to an actual sizzle. That happens around 12 minutes. The pears collapse into this wet, soft mass. They should never brown. If they start to, lower the heat immediately. The juice pools at the bottom. That's what you want.
+
+Now pulse it. Blender or food processor. Don't puree it smooth all at once—pulse, check, pulse again. You want uniform. No chunks hanging around that'll mess with the texture later. Once it's consistent, push it through a fine mesh sieve into the same pot. This takes longer than you think. Use a spatula. Scrape the sides. Get all the pulp back in there. The stuff left in the sieve is mostly fiber and skin. You won't miss it.
+
+## How to Get Pear Butter Thick and Glossy
+
+Bring the puree to a gentle boil over low heat. Gentle. Not aggressive. Once it's barely bubbling, lower it even more. This is where the slow cook part happens. Three hours and ten minutes, approximately. Maybe less if your heat's higher. Maybe more if your burner runs cool. You'll stir constantly—practically nonstop. The bottom burns first, so you're breaking up anything that sticks.
+
+Watch for the sheen. The puree starts dull and thick, then around the two-and-a-half hour mark it goes glossy. That's when you know it's getting close. The color deepens to this rich golden tan. It should move slowly when you stir—resistance, like it doesn't want to go with the spoon. If clumps form, use a whisk instead of a spoon. Don't raise the heat to speed it up. Scorched flavor ruins everything subtle about the pears.
+
+## Pear Butter Tips and Common Mistakes
+
+Skim the froth occasionally while it simmers. It's just oxidized fruit foam, but getting rid of it gives you cleaner color. The sugar tasting comes at the very end. Add it slowly. A little bit, stir, taste, repeat. This way you control it instead of overshooting into syrup. If it's too tart and sugar doesn't fix it, a pinch of cinnamon works. Vanilla too. But the pear should be the main thing you taste.
+
+If your fruit was especially juicy—some years it is—and the thickening is dragging past three hours, a teaspoon of ground pectin near the end will speed it up without raising heat. Don't do it from the start. Let the slow cook do its work. Cool it to room temperature before jarring. Hot butter in cold jars is asking for cracks. Sterilized jars. Not just clean. Sterilized. Boiling water for ten minutes, or run them through the dishwasher on hot. Fridge keeps it for 14 days. Freeze it if you're not finishing soon.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Pear Butter
+
+**Can you make vegan pear butter in a slow cooker instead?**
+The recipe as written does this already—no slow cooker needed, just a pot. If you actually want a slow cooker, throw the pear puree in on low for 8 to 10 hours. Check it at 8. You'll need to stir periodically because it burns on the edges. Not better. Just different.
+
+**What if your pears aren't ripe enough?**
+They'll take longer to break down in that first step. Maybe 15 or 16 minutes instead of 12. The final cook time doesn't change much. Underripe pears are actually harder to overwork in the sieve, so there's that.
+
+**Does the sugar amount ever change?**
+Start with 150 grams. That's a starting point. Some years pears are sweeter, some years they're not. Some people like jam sweetness, some like barely-sweet. Taste it and decide. You can't unmix sugar, so go slow.
+
+**Why does it have to cook for three hours?**
+Water has to leave. Pear puree is mostly water. You're reducing it down until what's left is thick and spreadable. Lower heat, longer time, prevents scorching. Higher heat gets you there faster but tastes burned. The timing reflects low heat. Respect the timing.
+
+**Can you use a different pear?**
+Bosc gets grainy. Bartlett works. Comice works. Anjou's ideal because it stays smooth and the flavor's neutral enough that the pear still tastes like pear, not like whatever processing you did to it. Other pears might work. Haven't tried them all.
+
+**How do you know when it's actually done?**
+Glossy sheen. Resistance when you stir. The color's shifted dark. The real test: cool a spoonful on a cold plate. If it sets firm and doesn't run, it's done. If it's still loose, keep going. Timing's approximate because pans and burners vary wildly.
