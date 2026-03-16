@@ -1,10 +1,10 @@
 ---
-title: "Nutty Caramel Crunch"
+title: "Homemade Peanut Brittle with Butter & Vanilla"
 slug: "nutty-caramel-crunch"
-description: "Sweet syrup bubbling, peanuts roasting in hot sugar melting the air. A dance between soft ball and hard crack temperatures. Butter and vanilla hit the mix, baking soda foams it up. Spreading it thin, breaking it rough, sticky, hard, nutty brittle. Hands sticky, lips sweet, patience key. The pop and smoke signal heat’s just right. Grease foil, watch the thermometer but listen more. Swap peanuts for chopped walnuts for a woodsy bite. Heat control paramount; a second too long and bitter scorched chaos. Butter or spray stops sticking. Vanilla’s aroma lifts it, soda aerates light and crackly texture. Work fast once hot; cold grabs fast. This sweet treat tricks the eye and taunts the tongue. Same roots from countless attempts, learning patience, heat, timing. Worth the burn, every time."
-metaDescription: "Nutty Caramel Crunch—sticky, crackly brittle with roasted peanuts or walnuts. Butter, vanilla, soda foam mix. Watch temps; timing key for good snap."
-ogDescription: "Crunchy caramel brittle with roasted nuts. Foam rises fast. Watch heat close; timing changes everything. Butter and vanilla round out sweet, nutty crack."
-focusKeyphrase: "Nutty Caramel Crunch"
+description: "Homemade peanut brittle made with corn syrup, sugar, roasted peanuts, butter and vanilla. This easy caramel candy shatters into crispy, nutty pieces perfect for snacking."
+metaDescription: "Make homemade peanut brittle with peanuts, butter, vanilla and baking soda. This easy caramel candy is crispy, nutty and addictive. Try it tonight."
+ogDescription: "Crispy homemade peanut brittle with roasted peanuts, butter and vanilla. Easy caramel candy that's perfectly crunchy every time."
+focusKeyphrase: "homemade peanut brittle"
 date: 2025-12-01
 draft: false
 image: nutty-caramel-crunch.jpg
@@ -21,11 +21,16 @@ tags:
 - "homemade"
 - "easy"
 keywords:
-- "caramel"
-- "nut brittle"
-- "peanuts"
-- "baking soda"
-- "corn syrup"
+- "homemade peanut brittle"
+- "easy caramel peanuts"
+- "peanut brittle recipe"
+- "caramel candy"
+- "homemade brittle candy recipe"
+- "caramel peanuts with baking soda"
+- "peanut candy recipe"
+- "homemade caramel crunch"
+- "butter vanilla brittle"
+- "corn syrup peanut candy"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "2900"
@@ -67,3 +72,84 @@ faq:
 - "q: How to store leftover brittle? a: Airtight container best. Keep dry, cool spot, no fridge. Plastic wrap then container if needed but moisture risk there too. Left out too long brittle can absorb humidity, soften. Cool completely before wrap. Avoid stacking freshly broken pieces wet or sticky. Separate layers with wax paper if stacking large batches."
 
 ---
+
+Set the skillet over medium heat with corn syrup, sugar, and water. Stir until the grit dissolves completely. No lumps. You're watching for the soft ball stage—around 230-240°F—but honestly, the cold water test tells you more than any thermometer does.
+
+## Why You'll Love This Nutty Caramel Crunch
+
+Makes candy at home without any fancy equipment. Just a skillet and foil.
+Takes 25 minutes total. Prep's basically nothing—6 minutes, maybe less.
+Peanuts stay crunchy. They don't soften or get chewy. That's because of the baking soda. Works every time.
+Costs way less than the stuff at stores. Butter, peanuts, sugar. You probably have it all already.
+Tastes like something you'd buy at a fair. Homemade caramel crunch that actually snaps when you bite it.
+
+## What You Need for Easy Caramel Peanuts
+
+Corn syrup. One cup. Not honey or anything else.
+Granulated sugar. One cup exactly.
+Water. A quarter cup. Dissolves the sugar faster so nothing gets grainy.
+Raw peanuts. Two cups. Roast as you cook—they'll pop a little in the heat.
+Unsalted butter. Half a cup. The salt in salted butter throws off the whole thing.
+Vanilla extract. A teaspoon. Cuts the sugar-heavy taste.
+Baking soda. Half a teaspoon. This is the secret. Fizzes up the caramel, lightens it, makes it airy instead of dense.
+
+## How to Make Homemade Brittle Candy
+
+Start with a large cast iron skillet. Grease a sheet of foil next to it—aluminum works fine, nonstick spray speeds it up. This happens fast once you're rolling, so prep matters.
+
+Combine the corn syrup, sugar, and water in the skillet over medium heat. Stir until the sugar dissolves completely into the liquid. No grit at all. This takes maybe 2-3 minutes depending on your heat. Watch for it to go from cloudy to clear.
+
+Bubbles start forming. Foam rises. You're heading toward soft ball stage—around 230-240°F on a thermometer. But test it in cold water too. Drop a bit in. If it forms a soft ball that you can bend, you're there. If it's hard, keep going.
+
+Add the peanuts now. This is where the work happens. Stir constantly. Not occasionally. Not when you remember. Constantly. The peanuts roast as the heat cooks them, and if you stop stirring, they'll burn in patches or clump up like rocks. You'll hear them pop a little—that's good. That's them cooking.
+
+Keep stirring. The mixture darkens from pale to medium amber. A light smoke curls up. Don't panic. That's normal. You're approaching hard crack stage now—295-305°F. This is where the difference between perfect crunch and scorched bitterness lives. One moment too long and the whole batch tastes burnt.
+
+## Peanut Caramel Candy Technique for Perfect Crunch
+
+Pull it off the heat the second it hits 300°F. Seriously. Heat keeps working even when you're not cooking, and it'll ruin the sweetness in seconds.
+
+Add the butter chunks, vanilla, and baking soda all at once. The baking soda fizzes like crazy—the mixture swells and froths and looks like it's going to explode. Don't freak out. Stir fast to blend the air through, but don't overwork it or the whole thing collapses and gets dense.
+
+Pour the molten caramel nut mixture onto the prepped foil immediately. Spread it thin using a wet spatula or a buttered knife. Thickness controls how it snaps—thinner pieces break faster, thicker ones chew more. Depends what you want.
+
+Let it cool at room temperature. Don't put it in the fridge. The cold and condensation will ruin the crunch and make it weepy.
+
+Once it's fully hard—takes maybe 20-30 minutes—break it into uneven, rough pieces with your hands or the back of a spoon. Jagged edges. That's the point.
+
+## Soft Ball Hard Crack Candy Tips and Mistakes
+
+The thermometer helps but don't trust it alone. Cold water test is your real friend. Drop a bit of the cooking mixture into cold water and feel it. Soft ball stage bends when you pinch it. Hard crack shatters between your teeth.
+
+Watch the color. It'll go from pale gold to medium amber. That's the sweet spot. Any darker and bitterness creeps in. You've got maybe 30 seconds of good color before it gets too far.
+
+Stir the peanuts constantly once they hit the hot syrup. This isn't a suggestion. The moment you slow down, you'll burn spots or get clumps. Your arm gets tired. Do it anyway.
+
+Baking soda fizzes. That's supposed to happen. Don't add it slowly thinking you're preventing an explosion. Dump it all in. The fizz is what makes the candy airy instead of dense and chewy.
+
+Pour fast. The mixture hardens as it cools, and if you take too long, you'll end up with a thick, hard-to-spread blob.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Caramel Crunch
+
+**Can I use salted peanuts instead of raw?**
+No. Salted ones already have salt and they'll burn faster. Raw works better.
+
+**What if I don't have a cast iron skillet?**
+Heavy-bottomed pot works. Anything that distributes heat evenly. Cast iron just holds heat well, which helps.
+
+**How long does this brittle candy last?**
+About a week in an airtight container at room temperature. After that it gets sticky or soft depending on humidity.
+
+**Can I use walnuts instead of peanuts?**
+Yeah. They'll work. Chop them up so they're similar size to peanuts. Roast time might be a second shorter—watch them.
+
+**What does baking soda actually do?**
+Makes the caramel fluffy and airy instead of dense. Also lightens the color. It's not optional.
+
+**Why did mine burn?**
+Went past 305°F or didn't stir the peanuts constantly. Happens. Temperature matters more than you think. Get a better thermometer next time.
+
+**Can I make this with peanut butter?**
+Not really. This recipe needs whole peanuts roasting in the heat. Peanut butter would just burn and taste weird.
