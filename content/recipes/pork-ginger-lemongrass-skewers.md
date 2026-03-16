@@ -1,9 +1,9 @@
 ---
-title: "Pork Ginger Lemongrass Skewers"
+title: "Pork Ginger Lemongrass Skewers with Cashew Sauce"
 slug: "pork-ginger-lemongrass-skewers"
-description: "Ground pork mixed with egg, breadcrumbs, baking powder, and a spicy gingery lemongrass sauce. Skewered on soaked wooden sticks. Grilled till browned. Served with a chunky nutty dipping sauce with roasted cashews, fish sauce, garlic, sambal oelek, and brown sugar. The sauce is first simmered to blend the sharp aromatics and sweet heat. Skewers grilled over hot grill, turning multiple times, crisp exterior with juicy interior. Serve alongside herbed cabbage corn salad and carrot juice couscous for texture contrast and vibrant flavors. Balanced salty, sweet, spicy, crunchy, and fresh elements."
-metaDescription: "Ground pork skewers with ginger lemongrass sauce, grilled crisp, served with nutty dipping sauce, carrot couscous, and herby cabbage salad. Rich, spicy, crunchy."
-ogDescription: "Spicy pork skewers with gingery lemongrass sauce and chunky cashew dip. Grilled, juicy, with fresh herb salad and carrot couscous. Texture and flavor pop."
+description: "Grilled pork skewers infused with ginger and lemongrass, served with a rich cashew dipping sauce. Ground pork mixed with egg and panko, charred to crispy perfection."
+metaDescription: "Pork skewers with ginger and lemongrass sauce, topped with roasted cashews and fish sauce. Asian grilled meat recipe. Make it tonight."
+ogDescription: "Tender grilled pork skewers with ginger, lemongrass, and a spicy cashew dipping sauce. Quick Asian grilling recipe."
 focusKeyphrase: "pork ginger lemongrass skewers"
 date: 2025-07-28
 draft: false
@@ -21,9 +21,15 @@ tags:
 - "spicy"
 - "easy dinner"
 keywords:
+- "pork ginger lemongrass skewers"
+- "grilled pork skewers with ginger sauce"
+- "pork skewers with lemongrass sauce"
+- "ground pork skewers with cashew dipping sauce"
+- "asian pork skewers"
+- "grilled pork recipes"
 - "pork skewers"
-- "lemongrass pork"
-- "grilled pork skewers"
+- "asian grilled meat skewers"
+- "easy grilling recipes"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "430"
@@ -74,3 +80,99 @@ faq:
 - "q: How to store and reheat leftovers? a: Wrap skewers tightly, fridge up to 3 days. Reheat in oven or grill to keep exterior crispy, microwave makes soggy. Sauce separate or mixed in, rewarm gently on stovetop. Can freeze cooked skewers in airtight bags, defrost overnight fridge before reheating hot."
 
 ---
+
+Hot grill. Wooden skewers soaked and ready. Pork mixture that actually sticks together instead of falling apart halfway through. That's the whole thing right there—ground pork on a stick, coated in ginger lemongrass sauce that gets sticky and charred, with cashews in the dipping sauce because that's what makes it work. Had a version of this at a street market in Bangkok, forgot about it for three years, then made it on a Tuesday with what I had. Turned out almost exactly the same.
+
+## Why You'll Love These Pork Skewers
+
+Takes just over an hour start to finish, and most of that's soaking wood and chopping. Actual grill time is 20 minutes—not nothing, but fast enough for a weeknight.
+
+Spicy grilled pork with ginger and lemongrass that tastes way more complicated than it actually is. Asian flavors, but nothing exotic in the sauce.
+
+Ground pork instead of chunks. Shapes easier, cooks faster, and the edges get crispy and charred in a way whole pieces don't.
+
+Works as an appetizer, works as dinner with rice and salad. Works cold the next day, too, which nobody expects.
+
+One sauce does everything. Glazes the meat while it cooks. Becomes a dipping sauce after. You're not making two things.
+
+## What You Need for Ginger Lemongrass Pork Skewers
+
+Ginger. Not the dried stuff. Finely chopped—50 grams, which is about a 2-inch piece. The fresher, the better it punches through.
+
+Lemongrass. The pale part only, the white and light green. Chop it small. It doesn't soften like other herbs.
+
+Shallots and garlic. Two small shallots minced fine, four cloves of garlic. The shallots add sweetness that helps balance the fish sauce.
+
+Canola oil. 40 milliliters. Olive oil burns at grill temp. This works.
+
+Brown sugar. Packed, 150 grams. That's what makes the sauce stick and glaze.
+
+Fish sauce. 70 milliliters. Yeah, it smells rough straight from the bottle. But in the sauce, it's the thing that makes everything taste like something. Don't skip it.
+
+Sriracha. 12 milliliters. Enough for heat, not enough to overpower. Adjust if you want spicier.
+
+Cashews, roasted. Chopped. 130 milliliters. They go in the sauce itself, not just on top. Texture thing.
+
+Ground pork shoulder. 650 grams. The shoulder has enough fat that the meatballs stay moist. Lean pork gets dry fast.
+
+Egg, panko, baking powder. One egg, 20 grams panko, one and a quarter teaspoons baking powder. The baking powder keeps everything tender instead of dense. It's weird but it works.
+
+Wooden skewers. Twelve of them, soaked 30 minutes before you use them so they don't burn.
+
+## How to Make Grilled Pork Skewers with Ginger Sauce
+
+**The sauce first.** Get a saucepan medium heat, pour in 40 milliliters canola oil. Once it shimmers—not smoking, just hot—add the ginger, lemongrass, shallots, garlic all at once. Stir and let it sit for 4 minutes. The smell tells you when it's ready—sharp and sweet at the same time. Add the brown sugar, stir until it dissolves and gets syrupy. Two more minutes. Pour in the fish sauce and sriracha, toss in the chopped cashews. Let it bubble once, then drop the heat down to low and let it go for 3 minutes. It'll thicken slightly. Pull it off heat and let it cool while you work on the pork.
+
+**The pork mixture.** Take your ground pork, crack the egg in, add the panko and baking powder. Measure out 70 milliliters of the sauce—that's about 5 tablespoons—and mix it in with the pork. Your hands are the best tool. Mix until it's sticky and holds together. Not wet. Sticky.
+
+**Shaping is where most people mess up.** Oil your hands first, or everything sticks to your fingers instead of to the meat. Scoop out roughly 60 milliliters of the mixture at a time—use a measuring cup or just eyeball it. You'll get 12 pieces. Roll each one into an oval, then press the skewer through the middle lengthwise and mold the meat around it tight. Like a thin sausage. Place them on a plate as you go. They can sit for 10 minutes or go straight to heat.
+
+**Grill prep matters.** Preheat your grill high—you want the grate hot enough that a drop of water dances and disappears in a second. Oil the grate well. This prevents sticking, which is the main reason people's skewers fall apart.
+
+**Grilling time.** Place the skewers down and don't touch them for 5 minutes. Just let them char. After 5 minutes, rotate them 90 degrees, wait another minute or two, then flip. Other side gets the same treatment—5 minutes first, then rotate near the end. The whole thing takes about 18 to 20 minutes. You're looking for a crust that's almost black in spots. That's the caramelization doing the work. Inside should be cooked through, no pink. If you have a meat thermometer, 160°F is done.
+
+## How to Get That Charred Crust on Grilled Pork Skewers
+
+High heat matters most. Not medium-high. High. The skewers spend 20 minutes total on the grill, and the heat needs to be strong enough that the outside is cooking faster than the inside is getting overcooked.
+
+Don't move them constantly. That's the beginner mistake. You get color by staying still. Plant them, walk away for 4 or 5 minutes. Then rotate. The browning happens through contact and time, not constant attention.
+
+The sauce helps too—the sugar caramelizes and that caramelization is what catches and gets dark and crispy. If you're not getting color, your grill isn't hot enough or you're moving the skewers too much. Maybe both.
+
+Near the end, you can brush on a little more sauce if you want it glossier. It'll catch and char more. Do this in the last 2 minutes only or it'll burn instead of caramelize.
+
+## Pork Skewers with Lemongrass Sauce Tips and Common Mistakes
+
+**Wood skewers.** Soak them. Doesn't have to be 30 minutes exactly—20 works, 45 works. You're just trying to get them wet so they don't combust. Some people wrap the ends in foil. Fine if you want to. Not necessary.
+
+**The meat keeps falling off.** You're not packing it tight enough on the stick, or your pork mixture is too wet. Add a little more panko if it's wet. Pack harder when you mold it around the stick.
+
+**Fish sauce smell.** It's strong. It's supposed to be. Once it's in the sauce with the ginger and brown sugar, it tastes nothing like the bottle. Trust it.
+
+**Ground pork shoulder vs. ground pork.** Shoulder has more fat. That's why. Lean pork is a different meal—it'll be drier. Don't use it here.
+
+**Leftover sauce.** Keep it in the fridge. It lasts about 4 days. Use it on rice, on grilled vegetables, on chicken. It's good cold, good warm.
+
+**Cashews.** Roasted only. Raw ones taste like nothing. Unsalted or salted—doesn't matter since the sauce has fish sauce. No need to add extra salt.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Pork Skewers with Ginger and Lemongrass
+
+**Can I make these ahead?**
+Shape them the night before, keep them covered in the fridge. Cook them the next day. The mixture gets firmer cold, which actually helps them hold the stick better.
+
+**What if I don't have lemongrass?**
+Lime zest works. Not the same, but it's bright and sharp like lemongrass is. Use about half as much because it's stronger. Skip if you can't find it—the ginger and ginger sauce still works without it.
+
+**How spicy are these really?**
+12 milliliters sriracha spread across the whole sauce and all 12 skewers is mild to medium. If you hate heat, use less. If you love it, use more. Sriracha is forgiving that way.
+
+**Can I bake these instead of grilling?**
+400°F for about 18 minutes, flipping halfway. You won't get the char but they'll cook through and the sauce still caramelizes. Air fryer at 380°F for 15 minutes works too—actually gets a crust that way.
+
+**How much sauce am I actually serving with the pork?**
+70 milliliters goes into the pork mixture. The rest stays separate as a dip. That's maybe a quarter cup for dipping 12 skewers. Not a lot. You don't need much.
+
+**Do I need to let the pork rest after grilling?**
+Not really. Ground meat heats through fast. Serve hot.
