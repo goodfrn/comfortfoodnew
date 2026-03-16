@@ -1,10 +1,10 @@
 ---
-title: "Salmon Sweet Potato Bowls"
+title: "Salmon Sweet Potato Bowls with Quinoa"
 slug: "salmon-sweet-potato-bowls"
-description: "Salmon filet seared, paired with roasted sweet potatoes and fluffy red quinoa. Zesty spiralized zucchini and fresh baby spinach add crunch and green notes. Creamy avocado sauce mixed quickly with mayo, lemon juice, and water to loosen. Charred pumpkin seeds sprinkle on top. Sweet potatoes roasted with olive oil until tender with golden edges. Quinoa simmered in salted water, fragrant with lemon zest and olive oil. Courgettes marinated briefly in lemon and olive oil, just to soften. Finished off with spicy mayo for heat. No gluten, dairy, nuts. Fish, veggies, grains balanced and fresh."
-metaDescription: "Salmon Sweet Potato Bowls with seared salmon, roasted sweet potatoes, red quinoa, spiralized zucchini, and creamy avocado sauce. Fresh, balanced, gluten-free meal."
-ogDescription: "Salmon bowls with roasted sweet potatoes, red quinoa, zucchini spirals, and creamy avocado sauce. Fresh, crisp, layered flavors with a crunchy pumpkin seed finish."
-focusKeyphrase: "Salmon Sweet Potato Bowls"
+description: "Seared salmon paired with roasted sweet potatoes, red quinoa, spiralized zucchini, and baby spinach. Creamy avocado sauce with lemon juice tops it all."
+metaDescription: "Salmon sweet potato bowls with roasted quinoa, fresh avocado sauce, and spiralized zucchini. Gluten-free, dairy-free, and balanced. Make it tonight."
+ogDescription: "Seared salmon, roasted sweet potatoes, red quinoa, spinach, and creamy avocado mayo sauce in one healthy bowl."
+focusKeyphrase: "salmon sweet potato bowls"
 date: 2025-07-29
 draft: false
 image: salmon-sweet-potato-bowls.jpg
@@ -21,9 +21,16 @@ tags:
 - "avocado"
 - "roasted"
 keywords:
-- "salmon bowl"
-- "sweet potato recipe"
-- "healthy grain bowls"
+- "salmon sweet potato bowls"
+- "salmon bowl recipe"
+- "healthy salmon quinoa bowl"
+- "salmon avocado bowl"
+- "seared salmon with roasted sweet potatoes"
+- "spiralized zucchini salmon bowl"
+- "pan seared salmon with quinoa and spinach"
+- "salmon bowl with avocado sauce"
+- "roasted sweet potato quinoa bowl"
+- "gluten free salmon bowls"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "490"
@@ -78,3 +85,96 @@ faq:
 - "q: How to store leftover bowls? a: Separate components if possible. Keep salmon airtight, fridge 24–48 hrs max. Sweet potatoes reheat fine in oven or microwave to restore softness. Avocado sauce best fresh but can keep 1 day sealed. Quinoa lasts 3–4 days cold."
 
 ---
+
+Sear the salmon first—actually, start with the sweet potatoes in the oven. They take 20 minutes. While they're going, get the quinoa boiling. The order matters because you want everything hot at the same time, but not everything *cooking* at the same time. Fifty-eight minutes total if you don't mess around.
+
+## Why You'll Love This Salmon Bowl Recipe
+
+Doesn't feel like health food. Tastes like it should have butter in it, but doesn't.
+The salmon gets actually crispy on one side—that part matters. Skin off, but the sear still works.
+Roasted sweet potatoes stay soft inside. The edges go kind of caramelized, which sounds fancy but just means the sugar browns.
+Comes together in under an hour even if you're slow. Thirty minutes prep, twenty-eight minutes cooking, done.
+Cold the next day works too. Avocado sauce gets thick overnight—thinner it out with more water if you need to.
+
+## What You Need for a Salmon Avocado Bowl
+
+**For the sauce:** One ripe avocado, cubed. Not frozen. Not under-ripe. That in-between stage where it yields slightly.
+Water—thirty-five milliliters. That's about two and a third tablespoons if you're eyeballing it. Keeps it from turning into paste.
+Mayonnaise, twenty milliliters. Regular mayo. The eggier the better. Changes the texture without adding lemon flavor on top of lemon flavor.
+Fresh lemon juice, twenty milliliters. Bottled works. Fresh tastes different, but bottled doesn't fail.
+Salt and pepper.
+
+**For the bowl:** Two medium sweet potatoes, peeled and sliced thick—one point five centimeters. Thinner and they dry out. Thicker and the inside stays hard.
+Olive oil. Fifty milliliters total split across three things—sweet potatoes, quinoa, salmon, zucchini. Don't shortcut this.
+Red quinoa, two hundred grams rinsed. White works. Red looks better and holds its shape longer.
+Lemon zest from one lemon. One whole lemon. Not half.
+Six hundred grams of salmon filet, skinless, cut into four pieces. About a hundred fifty grams each. Wild salmon tastes fishier. Farmed is milder. Pick your vibe.
+Two medium zucchini spiralized or sliced thin. Raw. You'll salt it and let it sit—that's the cooking.
+Ninety grams of baby spinach. Raw. Just goes in the bowl.
+Two hundred fifty grams cherry tomatoes halved.
+Twenty grams roasted pumpkin seeds for the top.
+Spicy mayo if you want it. Optional.
+
+## How to Make a Salmon Quinoa Bowl
+
+Heat the oven to two-ten Celsius—that's four-ten Fahrenheit. Middle rack. This matters because the top gets too hot. Your sweet potatoes brown too fast on the outside.
+
+Toss the sweet potato slices with half the olive oil, salt, and pepper. Lay them on a silicone mat or parchment paper. They'll stick if you don't. Roast for twenty minutes. You're looking for the edges to go a bit brown and caramelized. The inside should give when you press it.
+
+While that's happening, bring salted water to a boil. Like ocean-level salt. Not mild. Dump in the quinoa. It'll take seventeen minutes. You'll see the little spirals unfurl—that's done. Drain it hard so it's not wet. Mix it with the lemon zest and fifteen milliliters of olive oil while it's still warm. It'll absorb better. Salt and pepper it.
+
+## How to Get Salmon Seared and Perfectly Cooked
+
+Large skillet. Medium-high heat. Get it hot—like, really hot. You want to hear it sizzle when the salmon hits.
+Fifteen milliliters of olive oil in the pan. Wait until it shimmers. Not smoking. Shimmering.
+Place the salmon down skin-side—wait, these are skinless. Smooth side down. That's your money side. Don't move it. Let it sit for three to four minutes. You'll see the edges turn opaque and creep up the sides.
+Flip once. Five more minutes depending on how thick it is and how you like it. Medium-rare is around five minutes total. It'll still be translucent in the very center. Medium is six to seven. Cooked through is nine minutes per piece.
+Salt and pepper after cooking. Not before. The salt pulls moisture out.
+Drain on paper towels. It'll be oily and that's right.
+
+Meanwhile, spiralize or julienne the zucchini. Put it in a bowl with the remaining olive oil and the lemon juice from the half-lemon you zested. Salt it. Pepper it. Let it sit for seven minutes. The salt breaks down the cell walls slightly and it becomes less raw-and-crunchy, more tender. Still crisp though.
+
+## Salmon Sweet Potato Bowl Tips and Common Mistakes
+
+Don't crowd the pan when searing salmon. One piece at a time if it's a small skillet. Two if it's large. Crowded means steam, not sear.
+
+The avocado sauce breaks if you blend it too long. Thirty seconds. That's enough. Overmix and it goes brown and separates. If it does separate, start over—there's no fixing it.
+
+Sweet potatoes vary wildly in size. If yours are huge, slice them thinner. If they're small, they might be done in fifteen minutes. Check at the eighteen-minute mark.
+
+Don't salt the quinoa water and then salt the quinoa again. You'll oversalt. The water is enough.
+
+The zucchini releases liquid. If you make this and eat it later, drain the bowl before serving or it gets soggy. The avocado sauce keeps it somewhat protected but not totally.
+
+Salmon cooks faster than you think. Set a timer. Seriously. Overcooked is dry. Five minutes on the second side is usually right.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Healthy Salmon Bowls
+
+**Can I use frozen salmon?**
+Yeah. Thaw it completely and pat it dry before cooking. Wet salmon won't sear. It'll poach instead.
+
+**How do I know when the salmon is done?**
+Press the thickest part with your finger. If it flakes slightly but still has a tiny bit of resistance in the very middle, it's medium-rare. That's the sweet spot. Fully cooked flakes apart instantly.
+
+**Can I make the avocado sauce ahead?**
+Not really. It browns and separates after a few hours. Make it right before you assemble the bowls. Takes two minutes.
+
+**What if I don't have red quinoa?**
+White works. Brown works. They cook the same time. Red just looks nicer on the plate.
+
+**Can I swap the zucchini for something else?**
+Cucumber. Keeps its crunch better. Doesn't get soft even if it sits. Other than that—bell peppers, sugar snap peas, anything raw and crunchy works.
+
+**Is this actually healthy?**
+Salmon's got omega-3s. Quinoa's got protein. Sweet potatoes have fiber. Avocado's fat but the good kind. Spinach is spinach. So yeah. It's one of those things that's good for you and actually tastes like food.
+
+**How many calories?**
+Not counting. Roughly eight hundred to a thousand per bowl depending on how much avocado sauce you use. The salmon accounts for most of it.
+
+**Can I meal prep this?**
+Partially. Cook the sweet potatoes and quinoa and salmon. Keep them separate in containers. Assemble the night before and it gets watery. Morning of is better. Or keep it deconstructed and build it when you eat.
+
+**What's the deal with the lemon zest twice?**
+One goes in the quinoa so it absorbs the flavor. One goes in the zucchini so the raw vegetables have brightness. Two different applications. Different timing. Both matter.
