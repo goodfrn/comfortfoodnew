@@ -1,10 +1,10 @@
 ---
-title: "Smashed Beef Patties with Mushrooms"
+title: "Beef Stroganoff with Oyster Mushrooms"
 slug: "smashed-beef-patties"
-description: "Frozen medium-lean beef patties browned then simmered in a thick mushroom sauce. Butter used for richness but swap with olive oil if dairy is iffy. Mushrooms sautéed till golden with flour dusted to thicken the broth with reduced-sodium beef stock and Worcestershire for umami. Covered finish cooks through the patties evenly. Great with mashed corn-potatoes and spicy butter, if you want some kick. Timing flexible; rely on browned edges and sauce thickening cues. A classic, tweaked with oyster mushrooms for earthiness. Quick midweek meal, little fuss, big taste."
-metaDescription: "Smashed beef patties browned crisp then simmered in thick oyster mushroom sauce with butter or oil skip em dash. Rich, earthy, and quick midweek meal ideas."
-ogDescription: "Brown frozen beef patties crisp, simmer in mushroom sauce thickened with flour, butter or oil. Earthy oyster mushrooms. Check juices clear. Ready fast."
-focusKeyphrase: "smashed beef patties with mushrooms"
+description: "Beef stroganoff made with frozen beef patties simmered in a rich mushroom sauce. Oyster mushrooms and beef broth create an easy, comforting weeknight dinner."
+metaDescription: "Beef stroganoff recipe with frozen beef patties, oyster mushrooms, and beef broth. Classic comfort food made easy. Try it tonight."
+ogDescription: "Tender beef patties in a rich mushroom stroganoff sauce with oyster mushrooms and beef broth."
+focusKeyphrase: "beef stroganoff recipe"
 date: 2025-09-25
 draft: false
 image: smashed-beef-patties.jpg
@@ -21,9 +21,18 @@ tags:
 - "easy dinner"
 - "main dish"
 keywords:
-- "beef patties"
-- "mushroom sauce"
-- "browning meat"
+- "beef stroganoff recipe"
+- "beef stroganoff"
+- "easy beef stroganoff recipe"
+- "beef stroganoff with mushrooms"
+- "stroganoff recipe"
+- "quick stroganoff recipe"
+- "simple beef stroganoff recipe"
+- "mushroom stroganoff"
+- "comfort food dinner"
+- "weeknight beef recipe"
+- "oyster mushroom recipe"
+- "homemade stroganoff"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "450"
@@ -60,3 +69,95 @@ faq:
 - "q: What about leftovers storage? a: Refrigerate in sealed container 3 days max. Reheat gently low heat keeps sauce texture. Freeze possible but sauce may separate slightly. Stir well when reheating."
 
 ---
+
+Frozen beef patties in a hot pan. Listen for the sizzle. That's when you know the sauce is coming—the good kind, the one that coats everything and makes you forget you didn't have time to plan dinner.
+
+## Why You'll Love This Beef Stroganoff
+
+Forty-five minutes total. That includes prep. Comes together faster than ordering.
+
+Works as actual comfort food—the kind that fills you up and doesn't leave you feeling heavy after, because it's beef stroganoff done right, not some bloated cream bomb.
+
+Mushrooms do half the work. They release their own liquid, thicken the sauce naturally. You're not babysitting anything.
+
+One pan. Literally one. Brown the beef, build the sauce in the same spot. Cleanup isn't nothing, but it's fast.
+
+Tastes better the next day, maybe. The sauce deepens overnight in the fridge.
+
+## What You Need for Beef Stroganoff
+
+Four medium beef patties—frozen is fine, actually easier. They stay together better when they're cold. About 160 grams each.
+
+Butter. Half for browning, half for the mushrooms. Unsalted. Salted butter hides the beef flavor and makes it harder to control seasoning.
+
+Oyster mushrooms. Halved. They're meatier than white buttons, hold their shape. Button mushrooms work—they just release more water. Takes a couple minutes longer.
+
+All-purpose flour. One and a half tablespoons. Just enough to thicken without turning it into gravy.
+
+Low-sodium beef broth. Store-bought is fine. Homemade is better. One and three-quarter cups. Salt it yourself, don't let the broth do it.
+
+Worcestershire sauce. One tablespoon. Non-negotiable. Adds depth. Fish sauce is close but different. Don't skip this.
+
+Salt and black pepper. Freshly ground. Not the pre-ground stuff that's been sitting.
+
+## How to Make Beef Stroganoff
+
+Pat the frozen patties dry with paper towel if they're damp. Doesn't take long. Get half the butter—25 grams—into a heavy nonstick skillet over medium-high heat. Wait for it to foam and settle. The pan should be hot enough that when the patty hits it, it sizzles immediately. Not a whisper. A real sizzle.
+
+Brown one side. Don't flip. Don't poke. Don't do anything. Around 5 to 6 minutes. You're looking for deep mahogany color, the kind that catches light. Salt and pepper the top while it's cooking. Flip once. Same thing on the other side—5 to 6 minutes, same color. Pull them onto a plate. They're not done cooking yet, just seared.
+
+Wipe the pan with paper towel. Get the excess fat out but leave the brown bits. Those matter.
+
+Toss the mushrooms into the hot pan with the remaining butter. Stir them around. They'll release liquid almost immediately—that's fine, that's what you want. Let them go until the liquid tightens back up and they start browning on the edges. Takes about 6 minutes. You'll see the color shift.
+
+Sprinkle the flour over the mushrooms. Stir so there are no lumps. You're looking for a paste-like consistency that coats everything. Smell it—should smell like toasted flour, warm, almost nutty. Don't let it brown or it tastes bitter.
+
+Pour the beef broth in slowly while whisking. Start with a splash, whisk, then keep going. This prevents lumps. Add the Worcestershire sauce. The sauce should bubble and thicken within 3 minutes. Taste it now. Add salt if it's flat. Add pepper if it needs bite. The beef broth is low-sodium, so you have room to season.
+
+Nestle the patties back into the sauce. Cover the pan. Reduce heat to low-medium. Let it go for 7 to 8 minutes. You're gently cooking the beef through without toughening it. The internal temp should hit 160 fahrenheit—use a fork to check the juices. If they run clear, it's done. No pink.
+
+Uncover the pan. The sauce should coat the back of a spoon, not run off immediately. If it's too thin, simmer uncovered for another minute or two. If it's thick and gluey, add a splash more broth.
+
+Spoon the mushroom sauce over the patties.
+
+## Beef Stroganoff Tips and Common Mistakes
+
+Don't flip the patties while they're browning. You're searing them, not scrambling them. Flip once. That's it.
+
+Use a heavy-bottom skillet. Thin pans burn the sauce at the edges while the center stays thin. Heat won't distribute right. Heavy skillet wins every time.
+
+The flour has to go in when the mushrooms are still hot. Cold mushrooms mean lumps. Hot mushrooms mean the flour cooks fast and smooth.
+
+Whisk while you add the broth. This matters more than you think. One smooth motion, no rushing, or you'll end up with flour clumps that don't dissolve.
+
+The sauce should be nappe consistency—meaning it coats a spoon cleanly and doesn't slide off immediately. If you're not sure, dip a spoon in, turn it sideways. Sauce should stick for a second. That's the target.
+
+Mushrooms running low? Double them. More mushrooms means more body, more sauce. Dried porcini work too—soak them first, squeeze out the liquid, chop them. Or mix fresh with dried. The rehydration liquid goes straight into the broth for extra depth.
+
+Increase the Worcestershire if you want it darker, richer. Start with what the recipe says. You can always add more next time.
+
+Add fresh thyme during the mushroom phase if you have it. Not required. It works.
+
+Serve over mashed potatoes. Creamy mashed potatoes. Or egg noodles if you're in a different mood. The sauce cuts the richness, makes it less heavy.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Beef Stroganoff
+
+**Can you make beef stroganoff in a slow cooker?**
+Yeah, but differently. Brown the patties first—don't skip that step. Then throw everything in the crockpot on low for 3 to 4 hours. Add the flour mixed with a little cold broth to thicken at the end, or it'll be too thin. Slow cooker stroganoff is wetter. Some people like it that way.
+
+**What if you don't have oyster mushrooms?**
+White buttons work. They release more liquid, so the sauce thins out faster. Cook them a minute or two longer to let that liquid evaporate. Cremini mushrooms work too, they're in between. Don't use dried mushrooms alone—they're too intense.
+
+**How do you know when the beef is done?**
+Fork test. Poke the thickest part. Juices should run clear, no pink. The meat should give a little when you push it but not fall apart. Internal temp is 160 fahrenheit if you have a thermometer. Don't overcook. The patties toughen if you do.
+
+**Can you make this without Worcestershire sauce?**
+Not really. It's the thing that makes it taste like stroganoff and not just beef in brown sauce. Soy sauce is not the same. Fish sauce is closer but tastes different. Just get the Worcestershire. One bottle lasts forever.
+
+**Does the sauce thicken more as it cools?**
+Yeah, a little. So don't make it too thick while it's hot. It'll tighten up in the fridge and be almost gelatinous by the next day. That's fine. Just loosen it with broth when you reheat.
+
+**What do you serve this with?**
+Mashed potatoes, creamy ones. Egg noodles work. Rice works. Something soft to soak up the sauce. Beef stroganoff needs that. Plain salad on the side cuts the richness if you want lighter.
