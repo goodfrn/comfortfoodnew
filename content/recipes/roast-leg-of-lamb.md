@@ -1,10 +1,10 @@
 ---
-title: "Roast Leg of Lamb with Port"
+title: "Roast Leg of Lamb with Port Wine & Cherry"
 slug: "roast-leg-of-lamb"
-description: "Roast leg of lamb marinated in port and cherry preserves with a twist of balsamic vinegar and smoked paprika. Slow cooked over indirect heat with frequent basting from the reserved marinade. Uses oil and whole grain mustard—mustard seed texture stays. Garlic minced fine for deep flavor. Partial boning and trussing helps even cooking, fat layer melts gradually, skin crisps. Avoids dairy, gluten, eggs, nuts. Aroma intense, meat tender, glossy glaze with subtle smoky-honey notes. Visual cues more reliable than time; muscle fibers soften, edges caramelize. Serve with pan juices infused from marinade and fat drippings."
-metaDescription: "Roast leg of lamb slow cooked on rotisserie with port, cherry preserves, balsamic vinegar, smoked paprika. Fat crisps, meat tender, rich glaze forms."
-ogDescription: "Slow roasted leg of lamb with port and smoked paprika. Fat crisps, skin caramelizes, basted often. Visual doneness cues beat clock every time."
-focusKeyphrase: "roast leg of lamb"
+description: "Roast leg of lamb marinated in port wine, cherry preserves, and smoked paprika. Slow-cooked with balsamic vinegar, whole grain mustard, and garlic for a glossy glaze with tender, caramelized edges."
+metaDescription: "Roast leg of lamb with port wine and cherry preserves, smoked paprika, balsamic vinegar, and whole grain mustard. Slow-cooked for deep flavor. Make it tonight."
+ogDescription: "Tender roast leg of lamb with port wine, cherry preserves, smoked paprika, and garlic. Slow-cooked to glossy perfection."
+focusKeyphrase: "roast leg of lamb with port wine"
 date: 2025-08-09
 draft: false
 image: roast-leg-of-lamb.jpg
@@ -21,9 +21,16 @@ tags:
 - "spice"
 - "holiday"
 keywords:
-- "leg of lamb"
-- "balsamic vinegar marinade"
-- "cherry preserves lamb"
+- "roast leg of lamb with port wine"
+- "port wine cherry lamb roast"
+- "smoked paprika lamb marinade"
+- "roast lamb"
+- "balsamic lamb with cherry preserves"
+- "slow cooked leg of lamb indirect heat"
+- "lamb roast with whole grain mustard and garlic"
+- "holiday roasted lamb with port sauce"
+- "grilled lamb"
+- "marinated lamb recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"
@@ -71,3 +78,78 @@ faq:
 - "q: How to store leftovers? a: Wrap tight in foil or container. Refrigerate up to 3 days max. Reheat slow in oven, covered to keep moisture. Freeze sliced in airtight bags, thaw overnight fridge. Juices separate on cooling—recombine before warming."
 
 ---
+
+Cut the lamb in half lengthwise—actually, leave it whole. Fourteen hours in port and cherry, then two hours turning over coals. The fat crisps. The inside stays pink. Port reduces down to something sweet and sharp at the same time.
+
+## Why You'll Love This Roast Lamb
+
+Takes 2 hours 35 minutes total but most of it's marinating while you do something else. Port wine and cherry preserves sound fancy. Honestly it's five ingredients you probably have, plus the lamb. Grilled instead of roasted, which means less oven time and char that tastes like a holiday dinner without feeling like it. The meat pulls apart. Doesn't need a knife if you don't want one. Leftovers are better cold the next day—not that there usually are any.
+
+## What You Need for Smoked Paprika Lamb Marinade
+
+Port wine. Two hundred milliliters. The cheap stuff works. Cherry preserves go in next—ninety milliliters, needs to dissolve into the port or it stays gritty. Olive oil. Twenty-five milliliters. Not fancy. Just olive oil. Balsamic vinegar. One tablespoon. This is the acid that cuts the sweet. Whole grain mustard. Two teaspoons. Creates texture, holds flavor. Smoked paprika. One teaspoon. Not regular paprika. The smoke matters. Garlic. Three cloves minced fine. Gets into everything.
+
+The lamb itself. One and a half kilos. Partially boned, tied, fat layer still on. If your butcher can do that, let them. If not, keep the skin on—protects the meat while it cooks.
+
+## How to Make Roast Leg of Lamb with Port
+
+Mix the port, preserves, oil, balsamic, mustard, paprika, garlic in a container big enough for the lamb to fit inside. Stir until the preserves break down into the port. This takes a minute. They won't totally dissolve—that's fine. Close enough.
+
+Add the lamb. This is the part where you work the marinade into the meat with your hands. Push it into the surface. Flip it. Push again. Get the marinade under the fat layer if you can. Seal it up. Bag it. Fridge it. Ten to fourteen hours minimum. Overnight is best.
+
+When you're ready to cook, prep the grill for indirect heat. Coals on one side or gas turned off on half the grill. Target temperature around 160 to 180 degrees Celsius. Hot enough to sear, not so hot the fat just burns straight off. Pat the lamb dry but keep that marinade. You'll need it.
+
+Salt it. Pepper it. Coarse pepper. The kind that doesn't disappear.
+
+## How to Get Roasted Lamb Crispy and Perfectly Cooked
+
+Thread the spit through the center—rotisserie if you have one. If the fat layer looks thin right from the start, wrap it loose with foil. Only on top. You'll pull it off later.
+
+Mount it. Place it over the cooler side of the grill. Turn it on. Seventy-five to ninety minutes. Listen for the spit rotating steady. After the first hour, peek. The fat should look like it's getting serious—darker, tightening up.
+
+Start basting at twenty minutes, then every twenty minutes after that. Use the reserved marinade. If it dries out in the pan underneath, splash water in there. You want something to baste with the whole time. The lamb sweats a little into the drip pan. Good. That becomes sauce.
+
+Pull the foil off about thirty minutes from the end. Let the skin crisp proper. It should get dark. Not black. Dark.
+
+Fork test at the thickest part. It should pull without shredding. Internal temp somewhere around 60 to 65 degrees Celsius—medium rare to medium. The grill never cooks the same twice so times shift. Could be 75 minutes. Could be 100. Smell it. Watch it. That's your real timer.
+
+When it's done, off heat for at least fifteen minutes, loosely covered in foil. The juices have nowhere to go if you cut it now. Wait.
+
+## Roast Lamb Tips and Common Mistakes
+
+Too hot at the start means the outside seizes and the inside stays cold. Then you're panicked, cooking longer, and everything dries out. Happened to me once. Keep it moderate. Slow. The cherry and port sweetness only works if the meat's tender.
+
+Check your fat layer before you start. If it's patchy, foil goes on earlier. If it's thick, you might not need foil at all.
+
+Don't skip resting. I know you want to eat it. Wait.
+
+The drip pan gets this thickened sauce from the marinade and the lamb fat. Pour it over the slices. That's most of the flavor right there.
+
+Ruby red wine works instead of port if you want less sweet. Blackberry jam instead of cherry if you want more tang. Smoked paprika is doing real work—don't swap it for regular. It tastes like the grill even if you can't taste grill smoke.
+
+The whole thing is a balance. Sweet wine, sour vinegar, fat from the lamb, smoke from the paprika. One thing too much ruins it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roast Lamb with Port
+
+**How long does the lamb actually need to marinate?**
+Ten hours minimum. Fourteen is better. Overnight's best. The port breaks down the muscle fibers. Longer time means more tender.
+
+**Can you roast this in the oven instead of grilling?**
+Yeah. Same temperature, same time. 160 to 180 degrees Celsius. Indirect heat means don't roast it right on a hot pan. Put it on a rack. Baste the same way. The skin won't crisp quite as much but it works.
+
+**What if the marinade burns in the drip pan?**
+Lower the heat a touch. Or move the pan further from the coals. If it's already burnt, scrape it out and start fresh. Burned marinade tastes like ash. Not good.
+
+**Do you have to use a rotisserie spit?**
+No but it helps. You can roast it on a rack and flip it by hand every twenty minutes. Takes more attention. Not impossible.
+
+**What temperature inside is actually medium rare?**
+60 to 65 degrees. Depends on where you measure—thickest part is safest. Carryover heat adds a few degrees after you pull it off, so pull at 60 if you want 65.
+
+**Can you make this ahead?**
+The marinated lamb keeps three days in the fridge before cooking. Cooked lamb keeps three days. Slice it cold the next day. Barely warm it or don't. The sauce gets thick when it's cold—kind of jellies up from the preserves. Weird texture but tastes right.
+
+**Does smoked paprika really matter or can you skip it?**
+It matters. It's giving you the smoke flavor without an actual smoker. Regular paprika tastes like nothing. Different spice entirely.
