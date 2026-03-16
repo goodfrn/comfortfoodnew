@@ -1,10 +1,10 @@
 ---
-title: "Seafood Fra Diavolo Spin"
+title: "Spicy Seafood Pasta with Crushed Tomatoes"
 slug: "seafood-fra-diavolo"
-description: "A spicy seafood sauce with a tomato base, simmered slowly to balance acidity and heat. Onion and garlic sautéed to sweet softness. Tomato paste and crushed tomatoes thicken and deepen flavor. A pinch of sugar cuts through tomato sharpness. Baking soda neutralizes acidity, fizz signals readiness. Cooked shellfish and fish added last to avoid rubberiness. Serve over pasta, topped with parsley and Parmesan when available. Pepper flakes give a slow-building kick. Flexible with seafood and seasoning. Classic Italian-American heat meets personal tweaks for texture and aroma."
-metaDescription: "Seafood Fra Diavolo Spin blends spicy tomato sauce with mixed seafood. Slow simmered, balanced acidity, topped with parsley and cheese. Italian-American heat twist."
-ogDescription: "Spicy seafood in tomato sauce, simmered slow with onion, garlic, and a dash of baking soda. Adds heat and tender seafood over pasta. Parsley and cheese finish."
-focusKeyphrase: "Seafood Fra Diavolo"
+description: "Spicy seafood pasta featuring shrimp, scallops, and calamari in a rich tomato sauce with garlic and red pepper flakes. Slow-simmered for balanced flavor."
+metaDescription: "Spicy seafood pasta recipe with shrimp, scallops, calamari, and crushed fire-roasted tomatoes. Easy Italian dinner. Make it tonight."
+ogDescription: "Mixed seafood tossed with crushed tomatoes, garlic, and red pepper flakes. Restaurant-quality Italian pasta at home."
+focusKeyphrase: "spicy seafood pasta"
 date: 2026-01-04
 draft: false
 image: seafood-fra-diavolo.jpg
@@ -21,9 +21,16 @@ tags:
 - "spicy"
 - "easy dinner"
 keywords:
-- "fra diavolo"
-- "seafood sauce"
-- "spicy tomato seafood"
+- "spicy seafood pasta"
+- "seafood pasta with tomato sauce"
+- "easy seafood fra diavolo"
+- "shrimp scallops calamari pasta"
+- "crushed tomatoes garlic seafood pasta"
+- "fra diavolo with mixed seafood"
+- "italian seafood dinner"
+- "spicy tomato pasta"
+- "seafood pasta recipe"
+- "red pepper flakes seafood"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "280"
@@ -82,3 +89,121 @@ faq:
 - "q: How to store and reheat sauce? a: Cool, refrigerate in sealed container up to 3 days. Leftover sauce thickens, thin with warm stock or water when reheating. Can freeze, thaw slowly. Reheat gently to keep seafood tender. Overheated reheated seafood rubbery, watch temperature."
 
 ---
+
+Heat the oil until it shimmers. Onion goes in, and you're watching for that moment when the edges turn brown—takes maybe 7 minutes if you keep stirring. Sweet smell, savory smell. That's your base.
+
+Garlic next. Forty-five seconds. Not longer. Burned garlic tastes bitter and there's no coming back from it. Keep moving it around the pan.
+
+Tomato puree and crushed fire-roasted tomatoes hit the pot together. That smoky thing? The roasted tomatoes do that. Stir in tomato paste—it thickens everything and adds something your taste buds register as meat-like, even though there's no meat in there yet. Red pepper flakes. Italian seasoning. Sugar to cut the acid. Mix it all together and lower the heat.
+
+Medium-low. Soft bubbles breaking the surface every few seconds. Not a rolling boil. Let it sit for about 22 minutes and stir sometimes but not constantly. The color deepens. Thickens. 
+
+Then the weird part: baking soda. Sprinkle it over. Fizzes and foams like a science fair. Stir until it stops fizzing. That's the acid mellowing out. Tomato sauce can taste sour if you cook it too long, and this fixes that.
+
+The seafood goes in now. If it's already cooked, even a little, it only needs 5 minutes. If it's raw, it still only needs 5 minutes. Anything longer and your calamari's rubber, your scallops are mealy. Both have happened to me.
+
+Simmer those 5 minutes. Flavors find each other. Spice, sweetness, salt, everything settles into place.
+
+## Why You'll Love This Spicy Tomato Seafood Pasta
+
+Takes 65 minutes total but most of that's the sauce building itself while you're not really doing much.
+
+Works cold the next day, maybe even better — the spice deepens overnight.
+
+One pot. Messy pasta pot, sure, but you're not juggling three pans while the shrimp cooks.
+
+Tastes like you've been cooking Italian for years. The baking soda trick makes people think you know something they don't.
+
+Spicy but not aggressive. You control the red pepper flakes. Two teaspoons is medium heat. Add more if you're into that.
+
+## What You Need for Easy Seafood Pasta
+
+Three tablespoons extra-virgin olive oil. Not the cheap stuff. You taste it here.
+
+One medium yellow onion, chopped. Red onion's too sweet. White onion works but yellow's the actual right choice.
+
+Four cloves garlic, minced. Fresh. Don't buy the jar.
+
+One and a half cups tomato puree and a 28-ounce can of crushed fire-roasted tomatoes. The roasted ones matter—they taste different, smokier. Regular tomatoes work but it's not the same thing.
+
+Two tablespoons tomato paste. Thickens it, deepens the flavor.
+
+One teaspoon crushed red pepper flakes. Two if you like actual heat. Half if you don't.
+
+One tablespoon Italian seasoning. The blend, not individual dried herbs.
+
+One and a half teaspoons sugar. Sounds weird in tomato sauce. Works though.
+
+One quarter teaspoon baking soda. Sounds weirder. Trust it.
+
+Two pounds of mixed seafood—shrimp, scallops, calamari, clams, mussels, whatever looks good that day. Mix them. One type works but mixed is better.
+
+Salt. Freshly ground black pepper. Fresh parsley chopped. Pecorino Romano or Parmesan for on top.
+
+The twist: half the tomato puree swapped for roasted red pepper sauce. Not required. Adds smoke. Makes it feel different.
+
+## How to Make Italian Seafood Pasta with Tomato Sauce
+
+Oil in a heavy pot, medium-high heat. Watch it shimmer. Onion gets stirred constantly for 7 minutes until the edges brown and it goes translucent. That smell tells you it's right.
+
+Garlic in for 45 seconds. Keep stirring. The second you smell it, garlic's done.
+
+Tomato puree and crushed tomatoes pour in. Tomato paste gets stirred in. Red pepper flakes, Italian seasoning, sugar all go together. Stir until it looks unified.
+
+Heat drops to medium-low. The sauce should bubble softly—consistent gentle motion but nothing violent. This is where it sits for 22 minutes. Stir occasionally. The color gets deeper, the texture gets thicker, the flavors start actually tasting like something instead of separate ingredients.
+
+## How to Get Spicy Tomato Seafood Pasta Actually Right
+
+Baking soda. Sprinkle it evenly over the sauce. Don't dump it all in one spot. It'll fizz—that's normal. Looks like a volcano. Stir it until the fizzing stops. This neutralizes the acid that builds up during cooking. Tomato sauce left alone tastes sour. This fixes that without adding anything else.
+
+Seafood goes in immediately after the fizzing stops. If your seafood's raw, it needs exactly 5 minutes in hot sauce. If it's pre-cooked, it needs 3 to 4 minutes to warm through and pick up the sauce flavor. Don't overthink it. The moment it's opaque all the way through, it's done.
+
+Cook it together for 5 minutes and that's it. Your spice is built in, your sweetness is balanced, your sauce clings to whatever pasta you pick.
+
+Pasta matters. Long thin stuff—linguine, bucatini, spaghetti—holds this sauce better than short shapes. The sauce slides into the noodles instead of pooling at the bottom of the bowl.
+
+Serve with fresh parsley scattered on top and cheese shaved over. Hot. Immediately.
+
+## Spicy Seafood Pasta Tips and Common Mistakes
+
+Burned garlic means starting over. Not worth salvaging. One moment of carelessness and bitterness ruins everything.
+
+The baking soda step looks goofy but do it. It's the difference between sauce that tastes bright and sauce that tastes sour.
+
+Cold seafood in hot sauce cooks fast. Too fast and it gets tough. Pre-cook it slightly if you're nervous. 90 seconds in boiling water and it's already partway there.
+
+Taste the sauce before you add seafood. Acid balance happens now. Too sour? More sugar. Too bland? More salt. It's hard to fix once the seafood's in.
+
+If sauce thickens too much while it's simmering, splash in warm water or seafood stock. Not a lot. Just enough so it coats the pasta instead of sticking to the bottom of the pot.
+
+The roasted red pepper sauce swap works. Adds something smoky. Mix it with tomato puree, not instead of it. Half and half.
+
+Leftover sauce keeps for days. Reheat it, toss it with fresh pasta. Or spread it on bread with cheese.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Spicy Seafood Pasta
+
+**How long does this actually take?**
+35 minutes prep, 30 minutes cook. 65 minutes total. Most of that's the sauce simmering while you're standing around. The seafood is 5 minutes of actual attention.
+
+**Can I use frozen seafood?**
+Yeah. Thaw it first. Pat it dry. Frozen seafood releases water when it cooks and the sauce gets thin. Defrost it completely, dry it off, it works fine.
+
+**What if I don't have mixed seafood?**
+Use whatever one thing you want. Shrimp alone is classic. Scallops alone is fancy. Calamari alone is chewy in a good way. One type works. Mixed just works more.
+
+**Does the baking soda really do anything?**
+It neutralizes tomato acid. Not optional. Without it, this tastes sour after 22 minutes of simmering. With it, it tastes bright.
+
+**Can I make this ahead?**
+The sauce, yes. Cook it through the baking soda step. Let it cool. Reheat it the next day, add the seafood for 5 minutes. Better flavor actually.
+
+**What pasta shape goes with this?**
+Long shapes. Spaghetti, linguine, bucatini. The sauce clings to thin noodles. Penne works. Short shapes are fine. Just not ideal.
+
+**Is this actually easy?**
+Yeah. One pot. Most of it's waiting. You chop onion, mince garlic, stir sauce for 22 minutes. The seafood is 5 minutes. Easy dinner means this.
+
+**How spicy is it really?**
+One teaspoon red pepper flakes is medium heat. Two is actual heat. Half is barely noticeable. Start with one, taste it, add more next time if you want to.
