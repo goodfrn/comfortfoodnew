@@ -1,9 +1,9 @@
 ---
-title: "Leek Shrimp Tart"
+title: "Leek Shrimp Tart with Dill & Parmesan"
 slug: "leek-shrimp-tart"
-description: "A savory tart featuring diced shrimp and tender leeks in a custard, baked in a flaky shortcrust pastry. Leeks are first softened into a gentle wilt; shrimp quickly seared with garlic and thyme. Custard made from eggs and creamy oat milk for a lighter texture. The crust is enriched with grated Parmesan to add nutty depth. Baked until golden and set, resting critical for slice clean-up. Adapted with dill instead of thyme, and shallot for garlic for a twist. A quick savory main, no nuts, great for a weeknight meal or casual dinner party. Recognize doneness by firm edges and springy center, not looking wet or wobbly. Mix of textures, fresh herb aroma, crisp bottom."
-metaDescription: "Leek Shrimp Tart baked in flaky Parmesan shortcrust with creamy oat milk custard. Savory, lightly herbed with dill and shallot, perfect for weeknight meals."
-ogDescription: "Baked tart with tender shrimp, poached leeks and silky oat milk custard in a Parmesan crust. Dill and shallot swap in for fresh herbal twist."
+description: "Savory leek shrimp tart baked in flaky shortcrust pastry with eggs, oat milk, and Parmesan. Tender leeks and seared shrimp in a creamy custard filling, finished golden and crisp."
+metaDescription: "Leek shrimp tart recipe with dill, eggs, and oat milk in buttery shortcrust pastry. Perfect weeknight seafood main. Make it tonight."
+ogDescription: "Elegant leek shrimp tart: seared shrimp, tender leeks, fresh dill, and creamy egg custard in crispy Parmesan-topped pastry."
 focusKeyphrase: "leek shrimp tart"
 date: 2025-08-16
 draft: false
@@ -21,9 +21,15 @@ tags:
 - "eggs"
 - "appetizer"
 keywords:
-- "leek tart"
-- "shrimp tart"
-- "Parmesan shortcrust"
+- "leek shrimp tart"
+- "shrimp tart recipe"
+- "leek shrimp custard tart"
+- "savory seafood tart"
+- "shortcrust pastry shrimp"
+- "shrimp and leek quiche"
+- "cheese and egg tart"
+- "seafood tart with eggs"
+- "weeknight shrimp dinner"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -82,3 +88,115 @@ faq:
 - "q: How to store leftover tart? a: Cool completely then wrap tightly with foil or plastic. Refrigerate up to 2 days best. Reheat gently in low oven to avoid crust sogginess. Can freeze whole tart wrapped well, thaw overnight in fridge before warming. Texture slightly changes with freezing but still tasty."
 
 ---
+
+Chill the dough first — that's half the battle. Everything else falls into place after that. Forty minutes minimum, no shortcuts. The butter has to stay cold or you get a dense, tough crust instead of those flaky layers you're actually after.
+
+This isn't hard. Sounds fancy, tastes fancy, comes together faster than you'd think for something this good.
+
+## Why You'll Love This Savory Seafood Tart
+
+Takes 90 minutes total if you're moving at a normal pace.
+Shrimp and leek fill a cheese and egg custard that's somehow elegant but tastes like comfort food. The dill gets in there. Fresh. Nothing heavy about it.
+Appetizer, main course, picnic dish — works everywhere. Serve it warm, room temperature, cold the next day probably even better.
+Shortcrust pastry that actually stays crispy instead of soggy like most tarts do. The blind bake fixes that. Worth the extra step.
+One tart feeds maybe six people. Leftovers don't happen usually.
+
+## What You Need for a Leek Shrimp Custard Tart
+
+**For the crust:** Flour, salt, cold butter in chunks — this matters, warm butter ruins it. One egg yolk. A tablespoon of water. Parmesan grated fine. That's it.
+
+**For the filling:** Shrimp, chopped small. A shallot minced. Fresh dill. Olive oil. Four eggs. Oat milk or regular milk — oat milk makes it lighter, cream makes it richer, both work. Cooked leeks drained really well — soggy leeks ruin everything. Salt and pepper.
+
+The leeks need a heads-up. You cook them separate first, gentle in salted water until they go soft. About 10 minutes. Drain them hard — squeeze them if you have to. Water in the custard means it weeps and cracks.
+
+## How to Make the Shortcrust Pastry
+
+Flour, salt, Parmesan into a food processor. Pulse once. Two seconds, that's all.
+
+Cold butter cubes go in next. Four, five pulses — short ones. Stop when it looks like coarse sand with some pea-sized bits still visible. You want texture, not powder.
+
+Egg yolk and cold water. One tablespoon at a time on the water. Pulse until the dough just barely holds when you pinch it. It'll look shaggy. That's right.
+
+Gather it with floured hands into a disc. Wrap it tight in plastic. Into the fridge for 40 minutes minimum. The butter firms back up. The flour hydrates. Both matter.
+
+Roll it out on a floured surface to about 11 inches across, maybe 3 millimeters thick. Cracks happen. Press them closed with your fingertips. No big deal. Fit it gently into a 10-inch tart pan with the removable bottom. Trim the edges. Chill it again for 35 minutes so the butter doesn't melt when it hits the oven.
+
+## How to Blind Bake and Get the Crust Actually Crispy
+
+Oven to 365°F, rack positioned in the lower third — that matters for even baking.
+
+Fork the dough all over before it goes in. Tiny holes everywhere. This stops it from puffing up into a dome and getting thick in the middle.
+
+Parchment on top. Pie weights or dried beans piled in. Bake it for 15 minutes. The edges should just start turning pale gold but the bottom stays soft still.
+
+Remove the weights. Bake another 5 to 7 minutes until it's lightly toasted. Not brown. Toasted. That's the difference between a crust that stays crispy and one that gets soggy from the filling.
+
+Cool it a bit. Not much. Just enough so you don't burn yourself fitting the filling in.
+
+## How to Make the Leek Shrimp Filling
+
+Leeks first if you haven't already — wash them thoroughly, slice them into thin rings, poach them in simmering salted water until tender. Eight to ten minutes. Drain them. Squeeze the water out. This step is non-negotiable.
+
+Skillet on medium-high heat, olive oil goes in. Shallots next — just for two minutes until they turn translucent but stay pale. No browning. Browning brings bitterness.
+
+Shrimp goes in chopped into small pieces, like half-inch chunks. Dill goes in. One to two minutes and the shrimp turns opaque. Watch it. Seriously. Three seconds more and it's rubbery. You can't fix rubbery shrimp.
+
+Take it off heat. Let it cool slightly.
+
+Bowl, four eggs beaten loosely. Oat milk whisked in. Cooked leeks stirred in. The shrimp mixture stirred in. Salt and pepper but go light — the shrimp already has salt from cooking, the Parmesan in the crust adds more. Season it, taste a tiny bit, add more if needed.
+
+Don't whip it. Don't make it frothy. Smooth and loose is the goal. Bubbles in the custard mean holes in the finished tart.
+
+Pour it into the blind-baked crust. Tap the pan lightly a few times to release any air bubbles hiding in there. Level it out with a spatula.
+
+Lower rack again, 45 to 50 minutes. Watch the crust edges — if they're getting dark too fast, drape a loose piece of foil over them. The filling's done when the top sets but the center still has a tiny bit of jiggle. Press it gently with a finger — should spring back. If it's wet or weeping, it needs more time.
+
+Cool it 15 minutes at room temperature minimum. The custard firms up enough to slice cleanly. If you try it hot, it falls apart. Don't do that. The filling holds together better this way. Serve it warm or room temperature, doesn't matter.
+
+## Leek Shrimp Tart Tips and Common Mistakes
+
+Dough temperature is everything. Start warm, you get tough pastry that doesn't flake. Keep it cold the whole time — between steps, in the fridge, rolled on a chilled surface. If it gets warm while you're rolling, put it back in the fridge for ten minutes.
+
+Shrimp size matters. Bigger ones look prettier but chunks work better for texture. You get little bursts of shrimp in every bite instead of one big hunk.
+
+That blind bake isn't optional. Raw bottom crust under filling just stays wet and dense. Blind baking dries it out. Parchment and weights are key — without them you get bubbles and thick spots.
+
+Leeks need serious draining. Water is the enemy of custard. Squeezed them once? Squeeze them again.
+
+Oat milk or regular — oat makes a lighter tart, cream makes it richer, whole milk lands somewhere in the middle. All three work.
+
+Dill's the right herb here. Thyme works. Tarragon would be interesting. Parsley does nothing. Basil is wrong. Dill stays fresh.
+
+Shallot over garlic always for this one. Raw garlic gets aggressive. You're trying to taste the shrimp and leek, not fight through garlic. Shallot is gentle.
+
+The crust edges sometimes creep up during baking — press them back down if you catch it happening. Keeps filling from leaking out the sides.
+
+Slicing hot is a mistake you only make once. Filling oozes everywhere. Patience here saves the whole thing.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Leek Shrimp Tart
+
+**Can I make this ahead?**
+Yes. Assemble it the night before, keep it covered in the fridge, bake it the next day. Or bake it, cool it completely, cover it, eat it cold or reheat it at 300°F for ten minutes. Better the second day usually.
+
+**What if my crust shrinks during baking?**
+Didn't chill it long enough before baking. Or rolled it too thin. Next time, chill longer between steps. Forty minutes on the disc. Another 35 in the pan. No skipping either one.
+
+**Can I use frozen shrimp?**
+Thawed shrimp, yes. Squeeze out all the water first. Frozen shrimp releases liquid as it cooks and you end up with a wet, watery custard.
+
+**What's a substitute for oat milk?**
+Whole milk, heavy cream, even half and half. Cream makes it richer. Whole milk's the neutral choice. Both work fine.
+
+**Can I add garlic?**
+Don't. Garlic overpowers everything else here.
+
+**How do I know the custard's actually done?**
+Slight jiggle in the very center when you move the pan. Press the center gently — springs back means it's set. If it's liquidy, bake longer. Five minutes. Check again.
+
+**What if the filling cracks on top?**
+Overbaked slightly or oven temp was off. Doesn't affect taste. Cover the crack with fresh dill or a little parmesan if it bothers you.
+
+**Can I freeze leftovers?**
+Yeah. Wrap it well, freeze for maybe a month. Thaw in the fridge overnight, reheat gently. Texture changes a bit but it's still good.
