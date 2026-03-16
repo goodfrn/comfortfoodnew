@@ -1,10 +1,10 @@
 ---
-title: "Zesty Ranch Dressing Remix"
+title: "Gyro Sauce Recipe with Greek Yogurt"
 slug: "zesty-ranch-dressing-remix"
-description: "A ranch dressing reworked with slight tweaks. Mayo swapped for Greek yogurt to cut heaviness but keep creaminess. Dill traded in for fresh thyme for earthier depth. Quantities shifted just enough to nudge flavors but keep balance. Whisked by hand in a bowl, no fancy equipment needed. Chill sets flavors, but don't rush. About two weeks fridge life if sealed tight. Texture thick but pourable. Aroma hints bright herbs mixed with garlic and tangy lemon juice. A kitchen standby with my twist learned through trial and error."
-metaDescription: "Zesty Ranch Dressing Remix swaps mayo for Greek yogurt, fresh thyme for dill; creamy, thick but pourable with bright herb aroma and tangy lemon punch."
-ogDescription: "Switch mayo for Greek yogurt, thyme replaces dill, thick but pourable with bright herbs, tangy lemon, savory Worcestershire—classic dressing with a twist."
-focusKeyphrase: "ranch dressing remix"
+description: "Homemade gyro sauce blending Greek yogurt, mayonnaise, and buttermilk with fresh lemon juice, garlic, and thyme. Creamy, tangy, and perfect for gyros."
+metaDescription: "Make gyro sauce at home with Greek yogurt, mayo, and buttermilk. Fresh lemon juice and garlic create authentic flavor. Try it tonight."
+ogDescription: "Creamy homemade gyro sauce with Greek yogurt, buttermilk, and lemon juice. Restaurant-quality flavor in minutes."
+focusKeyphrase: "gyro sauce recipe"
 date: 2026-01-17
 draft: false
 image: zesty-ranch-dressing-remix.jpg
@@ -21,10 +21,18 @@ tags:
 - "homemade"
 - "vegetarian"
 keywords:
-- "ranch dressing"
-- "Greek yogurt"
-- "herbs"
-- "homemade dressing"
+- "gyro sauce recipe"
+- "homemade gyro sauce"
+- "greek yogurt dressing"
+- "homemade ranch dressing"
+- "buttermilk ranch dressing recipe"
+- "greek yogurt ranch"
+- "ranch dressing recipe"
+- "tzatziki dressing recipe"
+- "green goddess dressing recipe"
+- "homemade ranch sauce recipe"
+- "ranch seasoning recipe"
+- "greek dressing yogurt"
 breadcrumb: ["Home", "Recipes", "Sauces and Condiments"]
 nutrition: 
  calories: "110"
@@ -70,3 +78,92 @@ faq:
 - "q: How long keep it? a: Store in sealed container fridge up to 14 days. Older than 7 days check for aroma, texture changes. Separation common with time but taste usually fine. If flavor dulls, add splash fresh lemon or buttermilk, stir well. Freeze not recommended, texture wrecked."
 
 ---
+
+Dump the yogurt and mayo in a bowl. Whisk it hard. You're looking for creamy but with tiny lumps still there — texture matters. Then buttermilk goes in slow. Not all at once. Watch it loosen up, get smooth but thick enough to actually cling to whatever you're putting it on. That's the pour test. You'll know it when you see it.
+
+This homemade ranch dressing happens to work perfectly on gyros, but honestly it works on everything. The buttermilk ranch keeps longer than you'd think. One bowl. Twelve minutes. Done.
+
+## Why You'll Love This Greek Gyro Sauce
+
+Takes 12 minutes. Seriously. No cooking.
+Better than bottled stuff, and you know exactly what's in it — no weird additives, just Greek yogurt and buttermilk and actual herbs.
+Works as a dip, a spread, a salad dressing. Last week I used it as a dip for roasted vegetables. Before that, gyros. Before that, literally poured it over a bowl of greens. It's one of those condiments that earns its space in your fridge.
+The Worcestershire thing seems random but—don't skip it. Makes the whole thing taste sharper somehow. Less flat.
+Keeps two weeks. Maybe longer. Sits fine in the back while you figure out what to use it for.
+
+## What You Need for Homemade Gyro Sauce
+
+Greek yogurt. Full-fat. Not the stuff in the plastic tube. A cup of it.
+Mayo. A cup and a quarter. Sounds like a lot. It is. That's what makes it creamy enough to actually pour.
+Buttermilk. A third of a cup. This is the thing that loosens it all up and keeps it from being mayo-heavy. Doesn't taste like much on its own but it changes everything.
+Dried parsley. Two and a half teaspoons. Sounds specific but it is.
+Thyme, dried, crushed with your fingers. A teaspoon. Fresh would be better but dried works. Crush it first so it doesn't clump.
+Garlic powder. A teaspoon. White flakes that smell sharp.
+Onion powder. Three quarters of a teaspoon. Not onion salt. Powder.
+Salt. Three quarters of a teaspoon. You can always add more.
+Black pepper, freshly ground. Half a teaspoon. Pre-ground tastes like nothing.
+Lemon juice. A tablespoon. Squeeze it fresh. Bottled tastes sour without brightness.
+Worcestershire. A teaspoon. This is the one people skip and regret. Don't be that person.
+
+## How to Make Homemade Ranch Dressing for Gyros
+
+Yogurt and mayo go in the bowl first. Whisk hard. You want creamy but it's okay if tiny yogurt lumps stay — that's texture. This takes maybe a minute of actual effort.
+
+Buttermilk goes in next but not all at once. Splash it in while you're whisking. Keep whisking. Watch how it goes from thick to pourable. That's the whole thing right there. You're not making soup. You're not making thick paste. You want it to cling but move. If it's still too thick after the whole third cup, you can add a teaspoon more but usually the measurements work.
+
+The herbs and spices get sprinkled in together — parsley, thyme, garlic powder, onion powder, salt, pepper. Don't dump them in one at a time or the dried herbs will stick to the spoon and clump. Everything at once. Then whisk quickly. Thirty seconds. That breaks up any clumps and distributes everything evenly.
+
+Lemon juice splashes in next. Then Worcestershire. This is non-negotiable. I know it sounds random. It is. But it makes the herbs taste sharper and less flat. You won't taste Worcestershire — it just hides in the background making everything else work harder.
+
+Whisk one more time. Look for even color. The herbs should be scattered throughout, not sitting in one spot. You should smell garlic, thyme, bright lemon. If it smells flat and mayo-forward, you skipped something.
+
+## How to Get Ranch Dressing Thick Enough for Gyros
+
+This sauce thickens as it chills. That's the magic. Right after you make it, it pours. After an hour in the fridge, it clings better. After two hours, it's perfect — holds shape on a spoon but still moves.
+
+If you're impatient, five minutes in the fridge then stir it again. The temperature change helps flavors wake up faster than sitting on the counter. I've done it. Works. Not ideal but workable.
+
+If it comes out too thick after chilling, stir in a teaspoon of buttermilk. Not water. Water makes it watery. Buttermilk keeps it creamy while loosening it up. Add slowly. Stir. Taste. It's easy to thin it out but you can't un-thin it.
+
+The texture you want: spoon holds shape but drips slowly when you tilt it. Not mayo-thick. Not salad dressing thin. Somewhere in the middle. Once you see it, you'll know it forever.
+
+## Ranch Dressing Tips and Common Mistakes
+
+Don't skip the Worcestershire. I know I said it already. I'm saying it again. It's the teaspoon that changes everything. The herbs pop because of it.
+Buttermilk really does matter. You can't just water down mayo. The buttermilk tang is what makes this taste like something instead of mayonnaise with herbs sprinkled in it.
+Crush the dried thyme with your fingers before it goes in. Whole pieces taste dusty. Crushed pieces dissolve into the sauce and actually flavor it.
+Lemon juice has to be fresh. Bottled tastes chemical. Squeeze a lemon. Takes thirty seconds.
+If you're out of Greek yogurt, sour cream works. It's less tangy but it works. The sauce tastes slightly different — less bright — but still fine.
+Mayo substitutes are risky. Avocado mayo makes it green-tinted and changes the taste. If you need dairy-free, it gets complicated and I haven't cracked it. Just make a different dressing.
+Too salty? Add a pinch of sugar or more lemon juice. Sugar rounds out salt. Lemon makes everything taste brighter so salt fades back.
+Too thick after sitting in the fridge? Stir in buttermilk a teaspoon at a time. Not water. Not milk. Buttermilk keeps the flavor right.
+If separation happens after a few days — that's normal, mayo does that — stir it vigorously or shake the container before using. It comes right back together.
+Avoid double-dipping spoons into the container. Bacteria from your mouth contaminates it and ruins shelf life. Spoon once, pull out, eat, repeat. Not ideal but it matters for keeping it fresh.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Gyro Sauce Recipe
+
+**How long does homemade ranch dressing last?**
+Two weeks sealed tight in the fridge. I've kept it longer. Three weeks once. Don't quote me on that. Just check it before using — if it smells off, it is.
+
+**Can you make this buttermilk ranch recipe ahead of time?**
+Absolutely. Make it a day before. Flavors actually meld better after sitting overnight. Pour it the next morning and it's sharper, tangier, better than fresh.
+
+**What's the difference between this and store-bought ranch dressing?**
+None, taste-wise. Except better. You know what's in it. No gums, no weird thickeners, no stuff you can't pronounce. Also cheaper if you buy mayo in bulk. Tastes fresher because it is.
+
+**Can you freeze this green goddess-style dressing?**
+Freezing breaks the mayo. Don't do it. Keep it in the fridge or make a new batch.
+
+**Does this work as a salad dressing or just a dip?**
+Both. Works as a dip, a spread on sandwiches, a dressing for salads — though you might thin it a teaspoon more buttermilk if you're pouring over greens. Spoon it thick on gyros. Thin it slightly for salads.
+
+**Why add buttermilk if you're using Greek yogurt already?**
+Buttermilk loosens it up and adds tang. Greek yogurt alone makes it too thick and too sour. Mayo alone makes it too heavy. All three together is the sweet spot. The buttermilk is the adjustment.
+
+**Can you use Greek salad dressing instead of making this?**
+No. Totally different vibe. Greek salad dressing is olive oil and lemon and vinegar. This is creamy. They're not the same thing.
+
+**What if you don't have Worcestershire sauce?**
+Don't make this. I'm kidding. You can skip it but the sauce tastes flat without it. It's one teaspoon. Buy a bottle. You'll use it in other things.
