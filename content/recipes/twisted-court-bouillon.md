@@ -1,10 +1,10 @@
 ---
-title: "Twisted Court-Bouillon"
+title: "Courtbouillon: Aromatic Poaching Broth"
 slug: "twisted-court-bouillon"
-description: "A vibrant aromatic broth to infuse fish or vegetables. Carrot, onion, and celery team up with fresh thyme and bay leaves simmered in water with a splash of clarified butter. Lemon slices join last minute for a bright punch. Black peppercorns replaced by white to soften spice notes. Shallots swapped for onion, more subtle, richer. Added fennel bulb slices bring anise undertones. Perfect base for poaching or light stews. Around 4 to 5 cups yield. Slightly shorter simmer preserves freshness. Adjust herb quantities depending on your taste and headspace in the kitchen."
-metaDescription: "Twisted Court-Bouillon aromatic broth, white peppercorns, fresh thyme, lemon slices added last for brightness, fennel optional twist, savory fish or veggie base."
-ogDescription: "Bright aromatic broth with carrot, celery, fennel option; white peppercorns soften spice; lemon slices slide in last for clear citrus punch."
-focusKeyphrase: "Twisted Court-Bouillon"
+description: "Courtbouillon is a fragrant aromatic broth made with carrot, shallot, celery, fresh thyme, bay leaves, and lemon. Perfect for poaching fish or vegetables with subtle depth."
+metaDescription: "Make courtbouillon at home with carrot, shallot, celery, thyme, and lemon. This aromatic broth is ideal for poaching fish. Try it tonight."
+ogDescription: "Aromatic courtbouillon broth with carrot, shallot, celery, fresh thyme, and lemon for poaching fish."
+focusKeyphrase: "courtbouillon"
 date: 2025-08-02
 draft: false
 image: twisted-court-bouillon.jpg
@@ -21,9 +21,16 @@ tags:
 - "easy"
 - "homemade"
 keywords:
-- "court-bouillon"
-- "white peppercorns"
-- "aromatic broth"
+- "courtbouillon"
+- "court-bouillon recipe"
+- "homemade vegetable broth"
+- "catfish courtbouillon"
+- "court bouillon fish"
+- "court bouillon stock"
+- "fish court bouillon recipe"
+- "vegetable stock homemade"
+- "making vegetable broth"
+- "court bouillon for shrimp"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "30"
@@ -81,3 +88,105 @@ faq:
 - "q: Fennel optional, worth it? a: Adds subtle anise lift, complexity if curious. Skip if fennel fresh not on hand. Celery tops or parsley stems can brighten but not replicate exact twist. Adjust to taste, experiment softly."
 
 ---
+
+Set the heat to medium. Clarified butter goes in first—not brown, just fragrant. Three ingredients you haven't even touched yet and already the foundation matters. This is court-bouillon, which sounds fancy but isn't. It's just a vegetable broth you make at home in 30 minutes, and once you understand why each thing goes in and when, you'll stop buying boxes.
+
+## Why You'll Love This Homemade Vegetable Broth
+
+Takes 30 minutes total—20 to prep, 10 to actually cook. Most of that's just waiting.
+Works as a base for anything. Catfish courtbouillon. Shrimp. Fish soup. Works alone too, which almost nobody thinks about doing.
+No weird ingredients hiding in the ingredient list. Carrot. Shallot. Celery. Lemon. Thyme. That's it unless you feel like fennel.
+Tastes nothing like the canned stuff. Bright. Herbaceous. Lemon-forward but not aggressive. Makes fish taste like it was meant to taste like this.
+Leftovers last two days in the fridge, maybe three. Use it as a cooking liquid, a base, a light soup. Works cold too, which is strange but true.
+
+## What You Need for Homemade Vegetable Stock
+
+One medium carrot, peeled, sliced into coins about a quarter-inch thick. Not thin. Thick coins cook faster and don't turn to mush.
+
+A small shallot halved then sliced paper-thin. Shallot, not onion. Sweeter. Less harsh. Paper-thin so it doesn't float around in big chunks.
+
+One celery stalk rinsed thoroughly, sliced into half-moons. Thin half-moons, because uneven pieces cook at different speeds and you'll end up with some falling apart and others still woody.
+
+Fifteen milliliters of clarified butter. Or neutral oil if you don't have clarified butter. Butter adds something. Oil is fine if you're making do. Don't use olive oil—burns too fast. Not worth it.
+
+One litre of water. Cold. Straight from the tap works.
+
+One fresh thyme sprig. Not dried. Fresh matters here.
+
+Six white peppercorns cracked lightly. White, not black. Softer. Less sharp finish.
+
+Three dried bay leaves. Just the leaves. Don't overthink it.
+
+One lemon thinly sliced. The lemon goes in last, right at the end. That matters.
+
+Optional: one quarter fennel bulb sliced thin. I almost always forget this, but it brightens everything. Licorice note that shouldn't work but does.
+
+## How to Make Court-Bouillon
+
+Heat the clarified butter in a mid-size pot over medium heat until it's fragrant. Watch it. Takes about a minute. Clarified butter burns easily and smells off when it does. Not brown. Just fragrant.
+
+Toss in the carrot, shallot, and celery. Stir to coat with fat. You'll hear a faint sizzle. No color. That's right. You're softening them, not caramelizing.
+
+Add the fennel if you're using it. Slice it thin like the shallot. It gives subtle licorice—brightens the whole thing.
+
+Pour water directly over the vegetables. Gently, so you're not disturbing the aromatics sitting at the bottom.
+
+Slide in the thyme, bay leaves, and cracked white peppercorns. Turn the heat to medium-high.
+
+Watch for the surface to start trembling. Gentle bubbles. Not violent rolling boil. Rolling boil drives off flavor and breaks down the vegetables too fast.
+
+## How to Get the Flavor Right in Homemade Broth
+
+You're looking for gentle fragrant steam rising up. Sharp herbal notes in the air. If the broth gets cloudy or the vegetables start falling apart, reduce the heat immediately. That's overcooking.
+
+Watch for vegetable translucency. Not a timer. Translucency. The carrot will go from opaque to kind of see-through. That's when the broth is done. Usually takes about 10 minutes of gentle simmering. Maybe 8. Maybe 12. Depends on how thick you cut the coins.
+
+Just before turning off the heat, slide the lemon slices on top. Don't stir. The citrus oils release instantly with the residual heat. Huge mistake leaving lemon in too early—it turns bitter. Last thing. Always.
+
+Turn off the heat. Cover the pot. Let it sit 5 to 7 minutes. Flavors marry. The vegetables infuse fully into the broth.
+
+Strain through a fine sieve or cheesecloth. Press lightly if you want concentrated flavor. Don't push hard or everything gets murky.
+
+Taste it. Expect mild sweetness from the shallot. Fresh herbaceous notes. Gentle pepper warmth. Bright lemon finish.
+
+## Making Vegetable Broth Tips and Common Mistakes
+
+White peppercorns crack just before you use them. Whole peppercorns sit and lose punch. Crack them lightly. You want broken pieces, not powder.
+
+If you don't have fresh thyme, use half a teaspoon of dried thyme but add it earlier. Dried needs time to extract flavor. Add it with the water, not at the end.
+
+No fennel? Use celery tops or parsley stems instead. Needs a fresh herbaceous note to balance the sweetness.
+
+Carrot thickness matters more than you think. Too thin and it turns to mush. Too thick and it slows infusion. Aim for uniform coins as close to a quarter-inch as possible.
+
+Classic recipes use onion. Switch to shallot and everything changes—softer, sweeter, less harsh. You'll never go back.
+
+If the broth tastes bitter, the lemon was overcooked or the herbs are old. Fresh ingredients matter here. Like really matter.
+
+Substitute clarified butter with neutral oil for dairy-free. Butter adds depth though. Use it when you can.
+
+The simmering time is flexible. Don't watch the clock. Watch the vegetables. Translucency. That's your signal.
+
+Reheat gently. Never boiling. The delicate aromatics die with heat. Warm it slowly and it stays bright.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Making Vegetable Broth
+
+**Can I use regular butter instead of clarified butter for homemade vegetable stock?**
+Regular butter has milk solids that burn at medium heat. Clarified butter doesn't. Use clarified if you have it. If not, use neutral oil—vegetable, canola, avocado. Works fine.
+
+**How long does homemade vegetable broth keep in the fridge?**
+Two days. Maybe three if it's cold enough. Refrigerate immediately after straining. Don't leave it sitting on the counter cooling down.
+
+**Can I make this court-bouillon recipe ahead of time?**
+Yeah. Make it, cool it, store it in an airtight container. Two days max. You can also freeze it in ice cube trays and use cubes as needed for catfish courtbouillon or shrimp recipes.
+
+**What if my homemade veggie broth tastes flat or weak?**
+Probably didn't let it steep long enough or the vegetables weren't sliced thin enough. Try longer simmering next time. Also check that your thyme and bay leaves are fresh. Old herbs taste like nothing.
+
+**Can I use this vegetable broth recipe for other soups?**
+Yes. It's mild and herbaceous so it works as a base for almost anything. Vegetable soup. Light seafood soup. Even just a gentle broth with some bread on the side works.
+
+**Do I need to peel the carrot for making veg broth?**
+Yeah. Unpeeled carrots bring dirt flavors into the broth. Takes two seconds to peel. Worth it.
