@@ -1,10 +1,10 @@
 ---
-title: "Winter Tomato Salad Remix"
+title: "Caprese Salad with Tomatoes and Fresh Tarragon"
 slug: "winter-tomato-salad-remix"
-description: "A chilled blend of tomatoes and aromatics soaked to balance the sharp and sweet. Swapping herbs to bring a fresh twist. Rested long enough for flavors to meld, drained boldly to avoid limp salad. Toss, chill, then drain – no soggy bites here. Bright, textured, vibrant. Works for cold seasons when tomatoes still call for attention. Five-minute chop, then patience. Notes on saving watery tomatoes, substituting basil with tarragon for an unexpected edge. Clear steps to avoid mush and flavor loss."
-metaDescription: "Winter Tomato Salad Remix; tomatoes soaked long for deep flavor; tarragon swaps basil for anise edge; crisp onion snap; chill then drain for no soggy bites."
-ogDescription: "Cold-season tomatoes need soaking; tart and sweet balanced with honey. Tarragon cuts sharp; onions thin-sliced; chill, drain, serve on rustic bread or solo."
-focusKeyphrase: "winter tomato salad remix"
+description: "Fresh caprese salad made with winter tomatoes, red onion, and tarragon instead of basil. Dressed with olive oil and red wine vinegar, then chilled to let flavors meld perfectly."
+metaDescription: "Caprese salad recipe with tomatoes, red onion, and fresh tarragon. Olive oil and red wine vinegar dressing. Make it tonight."
+ogDescription: "Tomato caprese with tarragon, red onion, and olive oil. Fresh, flavorful, and ready in minutes."
+focusKeyphrase: "caprese salad"
 date: 2025-11-16
 draft: false
 image: winter-tomato-salad-remix.jpg
@@ -21,9 +21,18 @@ tags:
 - "summer"
 - "easy dinner"
 keywords:
-- "winter tomatoes"
-- "tarragon herbs"
-- "acid balance"
+- "caprese salad"
+- "caprese"
+- "tomato salad"
+- "tomato salad recipe"
+- "caprese recipe"
+- "italian caprese salad"
+- "fresh tomato salad"
+- "winter salad recipes"
+- "tomato mozzarella salad"
+- "cucumber tomato salad"
+- "red onion salad"
+- "tarragon salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "120"
@@ -68,3 +77,84 @@ faq:
 - "q: How to store leftovers? a: Keep covered tightly in fridge; plastic wrap or airtight container. Lasts up to three days. Can stir gently mid-way to redistribute flavors. Avoid freezing, texture breaks badly. If dry, drizzle olive oil before serving again."
 
 ---
+
+Rough chop the tomatoes first—hear them crack against the board. Two pounds, not minced. Not chunks either. That texture matters more than you'd think, especially when they sit for hours and start releasing juice.
+
+## Why You'll Love This Caprese Salad
+
+Takes 12 minutes of actual work. The rest is the fridge doing the job.
+Tastes better the longer it sits—up to three days, which makes it perfect for meal prep or throwing together before people arrive.
+Summer salad that doesn't wilt. Cold. Crisp vegetables that stay crisp. Works as a side or bread topper or just straight from the bowl.
+Vegetarian. Healthy. No cooking involved. Just chopping and waiting.
+Tarragon instead of basil—sounds weird, actually works. Brings something anise-like that cuts tomato sweetness in a way basil doesn't.
+
+## What You Need for This Caprese Recipe
+
+Two pounds of winter tomatoes. Rough chopped. Not diced fine—you want to hear the knife.
+Red onion, a quarter cup, sliced thin. Thin enough to soften when it sits but still have bite.
+Fresh tarragon. A third cup, chopped fine. This is the swap that makes it different from regular Italian caprese salad.
+Two cloves garlic, minced very fine. Not a paste. Just fine.
+A third cup of good olive oil. Matters here because there's not much else going on.
+Two tablespoons red wine vinegar. Apple cider works. White vinegar doesn't—too sharp.
+Sea salt, a teaspoon. Black pepper, half a teaspoon. Red pepper flakes if you want heat.
+Honey or maple syrup, one teaspoon. Balances the acid. Sounds wrong. Don't skip it.
+
+## How to Make Caprese Salad
+
+Toss the tomatoes, onions, garlic, and tarragon into a medium bowl. Mix with your hands or a fork—doesn't matter which. You want to bruise things slightly, get the juices starting to release. Not mashed. Just encouraged.
+
+Drizzle the olive oil and vinegar over the mix. Add the salt, pepper, red pepper flakes, and that teaspoon of honey or maple syrup. This part matters. The sweet rounds out the tang. Your tomatoes might seem sweet already—doesn't matter. Add it anyway.
+
+Stir again. Everything should look wet and loosely mixed, not sloppy.
+
+## How to Get Deep Flavor from Your Tomato Salad
+
+Cover it. Plastic wrap or reusable container. Into the fridge it goes.
+
+Minimum three and a half hours. That's when the flavor starts getting serious. But you can leave it up to 72 hours. Longer soak means deeper, more integrated taste. The vegetables soften but stay textured if you don't mess with them—just let gravity and time do the work.
+
+When you pull it out, drain the excess liquid before serving. Use a colander or slotted spoon. Look for watery pools at the bottom. That's flavor diluted. Nobody wants that.
+
+Serve it cold. As a side. Atop toasted rustic bread for crunch. Straight from the bowl works too.
+
+## Caprese Salad Tips and Common Mistakes
+
+Tomatoes watery or bland to start? Toss them with a pinch of baking soda to cut acidity, but rinse it fast before the dressing goes in. Works.
+
+Acidity tastes sharp when you eat it? You didn't let it sit long enough. Wait another hour, maybe two. Flavors need time to marry.
+
+Herbs taste dull after it's been in the fridge? Add fresh tarragon or basil right before serving. Green stuff fades. Cold fades it faster. Just add more at the end.
+
+Want a different brightness entirely? Swap the tarragon for fresh mint. Same amount. Completely different vibe.
+
+The cucumber tomato salad variation: add sliced cucumber at the very end, right before serving. Stays crunch that way. Don't let it sit with the other vegetables.
+
+If you want burrata cheese salad vibes, tear fresh burrata over the top when you serve. Not mixed in. Just sitting on top. Let it melt slightly from the cold tomato warmth.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Caprese Salad
+
+**How long does caprese salad last in the fridge?**
+Three days easy. Texture gets softer the longer it sits but flavor gets better. After 72 hours it starts to break down. Don't bother past that.
+
+**Can I make this ahead of time?**
+That's literally the whole point. Make it morning, eat it dinner. Flavors deepen while it sits. The recipe needs the time—don't skip the soak.
+
+**What if I don't have tarragon?**
+Basil works. So does mint. Dill if you want something weird. Not oregano—too heavy. Tarragon's the best though.
+
+**Why does the recipe call for honey when tomatoes are already sweet?**
+Balances the vinegar. Sounds backwards but try it. The acid gets rounder, less sharp. One teaspoon makes the difference.
+
+**Can I use fresh mozzarella or burrata in this italian caprese recipe?**
+Yeah but add it right before serving. Don't let it sit in the dressing or it gets watery and breaks. Just tear it on top.
+
+**What tomatoes should I use for this recipe caprese salad?**
+Winter tomatoes work. Summer tomatoes are too watery. Beefsteak tomatoes hold better. Avoid those mealy ones. If they're bland, the salt and vinegar help but won't fix it completely.
+
+**Do I have to refrigerate it for 3.5 hours?**
+Minimum, yeah. You can push it to 72 hours. Shorter than 3.5 and it tastes like you just chopped vegetables and threw dressing on them. That's not what this is.
+
+**Can I drain the liquid before storing?**
+No. Let it sit with the juices. That's flavor. Drain it right before serving, not before refrigerating.
