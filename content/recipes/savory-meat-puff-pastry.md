@@ -1,10 +1,10 @@
 ---
-title: "Savory Meat Puff Pastry"
+title: "Pork Appetizers with Spinach & Walnuts"
 slug: "savory-meat-puff-pastry"
-description: "Layered puff pastry filled with browned lean pork, wilted greens, and crunchy nuts. Slow reduction builds flavor; freshness from greens balances meatiness. Assembly quick once filling cools. Golden, flaky crust with aromatic fill. Serve with tangy, sharp sauces to cut richness. Dairy-free version; butter replaced with oil or vegan spread possible. Substitute pork with turkey or beef for variation. Keeps well; reheat to crisp crust again. Technique focus on sealing edges to avoid leaks, scoring top to release steam without losing moisture, and texture contrasts between creamy filling and nut crunch. Meaty aroma, bubbling pastry, nutty crunch, vibrant green pockets all signal doneness."
-metaDescription: "Savory Meat Puff Pastry packed with browned pork, spinach, and toasted walnuts. Golden flaky crust sealed tight, hints of vermouth and garlic meld inside."
-ogDescription: "Juicy browned pork mixed with wilted spinach and crunchy walnuts inside flaky puff pastry. Golden crust scored for steam release; rustic French-inspired dish."
-focusKeyphrase: "Savory Meat Puff Pastry"
+description: "Crispy puff pastry appetizers filled with ground pork, wilted spinach, and toasted walnuts. Quick assembly with rich chicken stock reduction creates savory, flaky bites."
+metaDescription: "Easy pork appetizers made with puff pastry, ground pork, fresh spinach, and walnuts. Golden, flaky, and perfect for entertaining. Make it tonight."
+ogDescription: "Savory puff pastry bites with ground pork, spinach, and toasted walnuts. Crispy outside, tender filling. Impressive appetizers in minutes."
+focusKeyphrase: "pork appetizers"
 date: 2025-08-14
 draft: false
 image: savory-meat-puff-pastry.jpg
@@ -19,9 +19,14 @@ tags:
 - "appetizer"
 - "easy dinner"
 keywords:
-- "puff pastry"
-- "ground pork"
-- "walnut spinach filling"
+- "pork appetizers"
+- "easy pork appetizers"
+- "puff pastry with ground pork and spinach"
+- "pork and walnut puff pastry"
+- "ground pork filling with wilted spinach and nuts"
+- "savory meat puff pastry with greens"
+- "pork dinner recipes"
+- "easy pork dinner"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "390"
@@ -77,3 +82,57 @@ faq:
 - "q: Leftovers storage tips? a: Wrap cooled pastry tightly. Refrigerate up to 3 days. Reheat in oven to crisp again, not microwave or soggy. Freeze assembled before baking, thaw overnight in fridge. Bake straight from fridge but add few minutes bake time."
 
 ---
+
+Shallot goes in first—just until it's soft and the edges turn gold. Then the pork. Let it actually brown, not just gray out in the pan. Forty-seven minutes total from cold to plate, and somehow it tastes like you've been stirring it for hours.
+
+## Why You'll Love This Pork Appetizer
+
+Takes under two hours but tastes way more involved than it is. Ground pork filling that actually has texture—walnuts, spinach, something going on in there. One sheet of puff pastry folded over and suddenly you're serving something that looks like it came from a bakery. Works cold the next day, maybe better. Not much cleanup. One pan for the filling, one baking sheet. Easier than it looks—no fancy technique hiding anywhere. The kind of thing you can make on a random weeknight and have people think you've done something impressive.
+
+## What You Need for Pork and Walnut Puff Pastry
+
+Shallot. Just one medium one, minced fine. Olive oil—the real kind, not the light stuff. Ground pork shoulder works better than ground pork. Something about the fat content. Thirty ounces, give or take. Dry white vermouth. Not wine. Vermouth does something different. Chicken stock—good stock, not the thin stuff from a cube. Bread crumbs from actual bread that's been toasted. Not panko. Baby spinach, roughly chopped. Toasted walnuts. This part matters. Raw walnuts taste like wet wood. Toasted ones snap. An egg yolk mixed with cold water for the shine. One pound of frozen puff pastry thawed out. Salt and pepper. The real black pepper, ground fresh.
+
+## How to Make Pork Dinner with Puff Pastry
+
+Heat the oil over medium. Shallot goes in now—don't rush it. You want translucent, soft, edges just barely getting color. Takes maybe four minutes. Smells good before it looks done. Crumble the pork in. Stir constantly, break it apart with the spoon as it browns. This is where you earn the flavor. Seven to nine minutes. It should start releasing fat, should look a little crunchy in spots. The sizzle tells you when it's right. Pour in the vermouth. Listen for that sharp hiss. Stir hard. Watch it reduce down until it's almost dry—you want the pan glossy again, not wet. Maybe two minutes. This step matters more than it sounds.
+
+Add the stock and bread crumbs. The filling should bubble gently, not furious. Stir every couple minutes. Twenty-two minutes, roughly. Watch it thicken. Skim the foam off the top if you feel like it—improves the final thing. It should look glossy when you're done, not gluey.
+
+## Getting the Filling Right
+
+Garlic and spinach go in together. Stir them through, let the greens wilt. Four minutes. No longer. Bright green is what you want. Salt it now. Pepper too. Generous. The crust is going to be rich, so the filling needs punch. Take it off heat. Wait a minute, maybe two. Then add the walnuts. Warm filling breaks them down. Cold filling keeps them crisp.
+
+Meanwhile the oven gets to 410. Center rack. Parchment on a baking sheet. Whisk the egg yolk with cold water. This is your glue and your shine. Too watery and it runs. Too thick and it clumps. Just right and the crust goes golden burnt-sugar brown.
+
+Flour your workspace lightly. Roll one piece of pastry into a square—about nine inches. Neat edges. Do the same with the second piece. One square goes on the baking sheet. Spoon the filling into the center. Keep half an inch clear all around. Less filling is actually better here. It should sit snug when you fold, not burst out. Brush the edges with egg wash. Cover with the second square. Press to seal—really press. Not just fork marks. That weak seal invites steam to escape, makes the bottom soggy.
+
+Brush the whole thing with egg wash. Take a sharp knife, score diagonal lines across the top. Light lines. Don't pierce through. Make one small vent in the center. Steam needs somewhere to go.
+
+Bake thirty-three to forty minutes. Watch the color shift from pale to golden, then that dark amber at the edges. Tap it. Should sound hollow. Should feel firm. Let it rest ten minutes before cutting. Pastry firms up as it cools. Filling settles.
+
+## Pork Appetizer Tips and Common Mistakes
+
+Watch the shallot in step one. Shallots taste bitter the second they actually brown. You want soft and golden-edged, not caramelized. The pork needs heat to get that sear. If your pan isn't hot enough, it steams instead of browns. Spinach wilts fast. The second it loses that bright color, pull it. The filling should cool slightly before the walnuts go in or they get mushy. Uneven pastry thickness means some parts cook faster than others. Roll it as evenly as you can. The seal on the edges is what keeps the bottom from sogging. Don't half-ass it. The egg wash needs a light hand. Too much pools and browns unevenly. The central vent prevents the crust from puffing too much and trapping steam underneath.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Easy Pork Dinner
+
+**Can I prep this the day before?**
+Yeah. Make the filling, let it cool completely, cover it. Next day, assemble and bake. Adds maybe five minutes to the total time.
+
+**What if I don't have puff pastry?**
+You could use phyllo. It'll be different—more delicate, crisps faster. Won't get that same shatter. Probably not worth it.
+
+**How do I know when the filling is cool enough to add walnuts?**
+Stick your finger in. If it's hot, wait. You want it warm, not steaming. Three minutes usually does it.
+
+**Can I make this ahead and freeze it?**
+Assemble it, don't bake it, wrap it tight in plastic, freeze. Bake straight from frozen, add maybe five minutes to the time. The pastry won't puff quite as much but it still works.
+
+**What goes with this for serving?**
+Acidic stuff. Pickled beets. Something sharp. A fruity ketchup with vinegar. Anything that cuts through the richness. Don't serve it plain.
+
+**Is there a substitution for the walnuts?**
+Pecans work. Toasted hazelnuts too. Not almonds—too mild. The nut needs to stand up to the pork and spinach.
