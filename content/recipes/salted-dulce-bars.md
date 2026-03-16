@@ -1,10 +1,10 @@
 ---
-title: "Salted Dulce Bars"
+title: "Salted Dulce de Leche Bars with Buttery"
 slug: "salted-dulce-bars"
-description: "Butter and flour pulse into a crumbly base. Eggs and vanilla pull the dough together. Chill for easier handling. Press most dough as bottom layer; slice thin or work like puzzle pieces to ease sticky frustration. Toss a bit of flour and brown sugar in leftover dough for crumbly topping. Spread rich, dark dulce de leche then crumble topping on. Bake low and slow until bubbling caramel darkens and crumbs toast golden. Salt flakes on top cut sweetness. Lift whole slab out, slice warm with hot knife for clean bars. Room temp storage fine for days but best fresh. Texture ranges creamy sweet with crunchy buttery edges."
-metaDescription: "Salted Dulce Bars with buttery crumb base, sticky chewy dulce filling topped with rustic crisp crumbs and sea salt flakes. Bake low, slice warm, store airtight."
-ogDescription: "Light buttery crumb, sticky dulce caramel inside, crumbly sugar topping, salty crunch. Chill dough, watch caramel bubble, slice warm with hot knife."
-focusKeyphrase: "Salted Dulce Bars"
+description: "Salted dulce de leche bars with a buttery shortbread base and crumbly topping. Layer dulce de leche between butter and flour dough, bake until golden, finish with flaky sea salt."
+metaDescription: "Make salted dulce de leche bars with a buttery shortbread base and rich dulce de leche filling. Golden, creamy, and topped with flaky sea salt. Try it tonight."
+ogDescription: "Buttery shortbread base meets rich dulce de leche filling. Topped with flaky sea salt for the perfect sweet and salty treat."
+focusKeyphrase: "dulce de leche bars"
 date: 2025-12-09
 draft: false
 image: salted-dulce-bars.jpg
@@ -21,9 +21,18 @@ tags:
 - "homemade"
 - "easy"
 keywords:
-- "dulce de leche"
-- "crumbly topping"
-- "chilled dough"
+- "dulce de leche bars"
+- "salted dulce de leche bars"
+- "butter shortbread dulce de leche bars"
+- "homemade dulce de leche bars"
+- "dulce de leche caramel bars with flaky sea salt"
+- "buttery shortbread base dulce de leche filling"
+- "easy dulce de leche brownies"
+- "homemade caramel chocolate layered bars"
+- "dulce de leche bars with chocolate topping"
+- "caramel chocolate dessert"
+- "shortbread bars recipe"
+- "sea salt caramel bars"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "280"
@@ -75,3 +84,87 @@ faq:
 - "q: Best way to store bars? a: Airtight container room temp max 5 days. Refrigerate and bars harden, chewy inside toughens. Freeze wrapped well for longer. Reheat in warm oven briefly or microwave loosely covered before slicing for softer texture."
 
 ---
+
+Chill the dough at least 40 minutes. Less time and you're fighting sticky dough the whole way. Takes 20 minutes to prep, 35 minutes to bake, and the waiting is the part that matters most.
+
+## Why You'll Love These Salted Dulce de Leche Bars
+
+Homemade dulce de leche bars taste nothing like store-bought. The buttery shortbread base actually has texture. Caramel filling bubbles in the oven and sets into something chewy and thick. Takes 55 minutes total but most of it's hands-off. Sea salt on top cuts through the sweetness — you don't need it but it changes the whole thing. And you'll use a hot knife between cuts so every slice comes out clean, not squished. Makes a homemade dessert that looks like you actually tried.
+
+## What You Need for Homemade Dulce de Leche Bars
+
+All-purpose flour. Two and one-eighth cups for the crust and topping combined. Not bread flour. Not cake flour. All-purpose works.
+
+Baking powder. A quarter teaspoon. Barely any. Just enough to give the shortbread lift without tasting like baking powder.
+
+Kosher salt. One-quarter teaspoon in the dough. Then flaky sea salt on top after baking — that part's optional but honestly don't skip it.
+
+Granulated sugar and light brown sugar. Half cup white, one tablespoon brown. Brown sugar goes in the topping only, mixed with extra flour to make crumbs.
+
+Cold unsalted butter. One full cup, cubed small. Cold is the whole point. Warm butter makes dough greasy. It needs to stay in little pieces so the crust gets flaky.
+
+Eggs and vanilla. Two large eggs, one teaspoon vanilla extract. Room temperature works fine. Cold eggs make the dough harder to mix but it doesn't matter much.
+
+Dulce de leche. One cup. Store-bought is fine — way easier than making it yourself. Just dump it straight from the jar. Don't thin it, don't heat it. Just spread.
+
+Parchment paper and cooking spray. For the 9x13 pan. Makes lifting the whole slab out easy instead of trying to fish pieces out with a spatula.
+
+## How to Make Dulce de Leche Bars
+
+Combine two and one-eighth cups flour, one and one-quarter teaspoons baking powder, and one-quarter teaspoon kosher salt in a food processor. Pulse four times just to mix. Add half a cup granulated sugar, pulse twice more. The mixture looks like sand.
+
+Dump in one cup cold cubed butter. Pulse for about 20 seconds — it should look crumbly but starting to hold together when you squeeze it. Not smooth. Not wet. Just beginning to bind.
+
+Drop the two eggs and one teaspoon vanilla in there. Pulse a few more times until the dough pulls away from the sides of the processor. It'll be tacky. That's right. Wet is wrong. Tacky is correct.
+
+Turn it out onto a floured surface and press it into a disc shape with your hands. Wrap it tight in plastic or foil. Put it in the fridge for at least 40 minutes. The longer the better — 45 minutes, even an hour works. Less time and the dough stays sticky when you're trying to press it into the pan, and slicing gets rough.
+
+Set your oven to 345°F and position the rack low. That matters. Low rack means the caramel bubbles but the crust and topping don't burn while the filling sets.
+
+Spray the 9x13 pan with cooking spray. Line it with parchment paper, letting the edges hang over the sides. That's your handles for lifting it out later.
+
+Take the chilled dough. You need about three-quarters of it for the base layer. The rest becomes topping. For the base, either slice it thin or just pinch off pieces and press them into the pan — spread them out evenly across the bottom. Thin slices fit more evenly and bake more uniformly. Big chunks leave gaps and thick spots.
+
+Take whatever dough is left. Toss it with one tablespoon flour and one tablespoon light brown sugar. Mix it until it looks dry and crumbly — like wet sand that's been sitting out. Don't try to make it smooth. Clumpy is what you want.
+
+Spread the dulce de leche evenly over the bottom crust. Don't go all the way to the edges. Leave maybe half an inch. When it bubbles it bubbles and if it hits the pan edge it can overflow and make a mess on the oven floor.
+
+Sprinkle the crumbly topping unevenly over the caramel. Won't cover everything. You'll see gaps of dulce de leche showing through. That's fine. That's the point. The crumbs brown, the caramel glistens underneath.
+
+## How to Bake Salted Dulce de Leche Bars to Golden
+
+Slide it into the oven for 25 to 32 minutes. Watch for the caramel to darken in color and bubble up — should be active bubbling, not just sitting there. The topping should be golden but not dark brown. Every oven is different. Start checking at 25 minutes. If the top's already dark but the filling isn't bubbling yet, you're fine — it'll keep cooking.
+
+Pull it out when the caramel is bubbling actively and the topping is golden. Let it sit on the counter until it's completely cool. This is where patience pays off. The dulce de leche is lava-hot right now. You cut into it warm and it squishes everywhere. Cold and it holds its shape. Takes about two hours to cool fully but you'll know when it's ready — the filling will have thickened and set.
+
+If you want flaky sea salt on top, sprinkle it right before you start slicing. Just a light scatter. Salt cuts the sweetness and makes every bite more interesting.
+
+Use the parchment paper edges to lift the whole slab out onto a cutting board. Dip a sharp knife in hot water, wipe it dry, and slice. Don't saw. Just slice straight down. The hot knife cuts through caramel clean. Wipe and reheat between cuts — the residual dulce de leche hardens and makes the next cut rougher if you don't.
+
+## Storage and Make-Ahead Tips for Dulce de Leche Caramel Bars
+
+Store them in an airtight container at room temperature for up to five days. They're best in the first 24 hours when the edges are still crisp and the filling is soft and chewy. After that they soften but they're still good — just different.
+
+You can make the dough the day before and keep it wrapped in the fridge. Actually works better because it's already cold and chilled when you need it. The caramel base itself doesn't benefit from sitting — make the whole thing fresh and it's better.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Dulce de Leche Bars
+
+**Can I use chocolate in the topping?**
+Doesn't work great. Chocolate melts into the caramel and gets lost. The buttery shortbread crumbs are the contrast that makes these bars work.
+
+**What if my dulce de leche is too thick to spread?**
+Microwave it for 10 seconds. That's it. It'll loosen up just enough to spread evenly without thinning it out too much.
+
+**Do I have to use kosher salt?**
+Table salt works but it dissolves into the dough and you don't get that flaky salt taste on top. Kosher salt stays as salt. Bigger grains, better texture.
+
+**Why do my bars come out crumbly and don't hold together?**
+Either the dough didn't chill long enough or it got too warm while you were pressing it into the pan. Chill longer. Use cold hands or work faster.
+
+**Can I make these in a square pan instead?**
+Nine-by-thirteen is specific because it's shallow. Dough bakes through and caramel heats evenly. A square pan either gives you thicker bars or you need to adjust baking time. Go with the 9x13 if you can.
+
+**How do I know when the caramel is done bubbling?**
+Active bubbles across the whole surface. Not one bubble in the middle. When it's ready the whole thing looks alive. Two or three minutes of that and you're done.
