@@ -1,10 +1,10 @@
 ---
-title: "Vanilla Berry Salad"
+title: "Berry Salad with Vanilla Syrup Recipe"
 slug: "vanilla-berry-salad"
-description: "A fresh, fruity salad blending raspberries, blackberries, and strawberries tossed gently in a fragrant vanilla syrup. Slight tweaks to sugar and water ratios balance natural berry tartness. Replacing cherries with blackberries adds earthier depth while hinting at surrounding summer fields. The syrup simmered with real vanilla pod seeds enhances aroma and color, glossy fruit glistens under light. Chill to meld flavors into a cool fresh bite. Great for vegan, gluten-free, and allergy-conscious diets. Simple, vibrant, and versatile—a tweak to classic berry salads with nuanced sweetness and texture contrast."
-metaDescription: "Vanilla Berry Salad blends raspberries, blackberries, and strawberries with a cold vanilla syrup glaze. Fresh berries kept crisp, syrup thickened just right, chill before serving."
-ogDescription: "Cold vanilla syrup coats fresh berries—raspberries, blackberries, strawberries. Chill long enough, berries soak up vanilla’s subtle sweetness. Bite snaps, juices balance tart and smooth."
-focusKeyphrase: "Vanilla Berry Salad"
+description: "Fresh berry salad with raspberries, blackberries, and strawberries tossed in a fragrant vanilla syrup. This fruit salad balances natural tartness with organic cane sugar for a refreshing summer dessert."
+metaDescription: "Berry salad recipe with fresh raspberries, blackberries, and strawberries in vanilla bean syrup. Light, refreshing, and naturally sweet. Make it tonight."
+ogDescription: "Fresh raspberries, blackberries, and strawberries in a delicate vanilla bean syrup. Simple, vibrant fruit salad perfect for summer."
+focusKeyphrase: "berry salad"
 date: 2025-08-03
 draft: false
 image: vanilla-berry-salad.jpg
@@ -21,9 +21,18 @@ tags:
 - "raspberry"
 - "strawberry"
 keywords:
-- "vanilla syrup"
-- "fresh berries"
 - "berry salad"
+- "salads with marshmallows"
+- "berries in salad"
+- "berry salad recipe"
+- "fruit and berry salad"
+- "salad with raspberries"
+- "berry summer salad"
+- "blueberry and strawberry salad"
+- "salad recipes with berries"
+- "blackberry salad recipes"
+- "fruit salad vanilla pudding"
+- "berries fruit salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "145"
@@ -69,3 +78,79 @@ faq:
 - "q: How to store leftover syrup? a: Fridge sealed container best. Lasts almost week but watch for mold or ferment signs. Freezing possible, keeps longer but may separate slightly. Thaw slowly. Airtight—avoid moisture contamination. Label date for safety."
 
 ---
+
+Cut the vanilla bean lengthwise. Scrape those tiny black seeds out—they're basically the whole thing. Three berries, cold syrup, done in 32 minutes total. Summer on a plate.
+
+## Why You'll Love This Berry Salad
+
+Fresh raspberries and strawberries taste like the thing itself when you're not drowning them in something heavy. Vanilla syrup doesn't hide the berries—it just makes them taste more like berries. Takes 25 minutes of prep, 7 minutes of heat. Sit around for a bit while it cools.
+
+Works as a dessert. Works as a side with cheese. Works the next day cold, maybe better cold actually.
+
+Lemon juice optional. So is the mint. The thing tastes good either way. Not complicated at all.
+
+## What You Need for Berry Salad
+
+Vanilla bean. Not vanilla extract. Extract tastes like plastic. A real bean splits open and you scrape the seeds. Whole thing goes in the syrup.
+
+Raspberries and blackberries. 400 milliliters each, so like a pint container. Strawberries—450 milliliters sliced. Fresh. Don't buy them three days early.
+
+Cane sugar. 100 milliliters. Filtered water, 75 milliliters. Lemon if you have it. Mint if it's growing somewhere. Neither one matters that much.
+
+## How to Make the Vanilla Syrup
+
+Get a small saucepan. Medium heat. Split the vanilla bean with a sharp knife—lengthwise, all the way down. Scrape those black seeds out with the side of your knife. They're the flavor. Keep the pod too.
+
+Throw the seeds in the pan. The pod. Sugar. Water. Stir it. Wait for it to bubble. It'll look thicker. Not brown, not yet. Maybe 6 to 8 minutes depending on how hot your stove actually gets. One spoon test—dip a cold spoon in it, run your finger across the back. Should leave a trail.
+
+Pull it off heat. Let it sit until you can touch the pan without thinking about it. Dump the pod. Pour the syrup into a bowl. Stick it in the fridge. Needs to be cold. Maybe 45 minutes. Don't rush this part.
+
+## How to Get the Berries Perfect
+
+Rinse them under cold water. Gentle. They bruise if you're rough. Let them drain. Pat them dry with paper towels. Wet fruit tastes like nothing and breaks down the syrup.
+
+Big bowl. Put the raspberries in. Blackberries. Sliced strawberries. Don't squash them. You want the bite still there, the snap. Fold them together maybe once. Twice at most.
+
+Three tablespoons of cold syrup. Pour it over. Toss once. Maybe twice. That's actually it. More mixing and you're bruising berries for no reason, releasing juice that tastes bitter.
+
+Squeeze of lemon if you want. Mint if you want. Both optional. Actually optional, not like "oh you can skip it if you're lazy" optional. The salad works exactly the same without them.
+
+Put it in the fridge for 25 to 35 minutes. The berries soak up the vanilla. You can see the syrup working into the little cracks. The juice gets thicker. Makes sense when you taste it.
+
+Serve it cold. Glass bowls if you have them. Shows off the color.
+
+## Berry Salad Tips and Summer Serving Ideas
+
+Don't overpack the bowl. Berries need room to sit. Stacked berries go soft and taste steamed instead of fresh.
+
+The vanilla syrup can live in your fridge for 5 days easy. Freeze it if you're not using it. Works on other fruit too. Works on vanilla ice cream. Works on nothing—you can eat it with a spoon if you're being weird about it.
+
+Blackberries sometimes have little bugs inside. It's true. Soak them for 30 seconds in cool water before you rinse them normally. Gets them out.
+
+Make the syrup first thing. Gives it time to cool while you're dealing with the berries. No waiting around at the end.
+
+The lemon matters more if strawberries aren't super good that week. Sometimes they're mealy. Lemon fixes mealy. Makes it brighter.
+
+Mint tastes better fresh than it looks. Doesn't matter if it's pretty. Matters that it's there.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Berry Salad
+
+**Can I make this with frozen berries?**
+Not really. Frozen berries leak water. They go mushy. The whole point is the texture snap. Fresh only.
+
+**How long does this keep?**
+A day cold. Maybe two if the berries were really good when you started. After that it gets soft and the juice pools. Eat it fresh.
+
+**What if I don't have vanilla beans?**
+Honestly, you need the vanilla bean here. Extract tastes wrong. Different thing entirely. Can't fix it.
+
+**Can I add marshmallows to the berry salad?**
+Yeah. Mini ones stay better than big ones. They don't dissolve as fast. But the syrup will still soften them. Add them right before you serve it, not earlier.
+
+**Does the lemon juice change the flavor a lot?**
+Changes it some. Makes it brighter. If your berries are already tart, skip it. If they're sweet and a little flat, squeeze some in. Fixes it.
+
+**Can I double the syrup recipe?**
+Sure. Takes longer to cool. More syrup left over though. Keeps fine. Freeze half.
