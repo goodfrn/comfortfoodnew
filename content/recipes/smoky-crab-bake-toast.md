@@ -1,10 +1,10 @@
 ---
-title: "Smoky Crab Bake Toast"
+title: "Crab Rangoons with Parmesan & Artichokes"
 slug: "smoky-crab-bake-toast"
-description: "A savory oven-baked crab mixture mingles Parmesan, mayo, chopped artichokes, and fresh herbs. Toasted sourdough slices topped with the warm crab blend, fresh tomato rounds, and Monterey Jack cheese broiled just until bubbly and golden. Subtle smoky paprika underpins the flavor. Visual cues—light browning and cheese melting—dictate timing more than clocks. A simple open-faced seafood melt with layered textures and smoky undertones, easy to tweak with ingredient swaps and practical tricks to nail perfect crab chunks without mushiness."
-metaDescription: "Smoky Crab Bake Toast layered with Parmesan, mayo, artichokes, and fresh herbs on sourdough. Broiled Monterey Jack melts golden with subtle paprika warmth."
-ogDescription: "Open-faced crab melt on toasted sourdough, rich Parmesan and smoky paprika mingle with creamy mayo. Broil cheese just till bubbling, watch edges gold."
-focusKeyphrase: "Smoky Crab Bake Toast"
+description: "Crab rangoons feature lump crab meat, Parmesan, mayo, and artichoke hearts on toasted sourdough with melted Monterey Jack. Broiled until bubbly and golden."
+metaDescription: "Make crab rangoons with lump crab meat, Parmesan, and artichoke hearts broiled on sourdough. Easy seafood appetizer. Try it tonight."
+ogDescription: "Broiled crab rangoons with lump crab, artichoke hearts, Parmesan, and Monterey Jack on crispy sourdough."
+focusKeyphrase: "crab rangoons"
 date: 2026-01-28
 draft: false
 image: smoky-crab-bake-toast.jpg
@@ -21,10 +21,18 @@ tags:
 - "bread"
 - "easy dinner"
 keywords:
-- "crab bake"
-- "sourdough toast"
-- "smoked paprika"
-- "Monterey Jack cheese"
+- "crab rangoons"
+- "crab dips"
+- "rangoon crab dip"
+- "hot crab dip"
+- "artichoke crab dip"
+- "baked crab dip"
+- "easy crab rangoon"
+- "crab toast"
+- "crab appetizers"
+- "crab meat toast"
+- "seafood appetizer"
+- "broiled crab"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "380"
@@ -71,3 +79,92 @@ faq:
 - "q: How to store leftovers? a: Best eaten right away, but cool quickly. Refrigerate in airtight container; separate toast if possible. Reheat carefully under broiler to revive cheese, avoid sogginess. Eat within 1-2 days max."
 
 ---
+
+Thick sourdough. Warm crab. Cheese that's still melting when it hits your plate. This came together one night when I had leftover lump crab and a loaf that needed using up—45 minutes total and it's the kind of thing people actually ask you to make again.
+
+## Why You'll Love These Crab Rangoons
+
+Takes 45 minutes flat. Prep's maybe 12 minutes if you're not moving slow.
+Tastes expensive. Costs nothing compared to ordering it.
+Works as an appetizer. Works as a weird lunch. Works as a reason to have people over.
+The crab stays chunky — not mushed into paste like bad versions.
+Bread gets actually crispy underneath while the cheese melts on top. That contrast is the whole point.
+Comes together in one baking dish for the filling. One sheet pan for toast. Cleanup isn't nothing, but it's fast.
+
+## What You Need for Crab Rangoons
+
+Lump crab meat. Seven ounces. Drained. Fresh beats canned but canned works — just squeeze it dry first. Some people use imitation crab. It's not the same, but if that's what you have, fine.
+
+Mayo. Three-quarters cup. Not Greek yogurt if you can help it — mayo holds the whole thing together. Greek yogurt makes it thinner.
+
+Parmesan. One cup grated. The kind in the green shaker works. Freshly grated is better but not by a lot here.
+
+Artichoke hearts. Half a cup, chopped. Canned. Drained well or they'll make everything watery.
+
+One medium onion. Finely chopped. Red onion doesn't belong here — the sweetness is wrong. Yellow or white.
+
+Parsley. Fresh. Quarter cup. Dried tastes like nothing.
+
+Salt. Quarter teaspoon. White pepper — eighth teaspoon. Smoked paprika — quarter teaspoon. This combo is important. Skip the paprika and it tastes bland. Use regular paprika instead and you lose the warmth.
+
+Sourdough bread. Four thick slices. Not thin. Not thin. The bread has to hold weight.
+
+Tomato. Eight slices. Fresh. Cherry tomatoes if you want, but slice them flat so they don't roll everywhere.
+
+Monterey Jack cheese. Eight slices. Sharp cheddar works. Gruyere if you're feeling it. Just not Swiss — the holes mess things up.
+
+Cooking spray. That's it.
+
+## How to Make Crab Rangoons
+
+Heat the oven to 405 degrees. Spray a 9-by-9 baking dish. Just a coat. You want the filling to not stick, not slide around in grease.
+
+Get a medium bowl. Dump in the Parmesan, mayo, onion, crab, artichokes, parsley, salt, white pepper, smoked paprika. Fold it together gently. This is the part where people mess up — you push too hard and the crab turns into crab dust. Fold like you're trying to keep the lumps whole, because you are.
+
+Spread the filling into that baking dish. Don't jam it down. Just even it out with a spoon, gentle, and slide it into the oven.
+
+This takes 23 to 27 minutes. Not a strict 25. Watch for the edges to go golden and the whole thing to firm up slightly. The edges will brown first — that's normal. Pull it when it looks like it's stopped changing color and has a little jiggle left in the center.
+
+While that's happening, lay the sourdough slices on a rimmed baking sheet. Turn on the broiler. Get the bread about 4 inches from the heat. Broil for 3 to 4 minutes. You want golden, toasted, crispy on the bottom — not charred black. Broilers are different everywhere so watch it constantly. It'll go from perfect to ruined in about 30 seconds if you're not looking.
+
+Pull the toast out. It should be warm and stiff.
+
+The crab mixture comes out. It'll be warm, creamy, slightly brown on the edges.
+
+Spoon the crab mix onto each toast slice. Even it out. Top with two tomato slices per piece. Then two slices of Monterey Jack on top of the tomato. The cheese should cover most of the tomato but not hang off the sides or it'll char.
+
+Broiler goes back on. Same rack. Watch it for 90 seconds to 2 minutes and a half. The cheese bubbles first, then the bubbles brown slightly. That's when you pull it. If you wait for it to get totally brown, the bottom's already burning. Broiler heat varies wildly — one house's broiler is another house's crematorium.
+
+Serve it right away. Hot. The bread gets soft if it sits, so don't let it sit.
+
+## Getting the Cheese Right on Crab Rangoons
+
+This part matters. The cheese melts over the tomato and crab and creates this gooey layer that shouldn't be hot enough to separate. It should blister. You'll see little brown spots pop up on the cheese. That's when you pull it.
+
+Common mistake: you leave it in too long thinking it needs to be more done. It doesn't. The cheese breaks if you overheat it and suddenly you've got a separated oily mess instead of creamy. Pull it when you see the first brown spots and the whole thing jiggles slightly when you shake the pan.
+
+Smashing the crab is the other mistake. Keep those lumps. They're the whole reason this tastes better than crab dip. The texture matters.
+
+Bread soggy before you even toast it? Use bread that's a day old or toast it longer. If it's still soft after broiling, you either didn't toast it enough on the first round or your bread was fresh from the bakery.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Crab Rangoons
+
+**Can I use imitation crab instead?**
+Yeah. It's not the same — the texture's softer and it tastes a bit chemical — but it works. People do it all the time. Lump crab is better but imitation's fine if that's the budget.
+
+**What if I don't have Monterey Jack?**
+Sharp cheddar. Gruyere if you want something fancier. Swiss doesn't melt the way you need it to. Provolone works too. Anything that melts smooth and doesn't get grainy.
+
+**How long do leftovers last?**
+Keep them in the fridge covered. They're okay for two days. They're not great reheated — the bread gets weird and the cheese texture changes. Better to eat them fresh.
+
+**Can I prep the filling ahead?**
+Make the filling whenever. Keep it in the fridge, covered, for a day or two. Don't assemble the whole thing early — the tomato and bread will get soggy and it falls apart.
+
+**Is there a way to make this less rich?**
+Skip some of the mayo. Use Greek yogurt for half of it. The filling won't be quite as creamy but it works. Use less cheese on top. Or don't use cheese at all and just broil the crab mixture with tomato — it's more like an open-faced crab salad at that point but it's fine.
+
+**What's the deal with white pepper instead of black?**
+White pepper's milder and doesn't show specs in the filling. Black pepper is fine. It just looks different. The taste is pretty close.
