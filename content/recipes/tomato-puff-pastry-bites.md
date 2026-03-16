@@ -1,10 +1,10 @@
 ---
-title: "Tomato Puff Pastry Bites"
+title: "Gluten Free Puff Pastry Appetizers"
 slug: "tomato-puff-pastry-bites"
-description: "Layers of flaky puff pastry smothered in a spicy tomato paste mixture. A quick, savory snack that relies on chilling dough to keep layers distinct and rise crisp. No dairy, eggs, nuts, or gluten. A hint of cayenne for a subtle kick. Uses tomato paste, finely minced garlic, olive oil, sugar tweak, and fleur de sel finish. Chill dough after stacking layers to keep it from merging during baking. Crisp edges, golden layers, soft tomato-rich interior, good for parties or light bites. Oven timing relies on pastry bubbling and color, not clock alone."
-metaDescription: "Tomato Puff Pastry Bites with flaky layers, spicy tomato paste, and a cayenne hint. Chill dough long for crisp rise; bake till edges golden and puffed."
-ogDescription: "Flaky puff pastry layered with a spicy tomato paste and garlic mix. Chill well, bake hot until golden edges crackle and layers puff apart."
-focusKeyphrase: "Tomato Puff Pastry Bites"
+description: "Crispy gluten free puff pastry appetizers with tomato paste, garlic, and olive oil. Flaky layers with a spicy cayenne kick—perfect for parties and quick savory bites."
+metaDescription: "Make gluten free puff pastry appetizers with tomato paste and garlic. Crispy, flaky, and dairy-free. Save this one."
+ogDescription: "Crispy puff pastry bites with tomato paste, garlic, and cayenne. Gluten free, dairy free, and perfect for parties."
+focusKeyphrase: "puff pastry appetizers"
 date: 2025-09-27
 draft: false
 image: tomato-puff-pastry-bites.jpg
@@ -21,9 +21,16 @@ tags:
 - "easy"
 - "vegetarian"
 keywords:
-- "puff pastry"
-- "tomato paste"
-- "spicy snack"
+- "puff pastry appetizers"
+- "recipes puff pastry"
+- "gluten free bakery near me"
+- "savory pastry puff recipes"
+- "puff pastry appetizer recipes"
+- "gluten free pastries near me"
+- "dairy free bakery"
+- "appetizers in puff pastry"
+- "puff pastry appetizer ideas"
+- "hors d oeuvres puff pastry"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "210"
@@ -65,3 +72,66 @@ faq:
 - "q: How store leftovers? a: Cool completely before storing airtight. Keeps few days fridge; crisp fades, reheat to restore somewhat. Freeze baked not best; soggy after thaw. Raw pinwheels freeze better, thaw fully before baking. Avoid stacking hot pastries."
 
 ---
+
+Slice these hot from the oven and the layers just separate—crispy outside, almost flaky inside, with a sharp tomato punch that doesn't quit. Takes 50 minutes total but most of it's chilling time. You're actually working maybe 15 minutes.
+
+## Why You'll Love These Puff Pastry Appetizer Pinwheels
+
+They're vegan without tasting like some health lecture. Spicy kick comes from a tiny pinch of cayenne—almost invisible until it hits. Easy. One bowl of paste, stack, slice, bake. Comes together in the time it takes to preheat. Works cold the next day, maybe even better. Not the kind of appetizer you sweat over.
+
+## What You Need for Puff Pastry Appetizer Recipes
+
+One packet of thawed puff pastry—415 grams, room temp but still cool to the touch. Tomato paste, 50 ml. Garlic, one small clove, minced fine. Olive oil, 20 ml. Sugar, just 3 ml. Cayenne pepper. A pinch. Fleur de sel at the end.
+
+That's it. No dairy. No eggs. The butter in the pastry does the work.
+
+## How to Make Puff Pastry Hors d'oeuvres
+
+Heat oven to 220°C. Get it hot before you touch the dough.
+
+Roll the pastry into two rectangles, roughly 28 by 22 centimeters each. Don't obsess over perfect edges—rustic reads better anyway. Cut each rectangle into three strips, about 7.5 centimeters wide. You've got six strips total now.
+
+Mix the tomato paste with minced garlic, olive oil, sugar, and that cayenne. It'll look sloppy. Good. That's the texture you want—spreadable but not runny.
+
+Take one strip. Lay it flat on the counter. Spread tomato paste thinly across it. Not thick. Thin. Stack another strip on top. Spread again. Then the last strip goes on—spread the remaining paste on top. Press gently so they adhere but don't compress the layers. You're stacking, not squishing.
+
+## How to Get Puff Pastry Appetizers Crispy and Layered
+
+Freezer or fridge for 25 to 30 minutes. Non-negotiable. Chilling keeps the layers from melting into one blurry mass while baking. I've skipped this. It blobs. Don't blob yours.
+
+Once firm, slice into 1-centimeter-thick pinwheels. They'll crumble slightly at the edges. Handle gently. That's normal.
+
+Line two baking sheets with parchment. Space the pinwheels about 5 centimeters apart—barely room to expand but they need air. Put one tray in the oven. The other goes into the fridge. Cold dough in the oven puffs better.
+
+First batch goes in for 11 to 13 minutes. Watch for deep golden edges and visible layers pulling apart. Don't time it—watch it. The pastry should look almost caramelized at the edges but pale in the middle where it's still puffing.
+
+Pull them out. Let them sit a minute while they firm up slightly. Hit them with fleur de sel—the coarser salt matters. It stays on the surface instead of dissolving into the pastry. That salt hits your tongue the same moment the acidic tomato sweetness does. It's the point.
+
+Bake the second tray the same way. Same timing. Same watch-it-don't-time-it approach.
+
+Serve warm or room temperature. Both work. Cold works too if there's any left.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Puff Pastry Appetizer Ideas
+
+**Can I make these ahead?**
+Slice them the day before, keep them on the sheet, cover loosely, stick them in the fridge. Bake fresh when you need them. Unbaked keeps maybe two days. Baked ones go stale by tomorrow afternoon.
+
+**What if I don't have fleur de sel?**
+Regular kosher salt works. Texture's different but the salt contrast still lands. Don't skip it entirely.
+
+**Can I use frozen puff pastry straight from the freezer?**
+No. Thaw it first. Frozen dough won't roll without cracking.
+
+**Is there a vegan substitute for the puff pastry?**
+Most standard puff pastry has butter. Some brands make vegan versions—check the label. Otherwise you're hunting for phyllo dough or rice paper. Different appetizer at that point.
+
+**Why does mine blob instead of puff?**
+Either skipped the chill or the oven wasn't hot enough when it went in. 220°C minimum. And the 25-30 minutes in the freezer actually matters.
+
+**Can I make these into hors d'oeuvres for a party?**
+Yeah. Slice them thinner—maybe half centimeter—and you get more pieces. Bake them the morning of, store at room temp in an airtight container, reheat gently before serving if you want them warm. They're fine cold too.
+
+**What about substitutions for the tomato paste?**
+Tried sun-dried tomato paste once. Too intense. Harissa works—spice is already there so go lighter on cayenne. Pesto's completely different but still good. Not the same appetizer though.
