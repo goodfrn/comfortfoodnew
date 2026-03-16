@@ -1,10 +1,10 @@
 ---
-title: "Whiskey Maple Cake"
+title: "Bundt Cake Pumpkin with Maple Whiskey"
 slug: "whiskey-maple-cake"
-description: "Maple syrup and whiskey punch up this dense, spiced cake, soaked and moist. Flour, cinnamon, nutmeg. Egg whites whipped stiff with brown sugar, folded into yolks mixed with oil and milk. Baked in a Bundt pan. Warm maple-whiskey syrup poured in holes poked deep in cake twice. Rest a day or two. Holds well under a cloche for almost a week. Nuts gone, sugar tweaked, ingredients shifted to tweak sweetness and texture."
-metaDescription: "Whiskey Maple Cake with spiced cardamom, cinnamon. Dense texture, soaked deep with whiskey-maple syrup. Baked in Bundt, moist crumb holds under cloche for days."
-ogDescription: "Dense spiced cake with whiskey-maple soak. Cardamom twist. Egg whites whipped stiff. Bundt baked, pierced deep, syrup twice poured. Rest 1-2 days for best soak."
-focusKeyphrase: "Whiskey Maple Cake"
+description: "Spiced pumpkin bundt cake soaked in maple whiskey syrup. Made with cinnamon, cardamom, brown sugar, and milk for a moist, dense crumb that holds beautifully for days."
+metaDescription: "Make this pumpkin bundt cake with cinnamon, cardamom, and maple whiskey syrup. Dense, moist, and keeps for a week. Try it tonight."
+ogDescription: "Spiced pumpkin bundt cake with cinnamon and cardamom, soaked in maple whiskey syrup. Moist, dense, and lasts all week."
+focusKeyphrase: "bundt cake pumpkin"
 date: 2025-07-27
 draft: false
 image: whiskey-maple-cake.jpg
@@ -21,9 +21,18 @@ tags:
 - "spice"
 - "homemade"
 keywords:
+- "bundt cake pumpkin"
+- "pumpkin spice bundt cake"
 - "maple syrup cake"
-- "cardamom cinnamon cake"
-- "whiskey dessert"
+- "cinnamon bundt cake"
+- "spiced bundt cake"
+- "maple bundt cake"
+- "pumpkin cake bundt cake"
+- "bundt spice cake recipe"
+- "cinnamon pound cake"
+- "maple glazed cake"
+- "ginger bread bundt cake"
+- "spice cake bundt cake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "370"
@@ -75,3 +84,99 @@ faq:
 - "q: How to store cake? a: Wrapped in foil or plastic keeps moist. Under cloche best for freshness. Lasts up to 5 days. Fridge not mandatory but use airtight container if hot climate. Reheat gently if needed but syrup absorption best at room temp rest."
 
 ---
+
+Set the oven to 347. Butter a Bundt pan like your life depends on it — this cake needs every corner. The smell hits you around minute 40. That's when you know.
+
+## Why You'll Love This Pumpkin Bundt Cake
+
+Takes 35 minutes to prep if you don't overthink it. 55 minutes in the oven. One pan and it's done.
+
+Cinnamon and cardamom do something that feels like fall tastes — spice without being aggressive. Works cold the next day. Better cold, actually.
+
+No frosting. The maple whiskey syrup soaks in. The cake gets dense and moist in the best way possible.
+
+Sits in your kitchen smelling like you spent all day baking. Didn't.
+
+## What You Need for This Bundt Pumpkin Cake
+
+Two and a third cups all-purpose flour. Not cake flour. All-purpose holds this together.
+
+Two and a half teaspoons baking powder and a quarter teaspoon baking soda. The baking soda matters — it's not filler.
+
+Salt. Quarter teaspoon. Cinnamon and cardamom. Three quarters and a quarter teaspoon respectively. Ground, not whole. The cardamom is doing actual work here.
+
+Five eggs, separated. That's not optional. The whites go to stiff peaks. The yolks go with oil and brown sugar. This is what makes it light instead of dense — the separation.
+
+One and three quarters cups light brown sugar, packed. Brown, not white. It stays softer.
+
+Two thirds cup vegetable oil. Not melted butter. Oil keeps it tender longer.
+
+One cup milk. Regular milk. Does the job.
+
+For the syrup — one can pure maple syrup, medium amber. The color matters. Spiced whiskey. A third cup. A third cup white sugar to dissolve it all.
+
+## How to Make a Pumpkin Spice Bundt Cake
+
+Heat the oven first. 347. Middle rack. Butter the Bundt pan, flour it, get in the creases. This is the one step that decides everything.
+
+Whisk the dry stuff in a big bowl. Flour, baking powder, baking soda, salt, cinnamon, cardamom. Mix it actually. Some people skip this. Don't. You need it evenly distributed.
+
+Separate those eggs. Beat the whites with an electric mixer until they look like clouds. Soft peaks. Then add half the brown sugar gradually while you keep beating. Go to stiff peaks. Set it aside. Don't touch it.
+
+In another bowl — and this matters, separate bowls — blend the yolks with oil and the rest of the brown sugar. Mix it until it looks smooth. Then alternate adding the dry mix and the milk. Start with dry. End with dry. Go slow on both. This is how you keep it from breaking.
+
+Fold the whites in. Not stir. Fold. Use a whisk. Careful. You're keeping the air that's in those whites.
+
+Pour it into the Bundt. It should look almost too wet. That's right.
+
+Bake for 55 minutes. Toothpick should come out clean. It might have a few crumbs. That's clean.
+
+## How to Get the Cake Moist — The Whiskey Maple Syrup Step
+
+Heat the maple syrup, whiskey, and sugar in a saucepan over medium heat. Stir until the sugar dissolves. It'll come to a boil. You'll see the bubbles. Pull it off the heat. That's it.
+
+Let the cake cool in the pan for 20 minutes. Then take a wooden skewer — not a toothpick, something thicker — and poke holes all over. Forty to fifty holes. Dense little holes. Cover every inch. This is what lets the syrup get all the way through.
+
+Pour half the syrup over it. Slow. Let it soak in. Twelve to fifteen minutes. You'll see it getting darker as it absorbs.
+
+Flip the cake onto a serving plate. Pour the rest of the syrup over the top. Bit by bit. Let it soak. The cake will keep drinking it.
+
+## Cinnamon Bundt Cake Tips and Common Mistakes
+
+Don't skip separating the eggs. Seriously. This isn't a texture thing — it's the structure of the whole cake. The whites make it rise. The yolks make it tender. Both matter.
+
+Cardamom is optional if you hate it. But try it first. It's not a flavor you taste — it's a warmth you feel.
+
+The Bundt pan has to be buttered everywhere. Floured everywhere. Poke around with your finger. Check the center tube. The bottom. Corners. One dry spot and the cake sticks.
+
+Whiskey isn't replaceable with vanilla. If you don't have it, use more maple syrup. Skip the sugar in the syrup if you do. The whiskey adds something — depth, almost. Vanilla doesn't do that.
+
+Cool completely before serving. Actually — cool overnight. The cake gets better. The syrup keeps soaking in. Day two tastes better than day one. Day three is when you stop sharing it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Pumpkin Spice Bundt Cake
+
+**Can I make this without the whiskey maple syrup?**
+You could. But why. That syrup is the whole thing. The cake by itself is fine. The cake with syrup is something else.
+
+**How long does it keep?**
+Five days in a covered container. Stays moist the whole time. Get it on day three.
+
+**Can I use a different Bundt pan size?**
+If it's smaller, the bake time goes down. Maybe ten minutes less. If it's bigger, add time. The 10 to 12 cup pan is standard. That's what this is built for.
+
+**Do I have to poke all those holes?**
+Technically no. But the syrup won't get in. You'd have wet edges and a dry center. Poke the holes.
+
+**What's the deal with separating eggs?**
+It makes the cake lighter. Less dense. More tender. If you don't separate them, it works — but it's different. A different, heavier cake. Not bad. Just different.
+
+**Can I substitute the cardamom?**
+Ginger works. Nutmeg works. Less of it though. Cardamom is subtle. Ginger and nutmeg aren't. Start with half.
+
+**How do I know when it's done baking?**
+Toothpick in the center. Comes out clean or with just crumbs. Not wet batter. You'll also notice it stops smelling stronger — like it's reached its peak. That's the smell you're waiting for.
+
+**Can this be made ahead?**
+Yes. Bake it the day before. Soak it with syrup. Cover it. It gets better. Same if you bake it two days ahead.
