@@ -1,10 +1,10 @@
 ---
-title: "Sun-Dried Tomato Pumpkin Pesto"
+title: "Vegan Pesto with Pumpkin Seeds & Tomatoes"
 slug: "sun-dried-tomato-pesto"
-description: "A twist on traditional pesto using sun-dried tomatoes, toasted pumpkin seeds, and chopped olives. Ready in under 15 minutes, this versatile mix fits on bruschettas, tossed in pasta, or dolloped onto grilled fish. No nuts, no dairy, vegan and gluten-free. The olive substitution adds a salty bite switching from capers. Toast the seeds until crackling, chop finely for texture. Oil binds but don’t drown the mix. Senses guide timing; look for rich sheen, smell earthy nutty roast, hear light crackle. Skip over-processing to keep bite. Can swap pumpkin seeds with sunflower in a pinch."
-metaDescription: "Sun-Dried Tomato Pumpkin Pesto with toasted seeds and chopped olives. Ready fast, nut-free, vegan, gluten-free, uses sensory cues over timers."
-ogDescription: "Crunchy pumpkin seeds, chopped sun-dried tomatoes, olives swap capers. Toast till crackle, watch colors, stir slow with oil. Vegan, quick, versatile."
-focusKeyphrase: "Sun-dried tomato pumpkin pesto"
+description: "Make vegan pesto in 15 minutes with sun-dried tomatoes, toasted pumpkin seeds, and olives. Nut-free and dairy-free spread ready for pasta, bruschettas, or grilled fish."
+metaDescription: "Vegan pesto recipe made with sun-dried tomatoes, pumpkin seeds, and olives—nut-free, dairy-free, and ready in 15 minutes. Make it tonight."
+ogDescription: "Nut-free vegan pesto with sun-dried tomatoes, pumpkin seeds, and olives. Ready in 15 minutes, perfect for pasta and more."
+focusKeyphrase: "vegan pesto"
 date: 2025-09-25
 draft: false
 image: sun-dried-tomato-pesto.jpg
@@ -21,9 +21,17 @@ tags:
 - "easy"
 - "condiment"
 keywords:
-- "sun-dried tomato pesto"
-- "pumpkin seeds"
 - "vegan pesto"
+- "pesto recipe no pine nuts"
+- "pumpkin seed pesto"
+- "pesto without nuts"
+- "no nut pesto"
+- "pesto recipe without nuts"
+- "nut free pesto sauce recipe"
+- "pesto without parmesan"
+- "vegan basil pesto"
+- "pepita pesto"
+- "pesto pumpkin seeds"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "180"
@@ -58,3 +66,75 @@ faq:
 - "q: How to fix oily or greasy pesto? a: Add chopped tomatoes or olives more. Oil balance tricky; no pooling should happen. Stir vigorously if oil separates. Use less oil next time. Warm slightly to loosen if cold solid spots form."
 
 ---
+
+Warm pan. Medium heat. Pumpkin seeds go in dry — listen for the pop. That's the signal. Two minutes tops before they turn bitter. This is how you make vegan pesto that actually tastes like something.
+
+## Why You'll Love This Vegan Pesto Sauce Recipe
+
+Tastes nothing like the pine nut version. Sharp and briny instead of buttery.
+Takes 14 minutes start to finish — 12 minutes prep, 2 minutes toasting. That's it.
+Works on anything. Toast, pasta, roasted vegetables, grilled fish. Spreads thick or drizzles thin.
+No nut allergy drama. Pumpkin seeds do the job better anyway.
+Gluten free, vegan, and actually tastes good — not like a health food compromise.
+
+## What You Need for This Pesto Without Pine Nuts
+
+Sun-dried tomatoes. About 130 ml, which is slightly over half a cup. Drained from the oil first — that oil's rich enough. Mince them fine. Texture matters here.
+
+Pumpkin seeds. Fifty-five ml, roughly a quarter cup. Get the raw kind. Toast them yourself. Toasted ones from a bag go stale fast.
+
+Black olives. Around 20 ml, maybe 1.5 tablespoons chopped fine. These replace capers — briny, sharp, holds the whole thing together. Don't skip it.
+
+Extra virgin olive oil. Seventy ml, just under a third of a cup. That's the binding element. Glossy, not greasy. Matters more than it sounds.
+
+Salt. Pepper if you want it. Lemon juice optional but it brightens things. That's the whole list.
+
+## How to Make Pesto Recipe Without Nuts
+
+Set the pan to medium. No oil. Pumpkin seeds go straight in dry. They'll start popping after about a minute — that's when you know they're doing something. Keep stirring. Don't walk away. The moment they shift to golden, pull them off the heat. Two minutes total. Maybe less. Bitter ruins everything, so move fast.
+
+Let them cool on a plate while you work on the other stuff. They'll crisp up more as they sit.
+
+Chop the sun-dried tomatoes small — really small, but not mush. Pieces that hold their shape. That's the texture backbone. Chop the olives fine too. Tiny pieces so they distribute instead of chunk out.
+
+## How to Get This Pesto Sauce Without Nuts Creamy and Smooth
+
+Pour the cooled seeds into a bowl with the tomatoes and olives. Stir once. Now drizzle the olive oil in slowly — not all at once. Stir as you go. You're emulsifying here, which sounds fancy but just means the oil and vegetables marry up into something glossy and cohesive instead of sitting separate.
+
+If it looks too thick, add another glug of oil. If it's pooling with greasy streaks, stir harder. The texture should coat a spoon without sliding off. Not runny. Not stiff either.
+
+Taste it. Salt it now if it needs it. Squeeze of lemon if it feels flat. Sometimes just one more teaspoon of oil fixes the whole vibe.
+
+Serve it room temperature. Don't warm it or the brightness flattens.
+
+## Pumpkin Seed Pesto Tips and Common Mistakes
+
+Toast the seeds until they pop. Untoasted ones get lost — no flavor base.
+
+Don't overprocess. A bowl and a spoon work fine. Food processor makes it paste, and this pesto needs texture or it's just hummus with olives.
+
+Oil pools on top? That just means the emulsion didn't take. Stir it back in. Happens sometimes.
+
+Leftover pesto gets stiff in the fridge because the oil solidifies. Just swirl it around before using or warm the jar gently in warm water. Works fine cold straight from the fridge too if you don't mind it thick.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Making Vegan Pesto
+
+**Can I use store-bought toasted pumpkin seeds instead of toasting them myself?**
+Yeah, but they're usually stale by the time you buy them. Toasted seeds lose brightness fast. Raw seeds toast in 2 minutes and taste sharper. Worth the time.
+
+**What if I don't have black olives?**
+Capers work. So does more salt and a splash of vinegar. But olives give a specific thing — don't skip them if you have them.
+
+**How long does this pesto sauce recipe keep?**
+Cold and sealed, probably a week. The oil keeps it from drying out. After that it tastes flat. Not bad, just tired.
+
+**Can I make this in a food processor?**
+Could. Don't. You'll get paste instead of pesto. Texture disappears. Bowl and a spoon takes the same time.
+
+**Does this work as a pasta pesto recipe without pine nuts?**
+Yeah. Toss it with hot pasta, let it coat everything. Add a splash of pasta water if it seems thick. Same amount goes further because it's more intense than traditional pesto — concentrated, salty, alive.
+
+**Can I add garlic?**
+Could. Honestly it doesn't need it. The olives and tomatoes are already loud. Garlic just muddles it.
