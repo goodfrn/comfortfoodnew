@@ -1,10 +1,10 @@
 ---
-title: "Raspberry Lemon Tart Remix"
+title: "Raspberry Lemon Tart with Coconut Oil Crust"
 slug: "raspberry-lemon-tart"
-description: "A tart with a flaky crust, zesty citrus filling, and fresh raspberry notes transformed with a few key ingredient swaps. Butter swapped for coconut oil in crust for a subtle nutty flavor. Cornstarch replaced with arrowroot for a clearer, lighter filling texture. Orange juice adds a sweeter twist to the lemon’s tartness. Whipped coconut cream replaces dairy for a richer, dairy-free topping. Baking times nudged by a few minutes to suit ingredient swaps and oven variations. Sensory cues prioritized over clocks: golden crust, thickened glossy filling, cream peaks holding shape. Technique pointers sprinkled for foolproof crust and smooth filling. Fresh berries garnish, but feel free with whatever bright fruit’s on hand."
-metaDescription: "Raspberry Lemon Tart Remix with flaky coconut oil crust, glossy arrowroot filling, whipped coconut cream topping, fresh berries. Zesty, tart, and dairy-free."
-ogDescription: "Flaky crust with coconut oil, arrowroot-thickened lemon-raspberry filling, and whipped coconut cream. Bake by feel—golden crust, glossy set filling, chilled slices."
-focusKeyphrase: "Raspberry Lemon Tart Remix"
+description: "Raspberry lemon tart with flaky coconut oil crust, bright lemon filling, and fresh raspberries. Made with arrowroot powder and whipped coconut cream topping for a lighter, dairy-free dessert."
+metaDescription: "Raspberry lemon tart recipe with coconut oil crust, arrowroot filling, and fresh raspberries. Citrus dessert that's easy to make. Try it tonight."
+ogDescription: "Flaky coconut oil tart with tart raspberry jam, zesty lemon filling, and fresh raspberries. Dairy-free citrus dessert."
+focusKeyphrase: "raspberry lemon tart"
 date: 2025-08-05
 draft: false
 image: raspberry-lemon-tart.jpg
@@ -21,9 +21,14 @@ tags:
 - "citrus"
 - "dessert"
 keywords:
-- "raspberry tart"
-- "lemon custard"
-- "dairy-free dessert"
+- "raspberry lemon tart"
+- "coconut oil tart crust"
+- "citrus dessert tart"
+- "lemon filling tart with fresh raspberries"
+- "homemade raspberry tart with arrowroot powder"
+- "raspberry jam tart with citrus filling"
+- "flaky tart crust with coconut oil and lemon"
+- "dairy-free raspberry tart"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"
@@ -101,3 +106,95 @@ faq:
 - "q: Can whipped coconut cream be prepped early? a: Chill canned cream overnight minimum. Whip only top thick layer. Store whipped topping chilled but avoid long waits—tends to weep or separate over time. Whip close to serving best. Coconut cream doesn’t tolerate warm or humid conditions for whipping."
 
 ---
+
+Dock the crust with a fork—that's the thing that stops it from puffing up into weird hills while it bakes. Fresh raspberries on top. Lemon filling that's bright but not harsh. Took me three tries to get the coconut oil ratio right because it melts faster than butter, but once you know that, it's actually easier. Forty-five minutes prep, thirty minutes in the oven, then three hours chilling, and you've got something that tastes like you spent all day on it.
+
+## Why You'll Love This Raspberry Lemon Tart
+
+Takes an hour and fifteen minutes total—most of that's just sitting in the fridge doing its thing.
+Citrus dessert that doesn't feel heavy. The lemon's bright. Raspberries are tart. Coconut oil in the crust makes it flaky instead of dense.
+Looks fancy. Actually isn't complicated once you've done it once.
+Arrowroot powder keeps the filling smooth and glossy. Not cloudy like cornstarch gets with this much lemon juice. Texture difference is real.
+Works cold. Gets better the next day—the flavors kind of meld overnight.
+
+## Flaky Tart Crust with Coconut Oil and Lemon
+
+Flour—unbleached, all-purpose. Two teaspoons sugar. Salt. Cut your coconut oil into small cubes before you start—solid coconut oil, not melted. Sub butter if you want, but coconut oil stays firmer longer, which means flakier crust.
+
+One egg. Lemon juice from an actual lemon. Vanilla extract. That's the binding part.
+
+The trick: pulse the oil in until you see bits still hanging around. Stop before it gets creamy. Once it looks like coarse crumbs, add the egg and lemon juice and pulse until it barely holds together. Dough should feel a little slack. Not sticky. Slack.
+
+Water sometimes—if it's too crumbly, add a tablespoon at a time until it comes together. You're not looking for a soft dough. You're looking for something that holds when you press it.
+
+Press it into a rectangle pan about thirteen-and-a-half by four inches. Flatten gently. Roll it thin—one-eighth inch. Dock it with a fork all over the bottom. Every inch or two. This prevents bubbling.
+
+Chill it. Minimum thirty minutes. The fats need to set or the whole thing shrinks while baking.
+
+## How to Make Raspberry Lemon Tart with Fresh Raspberries
+
+Oven to four hundred degrees. Bake the crust seventeen minutes—edges go light gold, center sets but doesn't darken. You'll feel it firm up. Pull it out after five minutes of cooling.
+
+Drop the oven to three seventy-five.
+
+The filling happens in a saucepan. Sugar and arrowroot powder whisked together first—dry. Raspberry jam. Fresh lemon juice. Eggs. Butter in small pieces. Everything at once into the pan, or the eggs start cooking before the heat starts, and you get scrambled bits.
+
+Medium heat. Stir constantly. Whisk the bottom constantly. The filling thickens. It gets glossy. Bubbles form but gently—not aggressive. Takes about nine minutes. You'll know because the texture goes from loose to coating the back of a spoon.
+
+Strain it. Fine sieve. Smooth out the seeds and pulp. Pour it hot into the warm crust while everything's still warm—hot filling, warm crust, they marry better that way.
+
+Back into the oven. Eight to ten minutes. Watch for the center to set but still move slightly when you jiggle the pan. That wobble in the middle is the sign it's done. Overcooked and it cracks. Underbaked and it breaks when you slice it. That middle ground is everything.
+
+Cool fifteen minutes on the counter.
+
+## How to Get Lemon Filling Tart Perfectly Set
+
+Three hours minimum in the fridge. This is not negotiable. The filling firms as it cools. The texture completely changes. At two hours it's still soft. At three hours it slices clean.
+
+Visual cue: when you cut into it, it should hold the line. Not quiver. Not run. A clean edge that stays put.
+
+If after three hours it's still runny—and sometimes ovens vary—fifteen more minutes usually fixes it. Some people do a thin layer of gelatin on top to keep it firm, but I've never had to. Patience works.
+
+The filling's based on lemon juice, so it's naturally acidic. Arrowroot handles that better than cornstarch. Cornstarch gets cloudy with this much citrus. Arrowroot stays clear and glossy. That's why it matters.
+
+## Raspberry Jam Tart Tips and Common Mistakes
+
+Don't skip the docking. Bubbles will form in the crust. They burst. They leave holes or tall spots. Dock it. Fork holes all over the bottom.
+
+Coconut oil is solid at room temperature but not always. If your kitchen's warm, keep it in the fridge while you work. Cold oil is easier to pulse into flour without turning into butter too fast.
+
+Crust cracks while rolling? Press it back together with your fingers. Seal the split. You don't need to reroll. Rerolling overworks the gluten and makes it tough. Fingers fix it fine.
+
+The jam—use whatever you have. Chunky or smooth. Homemade or store-bought. Tart preserves add more fruit punch if you want that. Smooth jam melts into the filling more evenly. Chunky jam gives texture hits. Either works.
+
+Leftover dough becomes cookies. Roll it thin. Cut shapes. Dust with cinnamon sugar. Bake ten minutes at the same temperature. Bonus snack that tastes like the tart crust but crunchier.
+
+Whipped coconut cream has to be cold. Bowl cold. Cream cold. Room-temperature coconut cream won't whip. It stays liquid. Chill everything in the fridge for at least an hour before you touch it.
+
+Whip until firm peaks form—the peaks hold shape but aren't grainy. That takes maybe three minutes with a mixer. Hand whisk takes longer but works. Stop before it turns into coconut butter. You'll know if you go too far because it separates and looks oily.
+
+Whip the coconut cream right before serving. It weeps if it sits around. Watery puddle on top after an hour. Keep the tart chilled, whip it fresh, serve it cold.
+
+No fresh raspberries? Thin strawberry slices work. Kiwi slices. Edible flowers if you're trying to impress someone. Anything that adds color and brightness.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Lemon Filling Tart with Fresh Raspberries
+
+**Can I use regular butter instead of coconut oil in the crust?**
+Yeah. Works fine. You'll need slightly less because butter's wetter than coconut oil. Maybe use seven tablespoons instead of half a cup. The texture comes out slightly less flaky but still good.
+
+**What if I don't have arrowroot powder?**
+Cornstarch works. Just know the filling won't look as glossy—it gets a bit cloudy with this much lemon juice. Arrowroot is worth tracking down if you're making this again.
+
+**How long does this keep?**
+Three days in the fridge, covered. The filling stays firm. The crust stays crisp if you don't add the whipped topping until the day you serve it. Longer than that and the crust goes soft from the filling underneath.
+
+**Can I make this ahead?**
+Yes. Bake it through the chilling step. Don't add the whipped topping until a few hours before serving. The tart itself is better the next day—flavors meld.
+
+**Why did my filling crack on top?**
+Overbaked. If you bake it past that slight wobble in the center, it firms too fast and cracks as it cools. Use the jiggle test, not the timer. Every oven is different.
+
+**Can I freeze this?**
+Technically, but don't. The texture gets weird. The crust gets soggy when it thaws. Make it fresh. It only takes an hour fifteen minutes of actual hands-on time spread across a day.
