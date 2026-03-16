@@ -1,10 +1,10 @@
 ---
-title: "Mango Lime Sorbet"
+title: "Mango Sorbet with Lime Juice & Agave"
 slug: "mango-lime-sorbet"
-description: "Chilled mango puree blended with sugar, lime juice, and agave syrup for a bright tropical sorbet. Uses fresh mango or frozen cubes. Sweetness adjusted slightly. Churned until it clings lightly to the paddle. Stored firm but scoopable. Dairy free. No eggs or nuts. Keep in freezer at least 4 hours for best texture. Lime instead of lemon adds a tangy twist that cuts through the mango’s natural sweetness. Simple but watch the chill—too long and it turns icy. The sorbet churn time is variable; rely on texture over minutes. A no-fuss summer cooler that you tinker with to keep sharp but not sour. Works well as palate cleanser or light dessert."
-metaDescription: "Mango Lime Sorbet with fresh fruit, agave syrup, and lime for sharp tropical flavor. Chill, churn, freeze firm but scoopable. Vegan, dairy free, no nuts."
-ogDescription: "Bright mango with lime juice, agave sweetness, churned to creamy softness. Freeze firm, serve softened for quick summer cool down, dairy free and vegan."
-focusKeyphrase: "Mango Lime Sorbet"
+description: "Mango sorbet blended with fresh lime juice, agave syrup, and sugar. Chill mango puree, churn until scoopable, and freeze for a dairy-free tropical dessert."
+metaDescription: "Make mango sorbet at home with mango puree, lime juice, and agave syrup. Dairy-free, refreshing summer dessert. Try it tonight."
+ogDescription: "Creamy mango sorbet made with fresh lime juice and agave syrup. Dairy-free, no-churn tropical treat perfect for summer."
+focusKeyphrase: "mango sorbet"
 date: 2025-09-27
 draft: false
 image: mango-lime-sorbet.jpg
@@ -22,8 +22,16 @@ tags:
 - "healthy"
 keywords:
 - "mango sorbet"
-- "lime juice sorbet"
-- "agave syrup sorbet"
+- "sorbet recipe"
+- "vegan sorbet"
+- "summer dessert"
+- "mango lime sorbet with agave syrup"
+- "homemade mango sorbet with lime juice"
+- "tropical sorbet with fresh lime"
+- "citrus sorbet"
+- "chilled mango puree sorbet"
+- "frozen mango dessert"
+- "dairy-free sorbet"
 breadcrumb: ["Home", "Recipes", "Frozen Treats"]
 nutrition: 
  calories: "140"
@@ -63,3 +71,79 @@ faq:
 - "q: How long keep sorbet stored? a: Use airtight container or freezer burn happens fast. Press wrap on surface before sealing lid. Eat within 1-2 weeks best quality but texture changes slower if frozen solid. If freezer temp fluctuates, texture will degrade fast. Better fresh but safe in deep freezer up to month."
 
 ---
+
+Three pounds of mangoes. Summer heat. One ice cream maker that's been sitting there. This happened.
+
+## Why You'll Love This Mango Sorbet
+
+Takes 10 minutes to prep. Everything else is just waiting and spinning.
+Vegan, naturally. No dairy, no weird stabilizers — just fruit, sugar, lime, and air.
+Tastes bright. The citrus cuts through the sweetness in a way bottled juice never does.
+Perfect for those nights when you need something cold and it's 11 PM and you don't want to turn the oven on.
+Lasts in the freezer. Weeks, even. Though it won't.
+
+## What You Need for Homemade Mango Sorbet
+
+Mango purée — 700 ml, chilled. Use ripe mangoes or frozen cubes blitzed smooth. Matters more than you'd think.
+
+Granulated sugar. 200 grams. Less if your mangoes are already sweet. Taste one first.
+
+Agave syrup. 25 ml. Swaps for corn syrup. Keeps it from turning into a popsicle.
+
+Fresh lime juice. 20 ml. One tablespoon plus a teaspoon. Not bottled. That stuff dulls everything. Cut the lime and squeeze it. Different whole thing.
+
+## How to Make Mango Sorbet
+
+Cold purée goes in first. Too warm and the sugar won't dissolve right — you'll feel it, grainy specks stuck to the spoon. Chill it if you have to.
+
+Whisk the sugar in. All of it. Keep going until you can't feel the grit anymore — run your finger along the bowl. It should go smooth. Add the agave syrup while you're at it, same motion. 10 seconds, maybe 15. Not long.
+
+Lime juice goes in last. The acid tightens the whole thing. Brightens it. But don't skip it or use the bottled kind. It changes the profile in a way that matters.
+
+Let it sit 10 minutes if it still feels warm. Just checking. Sugar should be totally melded by then.
+
+## How to Get Mango Sorbet Smooth and Creamy
+
+Pour it into the ice cream maker vessel — the one that's been sitting in your freezer. Cold matters.
+
+Churn it. Around 20 to 25 minutes. Not a timer situation. Watch for the change. It goes from liquid to creamy, soft peaks forming, not melting but not too icy either. The motor sound changes when resistance builds. That's when you know.
+
+No ice cream maker? Shallow container. Freeze it. Stir hard every 30 minutes until it's firm but still scoopable. Works, just takes longer and tastes slightly more icy. Not terrible.
+
+Scrape it into an airtight container. Smooth the top with a spatula. Seal it tight. Freezer burn is real.
+
+Freeze minimum 4 hours. It firms up but stays scoopable. Poke it with a spoon tip before you serve — should give a little, not be rock hard.
+
+## Mango Lime Sorbet Tips and Freezing
+
+Leave it at room temp for 4 to 5 minutes before serving. It softens just enough to glide off the spoon without dripping all over your hand.
+
+Chilled bowls. Matters. Temperature swing between cold sorbet and slightly warm bowl keeps it from turning to liquid soup in 90 seconds.
+
+Mint or toasted coconut on top — actually changes things. Contrast. The cold, the slight heat from toasted coconut, the fresh herb. It's better that way.
+
+Frozen mango sorbet no churn version works but the texture isn't as clean. It gets icier. If that's your situation, stir more often and accept that it'll be a bit grainier. Still tastes good.
+
+Bottled lime juice makes it taste like something else entirely. Don't do that.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Mango Sorbet
+
+**Can I make this tropical sorbet with agave syrup instead of corn syrup?**
+Yes. That's what the recipe uses. Agave works better actually — helps with texture, keeps it from freezing solid.
+
+**How long does homemade mango sorbet with lime juice last in the freezer?**
+Weeks. Sometimes a month if you seal it right. Mine doesn't usually last that long.
+
+**Do I need an ice cream maker for frozen mango sorbet no churn?**
+No. Shallow container, freezer, stir every 30 minutes for like 2 hours until it's done. More effort but it works.
+
+**What if my mangoes aren't that sweet?**
+Add more sugar. Taste the purée first. If it's bland on its own it'll be worse frozen. Could be another 25 grams, could be 50. Depends on the mango.
+
+**Can I use bottled lime juice?**
+Not really. It dulls everything. Changes the whole thing into something flatter. Fresh is five minutes longer and tastes like a different dessert.
+
+**Why does my citrus sorbet taste grainy?**
+Sugar didn't dissolve. Make sure the purée is cold but start with warm water if you need to, dissolve the sugar there first, then mix in the cold purée. Or whisk longer. Feel the bottom of the bowl.
