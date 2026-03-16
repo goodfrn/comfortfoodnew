@@ -1,10 +1,10 @@
 ---
-title: "Zesty Citrus Lemonade"
+title: "How to Make Lemonade with Fresh Lemon"
 slug: "zesty-citrus-lemonade"
-description: "Vegan, gluten-free, dairy-free citrus lemonade. Fresh-squeezed oranges and lemons, bright zest. Sweetened simple syrup infuses the peel’s oils, stirred cold and chilled until crisp. Refreshing summer drink, tart, lightly sugary, with aromatic citrus oils carried in by hot syrup. No eggs, nuts, lactose. Adjust sugar for your heat tolerance or tartness preference. Great for picnics or easy non-alcoholic cocktails. Can swap agave or honey for sugar with modest tweak in sweetness profile. Emulsifies well without bitterness despite long zest steep."
-metaDescription: "Zesty Citrus Lemonade with fresh lemon and orange zest plus bright juices. Cold syrup infusion blends tart and sweet for a refreshing chilled citrus punch."
-ogDescription: "Bright citrus punch with fresh lemon and orange zest. Hot simple syrup draws oils, chilled long to settle tartness. Zingy, lightly sweet, crisp refreshment."
-focusKeyphrase: "Zesty Citrus Lemonade"
+description: "Learn how to make lemonade with fresh lemon and orange juice, lemon zest, and simple syrup. This homemade lemonade recipe is refreshing, tart, and perfect for summer."
+metaDescription: "How to make lemonade with fresh lemon and orange juice. This easy homemade lemonade recipe uses real citrus zest and simple syrup. Try it tonight."
+ogDescription: "Fresh homemade lemonade made with real lemon and orange juice, zest, and simple syrup. Refreshing and easy to make."
+focusKeyphrase: "how to make lemonade"
 date: 2025-09-29
 draft: false
 image: zesty-citrus-lemonade.jpg
@@ -21,9 +21,18 @@ tags:
 - "drink"
 - "summer"
 keywords:
-- "lemonade"
-- "citrus zest"
-- "simple syrup"
+- "how to make lemonade"
+- "homemade lemonade"
+- "fresh lemonade"
+- "homemade lemonade recipe"
+- "best lemonade recipe"
+- "easy lemonade recipe"
+- "fresh lemonade recipe"
+- "lemon and orange juice"
+- "lemon juice orange juice"
+- "easy homemade lemonade"
+- "healthy homemade lemonade"
+- "lemonade recipe fresh lemons"
 breadcrumb: ["Home", "Recipes", "Beverages"]
 nutrition: 
  calories: "85"
@@ -62,3 +71,77 @@ faq:
 - "q: How store lemonade? a: Fridge only. Lasts 3-4 days max. Stir before serving. Ice dilutes, so store undiluted. Can freeze but loses texture and aroma. Use airtight container to keep zest aroma and prevent fridge odors. Avoid sunlight or heat to maintain brightness."
 
 ---
+
+Three lemons, three oranges, some sugar. That's it. Twenty minutes of squeezing and zesting, six minutes on the heat, and you've got the kind of lemonade that tastes nothing like the powdered stuff.
+
+## Why You'll Love This Homemade Lemonade
+
+Takes 26 minutes total — most of that is just squeezing fruit.
+Vegan. Completely. Nothing hidden in it.
+Tastes like actual lemons and oranges, not sweet with a lemon-flavored afterthought. The zest does something specific to it.
+Cold. Stays cold longer than you'd think.
+Works all summer. Sits in the fridge for days and gets better, somehow.
+No weird ingredients. Nothing you can't pronounce.
+
+## What You Need for Fresh Lemonade Recipe
+
+Cold water — 1.65 litres. More is fine. Less means it's too strong.
+White granulated sugar. 270 ml. That's it. Brown sugar changes everything; skip it.
+Three lemons. Zest them first, then juice them. The zest matters more than you think.
+Three oranges. Same deal — zest, then juice. Adds sweetness without making it taste like oranges took over.
+Fresh lemon juice. 140 ml. About 3 large ones if you don't have that from the first batch.
+Fresh-squeezed orange juice. 420 ml. Roughly 9 medium oranges. Bottled doesn't work the same way.
+
+## How to Make Lemonade at Home
+
+Heat 240 ml water with the sugar. Medium heat. Don't rush it. Stir occasionally and watch the crystals disappear. Takes maybe 4-6 minutes. You'll know it's done when it looks clear instead of cloudy.
+
+While it's heating, zest the lemons and oranges directly into the pan. The heat pulls the oils out of the zest. That's where the flavor lives. Stir gently. Keep the heat steady.
+
+Once the sugar dissolves—the syrup should smell thick and intensely citrus—take it off the heat. Pour it through a fine sieve into a large pitcher. Press the zest gently. You want the liquid out, not the solids.
+
+## How to Get Perfect Fresh Lemonade Recipe Results
+
+The cold water goes in next. 1.41 litres of it. Add the fresh lemon juice and orange juice. Stir it hard for maybe 20 seconds. The hot syrup and cold juice need to actually blend, not just sit together.
+
+Cover it. Put it in the fridge. Minimum 1 hour 45 minutes. It needs that time to chill all the way through and for the acidity to settle. Tastes sharp if you drink it right away. Tastes right after it sits.
+
+Just before serving, stir it again. Pour over ice. The flavor rides on top clean and crisp. Not syrupy. Not thin. Balanced.
+
+## Homemade Lemonade Tips and What Goes Wrong
+
+Don't skip the zest. The juice alone is bright but flat. Zest adds complexity—something that makes you taste lemon without tasting just citric acid.
+
+Fresh-squeezed matters for orange juice. Bottled has a different kind of sweetness. It mutes the sharpness you need.
+
+Temperature timing — that hour 45 minutes isn't arbitrary. Less time and it tastes too sharp. More time is fine; it doesn't break down.
+
+Stir before serving. The flavors settle. A quick stir brings them back together.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Lemonade
+
+**Can I make this with lime juice instead of lemon?**
+Yeah. Changes it. Less sweet, more sour. Could work with extra sugar added, but that's a different recipe.
+
+**How long does homemade lemonade keep in the fridge?**
+Four or five days, easy. Longer if nothing else has touched it. The flavor doesn't break down; it gets a little quieter after day three.
+
+**Can I skip the orange juice?**
+Could, yeah. But the orange juice sweetens it without tasting orange-y. Skip it and you need more sugar or it's too sharp.
+
+**What if I don't have fresh oranges?**
+Don't bother with bottled orange juice. Makes it taste processed. You could add more lemon juice and a tiny bit of honey instead, but that's changing things.
+
+**Can I make this ahead for a party?**
+Make it the morning of. It's fine sitting cold. Make it days ahead and it loses some brightness. Not bad. Just not as sharp.
+
+**Do I have to strain the zest out?**
+If you don't mind tiny bits floating around, no. Straining keeps it clear and clean-tasting. Unstrained tastes slightly earthier.
+
+**Can I use this for a homemade strawberry lemonade?**
+Make the base. Blend strawberries separately. Swirl them in or mix through. The recipe works as a base for other things, but strawberry changes the balance—might need less or more sugar.
+
+**Is this vegan?**
+Completely. Sugar, water, citrus. That's all.
