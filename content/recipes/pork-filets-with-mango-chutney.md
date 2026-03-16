@@ -1,10 +1,10 @@
 ---
-title: "Pork Filets with Mango Chutney"
+title: "Seared Pork Filets with Mango Chutney"
 slug: "pork-filets-with-mango-chutney"
-description: "Seared pork medallions simmered briefly in mango chutney and orange juice with garlic and fresh rosemary. Cooked until just pink, juicy and tender. Uses slight flour dusting for sear, balanced sweet-tart sauce. Stove to oven finish—watch for scent changes and sizzling sound to judge doneness. No nuts, dairy, gluten, or eggs. Simple, adaptable comfort meal with twist of tangy chutney and citrus brightness."
-metaDescription: "Pork filets seared with light flour dusting, simmered in chunky mango chutney and orange juice, garlic, rosemary. Oven finish locks juices, tender slices serve classic sides."
-ogDescription: "Sear pork medallions in butter-oil mix, deglaze with mango chutney, orange juice, garlic, rosemary. Oven cook till rosy center, rest before slicing for juicy bites."
-focusKeyphrase: "pork filets with mango chutney"
+description: "Seared pork filets simmered in mango chutney and fresh orange juice with garlic and rosemary. Juicy, tender medallions with a sweet-tart sauce for an elegant dinner."
+metaDescription: "Seared pork filets with mango chutney and orange juice. Tender medallions with garlic and rosemary. Pan-seared and finished in the oven. Make it tonight."
+ogDescription: "Juicy seared pork filets with chunky mango chutney, fresh orange juice, garlic, and rosemary. Elegant and simple."
+focusKeyphrase: "seared pork filets with mango chutney"
 date: 2025-09-28
 draft: false
 image: pork-filets-with-mango-chutney.jpg
@@ -21,9 +21,16 @@ tags:
 - "main dish"
 - "easy dinner"
 keywords:
-- "pork filets"
-- "mango chutney"
-- "rosemary garlic pork"
+- "seared pork filets with mango chutney"
+- "pork filets with orange juice and garlic"
+- "pork filets with fresh rosemary and citrus"
+- "pan seared pork with orange and garlic"
+- "pork filets with chunky mango chutney sauce"
+- "citrus pork recipes"
+- "easy pork filets with mango chutney"
+- "mango chutney pork main course"
+- "pork dinner ideas"
+- "seared pork medallions with mango chutney"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -66,3 +73,65 @@ faq:
 - "q: How to store leftovers? a: Cool quickly, cover airtight. Refrigerate 3-4 days max. Reheat gently in skillet or oven to preserve texture. Sauce thickens cold; add splash orange juice or water to loosen if needed."
 
 ---
+
+Pork filets. Two of them. Sear until gold, then the oven does the rest while you pour a mango chutney sauce over everything and basically stand there amazed it took 34 minutes total.
+
+## Why You'll Love This Pork Filets Main Dish
+
+Actual dinner, not fussy. Comes together in half an hour — prep and cook both short.
+The citrus and chutney thing sounds complicated. Isn't. Three ingredients that already live in most kitchens, plus what you've got in the meat drawer.
+Works on a weeknight because nothing needs babysitting after the sear. Oven handles it. You don't.
+Looks like you tried. Nobody needs to know you didn't sweat.
+
+## What You Need for Pork Filets with Orange and Garlic
+
+Two pork filets — get them trimmed. The butcher usually does this without asking.
+All-purpose flour or chickpea flour. Just dust. Not a coat. The surface gets sticky sometimes, flour stops that from getting weird.
+Unsalted butter and vegetable oil. Butter alone burns. Oil alone doesn't brown right. Mix them.
+Mango chutney. Chunky kind. Store-bought is fine. Better, actually — no judgment here.
+Fresh orange juice. Strained. Fresh matters because bottled tastes like nothing happened to it.
+One garlic clove minced tiny. Rosemary sprig — one. Salt and pepper.
+
+## How to Make Pan Seared Pork with Orange and Mango Chutney
+
+Start the oven at 175°C. That's 347 if your dial uses Fahrenheit. Wait for it to actually get there.
+Pat the pork completely dry. If the surface's sticky at all, dust it with flour. Light. You're preventing wetness from steaming the crust, not breading anything.
+Heat butter and oil in an ovenproof skillet over medium-high. Watch until the fat shimmers — that split second when you can see it move across the pan. Don't wait for smoke. That means you burned the butter.
+Pork goes in. Listen for the sizzle immediately. That rattle is everything. Sear it maybe 2 to 3 minutes per side until the edges look dark and crispy — not gray, not pale. Actually brown. You'll feel it rattle under your spatula when you flip.
+
+## How to Get Pork Filets with Citrus Sauce Perfect
+
+After the sear comes the sauce. Minced garlic goes in first, then the rosemary sprig. The pan's still hot so the garlic stops being raw almost immediately. Smells instantly different.
+Mango chutney. Pour in the whole thing. Then the orange juice. Stir it gently with a wooden spoon, scraping the bottom where all the brown stuck-on bits live — that's flavor, not mess.
+Bring it to a boil. Bubbling hard. You'll see it thicken slightly as the liquid reduces, maybe a minute. Takes just long enough.
+Skillet goes straight into the oven. Don't cover it. 18 to 22 minutes. The pork goes from pink to opaque inside but stays slightly pink at the very center — that's the sweet spot. Press it with your finger. Should feel firm but still springy, not hard.
+
+## Pork Filets Tips and Common Mistakes
+
+The meat needs to rest. Seven minutes under foil after it comes out. Juices redistribute. Slice it early and it bleeds everywhere and gets dry. Wait and it's tender all the way through.
+Flour is optional but actually useful. Doesn't make it breaded. Just stops the exterior from being slick.
+Size matters slightly. Two filets the same thickness cook evenly. If one's thick and one's thin, the thin one's already overcooked when the thick one's done. Either buy them matched or ask the butcher to even them out.
+The sauce thickens as it cools. Looks thin in the pan, then gets thicker by the time you plate. Not a problem. Expected.
+Orange juice fresh-squeezed tastes better. Bottled works but the difference is obvious.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Pork Filets with Mango Chutney
+
+**Can you make this without the mango chutney?**
+Yeah. It just becomes pork filets with citrus and garlic. Different dish. The chutney sweetness balances the orange tartness — without it, it's sharper. Could work. Not the same thing though.
+
+**How do you know when the pork is done?**
+Press it with your finger. Firm but gives slightly. The center should still be pale pink, not gray all the way through. If you're nervous, stick a thermometer in — 65°C is perfect. Take it out at 63 and it keeps cooking from carryover heat while it rests.
+
+**What if the pork looks pale instead of golden?**
+Heat wasn't high enough when you seared. The pan needs to shimmer aggressively before the meat touches it. Medium-high, and wait the full minute for it to get there. You want that immediate loud sizzle.
+
+**Can you use boneless pork chops instead?**
+Technically yes. They're thinner so they cook faster — maybe 12 to 15 minutes in the oven instead of 22. Watch them close. Texture changes. Filets stay more tender because they're thicker and can hit that sweet spot between cooked and still juicy.
+
+**Does the rosemary sprig matter?**
+It adds something subtle that you don't notice until it's missing. Not worth arguing about if you don't have it. Thyme works. So does nothing.
+
+**Can you make the sauce ahead?**
+The chutney and orange juice mixed together, sure. Day before is fine. But don't sear and sauce the pork and then sit on it. The meat gets weird. Sear, sauce, straight to the oven.
