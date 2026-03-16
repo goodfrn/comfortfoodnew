@@ -1,10 +1,10 @@
 ---
-title: "Neapolitan Pizza Sandwiches"
+title: "Neapolitan Pizza Sandwiches with Goat Cheese"
 slug: "neapolitan-pizza-sandwiches"
-description: "Hand-stretched dough folded with savory fillings, baked on a hot stone for a crisp crust. Parmesan oil brushed twice for savory depth. Ricotta swapped with whipped goat cheese, pistachios replaced by toasted pumpkin seeds for earthiness. Smoked turkey replaces mortadella, arugula swapped with baby kale for bite. Citrus twist via orange zest instead of lemon. Technique focuses on dough handling, quick baking with frequent turns. Visual cues prioritize golden crust, aroma of toasted garlic and rosemary. Practical tips on dough elasticity and quick oil infusion included. Oven time adjusted with 3–4 minute bake, balancing chew and char."
-metaDescription: "Neapolitan Pizza Sandwiches hand-stretched dough folded with savory fillings, baked on a hot stone. Parmesan oil brushed twice adds deep savory notes."
-ogDescription: "Quick Neapolitan Pizza Sandwiches with whipped goat cheese, toasted pumpkin seeds, smoked turkey, and baby kale. Crisp crust, fragrant garlic-rosemary oil."
-focusKeyphrase: "Neapolitan Pizza Sandwiches"
+description: "Neapolitan pizza sandwiches with hand-stretched dough, whipped goat cheese, smoked turkey, and pumpkin seeds. Brushed with rosemary Parmesan oil for crispy, golden results."
+metaDescription: "Make Neapolitan pizza sandwiches with goat cheese, smoked turkey, pumpkin seeds, and orange zest. Hand-stretched dough baked crispy with rosemary Parmesan oil. Try it tonight."
+ogDescription: "Hand-stretched pizza sandwiches with whipped goat cheese, smoked turkey, pumpkin seeds, and orange zest. Crispy rosemary Parmesan oil finish."
+focusKeyphrase: "Neapolitan pizza sandwiches"
 date: 2025-08-11
 draft: false
 image: neapolitan-pizza-sandwiches.jpg
@@ -21,9 +21,16 @@ tags:
 - "easy dinner"
 - "homemade"
 keywords:
+- "Neapolitan pizza sandwiches"
 - "pizza sandwiches"
-- "whipped goat cheese"
-- "toasted pumpkin seeds"
+- "goat cheese pizza sandwich with pumpkin seeds"
+- "smoked turkey pizza sandwich with orange zest"
+- "hand-stretched pizza dough sandwiches"
+- "crispy pizza sandwich with rosemary parmesan oil"
+- "homemade pizza dough"
+- "italian pizza sandwich recipe"
+- "easy dinner pizza sandwiches"
+- "italian sandwiches"
 breadcrumb: ["Home", "Recipes", "Sandwiches and Wraps"]
 nutrition: 
  calories: "420"
@@ -96,3 +103,106 @@ faq:
 - "q: How to store leftovers? a: Wrap tight, fridge up to 2 days max or sandwich sogs out. Reheat on skillet for crisp restoration. Microwave kills crust texture quick. Alternatively, oven toaster for few minutes, but watch carefully—not too hot or burn."
 
 ---
+
+Stretch the dough fast. Brush it with garlic oil that's been sitting for fifteen minutes—longer, even. Fold. Bake three minutes. This is Neapolitan pizza sandwiches, except it's a sandwich. Except it's simpler than it sounds.
+
+## Why You'll Love These Italian Sandwiches
+
+Takes 40 minutes total. Really 25 if your oven's already hot.
+Hand-stretched pizza dough wrapped around smoked turkey, goat cheese, pumpkin seeds—crispy outside, soft inside, tastes like something you'd get in Naples if Naples made sandwiches this way.
+No special equipment. Just a pizza stone and an oven that gets hot. A peel helps but isn't essential.
+Works cold the next day, tastes better actually. The flavors settle overnight.
+Goat cheese instead of ricotta. Lighter, tangier, doesn't weigh anything down.
+
+## What You Need for Italian Pizza Sandwiches
+
+Olive oil and fresh Parmesan, minced garlic, fresh rosemary, crushed red pepper—whisk it together, let it sit. The garlic needs time to actually infuse into the oil, not just float there. At least fifteen minutes. More if you're not in a rush.
+
+Four pizza dough balls. Hand-stretched, not rolled. You want the air bubbles to stay alive.
+
+Goat cheese. Whipped or softened—whatever you have. Spread it thick. This is the base.
+
+Toasted pumpkin seeds. Coarsely chopped. Not fine. You want crunch you can feel.
+
+Orange zest. Fresh. Finely grated. A lot of it. The brightness matters.
+
+Smoked turkey. Thin slices. This is your meat. Prosciutto works. Soppressata works. Whatever's salty and good.
+
+Baby kale. Peppery, stands up to heat. Arugula gets too soft if you're not careful.
+
+## How to Make Hand-Stretched Pizza Dough Sandwiches
+
+Heat the oven high. Stone goes in for thirty minutes with the door shut. You want the deck glowing—actually hot, not warm. The dough needs to blister fast, not dry out slow.
+
+While that's happening, make the oil. Whisk together olive oil, grated Parmesan, minced garlic, rosemary, and a small pinch of crushed pepper. Season light. The Parmesan is already salty. Let it sit. The garlic and rosemary infuse slowly. This is why you don't rush it.
+
+Flour your counter. Lightly. Grab one dough ball and stretch it flat—about 26 centimeters across, roughly. Work fast but don't panic. Keep the air bubbles. The more bubbles, the lighter the crumb. Brush off excess flour. Burned flour tastes like ash.
+
+Brush half the garlic oil all over one side of the dough. Even coat. This locks moisture in, adds flavor before anything happens. Fold it in half. Press the edges firmly. You're sealing it shut. The steam needs to stay inside.
+
+Transfer it to a floured pizza peel. Carefully.
+
+## How to Get Crispy Pizza Sandwiches with Rosemary Parmesan Oil
+
+Slide the sandwich onto the hot stone. Three to four minutes. That's it.
+
+Rotate every minute. Hot spots are real. One side gets too dark while the other's pale if you don't move it. Watch the crust—it should go golden with small dark spots. Bubbly texture means it's there. If the edge darkens too fast next time, lower the temperature. Your oven has quirks. Learn them.
+
+Pull it out with the peel. Set it on the counter. Let it cool two minutes. If you open it hot, the goat cheese melts into nothing and the kale wilts completely. Two minutes. That's all you need.
+
+## Easy Dinner Pizza Sandwiches: Filling and Finishing
+
+Open it carefully. Don't tear the crust. Brush the inside with the remaining parmesan oil. This adds moisture, richness, everything.
+
+Spread goat cheese generously across both sides. Not thin. Generous.
+
+Sprinkle pumpkin seeds all over. Orange zest right after. Crunch and brightness. They work together.
+
+Layer the smoked turkey. Even coverage. Then a handful of baby kale. The peppery bite balances the sweet zest and tangy cheese.
+
+Fold it shut. Slice down the middle with a sharp knife. Serve warm or at room temperature. Both work. Room temperature actually lets the flavors speak clearer.
+
+## Italian Sandwich Tips and Common Mistakes
+
+Goat cheese is tangier than ricotta, lighter too. If you want something richer, ricotta works. Just know it's heavier.
+
+Pumpkin seeds can be walnuts. Almonds. Whatever toasted seed or nut you have. The texture matters more than the specific one.
+
+Smoked turkey mimics mortadella's richness but lighter. You could use actual mortadella if you find it. Prosciutto. Soppressata. Anything cured and salty.
+
+Kale over arugula because kale doesn't wilt as fast from the warm crust and filling. But if you prefer arugula, use it. You'll just want to add it right before serving.
+
+No pizza stone? Use a heavy baking sheet preheated in the oven. Bake time might stretch a bit longer. Watch the crust color. That's your timer, not the clock.
+
+Sticky dough means chill it briefly or dust your hands sparsely with flour. Don't flour the surface though. That burns.
+
+Don't skip the oil infusion step. The garlic and rosemary need that time to actually flavor the oil. Reduce them and you lose the whole point.
+
+The fold is what makes this work. It seals steam inside, gives you an airy crumb instead of dense bread. If the crust is tough, you either baked too long or stretched the dough too thin. Stretch gentler next time.
+
+Rotate constantly during baking. Hot spots are the enemy.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Crispy Pizza Sandwiches
+
+**Can I make the dough ahead of time?**
+Yeah. Make it the day before. Keep it in the fridge covered. Pull it out 30 minutes before you need it. Gets easier to stretch when it's slightly warmed up.
+
+**What if I don't have a pizza oven or stone?**
+Heavy baking sheet. Preheat it in a 500-degree oven for at least 20 minutes. Takes longer to bake—maybe five or six minutes instead of three or four. Watch the crust closely. The color is what matters, not the timer.
+
+**Can I substitute the goat cheese?**
+Ricotta if you want something richer. Mascarpone if you want creamier. Whipped feta works too. Each one changes the taste a bit. Goat cheese is tangiest.
+
+**How do I store leftovers?**
+Wrap it, stick it in the fridge. Up to two days. Reheat in a toaster oven or skillet to get the crust crispy again. Microwave makes it soggy. Not worth it.
+
+**Can I use dried rosemary instead of fresh?**
+Technically yes. But don't. The flavor's different—harsher. If you only have dried, use less. Like half the amount. Actually just get fresh if you can.
+
+**What's the orange zest for?**
+Brightness. Cuts through the rich cheese and turkey. The whole thing's salty-savory without it. The zest lifts everything. Lime zest works for summer too if you want something different.
+
+**Do I have to rotate the sandwich while it bakes?**
+Yes. Every minute. Non-negotiable. One side gets way darker than the other if you don't. Your oven probably has hot spots. Rotating keeps the whole thing even.
