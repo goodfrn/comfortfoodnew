@@ -1,10 +1,10 @@
 ---
-title: "Yellow Bean Rocket Salad"
+title: "Rocket Salad with Yellow Beans & Sherry Vinaigrette"
 slug: "yellow-bean-rocket-salad"
-description: "A vibrant salad mixing tender yellow beans, peppery rocket, and juicy tomatoes. A tangy vinaigrette with sherry vinegar, a hint of maple syrup, and lime zest wakes up the flavors. Fresh coriander adds a punch. Blanch beans till just tender, they should snap, never mushy. Tomatoes bring brightness, rocket peppery heat. Quick to assemble, colors pop on the plate. Vegan and gluten free, easy to swap maple for agave. Mustard seeds swap in for whole grain mustard for crunch. Perfect light starter or side that doesn't overthink the veg."
-metaDescription: "Yellow Bean Rocket Salad mixes tender yellow beans, peppery rocket, juicy tomatoes and a tangy vinaigrette with maple syrup and lime zest. Quick, fresh, vibrant."
-ogDescription: "Crunchy yellow beans, spicy rocket, tomatoes with zingy vinaigrette. Bright, fresh, quick prep. Maple sweetens, lime zest wakes up flavors. Vegan, gluten free."
-focusKeyphrase: "Yellow Bean Rocket Salad"
+description: "Fresh rocket salad with yellow beans, cherry tomatoes, and coriander, dressed in a tangy sherry vinaigrette with maple syrup and lime zest. Light, vegan, and ready in minutes."
+metaDescription: "Rocket salad recipe with blanched yellow beans, cherry tomatoes, and sherry vinaigrette. Fresh coriander adds punch. Vegan and gluten-free. Make it tonight."
+ogDescription: "Peppery rocket, tender yellow beans, and bright cherry tomatoes tossed in sherry vinaigrette with maple syrup and fresh coriander."
+focusKeyphrase: "rocket salad"
 date: 2025-09-01
 draft: false
 image: yellow-bean-rocket-salad.jpg
@@ -21,9 +21,18 @@ tags:
 - "healthy"
 - "easy"
 keywords:
-- "yellow beans"
 - "rocket salad"
-- "maple vinaigrette"
+- "rocket leaves"
+- "sherry vinaigrette"
+- "green bean and tomato salad"
+- "rocket and tomato salad"
+- "rocket salad recipes"
+- "sherry vinegar dressing"
+- "rocket leaves salad"
+- "salad rocca"
+- "wild rocket salad"
+- "arugula rocket lettuce"
+- "italian rocket salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "180"
@@ -73,3 +82,71 @@ faq:
 - "q: How to store leftovers? a: Keep vinaigrette separate if possible. Salad lasts 1 day refrigerated but leaves wilt. Beans hold crunch longer if dried well initially. Room temp okay short term but best fresh. Toss right before serving for crispness."
 
 ---
+
+Cut the yellow beans first—3 minutes in boiling water and they're done. Shock them cold. While they sit, make the dressing. Sherry vinegar, maple syrup, whole grain mustard, lime zest, olive oil whisked until it holds together. By the time the beans dry, everything's ready. Eleven minutes total from cutting board to plate.
+
+## Why You'll Love This Rocket Salad
+
+Summer dinner that takes less time than deciding what to eat.
+Bean and tomato salad that actually tastes like something—not just filler greens. The sherry vinaigrette does the work.
+Works cold. Works at room temp. Works the next day if you somehow have leftovers.
+No cooking skills required. Just boil water and whisk.
+Vegetarian, healthy, and honestly tastes better than salads that pretend to be virtuous.
+
+## What You Need for This Rocket and Tomato Salad
+
+**For the vinaigrette:** Olive oil—the good kind. Sherry vinegar, not white vinegar. They're different. Maple syrup. Whole grain mustard. Lime, just the zest. Salt and pepper.
+
+**For the salad:** Yellow beans. Seven and a half cups trimmed. Cherry tomatoes, halved. Baby rocket leaves—also called arugula or roquette if that's what's at your store. Fresh coriander. Roughly chopped.
+
+Ice water for shocking the beans after they cook. A clean towel. Two bowls. A whisk.
+
+## How to Make Rocket Salad
+
+Grab a medium bowl. Whisk the olive oil, sherry vinegar, and maple syrup together until it starts looking glossy and held together. Add the whole grain mustard—that grainy texture matters. Add the lime zest. Now taste it. You want tang but not sharp. Sweet but not syrupy. Adjust now because you can't fix it later. Salt it. Crack pepper over it. Done.
+
+Get a pot of salted water going. Really salted. The water should taste like the sea. Bring it to a hard boil. Add the trimmed yellow beans. Watch them. Three minutes and they're snapping when you bite them—still bright yellow-green, not dark. Pull them out with a slotted spoon or a strainer. Dump them straight into ice water. This stops the cooking immediately. It's the only way to keep them crunchy.
+
+Drain them well. Lay them on a clean towel. Let them dry. Wet beans won't hold the dressing—it just slides off.
+
+## How to Get This Rocket Salad Crispy and Fresh
+
+This is where timing matters. In a large bowl, toss the dried beans with the halved cherry tomatoes and the baby rocket leaves. The rocket wilts slightly from the warm beans—that's fine. Fold in the coriander. Chopped rough. Just break it apart with your hands.
+
+Pour the sherry wine vinaigrette over it. Not all of it. Start light. You can always add more but you can't take it back. Toss gently. Every piece should touch dressing but nothing should be swimming. Give it a final toss. Taste a bite. Does it need salt? Probably a pinch of flaky salt on top. Serve it now or let it sit five minutes. Room temperature works better than ice cold anyway.
+
+## Rocket Salad Tips and Common Mistakes
+
+Don't overcook the beans. One minute too long and they go mushy and gray. That three-minute timer is real. Stay in the kitchen. Don't wander off.
+
+Mustard seeds toasted beforehand add a nuttier crunch if you want texture play. Toast them in a dry pan for maybe 30 seconds until they smell nutty. Grind them into the dressing.
+
+If you don't have coriander, use parsley. Or tarragon. Or mint if you want it cooler. Fresh herbs are the point—not the exact herb.
+
+Maple syrup is what makes this work. Agave or light honey can substitute but taste as you go. They're sweeter.
+
+Lime zest—don't use too much. The white pith underneath is bitter and ruins everything. Just the bright yellow part.
+
+Roquette salad recipe tip: while the beans blanch, make the vinaigrette. Everything's ready at once. No waiting.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Rocket Salad
+
+**Can I use a different vinegar for this sherry wine vinaigrette?**
+White vinegar's too sharp. Red wine vinegar works. Balsamic makes it weird. Stick with sherry if you can find it.
+
+**What if I don't have yellow beans?**
+Green beans work. Takes the same time. The salad's less visually interesting but tastes fine.
+
+**Can I prep this ahead?**
+Make the vinaigrette in the morning. Blanch the beans. Don't dress it until you're ready to eat. Rocket wilts if it sits too long in dressing.
+
+**How do I store leftovers?**
+Keep the dressing separate. Store the salad in a container in the fridge. Lasts two days. The beans stay crunchy longer than the rocket does.
+
+**Should I use arugula or rocket?**
+Same thing. Different name depending where you live. Baby rocket leaves are younger and milder. Use those.
+
+**Can I add parmesan to this pear and rocket salad idea?**
+This doesn't have pear, but parmesan works fine on any green bean and tomato salad. Shave it on top. Adds salt and nuttiness.
