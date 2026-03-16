@@ -1,10 +1,10 @@
 ---
-title: "Tart Lemon Bars"
+title: "Lemon Bars with Lime and Cornstarch"
 slug: "tart-lemon-bars"
-description: "Crisp buttery base with a tangy custard twist. Uses less sugar and a touch of cornstarch instead flour for the filling. Butter swapped for clarified butter in crust for better texture and shelf life. The lemon juice replaced partly by lime for a sharper punch. Cooling step extended to chill properly. Makes a 9x9 inch pan of zesty squares, perfect for portion control. Bakes in two stages for a firm crust and gently set filling. Visual cues over timers stressed. Powdered sugar finish masks slight cracks but adds sweetness balance. Great for those who want a tender yet sturdy lemon bar with a bit more zing and less cloying sweetness."
-metaDescription: "Tart Lemon Bars with crisp clarified butter crust, tangy lemon-lime filling. Chilled for clean cuts, dusted with powdered sugar to mask cracks."
-ogDescription: "Crisp crust baked twice, tangy lemon-lime custard set by sight and shake, chilled hours for slicing. Powdered sugar finish hides cracks, adds sweetness."
-focusKeyphrase: "Tart Lemon Bars"
+description: "Tangy lemon bars made with fresh lemon and lime juice, cornstarch filling, and clarified butter crust. Less sugar, more zing."
+metaDescription: "Make lemon bars with fresh lemon juice, lime juice, and cornstarch for a tangy dessert. Two-stage baking creates the perfect texture. Try it tonight."
+ogDescription: "Zesty lemon bars with lime juice and cornstarch filling. Crisp clarified butter crust. Powdered sugar finish."
+focusKeyphrase: "lemon bars"
 date: 2025-08-04
 draft: false
 image: tart-lemon-bars.jpg
@@ -22,8 +22,17 @@ tags:
 - "no bake"
 keywords:
 - "lemon bars"
-- "clarified butter"
-- "cornstarch custard"
+- "lemon dessert squares"
+- "lemon bar dessert"
+- "lemon squares"
+- "lemon bar recipes"
+- "lemon desserts"
+- "lemon tart"
+- "lemon posset"
+- "lemon pies"
+- "lemon meringue"
+- "citrus dessert"
+- "tangy lemon recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "170"
@@ -83,3 +92,121 @@ faq:
 - "q: How store bars? a: Keep chilled wrapped tight. Fridge up to 3 days no problem. Freeze individually wrapped or whole block wrapped airtight. Thaw in fridge overnight. Powder sugar topping best added after thawing. Can store pan covered at room temp max 12 hours but bars soften fast."
 
 ---
+
+Cut into 36 squares. Let them chill overnight. Dust with powdered sugar right before you eat one. The filling's still setting—that's the thing about lemon bars. Looks done but it's not. Not yet.
+
+## Why You'll Love This Lemon Meringue Dessert
+
+No mixer needed. Just a bowl and fingertips and maybe ten minutes of actual work.
+The tartness hits different — lemon juice and lime juice both. Sharper than regular lemon dessert squares. Not sweet enough to hurt your teeth.
+Crust stays crispy for days. Clarified butter does that. Regular butter makes them soggy by day two.
+Works cold straight from the fridge or at room temp. Honestly better cold. The filling sets firmer and slices cleaner.
+
+## What You Need for Lemon Bar Dessert
+
+Flour. All-purpose, unbleached if you can grab it. Around 270 ml — that's your base.
+
+Powdered sugar. Just 50 ml mixed into the crust. Not the filling. The filling gets granulated sugar instead.
+
+Baking powder. Half a teaspoon. Tiny amount but it matters for structure.
+
+Clarified butter or melted unsalted butter. 115 ml. Clarified works better — keeps the crust from getting greasy and soggy later. Regular melted butter works though.
+
+Granulated sugar. 200 ml for the filling — that's three-quarters cup plus a tablespoon.
+
+Cornstarch. Four teaspoons. Not flour. Flour makes custard gritty. Cornstarch keeps it smooth and tight.
+
+Fresh lemon juice. Around 100 ml. Bottled doesn't cut it here. The flavor gets weird.
+
+Fresh lime juice. About two tablespoons. Adds sharpness the lemon alone doesn't have.
+
+Two eggs. Room temperature. Cold eggs don't emulsify right into the filling.
+
+Heavy cream. 60 ml of the 35% kind. Thickens the custard without making it heavy.
+
+Lemon zest. One lemon's worth. Bits of it stay in there. Some people strain it out. Don't bother.
+
+Powdered sugar for the top. Dusting only. Just before serving.
+
+## How to Make Lemon Meringue Bars
+
+Start with the oven. Middle rack. 175 C — that's 350 F. Let it heat while you handle the crust.
+
+Line a 23 cm square pan with parchment. Leave extra hanging over the edges. That's how you get the whole thing out without scraping it off the sides.
+
+Mix flour, powdered sugar, and baking powder in a bowl. Three ingredients. Blend them so the sugar doesn't clump.
+
+Clarified butter goes in now. Use your fingertips. Work it through like you're making pie dough. Light touch. Not a mixer. Not a food processor. Fingertips. The dough should barely hold together — not greasy, not crumbly. Just barely.
+
+If it fights you, chill it five minutes. Dough's easier to press when it's cold.
+
+Press it flat into the pan. Even layer. Firm. If it tears just patch it with another piece.
+
+Bake for about 28 minutes. Watch for the edges to go golden. Center stays pale. That's the signal. You want it set but not brown, because it bakes again later.
+
+While the crust's in there, start the filling. Whisk sugar and cornstarch together first. The starch is the thing that makes this work — it tightens the custard without turning it grainy like flour does.
+
+Add lemon juice. Lime juice. Eggs. Heavy cream. Lemon zest. Beat it until it looks smooth.
+
+Don't beat it forever though. You're trying to avoid whipping air into it. Dense is better here. Dense is what holds together.
+
+Crust comes out hot. Pour the filling over it immediately. If the crust cools down first, the filling won't set right into it.
+
+Drop the oven temp to 160 C — 320 F. Bake for 22 to 27 minutes. The edges firm up. The center still jiggles a tiny bit when you shake the pan. That's done. That's the exact moment. Not before. If you wait for it to stop jiggling, you've gone too far.
+
+## How to Get Perfect Lemon Tart Texture
+
+Pull it out when the center still moves. Let it sit at room temperature for an hour. Don't rush this. The filling's still setting as it cools.
+
+The whole thing gets weird and separates if you skip the room temp step.
+
+Once it's cool, chill it. Four hours minimum. Overnight is better. The filling firms up completely. It slices clean instead of falling apart.
+
+Use that parchment overhang to lift the whole block out of the pan. One motion. Lift. Done.
+
+Cut it into 36 squares. A sharp knife dipped in hot water makes cleaner cuts. Cold filling cuts easier than warm. Warm bars crumble.
+
+Dust the top with powdered sugar right before you serve them. The sugar sits on top and hides the tiny cracks that always happen. Plus it adds a little sweetness without making the whole thing cloying.
+
+## Lemon Dessert Squares Tips and What Goes Wrong
+
+Clarified butter is the key to a crust that doesn't go soggy. Regular melted butter works but it absorbs moisture from the filling. The bars get damp by day two. Clarified stays crispy for days.
+
+Cornstarch instead of flour. That matters. Flour makes the filling sandy and gritty no matter how much you whisk. Cornstarch keeps it smooth. It's just how custards work.
+
+Cold eggs. Room temperature eggs. There's a difference. Cold eggs separate easier. Warm eggs curdle when they hit the hot filling. Room temp is the middle ground where they emulsify instead of scrambling.
+
+Don't overbake. The filling should jiggle. Like panna cotta. Set but still wobbly in the center. Five minutes too long and it turns rubbery and splits when it cools.
+
+If your oven runs hot, the crust browns too fast. Tent it with foil halfway through the first bake. Stops the edges from getting dark while the center stays pale.
+
+Lime juice is not optional. Lemon alone gets cloying. Lime sharpens it. You could try grapefruit juice or blood orange juice instead but lime is what works. Orange zest instead of lemon zest works too if you want a different vibe.
+
+The longer you chill them, the cleaner they slice. Warm bars fall apart. Cold bars have integrity. Overnight chill is worth the wait.
+
+You can skip the powdered sugar dust. You can use white chocolate shavings instead. Or coconut flakes. The dust just makes them look nicer and covers imperfections.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Lemon Meringue Pie and Lemon Dessert Squares
+
+**Can I make lemon posset instead if I don't want to bake?**
+No. Different thing entirely. This one has the crust component. You need to bake it.
+
+**How long does this lemon tart last?**
+Four days in a container in the fridge. Maybe five if it's really cold. After that the crust gets soft. Freeze them if you want them longer — they last a month frozen.
+
+**Can I use bottled lemon juice?**
+I wouldn't. It tastes sharp in a weird way. Not fresh-sharp. Chemical-sharp. Fresh juice takes two minutes to squeeze.
+
+**What if the filling cracks when it cools?**
+Means it baked too long or cooled too fast. The powdered sugar dust hides the cracks anyway. Don't stress it.
+
+**Does the crust have to be baked first?**
+Yes. Unbaked crust stays soft and gets soggy from the filling. Pre-bake it so it stays crispy underneath.
+
+**Can I halve this recipe?**
+Sure. Use a 12-inch round pan instead. Times stay the same. Everything else scales down proportionally.
+
+**What if my oven is really uneven?**
+Rotate the pan halfway through the second bake. Most ovens have hot spots. Rotating helps even it out.
