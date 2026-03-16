@@ -1,9 +1,9 @@
 ---
-title: "Lemon Pineapple Tartelettes"
+title: "Lemon Pineapple Tartelettes with Meringue"
 slug: "lemon-pineapple-tartelettes"
-description: "Small tartelettes with a crisp buttery crust, filled with a tangy lemon-pineapple custard and topped with a light toasted meringue. Uses a mix of cornstarch and arrowroot for thickening. Substitutes pineapple juice concentrate for some fresh juice, and adds grated ginger to the filling for a spicy twist. Meringue stabilized with cream of tartar or vinegar. Cooling crust thoroughly important to avoid sogginess. Toast meringue under broiler for crispy peaks. Recognize doneness by golden edges and shiny, set custard finish. Eight servings."
-metaDescription: "Small tartlets with crisp buttery crust, tangy lemon pineapple custard, and toasted meringue peaks. Use cornstarch and arrowroot to thicken, ginger for zing."
-ogDescription: "Crisp tart shells filled with lemon-pineapple custard and crowned with toasted meringue. Cooling crust crucial. Watch for golden edges, glossy custard finish."
+description: "Crisp buttery tartelettes filled with tangy lemon-pineapple custard thickened with cornstarch and arrowroot, topped with toasted meringue. Fresh pineapple and lemon juice shine through."
+metaDescription: "Lemon pineapple tartelettes with buttery crust, fresh pineapple custard filling, and toasted meringue. Make it tonight."
+ogDescription: "Individual tartelettes with crisp butter crust, lemon-pineapple custard with fresh pineapple, and golden meringue."
 focusKeyphrase: "lemon pineapple tartelettes"
 date: 2025-08-06
 draft: false
@@ -21,9 +21,16 @@ tags:
 - "citrus"
 - "dessert"
 keywords:
-- "lemon pineapple tart"
-- "meringue topping"
-- "arrowroot thickening"
+- "lemon pineapple tartelettes"
+- "lemon tart recipe"
+- "pineapple dessert"
+- "toasted meringue tartlets"
+- "individual tartelettes"
+- "lemon custard tarts"
+- "citrus tartlets"
+- "buttery tart shells"
+- "homemade tartelettes"
+- "cornstarch custard filling"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"
@@ -98,3 +105,77 @@ faq:
 - "q: Best storage for leftovers? a: Refrigerate meringue tartelettes tightly wrapped. Meringue best fresh same day; dries and loses texture next day. If crust softens, crisping it back isn’t easy. Filling keeps 2-3 days chilled sealed. No freezer recommended — meringue texture suffers. If planning ahead, fill shells day before, pipe meringue last minute then broil."
 
 ---
+
+Cold hands. Hot oven. Butter that stays in shreds instead of disappearing into the dough—that's the whole thing. Make these tartlets once and you understand why restaurants charge twelve dollars for something this small.
+
+## Why You'll Love These Lemon Pineapple Tartlets
+
+Takes an hour and forty minutes total but feels longer because you're actually doing something—not standing there watching. The crust snaps when you bite it. Actual snap. Not soft. Not a suggestion of structure.
+
+Lemon and pineapple together sounds weird. It works. The tartness cuts through the sweetness in a way vanilla or chocolate never does. You taste both, separately, at the same time.
+
+Eight tartlets come out of one batch. One person eats two. Problem solved.
+
+Meringue that's toasted peaks instead of the flat cloud situation. Crispy outside, marshmallow inside. The whole thing balances on texture—crust, custard, meringue, fruit. Nothing overshadows anything else.
+
+## What You Need for Lemon Pineapple Tartlets
+
+**Crust.** All-purpose flour. Powdered sugar—a third cup. Salt, one quarter teaspoon. Cold butter cubed. Ice water. That's it. The butter stays cold. That matters more than anything you'll do later.
+
+**Filling.** Fresh pineapple, diced small. Sugar. Lemon juice and pineapple concentrate. Two eggs. Cornstarch and arrowroot powder—arrowroot makes it silkier, less gummy than cornstarch alone. More butter. Ginger optional but it adds warmth without taking over. Fresh pineapple slices thin for the top. Lemon zest strips if you want them.
+
+**Meringue.** Two egg whites. Cream of tartar or white vinegar—stops the weeping. Superfine sugar. Beat it until stiff. That's all.
+
+The tartlet pans need to be removable-bottom, nine to ten centimeters. Eight of them. Non-negotiable.
+
+## How to Make Lemon Pineapple Tartlets
+
+Pulse flour, powdered sugar, salt together just until it looks combined. Doesn't need to be perfect. Add the cold butter cubes—and cold matters, pulled straight from the fridge—and pulse in short bursts. You want pea-sized pieces, not powder. Every pocket of butter becomes a flaky layer later.
+
+Pour ice water in slowly while pulsing. Stop the second the dough starts to clump. This is where people mess up. They add too much water and end up with tough crust because they overworked it. You want it just holding together, barely. Gather it on a floured surface, knead lightly for about twenty seconds. That's enough. Shape it into a log, cut it into eight equal pieces.
+
+Roll each piece out on a lightly floured board. Aim for twelve centimeter disks, three millimeters thick, as even as you can get. Press into the pans. Trim the edges with your fingers—jagged is fine, actually better because you're less likely to overwork it. Dock the base with a fork. Chill the tartlets forty minutes if you have space. If you're rushing, freeze them eight to ten minutes. The cold sets the fat.
+
+Heat the oven to 385 Fahrenheit, middle rack. Line the crusts with parchment and fill with weights or dried beans. Blind bake for fifteen to eighteen minutes. Listen for a slight crisp when you tap the crust. That's when they're done. The edges should turn pale golden. Cool them completely on a wire rack—at least fifty minutes. Don't skip this. If you pour hot filling into a warm crust, it softens and nothing works.
+
+## How to Get the Filling Right
+
+Blitz fresh pineapple, sugar, lemon juice, pineapple concentrate, and ginger in a blender. Blend until smooth. The ginger adds warmth but too much overpowers. Add it cautious. Whisk in the eggs, cornstarch, arrowroot. Blend just enough to smooth but don't whip in air. You're not making mousse.
+
+Transfer to a medium saucepan, cook over medium-low heat. Whisk constantly. The custard thickens gradually. When it bubbles and coats the spoon thickly, you're there. About six to eight minutes. Boiling rapidly ruins it.
+
+Remove the pan immediately. Stir in butter cubes fast. They melt into the custard for richness and shine. If it's lumpy, strain through a fine sieve into a bowl. Spoon it evenly into the cooled crusts. Refrigerate minimum one hour and fifty minutes to firm completely. It should feel slightly springy to touch, not liquidy. Arrange thin pineapple slices on top. They go on gently. Not pressed. Just sitting.
+
+## Lemon Pineapple Tartlets Tips and the Meringue
+
+Set up a bain-marie—small pot of water simmering, not boiling. Combine egg whites and sugar in a heatproof bowl. Whisk slowly over heat until the sugar dissolves and the temp hits about 140 Fahrenheit. You can test it by rubbing a bit between your fingers—no grit means ready. This is how bakers know.
+
+Remove the bowl. Add cream of tartar or a splash of vinegar. Optional but it stops the weeping. Beat with an electric mixer on high. Starts glossy. Stiff peaks form after five to seven minutes. You want stiff peaks, shiny, not dry or grainy.
+
+Fill a pastry bag with a plain one centimeter round tip. Pipe small peaks or generous domes over the custard. Sprinkle lemon zest strips on top. Artfully. Or not. Doesn't matter.
+
+Place the tartlets under a hot broiler for one to two minutes. Keep your eye on them. The meringue bubbles, the peaks turn warm golden. You'll smell toasted marshmallow. That's the cue. Remove once they're browned—else you get bitter burnt notes. Cool slightly before serving.
+
+Fresh pineapple slices, not canned. Canned has too much juice and soggs the crust.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Lemon Pineapple Tartlets
+
+**Can I make the filling ahead?**
+Yes. Make it a day before, strain it, keep it chilled. Spoon it into the cooled crusts whenever.
+
+**What if my crust cracks when I press it into the pan?**
+Warm your hands and press the edges gently. Cracks seal if you work it a little. Some flour brands are drier and crack more. Cold dough especially. Let it soften five minutes if it's too hard to shape without cracking.
+
+**Why use arrowroot powder instead of just cornstarch?**
+Arrowroot makes the filling silkier, less gummy. Cornstarch alone gets thick but has a weird mouth-feel. Together they're better. You don't need to use both. Cornstarch alone works. Just less smooth.
+
+**My meringue is grainy and separating. What happened?**
+Egg white temperature. Room temperature whites whip better than cold. Also make sure no yolk got in—even a trace ruins it. And no grease on the bowl or beaters. A tiny amount of oil breaks meringue completely.
+
+**Can I use bottled lemon juice?**
+Not really. Fresh juice has acidity and flavor bottled doesn't. The tartlet depends on it. Fresh takes thirty seconds to squeeze.
+
+**How long do these keep?**
+Refrigerated, meringue is best the day you make it. The filling keeps three days. The crust gets softer after a day. Eat them same day if you want that crisp snap.
