@@ -1,10 +1,10 @@
 ---
-title: "Sweet Potato Sliders Guacamole"
+title: "Roasted Sweet Potato with Guacamole"
 slug: "sweet-potato-sliders"
-description: "Sweet potato rounds roasted with salt, pepper, and olive oil until tender. Topped with homemade guacamole mashed with lime juice, garlic, chopped jalapeño, and diced onion. Garnished with fresh cilantro and chopped tomato for brightness. Serves 8, a colorful snack or side. Uses baking times adjusted slightly and tactile cues to avoid mushy or hard rounds. Avocado mashed just enough for texture. Substitutes lime for lemon if needed. Quick, hands-on prep with tips on how to recognize doneness in sweet potatoes and guacamole flavor balance. A simple, fresh combo that plays well with spice and creaminess."
-metaDescription: "Sweet Potato Sliders Guacamole with roasted rounds, chunky avocado, lime, garlic, jalapeño, fresh cilantro, and diced tomato. Rustic snack or side for 8 servings."
-ogDescription: "Roast sweet potato rounds with olive oil, salt, pepper. Top chunky guacamole with lime, garlic, jalapeño, onion. Fresh cilantro and tomato finish. Bright combo."
-focusKeyphrase: "sweet potato sliders guacamole"
+description: "Roasted sweet potato rounds topped with creamy guacamole made from ripe avocados, lime juice, garlic, jalapeño, and fresh cilantro. A simple, fresh side dish."
+metaDescription: "Roasted sweet potato rounds topped with homemade guacamole made from ripe avocados, lime juice, and fresh cilantro. Make it tonight."
+ogDescription: "Crispy roasted sweet potatoes topped with creamy guacamole made from fresh avocados, lime, and cilantro."
+focusKeyphrase: "guacamole recipe"
 date: 2026-01-14
 draft: false
 image: sweet-potato-sliders.jpg
@@ -21,11 +21,16 @@ tags:
 - "roasted"
 - "avocado"
 keywords:
-- "sweet potatoes"
-- "guacamole"
-- "jalapeño"
-- "cilantro"
-- "lime juice"
+- "guacamole recipe"
+- "roasted sweet potato"
+- "homemade guacamole"
+- "baked sweet potato recipe"
+- "easy guacamole recipe"
+- "roasted sweet potato recipe"
+- "simple guacamole recipe"
+- "sweet potato side dish"
+- "guacamole ingredients"
+- "ripe avocado for guacamole"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "130"
@@ -69,3 +74,75 @@ faq:
 - "q: How to store leftover guacamole or sliders? a: Guacamole best covered tightly - press plastic wrap right on surface to reduce air exposure and browning. Refrigerate. Sweet potato rounds store cool but reheat gently; texture lost if soggy. Best fresh but workable leftovers with care."
 
 ---
+
+Cut the sweet potatoes. Three rounds, inch-thick. Toss with oil, salt, pepper — not drowning them. Into a 350-degree oven they go. Twenty-five minutes, maybe more. While that's happening, mash avocados. Still chunky. Add lime, garlic, red onion, jalapeño if you're into it. Cilantro. Tomato. That's the guacamole recipe. When the potato's warm and the guac's cold, you put one on top of the other.
+
+## Why You'll Love This Guacamole Recipe
+
+Comes together in 40 minutes total — 15 to prep, 25 roasting. Warm and cool at the same time, which somehow works. Baked sweet potato with guacamole hits different than chips. One bowl. One sheet pan. Not much to clean up after. The cilantro and tomato make it feel fresh even when it's technically a composed dish. Summer appetizer that holds up cold if you need it to, though warm is better. Vegetarian. Obviously. But even people who don't care still eat these.
+
+## What You Need for Roasted Sweet Potatoes with Guacamole
+
+Three large sweet potatoes, sliced into inch-thick rounds. Olive oil — two tablespoons. That's it for the roasting part. Salt. Black pepper, freshly ground if you can swing it. Coarse salt works better than fine but whatever you have is fine.
+
+Two ripe avocados. Not hard. Not brown inside. The kind that yield when you press them. Lime juice — fresh squeezed. One teaspoon. Bottled tastes like pennies. One small garlic clove, minced. A tablespoon of red onion, chopped fine. A quarter jalapeño if you want heat — seeds out or you'll regret it. Handful of cilantro, rough chop. Half a tomato, diced small. Not watery tomato. Good tomato.
+
+## How to Make Baked Sweet Potatoes
+
+Heat oven to 350. Line a sheet with parchment or just oil it. Either works.
+
+Rinse the potatoes. Pat them dry — water's your enemy here. Slice into rounds, about an inch thick. Some variation's fine. Toss them in a bowl with the olive oil, salt, and pepper. Don't drench them. Just coat. Light touch. Too much oil and they steam instead of roast.
+
+Lay them on the sheet spaced out. Don't crowd. They need air around them. Slide into the oven. Set a timer for 20 minutes but don't trust it. Start checking at 20. The real test is what they look like — edges should be crisp and browned. The middle should give a little when you press it but not collapse. Fork into the center. Should slide through with almost no resistance. That means done.
+
+Twenty-five minutes is the target. Could be 23, could be 27. Depends on your oven, how thick you cut them, all that. If they're getting dark but still hard in the middle, lower the heat slightly and give them more time. If they're pale and it's been 25 minutes, crank the temp up a notch next time. Overroasted ones get dry and crumbly. Watch for browning, not time.
+
+## How to Prepare Guacamole and Assemble
+
+While the potatoes roast, deal with the guacamole. Cut the avocados in half. Scoop into a bowl. Mash with a fork until chunky. Not smooth. Chunks. That's the texture that works.
+
+Fold in the lime juice first. Then the garlic. Then the red onion. Jalapeño goes in now if you're using it — just the tiny bit. Taste it. Add more salt or more lime if it needs brightness. Lime over lemon. Lemon works if lime's gone but lime's better.
+
+Pull the potatoes out. Let them cool maybe a minute so the guac doesn't melt into nothing. Spoon a dollop of guacamole onto each round. Scatter cilantro on top. Sprinkle tomato over that. Serve right away. The hot and cold thing is the whole point.
+
+## Baked Sweet Potato Tips and Common Mistakes
+
+Thickness matters. Cut them uneven or too thin and they'll roast faster and dry out quicker. Consistency helps. An inch rounds usually work.
+
+Oil them lightly. Seriously. Heavy oil makes them greasy and steamy, not crispy-edged. You want them to roast.
+
+Cool the potato slightly before loading the guac on. Not five minutes. Just a minute. Enough so the avocado doesn't start sweating.
+
+Guacamole oxidizes. If you're prepping ahead, press plastic wrap right onto the surface. Kills the browning. Tight. Actually tight. And keep it cold until the last second.
+
+Leftover roasted potatoes get weird reheated. They're fine cold, but the texture goes soft all over. Make them fresh if you can. They only take 25 minutes.
+
+If your sweet potatoes are oddly shaped, slice thinner. Roast time drops. Watch them closer.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Guacamole Recipe
+
+**Can I make the guacamole ahead of time?**
+An hour maybe. Plastic wrap pressed right on the surface. After that it starts browning and tastes flat. Not worth it.
+
+**What if I can't find good avocados?**
+Then don't make it that day. Overripe ones turn to mush. Hard ones won't mash right. Wait a few days or grab a different appetizer.
+
+**Do I have to use a jalapeño?**
+No. Works fine without. Cilantro and tomato carry the freshness on their own.
+
+**Can I roast at a higher temperature to speed this up?**
+Yeah. 400 or 425. Cut the time to maybe 18 minutes. Watch closer though — edges brown faster and inside might not catch up.
+
+**Does this baked sweet potato recipe work cold?**
+Sure. Tastes different though. The contrast thing disappears. Room temperature is sort of in between. Fine either way but not as good.
+
+**How do I know the sweet potatoes are actually done roasting?**
+Fork through the center. Should go smooth. Edges should be browned and crispy-looking. You'll know when you see it.
+
+**Can I use lime juice from a bottle?**
+Tastes like plastic. Fresh only. Takes 20 seconds with a lime. Worth it.
+
+**What do I do with leftover guacamole?**
+Keep it covered and eat it tomorrow on toast or something. Not great after that. Oxidizes fast.
