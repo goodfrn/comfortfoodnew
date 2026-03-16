@@ -1,9 +1,9 @@
 ---
-title: "Pear Almond Muffins"
+title: "Pear Almond Muffins with Cinnamon"
 slug: "pear-almond-muffins"
-description: "Muffins packed with pears, almond flour, oats. Slightly tweaked with spiced warmth. Uses maple syrup instead of honey for a gentle twist. Batter thick but moist. Baked until golden with crisp almond topping. Easy to adapt for lactose intolerance or vegan swaps. Moist, fragrant, textured. Adjust heat and timing by aroma and toothpick test not clock. Good brunch staple or snack grab. Lots of real kitchen tips inside."
-metaDescription: "Pear Almond Muffins packed with moist, textured bites of almond meal and oats. Maple syrup sweetens, cinnamon and nutmeg punch up warmth. Crisp almond topping tops off."
-ogDescription: "Moist pear almond muffins, sweetened with maple syrup and spiced with cinnamon and nutmeg. Crisp almond topping adds crunch and caramel notes. Easy swaps for vegan or lactose free."
+description: "Pear almond muffins with cinnamon, oats, and maple syrup. Moist breakfast muffins made with almond meal and fresh pears. Easy to bake."
+metaDescription: "Pear almond muffins recipe with cinnamon, almond meal, oats and maple syrup. Moist, spiced breakfast muffins. Make it tonight."
+ogDescription: "Spiced pear almond muffins with oats, maple syrup and cinnamon. Moist, easy breakfast muffins with almond topping."
 focusKeyphrase: "pear almond muffins"
 date: 2025-09-30
 draft: false
@@ -20,9 +20,16 @@ tags:
 - "breakfast"
 - "easy"
 keywords:
-- "pear muffins"
-- "almond flour baking"
-- "vegan muffin option"
+- "pear almond muffins"
+- "almond flour muffins"
+- "pear muffins maple syrup"
+- "spiced pear muffins"
+- "almond muffins"
+- "breakfast muffins"
+- "easy almond muffins"
+- "muffins with almond meal and oats"
+- "pear almond muffins with cinnamon"
+- "almond muffins dairy free"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "230"
@@ -84,3 +91,66 @@ faq:
 - "q: Best storage for leftovers? a: Room temp airtight up to 2 days. Freeze wrapped individually, thaw, then warm briefly in microwave. Avoid storing warm muffins or get soggy fast. Cooling rack prevents condensation underneath."
 
 ---
+
+Drain the pears first. You need that juice — it's basically your liquid. Cut them small so they don't weigh down the batter, then mix everything in about 46 minutes total. Takes 18 to prep, 28 in the oven, and you're done before coffee gets cold.
+
+## Why You'll Love This Pear Almond Muffins Recipe
+
+Makes 12 muffins and they're actually easy. No fussy techniques, just fold and bake.
+Almond meal gives you a texture that's soft but dense enough to hold the pears — not airy cake, something with body. Works great for breakfast or just a snack that doesn't feel like you're eating straight sugar. Plus they're dairy free if you use coconut oil instead of butter, which most people do anyway.
+Cleanup isn't nothing, but one bowl and you're fine. Cold on day two, possibly better.
+
+## Easy Almond Muffins with Pears and Spice
+
+Canned pears in juice, unsweetened. Drain them but keep the liquid — that's your wet ingredient doing double duty. Cut the pears into small dice. Not chunks. Small.
+One and a quarter cups all-purpose flour. One cup almond meal — fresh matters here, old almond flour gets gritty. Half cup rolled oats, the regular kind, not instant. They stay chewy instead of disappearing.
+Baking powder. A tablespoon. Cinnamon and nutmeg. Half teaspoon each. Salt too. Maple syrup instead of honey — honey changes the flavor, makes it heavier. A third cup. Coconut oil or vegan butter, melted. A quarter cup. Two eggs.
+For the topping, sliced almonds and more maple syrup. That's literally it.
+
+## How to Make Almond Flour Muffins with Pears
+
+Oven to 350°F. Middle rack. Grease your tins or use liners — either works fine. You're making 12.
+Get your juice situation right first. Drain the pears, measure what you get. If it's less than three-quarters cup, fill it up with water. Keep it cold. This part matters because warm liquid gets you dense muffins.
+Sift your flour, almond meal, oats, baking powder, cinnamon, nutmeg, salt together in a big bowl. Toss it well. Sifting spreads the leavening through everything. No clumps hiding in corners — that's where dense spots come from.
+
+## How to Get Muffins with Almond Meal and Oats to Rise Properly
+
+Whisk your eggs with the maple syrup, melted butter or coconut oil, and that cold pear juice. Keep going until it's glossy and combined — not thick, but it has a sheen. Then stir in your diced pears gently. Don't beat them.
+Pour wet into dry. Fold it with a fork or spatula. You're looking for slight streaks — basically incorporated but not completely smooth. The batter's thick. That's right. Overmix and you've got tough gluten doing stuff you don't want.
+Fill your muffin cups two-thirds full. Sprinkle sliced almonds on top of each one. Drizzle maple syrup over the almonds — it creates this sticky glaze that caramelizes when it bakes. Toasted nut pockets happen because of this step.
+Straight in the oven. Twenty-eight minutes. Watch them around minute 24 — golden tops mean the sugars are caramelizing. Insert a toothpick near the center. Comes out with moist crumbs? Done. Still wet batter? Few minutes more.
+Cool in the pan five minutes. Then move them to a rack. Move them too soon and they crumble apart.
+
+## Spiced Pear Muffins Tips and Common Mistakes
+
+Keep the pear juice cold or you'll get dense muffins. Temperature matters more than people think.
+If your edges brown too fast but the center's still raw, drop the temperature by 10 degrees and add three to five minutes. Your oven's probably hotter than you think.
+Almond meal quality changes everything. Fresh, finely ground stuff gives you a soft crumb. Old or coarse almond flour? Gritty texture. Not worth it.
+Use metal bowls for mixing, not plastic. The juice is acidic enough to react with plastic and leave flavors you don't want.
+Don't use gluten-free flour unless you're adding extra baking powder or xanthan gum. Rise goes weird otherwise.
+Your nose is better than a timer. Smells done before it looks done sometimes.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Dairy Free Pear Muffins
+
+**Can I use fresh pears instead of canned?**
+Yeah. Dice them small, toss with lemon juice so they don't brown, skip the added water. Texture's slightly different — less moist — but it works.
+
+**What if I don't have almond meal?**
+Use almond flour. It's finer, so reduce it by a couple tablespoons or muffins get dense. Haven't tried ground almonds. Might work.
+
+**Do these freeze well?**
+Individually wrap them. Stays good for like a month. Thaw at room temp or microwave one for 20 seconds.
+
+**Why does the recipe say 350°F for fan ovens?**
+They run hotter. 350 keeps the tops from burning before the inside's done. If your oven doesn't have a fan setting, go 375.
+
+**Can I make these vegan?**
+Flax egg instead of regular eggs. One tablespoon ground flax mixed with three tablespoons water per egg. Let it sit five minutes. Texture's denser, so bake maybe 2 minutes longer.
+
+**What's the difference between maple syrup and honey here?**
+Honey's stronger, changes the flavor profile completely. Maple's milder, lets the pear and almond come through. Just swap if you want, but it tastes different.
+
+**Do they need the almond topping?**
+No. Almonds add texture and that toasted pocket thing when the syrup hits them. You could skip it. Muffins are fine either way.
