@@ -1,10 +1,10 @@
 ---
 title: "Maple Glazed Upside-Down Apple Cake"
 slug: "maple-glazed-apple-cake"
-description: "A dense apple cake with tender cubes and thinly sliced layers caramelized in a maple-spiced glaze. Uses warm spices and apple cider for deeper aroma. Beating butter and sugar to fluffy is key to lightness. Watch for bubbling edges and a golden crust. Serve warm, spooned with spiced cream or coconut yogurt for dairy-free."
-metaDescription: "Maple Glazed Upside-Down Apple Cake with tart Granny Smith, cardamom warmth, and a sticky maple glaze. Dense yet tender, golden crust, ideal for cozy gatherings."
-ogDescription: "Dense apple cake baked on a maple-glazed bed, tart Granny Smith, cardamom twist, soft cubes inside, crunchy edges. Serve warm with spiced cream or coconut yogurt."
-focusKeyphrase: "Maple Glazed Upside-Down Apple Cake"
+description: "Maple glazed upside-down apple cake with Granny Smith apples, brown sugar caramel, and cardamom spice. Apple cider and butter create tender crumb. Serve warm with spiced cream."
+metaDescription: "Maple glazed upside-down apple cake made with Granny Smith apples, pure maple syrup, and cardamom. Moist, caramelized, and perfect for fall. Make it tonight."
+ogDescription: "Caramelized Granny Smith apples with maple glaze and cardamom spice. Dense, moist cake with brown sugar and apple cider."
+focusKeyphrase: "maple glazed upside-down apple cake"
 date: 2025-08-02
 draft: false
 image: maple-glazed-apple-cake.jpg
@@ -21,9 +21,16 @@ tags:
 - "cinnamon"
 - "fall"
 keywords:
-- "maple syrup"
-- "Granny Smith apples"
-- "cardamom spice"
+- "maple glazed upside-down apple cake"
+- "apple cake"
+- "upside down cake"
+- "maple glazed dessert"
+- "fall apple cake with maple syrup"
+- "granny smith apple cake with maple glaze"
+- "maple spiced apple cake with cardamom"
+- "apple cider cake with brown sugar"
+- "caramel apple cake recipe"
+- "upside down apple cake with walnuts"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "295"
@@ -77,3 +84,99 @@ faq:
 - "q: Best way to store leftovers? a: Wrapped warm or cooled, fridge or room temp both fine for 1-2 days. Reheat slightly to revive glaze crust, microwave or oven works. Freeze in airtight container if longer storing but glaze texture loses shine."
 
 ---
+
+Peel and slice the apples first—that's where the whole thing lives. Three pounds of Granny Smiths, thin enough that they're almost translucent when you hold them up to the light. The rest is just cake underneath, really. Maple syrup pooled at the bottom. It caramelizes during baking into something that coats your teeth and doesn't let go.
+
+## Why You'll Love This Maple Glazed Upside-Down Apple Cake
+
+Takes 2 hours 5 minutes total if you move steady. The apples actually stay crispy around the edges even though they're covered in batter—didn't expect that the first time.
+
+Works as a fall dessert or just whenever you have apples. Tastes better the next day. The cake gets softer, the glaze gets stickier.
+
+No special equipment except maybe a mandoline if you don't want to spend 20 minutes slicing apples by hand. A regular knife works fine, just takes longer.
+
+Cardamom instead of cinnamon hits different. Warmer. Less obvious. People always ask what it is.
+
+Cold straight from the fridge or warm from the oven. Both work.
+
+## What You Need for a Maple Glazed Upside-Down Apple Cake
+
+Four medium Granny Smiths. Peel them. That's important—skin doesn't cook through. A mandoline gets the slices uniform, which matters for how they brown. Your knife works too if you're patient.
+
+Pure maple syrup. Not the fake stuff. A quarter cup pooled in the bottom. It burns a little at the edges, caramelizes. That's the point.
+
+All-purpose flour, 450 milliliters. Baking powder. Ground cardamom—five milliliters, maybe a teaspoon if you're eyeballing it. The secret ingredient. Salt.
+
+Unsalted butter, 180 milliliters, softened. Brown sugar, packed, 320 milliliters. Two eggs. Apple cider—the actual juice, not the spiced drink. Two hundred milliliters. Vanilla extract. One teaspoon.
+
+Walnuts if you want them. Sixty milliliters chopped. Optional. Honestly optional. Cake's fine without.
+
+## How to Make Maple Glazed Upside-Down Apple Cake
+
+Set the oven to 350 Fahrenheit. Middle rack. Get it heating now—you want it actually hot when the batter goes in. Butter a two-liter souffle dish or a nine-inch round cake pan. Seriously butter it. Corners especially.
+
+Peel those apples. Cube one of them—set it aside for later. Take the other three and slice them thin. Use the mandoline if you have it. If not, knife and patience.
+
+Lay the thin slices in overlapping circles on the bottom of the buttered dish. Start from the center, spiral out. Make them touch so batter doesn't seep through the cracks. It will anyway a little, but try. Press down gently. Now pour the maple syrup over the whole thing. Not all at once—pour it even. Let it pool in the gaps. This is the glaze. It sits here while everything else gets made.
+
+Whisk flour, baking powder, cardamom, salt together in a bowl. That's your dry mix. Don't skip the cardamom. It changes the whole cake.
+
+In another bowl, beat butter with brown sugar until it's pale and fluffy. Three or four minutes with an electric mixer. You're beating air into it. That air becomes the crumb. Just stir by hand if you don't have a mixer—takes longer, still works.
+
+Add eggs one at a time. Mix after each one. Then vanilla. Mix again. Don't worry about it looking smooth. It doesn't have to.
+
+Now alternate. Dry mix in. Apple cider in. Dry mix. Cider. Start and end with dry. Stop as soon as it comes together. Overmixing makes it dense and tight. Not worth it. Fold in the cubed apples and walnuts if you're using them. Fold. Don't beat. Gentle.
+
+Pour the batter over the apples. Smooth the top with a spatula. Don't press down hard. The apples need room.
+
+Bake for 1 hour 25 minutes. Watch it around the 1 hour 15 minute mark—the edges should be bubbling a little, the top golden. Stick a toothpick in the center. It comes out clean or with a few moist crumbs, you're done. If it comes out wet, five more minutes.
+
+## How to Get the Glaze Just Right on Your Maple Glazed Upside-Down Apple Cake
+
+The glaze happens during baking. The maple syrup caramelizes at the bottom, gets darker, thicker. It's almost burnt—that's actually when it tastes best. Don't pull it out before it bubbles at the edges. That bubbling is the syrup breaking down into caramel.
+
+Cool it in the pan for 20 minutes. Not longer. It needs to cool enough to hold together but still be warm when you flip it. The apples stick to the bottom better when it's warm.
+
+Run a thin knife around the edges. Get right into the corners. This breaks the seal so the whole thing comes out clean. Actually, it probably doesn't come out totally clean. A few apples stick. Stick them back on with your fingers. Glue them on with extra glaze from the pan if there's any left. Nobody notices.
+
+Flip it onto a plate. The apple side should be facing up now, glossy and dark. If some of the glaze stayed in the pan, scrape it out and pour it over the top. Use it all. It's not wasted.
+
+Serve warm. The cake's still releasing steam. The glaze is still soft. Cold cake is fine too, but this isn't the time for restraint.
+
+## Tips for Maple Glazed Upside-Down Apple Cake and What Goes Wrong
+
+Apples too thick. They don't caramelize right. They're more steamed than anything. Use the mandoline. Or practice knife skills. Thin slices, like a quarter-inch maybe.
+
+Batter not thick enough to reach the top of the apples. It breaks through. You end up with exposed apples in the middle of the cake. It's still fine. Still tastes good. Just isn't pretty. Pour batter a bit thicker next time.
+
+Pan too small. Batter overflows. The oven smells like burnt sugar for a day. Worth it, but use a bigger pan. Two liters is the minimum. Nine inches round works.
+
+Didn't cool it enough. Flip it too hot, the cake's too soft, it tears. Flip it too cold, the glaze has set, it cracks. Twenty minutes is the window. Give or take. Try 25 if you're nervous.
+
+Cardamom tastes weird to you. Use a teaspoon of cinnamon instead. Different cake. Not a bad different. Just different. Same amount.
+
+The cake comes out dense. Means the batter was overmixed or the eggs weren't at room temperature. Cold eggs don't beat in right. Let them sit on the counter for an hour. Or run them under warm water. Either works.
+
+Tastes kind of flat the day you make it. Make it the day before. The flavors actually settle overnight. The maple gets deeper. The apple gets softer. It's worth the wait. Store it wrapped. Nothing fancy. Plastic wrap or a cake box.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Maple Glazed Upside-Down Apple Cake
+
+**Can I use a different type of apple?**
+Granny Smiths stay firm during baking. Honeycrisp or Fujis get too soft, fall apart. Red Delicious? Don't. Too mealy. Stick with Granny Smith or try Braeburn. Not worth experimenting on.
+
+**What if I don't have apple cider?**
+Use apple juice. Not the same but works. Or water mixed with a tablespoon of apple cider vinegar. Doesn't taste like apples anymore but the cake still rises. Sometimes I use cider because it matters. Sometimes I don't. Both come out fine.
+
+**How long does it keep?**
+Three days wrapped on the counter. Five days in the fridge. After that, the apples get stringy. The cake gets dry. Freeze it. Actually, frozen it keeps forever. Thaw it room temperature, tastes almost new.
+
+**Can I swap the walnuts?**
+Pecans work. Almonds work. Honestly, the walnuts barely matter. Half the people don't notice. Leave them out if you want. Cake's the same.
+
+**Does the cardamom taste weird if nobody's had it before?**
+Yeah, probably. One person at the table will go "what is that?" and you tell them cardamom and they nod like they know what that means. They don't. They just eat around it mentally. By the second slice, it tastes normal. By the next day, they want the recipe.
+
+**What pan should I actually use?**
+Two-liter souffle dish or a nine-inch cake pan. Both work. The souffle dish is deeper so the apples are more dramatic. The cake pan spreads it out more, cooks faster. Either one. Just don't use a loaf pan. Too narrow. The apples don't arrange right.
