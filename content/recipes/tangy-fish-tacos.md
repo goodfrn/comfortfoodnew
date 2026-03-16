@@ -1,10 +1,10 @@
 ---
-title: "Tangy Fish Tacos Twist"
+title: "Fish Tacos with Cod, Pineapple & Cilantro"
 slug: "tangy-fish-tacos"
-description: "Fish tacos made quick with cod or haddock, lime juice, fresh mango or pineapple, jalapeño heat, and a cilantro twist. Sautéed onions and pepper soften, lime brightens. Fish flakes tender, juicy, cooked just right, not rubbery. Tomato adds freshness, optional tropical fruit for a sweet pop. Shells crisp or warmed soft, a dollop of tangy yogurt replaces sour cream for zest. Quick, versatile, and allergy-friendly. Simple tweaks bring a new edge."
-metaDescription: "Tangy Fish Tacos Twist with cod or haddock, lime, fresh fruit, serrano heat, cilantro, and Greek yogurt for a bright, juicy, quick Mexican-inspired meal."
-ogDescription: "Quick fish tacos packed with tender cod, tangy lime, tropical fruit hints, serrano spice, and creamy Greek yogurt topping. Fresh, vibrant flavors hit the spot."
-focusKeyphrase: "Tangy Fish Tacos"
+description: "Quick fish tacos with tender cod, fresh cilantro, diced pineapple, and Greek yogurt. Sautéed onions and serrano pepper add flavor to crisp tortillas for a fresh, light meal."
+metaDescription: "Fish tacos recipe made with cod fillets, fresh cilantro, pineapple, and Greek yogurt. Quick, fresh, and easy to make. Try it tonight."
+ogDescription: "Tender cod fish tacos topped with pineapple, cilantro, and Greek yogurt. Fresh, quick, and surprisingly easy to make at home."
+focusKeyphrase: "fish tacos"
 date: 2025-08-06
 draft: false
 image: tangy-fish-tacos.jpg
@@ -22,8 +22,17 @@ tags:
 - "spicy"
 keywords:
 - "fish tacos"
-- "lime juice"
-- "serrano pepper"
+- "cod fish tacos"
+- "cod tacos"
+- "baja fish tacos"
+- "fish tacos recipe cod"
+- "best fish tacos"
+- "fish taco sauce recipe"
+- "fried fish tacos"
+- "beer battered fish tacos"
+- "fish tacos with slaw"
+- "baja tacos"
+- "taco ensenada"
 breadcrumb: ["Home", "Recipes", "Seafood"]
 nutrition: 
  calories: "280"
@@ -69,3 +78,104 @@ faq:
 - "q: How to store leftovers? a: Cool fast. Store in airtight container, fridge up to two days. Reheat low and slow on stove or oven to keep texture. Avoid microwave which dries fish. Separate tortillas if possible, warm fresh before serving."
 
 ---
+
+Heat oil in a pan. Medium heat. Toss in onion and serrano — they hiss and soften, edges going translucent but not burnt. About 5 to 7 minutes. The smell changes when the sugar starts caramelizing. That's when you know the spice mellows. Splash in lemon juice. It deglazes the pan bottom, sharp citrus cutting through everything. Let it bubble and reduce, maybe a minute. Then the fish goes in whole. Three to four minutes undisturbed — edges turn opaque, you can flake it with a fork. Flip. Another three minutes. Stop before it gets spongy. That's the whole thing. Thirty-eight minutes total.
+
+## Why You'll Love This Fish Taco Recipe
+
+Takes 38 minutes, start to finish. No sitting around.
+Spicy and bright at the same time. Serrano pepper, lemon, pineapple — they all work together but don't cancel each other out.
+Works as lunch or dinner. Feeds four people easy.
+Cleanup's not nothing. One pan, one cutting board, done.
+Fish comes out tender but it doesn't fall apart when you fold it into the tortilla.
+Leftover fish tastes even better cold the next day on a salad or in a wrap.
+
+## What You Need for Fish Tacos
+
+Cod or haddock. Seven hundred grams. Skinless fillets work best — skin holds water and changes texture. Can't use frozen without thawing first. Don't ask.
+
+One medium onion, sliced thin. Red onion works too. Stays a bit sharper if you use red instead of yellow.
+
+Serrano pepper. Fresh. One small one, deseeded, minced fine. If you hate heat, use a jalapeño instead or skip it entirely. White vinegar can't replace the fresh thing.
+
+Forty-five milliliters olive oil. Not extra virgin. The good stuff burns. Regular olive oil or avocado oil — both hold up to heat the same way.
+
+Fifty milliliters lemon juice. That's about two lemons squeezed. Bottled doesn't work. It tastes like chemicals.
+
+Two Roma tomatoes. Seeded. Diced. Smaller dice than you think — they break down during cooking otherwise.
+
+Half a ripe pineapple, peeled and diced. Optional but don't skip it. The sweetness balances the spice in a way nothing else does.
+
+Quarter cup fresh cilantro, chopped. Dead serious about fresh. Dried cilantro tastes like sadness.
+
+Salt. Cracked black pepper.
+
+Eight small corn or flour tortillas. Corn holds up better to the moisture. Flour gets weird and falls apart.
+
+Greek yogurt for topping. Thick kind. Replaces sour cream — tangier, creamier, actual flavor.
+
+## How to Make Fish Tacos
+
+Set the pan to medium heat. Pour in the olive oil. Wait for it to shimmer — not smoke, just shimmer. Toss in the sliced onion and minced serrano. They hiss and start softening immediately. Don't stir constantly. Let them sit for a minute, then stir. The bottom gets a little color, edges go translucent, the spice mellows out as the onion's natural sugar caramelizes slightly. Five to seven minutes total. You smell it before you see it.
+
+Splash in the lemon juice. It hisses loud. Deglaze the bottom of the pan — scrape up anything stuck. Let it bubble and reduce for a minute, maybe two. The sharp citrus scent fills the kitchen. This is when you adjust the heat. Medium is right. Too hot and the juice disappears before it does anything.
+
+Lay the fish fillets in the pan whole. Don't break them up yet. Cook undisturbed for three to four minutes. The edges turn opaque and creep up the sides. You can flake it easily with a fork once it's ready. Flip carefully — use two spatulas if you have them. Cook another three minutes. The moment it's firm but still moist inside, it's done. Not spongy. Not rubbery. That line's thinner than you think.
+
+Sprinkle salt and cracked black pepper right in the pan. Gently shred the fish with a fork, breaking it into chunky flakes. Leave texture. Don't obliterate it. The flakes should hold their shape when you fold them into a tortilla.
+
+Add the diced tomatoes. The pineapple if you're using it. The cilantro. Fold everything together gently. Taste it now. Pineapple adds sweetness. Balance it with extra lemon juice or a pinch more salt. You decide.
+
+## How to Get Fish Tacos Crispy and Perfect
+
+The pan heat is everything. Medium, not high. Too hot and the outside crisps before the inside cooks. Too low and the fish steams instead of searing. You want the bottom to make contact with the pan and brown slightly, edges turning golden.
+
+Don't crowd the pan. This is the mistake everyone makes. One layer of fish. Space between fillets. The pan cools down the second you dump everything in. Crowding makes it steam. Steamed fish is mushy.
+
+When you flip, do it once. Not three times. Not four. Once. The bottom crust holds the moisture in. Flipping too much breaks that crust and the fish releases water. It gets soggy.
+
+Let the lemon juice reduce before the fish goes in. If you dump the juice and fish at the same time, the fish steams instead of searing. The juice needs to condense first, the flavor to concentrate. Then the fish goes in and browses the pan bottom gently.
+
+Tortillas need heat but not dryness. Warm them in a dry skillet — about 30 seconds each side, or wrap them in foil and heat in the oven five minutes. They should be pliable, warm, soft. Not brittle. Not cracked. Dry tortillas fall apart when you fill them.
+
+Don't shred the fish too aggressively. You want flakes, not paste. Large irregular pieces hold together when you fold the tortilla. Uniform fine shreds get mushy and compress into a paste when you bite it.
+
+## Fish Tacos Tips and Mistakes to Avoid
+
+Serrano pepper matters more than you think. It's not just heat. It's brightness. If you don't have serrano, jalapeño works. Habanero gets too hot. Skip it.
+
+Pineapple is optional but it shouldn't be. The sweetness rounds everything out. Acid from the lemon, heat from the pepper, sweetness from the fruit — they complete each other. If you hate pineapple, use mango or peach. Same effect. Different flavor.
+
+Olive oil versus avocado oil — both work the same way. Avocado oil has a slightly higher smoke point. Doesn't matter at medium heat. Pick whichever you have.
+
+Greek yogurt instead of sour cream. It's tangier and doesn't thin out when the warm fish sits on it. Sour cream gets runny. Yogurt stays thick.
+
+Raw onion on top makes these better. After you plate everything, a small handful of thinly sliced raw onion on top adds crunch and sharpness that the cooked onion can't do. It doesn't have to go in the pan.
+
+Make the fish mixture ahead of time — it tastes better the next day when the flavors sit together. Reheat gently. Don't blast it.
+
+Squeeze lime on top instead of lemon if you want. Lime is slightly sweeter. Some people prefer it. Doesn't change anything else.
+
+The fish can be salmon instead of cod. Salmon is fattier, more forgiving when you cook it. Doesn't dry out as easily. Takes the same time. Some people say cod is better because it's leaner and the other flavors shine through. Try both.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Fish Tacos
+
+**Can I use frozen fish for fish tacos?**
+Thaw it completely first. Pat it dry before it hits the pan. Frozen releases water when you cook it and the fish steams instead of searing. Not worth it.
+
+**What's the best fish for tacos if I can't find cod?**
+Haddock works exactly the same. Mahi mahi if you want something with more flavor. Halibut if you want leaner and milder. Salmon if you want fattier and don't mind it overshadowing the other flavors. Avoid tilapia — it's bland.
+
+**Can I make a sauce for fish tacos instead of using yogurt?**
+Greek yogurt is the sauce. But if you want something different, mix yogurt with lime juice and a tiny bit of garlic powder. That works. Sour cream doesn't hold up the same way. Mayo-based sauces overpower the fish.
+
+**Should I grill the fish instead of pan-searing?**
+Grilled mahi mahi or grilled fish in general works great. It takes longer to get the temperature right and you lose some of the pan juices that make the mixture moist. Pan is easier. Grill is fine if you know what you're doing.
+
+**How spicy are these fish tacos with serrano?**
+Medium spicy. Not brutal. Serrano has less kick than jalapeño once it's cooked. If you're sensitive, use half a pepper. If you hate spice, leave it out completely.
+
+**Can I add coleslaw for fish tacos?**
+Yeah. Cabbage slaw cools everything down. Makes it less about the heat and more about crunch. Use it as a layer under the fish mixture. Or serve it on the side. Some people call them Baja fish tacos when slaw's involved but that's not a real thing.
