@@ -1,10 +1,10 @@
 ---
-title: "Zesty Mediterranean Salmon"
+title: "Recipes For Salmon In The Oven"
 slug: "zesty-mediterranean-salmon"
-description: "Oven-baked salmon layered with tangy kalamata olives, lemon slices, and a vibrant pearl couscous salad tossed in a bright vinaigrette, with a fresh olive topping. Simple, flavorful, and quick to assemble."
-metaDescription: "Zesty Mediterranean Salmon with lemon, kalamata olives, pearl couscous salad and fresh herbs. Juicy fish, bright tang, briny bursts, ready in 37 minutes."
-ogDescription: "Salmon baked with citrus and olives, paired with pearl couscous salad tossed in vinaigrette. Briny herb topping lifts every bite, quick assembly here."
-focusKeyphrase: "Mediterranean salmon"
+description: "Oven-baked salmon fillets with kalamata olives, lemon, and pearl couscous salad tossed in Mediterranean vinaigrette. Quick, flavorful, and ready in minutes."
+metaDescription: "Recipes for salmon in the oven with kalamata olives, lemon, and pearl couscous salad. Mediterranean flavors, simple prep. Make it tonight."
+ogDescription: "Baked salmon with kalamata olives, lemon, and Mediterranean couscous salad. Fresh, simple, and delicious."
+focusKeyphrase: "recipes for salmon in the oven"
 date: 2026-02-15
 draft: false
 image: zesty-mediterranean-salmon.jpg
@@ -21,9 +21,18 @@ tags:
 - "lemon"
 - "healthy"
 keywords:
-- "salmon fillets"
-- "Mediterranean flavors"
-- "vinaigrette dressing"
+- "recipes for salmon in the oven"
+- "salmon baking recipes"
+- "bake salmon in oven"
+- "baked salmon fish"
+- "bake salmon"
+- "salmon fillet in oven"
+- "easy recipe for baked salmon"
+- "oven baked salmon"
+- "baked fish recipes"
+- "cook salmon in oven"
+- "baking salmon fillet"
+- "salmon in the oven"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"
@@ -83,3 +92,101 @@ faq:
 - "q: How to store leftovers best? a: Keep salmon and couscous salad separate in airtight containers. Salad lasts well cold a couple days. Salmon reheats poorly in microwave gets mealy or dry. Best to warm gently in hot skillet with drizzle olive oil, low temp. Can eat cold but texture changes. Avoid freezing after cooking."
 
 ---
+
+Set the oven to 395°F and pat four salmon fillets dry. That moisture matters more than you'd think. Lemon slices go underneath—the steam carries all that citrus flavor straight into the fish. Twenty minutes of prep, seventeen in the oven, and you've got salmon that's actually tender instead of that dry flaky thing that happens when people overcook it. The couscous salad sits cold next to it, vinaigrette sharp enough to cut the richness. This is Mediterranean seafood done right without the fuss.
+
+## Why You'll Love This Salmon Recipe
+
+Takes 37 minutes total—20 minutes of chopping and mixing, then 17 minutes in the oven while you pour a drink.
+
+Healthy fish with zero guilt. Omega-3s, lean protein, and the olive oil is the good kind. Not heavy.
+
+Works cold the next day, which honestly might be better than hot. Refrigerator lunch that tastes like you tried.
+
+The lemon goes into the pan, not just squeezed on top. Flavor actually gets *into* the fish instead of sitting on it like decoration.
+
+Feeds four people or two people twice because nobody wants to cook twice.
+
+## What You Need for Baked Salmon in the Oven
+
+Four salmon fillets—skin on works fine, easier actually because it holds the flesh together. Smoked paprika for the rub, about 2 teaspoons total. Garlic powder, sea salt, black pepper. The amounts matter but not precisely—more paprika and it starts to char, less and it disappears. Just even.
+
+Olive oil. Two times—once for the pan, once for the drizzle after. Extra-virgin for the finish, regular for cooking. You can use the same bottle if you want.
+
+One lemon, sliced thin. Those slices go *under* the salmon, not on top. Creates steam. Changes everything.
+
+Pearl couscous—1 cup cooked and cooled. Not hot. Hot and it wilts the vegetables and the feta melts into mush. Wait for it to cool or it falls apart.
+
+Cherry tomatoes, cucumber, red onion, kalamata olives, fresh parsley, feta cheese. All the Mediterranean stuff. This is the salad that sits next to the salmon and makes it taste like a restaurant.
+
+Red wine vinegar, Dijon mustard, honey, dried oregano for the vinaigrette. Whisk it together. Takes two minutes. Tastes like you know what you're doing.
+
+Capers optional. They're briny like the olives but sharper. Skip them if you don't like that punch.
+
+## How to Make Baked Salmon Fish
+
+Preheat to 395. Not 400—that extra 5 degrees matters less than you'd think, but 395 lets it cook through without the edges getting weird and papery.
+
+Mix the seasoning in a bowl first. Two teaspoons smoked paprika, one teaspoon garlic powder, half teaspoon sea salt, half teaspoon black pepper. Stir it. The paprika settles, so you want it even.
+
+Pat the salmon completely dry. Press with a paper towel until the surface stops glistening. This is the part people skip and then wonder why their salmon steams instead of browns. Moisture is your enemy here.
+
+Pour olive oil into an oven-safe skillet—cast iron is perfect, regular stainless steel works. Lay lemon slices down first, spread them out. This is the base. The salmon sits on top of these, not directly on hot metal.
+
+Sprinkle about a teaspoon of the seasoning on the top side of each fillet. Press gently so it sticks. Don't bury it. Even coat. The other side gets the same treatment once you set it down.
+
+Lay the fillets skin-side down on top of the lemon. Skin gets crispy or at least protected depending on what you like. Drizzle the top with olive oil—not much, just enough so it looks shiny. This keeps it from drying out while the inside cooks.
+
+Slide the whole skillet into 395 and walk away for 13 to 17 minutes. Most salmon gets done around 15. You're watching for the edges to turn opaque and the thickest part to flake when you press it with a fork. Not crumbly. Still got moisture. That's done. Use an instant-read thermometer if you need certainty—140 to 145°F inside.
+
+## How to Cook Salmon in the Oven Without Drying It Out
+
+The thing about salmon is it keeps cooking after you pull it out. Most people leave it in too long. Thirteen minutes might seem short. It's not.
+
+You know it's right when the outside looks cooked but the inside still feels springy. That's carryover cooking doing the rest. Ten more seconds of oven time and it's dry. I've done it. Not worth it.
+
+If you're using an air fryer instead—and honestly, some people get better results—rub the seasoning on, spray the top side with olive oil to stop it drying out, then set the fryer to 395. Nine to 12 minutes. Watch the edges. Air fryers cook faster and hotter depending on the model. The first time it takes 10 minutes, the second time maybe 8. Just watch.
+
+Don't crowd the basket. Salmon needs space or it steams. One batch at a time if you're doing four fillets. Two if they fit without touching.
+
+The lemon underneath does something nobody expects. It steams up and flavors the whole fish from the underside, so you don't need lemon juice squeezed on top at the end unless you actually want it sharp.
+
+## Baked Salmon Tips and Common Mistakes
+
+Cold couscous matters. I learned this the hard way. Hot pasta wilts the tomatoes and cucumbers turn to mush, and the feta melts into the dressing instead of staying as little salty pockets. Cook it the morning before if you're making this for dinner. Or cool it under cold water.
+
+The vinaigrette goes two places. Most of it tosses the salad, then you keep back half a cup and drizzle it over the salmon after it comes out of the oven. This hydrates the top and adds tang that cuts the richness. The salad gets dressed but not drowned.
+
+Red wine vinegar is sharper than white. If you use white, add a little more so it doesn't taste flat. Or just stick with red.
+
+The olive and caper mixture is a topping, not part of the salad. Mix them in a separate bowl with a tiny splash of the reserved dressing so they hold together but don't turn to mush from sitting in vinegar all day. Spoon it on top of each salmon fillet right before serving.
+
+Leftover salmon reheats better in a skillet than a microwave. Microwave turns it dry and smells like fish. Cast iron or a regular pan on medium with a little olive oil and it stays moist. Four minutes if it's cold from the fridge.
+
+The seasoning is flexible but paprika is the star. You could swap it for ground cumin if you want earthy instead of smoky. Not the same result, but good.
+
+Feta and goat cheese are interchangeable. Feta's saltier and crumbles, goat cheese is tangier and creamier. Either works. Depends what mood you're in.
+
+If your lemon is small or looks dried out inside, add orange slices too. Both under the salmon. The orange adds sweetness that plays against the salty feta and olives.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Baked Salmon Recipes
+
+**How long does it take to cook salmon in the oven?**
+Seventeen minutes at 395 if the fillets are average thickness. Could be 13 if they're thin, could be 20 if they're really thick. The thermometer says 140 to 145 inside. That's done.
+
+**Can you make this recipe with cod instead of salmon?**
+Cod works. It's drier though, so watch it closer and maybe pull it out a minute earlier. Baked cod fish tastes good with this same seasoning and salad, but the texture's different—firmer, flakes more. The lemon underneath helps keep it from getting tough.
+
+**What temperature should the oven be for baked fish recipes?**
+395. Some people use 400, and it's fine, but 395 gives you a couple extra seconds of margin where the salmon stays tender instead of turning stringy. Five degrees matters more than you'd think.
+
+**Can you prepare salmon in the oven ahead of time?**
+You can rub the seasoning and let it sit in the fridge for a few hours. Don't cook it until right before eating. The couscous salad gets better if you make it hours ahead—flavors blend. Keep the salmon separate until you cook it.
+
+**How do you know when baked salmon is done?**
+It flakes when you press the thickest part with a fork but still has moisture—not crumbly. The edges turn opaque. Use a thermometer if you need certainty: 140 to 145 degrees inside. Don't go higher or it dries out.
+
+**What can you substitute for the kalamata olives?**
+Capers alone work. So does nothing—just skip the olive topping and use more vinaigrette. Green olives are less briny. Caperberries if you find them. The olives are there for salt and a contrast to the mild fish, so pick something salty if you swap.
