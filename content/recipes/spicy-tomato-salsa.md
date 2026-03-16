@@ -1,10 +1,10 @@
 ---
-title: "Spicy Tomato Salsa and Tangy Cabbage Slaw"
+title: "Coleslaw Recipe with Spicy Tomato Salsa"
 slug: "spicy-tomato-salsa"
-description: "An altered version of salsa roja and curtido with reduced quantities by about 30%. Replaces chicken broth with vegetable broth and jalapeño with serrano pepper for a sharper heat. Adds a hint of smoked paprika in salsa and a squeeze of lime in slaw. Salsa simmers slightly longer for deeper flavor. Slaw macerates a bit longer for crunch and zest balance."
-metaDescription: "Spicy Tomato Salsa and Tangy Cabbage Slaw brings heat and crunch. A perfect blend for vibrant meals. Vegan-friendly and packed with flavor."
-ogDescription: "Enjoy Spicy Tomato Salsa and Tangy Cabbage Slaw. A unique twist on classics. Perfect for pairing or as a topping. Simple and full of flavor."
-focusKeyphrase: "Spicy Tomato Salsa"
+description: "Make this coleslaw recipe with shredded cabbage, apple cider vinegar, and serrano chili. Served with spicy tomato salsa made from diced tomatoes and smoked paprika for bold flavor."
+metaDescription: "Coleslaw recipe featuring shredded green cabbage, apple cider vinegar, and serrano chili with homemade spicy tomato salsa. Try it tonight."
+ogDescription: "Tangy cabbage slaw with serrano chili and apple cider vinegar paired with spicy tomato salsa. Fresh, bold, and easy to make."
+focusKeyphrase: "coleslaw recipe"
 date: 2025-07-21
 draft: false
 image: spicy-tomato-salsa.jpg
@@ -21,9 +21,18 @@ tags:
 - "condiment"
 - "mexican"
 keywords:
-- "salsa recipe"
+- "coleslaw recipe"
+- "coleslaw"
+- "homemade coleslaw"
+- "homemade salsa"
+- "coleslaw dressing recipe"
+- "fresh salsa recipe"
 - "cabbage slaw"
-- "vegetable broth"
+- "simple salsa recipe"
+- "easy coleslaw recipe"
+- "vinegar coleslaw"
+- "making salsa"
+- "tomato salsa"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "45"
@@ -77,3 +86,98 @@ faq:
 - "q: Could I make it in advance? a: Yes, make the day before. Flavors deepen overnight. Salsa tastes even better next day. Keep slaw in fridge. Just remix before serving."
 
 ---
+
+Cabbage goes in raw. Tomatoes go in hot. Twenty minutes later you've got two things that shouldn't work together but absolutely do.
+
+## Why You'll Love This Coleslaw Recipe
+
+Spicy. The kind where you feel it but don't regret it.
+Works as a condiment for literally anything — tacos, rice bowls, grilled chicken, just straight with chips. Tried it all.
+Takes 35 minutes total and most of that is just waiting for things to chill.
+Vegetarian. No hidden meat or fish sauce.
+Tangy from the vinegar, then hits you with heat. The two parts balance in a way that feels intentional.
+Not your boring creamy coleslaw. This one has a purpose.
+
+## What You Need for Spicy Coleslaw and Salsa
+
+Vegetable broth. Good broth. The kind you'd actually drink.
+
+Canned diced tomatoes. Fresh ones don't work here — you need the juice and the consistency.
+
+Green cabbage. Shredded fine. A food processor does it in three seconds.
+
+Carrot grated. Just one piece. Adds sweetness and color without taking over.
+
+Apple cider vinegar. Not white vinegar. Too sharp. Not rice vinegar. Doesn't have enough character.
+
+Serrano chili. Seeds out unless you actually like pain. Half of one is usually enough.
+
+Cumin. Ground. Appears twice — once in the salsa, once in the slaw. Different amount each time but same spice working two directions.
+
+Garlic powder. Not fresh garlic. It doesn't blend right into the salsa. Powder dissolves into it.
+
+Smoked paprika. A teaspoon basically. Just enough to add depth without making it taste like smoke.
+
+Oregano dried. Crushed red chili flakes. Lime juice. Salt.
+
+## How to Make the Spicy Tomato Salsa
+
+Dump the broth, tomatoes, onion, and every spice into a blender. Cumin, oregano, garlic powder, the chili flakes, smoked paprika — all of it. Blend until it's almost smooth. Some texture is fine. You're not making soup.
+
+Pour it into a small pot. Get it hot — boiling at first. Then turn it down. Simmer for 10 minutes, maybe a bit longer. Stir it once or twice. It thickens slightly. Not much. Just enough that it stops looking like tomato juice and starts looking like salsa.
+
+Season with salt and pepper. Taste it. Add more if it needs it. Let it cool until you can touch it without thinking about it. Warm is fine. Hot is not.
+
+## How to Make the Tangy Cabbage Coleslaw
+
+Shred the cabbage fine. Grate the carrot. Chop the serrano — tiny pieces, seeds out. Throw it all in a bowl.
+
+Pour the vinegar and water over it. Add cumin, garlic powder, lime juice. Salt it well. More than you think. The cabbage needs it.
+
+Press it down with your hands. Not hard. Just enough to start breaking it apart and releasing some liquid. Mix it. Everything should be coated.
+
+Stick it in the fridge. The recipe asks for 20 minutes minimum. But longer is better. An hour is better. Overnight is actually best. The cabbage gets softer, the flavors meld, it stops tasting like raw vegetables forced together and starts tasting like it meant to be this way.
+
+Before you serve, stir it again. If it's been in the fridge, pull both parts out about 15 minutes early. Room temperature tastes better than cold.
+
+## Coleslaw Tips and Making Salsa at Home
+
+Don't skip pressing the cabbage. Looks stupid. Does something. The vinegar and salt start the process of actually softening it instead of just soaking it.
+
+The salsa breaks if you over-blend it. Lumpy is better than baby food.
+
+Both parts keep for a week sealed in the fridge. The slaw gets softer. The salsa stays about the same. Neither gets worse.
+
+You can make them the day before. Actually tastes better that way. Plan ahead if you can.
+
+The spice level is adjustable. More serrano in the slaw if you want it hotter. Less if you don't. The salsa's already pretty spicy from the chili flakes but you could dial it back. Or not.
+
+Cold leftover slaw works with cold chicken or straight from the container at midnight. Just saying.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Coleslaw and Salsa
+
+**Can I make this coleslaw recipe without the serrano chili?**
+Yeah. Slaw won't be spicy but it'll still work. The vinegar does enough on its own. Add more cumin if you want it to taste like something.
+
+**How long does homemade salsa last in the fridge?**
+A week. Maybe eight days if you're careful. After that it starts separating and tasting thin.
+
+**What's the difference between this slaw and regular coleslaw?**
+This one's actually spicy and tangy instead of creamy and heavy. Vinegar instead of mayo. Totally different thing happening.
+
+**Can I use this as a condiment for tacos or just eat it alone?**
+Both. Works on tacos, on bowls, with chips, on hot dogs, with grilled meat. Had it on scrambled eggs once. Worked.
+
+**Do I really need to let the coleslaw slaw marinate for 20 minutes?**
+Minimum, yeah. The cabbage is still crunchy and raw otherwise. 20 minutes makes it softer. An hour is better. Overnight is actually ideal but who plans that far ahead.
+
+**Can I substitute the apple cider vinegar for something else?**
+Rice vinegar works if that's what you have. White vinegar's too sharp. Wine vinegar might be okay. Haven't tried it.
+
+**Is this coleslaw recipe vegetarian?**
+Yes. No meat, no fish, nothing. Just vegetables and spices and vinegar.
+
+**How spicy does this salsa get when you make it at home?**
+Medium heat. Serrano's about as hot as it gets without switching to habanero. The smoked paprika adds flavor, not actual spice. It's not a punishment. Just a kick.
