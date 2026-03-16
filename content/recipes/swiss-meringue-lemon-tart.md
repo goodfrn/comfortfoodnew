@@ -1,10 +1,10 @@
 ---
-title: "Swiss Meringue Lemon Tart"
+title: "Lemon Meringue Tart with Swiss Meringue"
 slug: "swiss-meringue-lemon-tart"
-description: "A tart with a zesty lemon filling finished with a toasted Swiss meringue. Uses unsalted butter, whole eggs, and fresh lemon juice simmered to thicken. Swiss meringue made by gently warming egg whites and sugar before whipping to stiff peaks. Baked in a pre-blind baked shortcrust shell. A hint of ginger swaps in sugar for an earthy twist. Timing guided by texture and aroma rather than clock. Ideal for those who favor a balance of tart acidity and sweet toasted meringue with a buttery crumb base."
-metaDescription: "Swiss Meringue Lemon Tart with tangy lemon filling, toasted Swiss meringue, buttery crust. Notes on texture, aroma cues, chilling, and broiling steps included."
-ogDescription: "Zesty lemon tart topped with toasted Swiss meringue. Watch for browning, listen for bubbling, chill filling well. Balanced ginger twist and buttery crust clarity."
-focusKeyphrase: "Swiss Meringue Lemon Tart"
+description: "Lemon meringue tart with zesty fresh lemon juice filling, unsalted butter, and toasted Swiss meringue. Buttery shortcrust base with a hint of ginger."
+metaDescription: "Lemon meringue tart recipe with fresh lemon juice, unsalted butter filling, and Swiss meringue topping. Baked in a buttery tart shell. Make it tonight."
+ogDescription: "Zesty lemon meringue tart with buttery shortcrust base, fresh lemon filling, and toasted Swiss meringue topping."
+focusKeyphrase: "lemon meringue tart"
 date: 2025-08-04
 draft: false
 image: swiss-meringue-lemon-tart.jpg
@@ -21,9 +21,18 @@ tags:
 - "citrus"
 - "cocktail"
 keywords:
+- "lemon meringue tart"
+- "meringue"
 - "lemon tart"
-- "Swiss meringue"
-- "blind baked crust"
+- "lemon meringue pie"
+- "swiss meringue"
+- "lemon and meringue tart"
+- "lemon tart recipe"
+- "lemon desserts"
+- "lemon pie recipe"
+- "butter meringue"
+- "lemon tartlets with meringue"
+- "shortcrust tart"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"
@@ -79,3 +88,107 @@ faq:
 - "q: How to store leftovers? a: Keep in fridge sealed 1–2 days max. Meringue softens fast but crust stays crisp longer if blind baked well. Reheat broiler quick touch or torch if top dulls. Filling chilled holds layers distinct but avoid long storage."
 
 ---
+
+Lemon juice hits the pan with butter and ginger. That sharp, warm aroma — that's when you know it's ready. Three eggs, sugar, salt. Whisk until it thickens on the stove, thick enough to coat the back of a spoon like pudding. Then the meringue. Egg whites and sugar over gentle heat until the sugar dissolves completely, no grit when you rub it between your fingers. Whip it cold until it stands in soft peaks. Spread it thick over the chilled filling. Broil until it's golden and blistered. That's the whole thing.
+
+## Why You'll Love This Lemon Meringue Tart
+
+Sharp lemon filling that actually tastes like lemon — not sweetness pretending to be fruit. This uses fresh juice, not that bottled stuff that tastes like nothing.
+
+Swiss meringue holds. Doesn't weep. Doesn't deflate the next day like regular meringue sometimes does. The sugar dissolves completely, so you get that toasted, stable texture that stays crispy on top and soft underneath.
+
+Ginger in the filling. Not ginger-forward. Just there. Rounds out the tartness in a way you can't quite put your finger on.
+
+Tart shell matters. Blind bake it first. Prevents that sogginess where crust meets filling — the enemy of everything.
+
+Looks like you spent three hours. Takes about an hour ten minutes total.
+
+## Lemon Filling for Your Tart Shell
+
+Fresh lemon juice — two large lemons, roughly 150 ml. Bottled doesn't work here. The filling needs that bite.
+
+Unsalted butter, chopped into pieces. 100 ml. Starts in the pan with the lemon and a pinch of ginger root, finely grated. The ginger's not supposed to announce itself. Just a warmth underneath.
+
+Three eggs and 120 ml sugar with a pinch of salt. You whisk them together but not foamy — just combined. Then you add the warm lemon-butter mixture gradually while whisking. This keeps the eggs from scrambling into bits.
+
+Pour the whole thing back in the saucepan. This is where patience matters.
+
+## How to Make Lemon and Meringue Tart Filling
+
+Oven rack goes to the lower third. Preheat to 175°C (347°F).
+
+Lemon juice, butter, ginger into the saucepan. Get it just to a simmer. Not boiling. The aroma gets sharp but warm — that's your signal. Remove it immediately.
+
+Whisk your eggs, sugar, and salt together in a separate bowl. Not too much — you're not making a soufflé. Just combine them. Then add the warm lemon mixture very gradually, whisking the whole time. This is the thing that saves you from scrambled eggs in your filling.
+
+Return everything to the saucepan. Medium heat. Whisk constantly. This takes around 11 to 12 minutes. You're watching for it to thicken, for the jiggle to slow down. Stop at the first foamy bubble — don't let it boil. The texture should coat the back of a spoon with a thick veil, almost pudding-like. If you're not sure, it's probably not done yet.
+
+Strain it through fine mesh. This catches any cooked bits and zest fragments. Pour it into your pre-baked tart shell. Slide into the oven for 14 minutes. The edges should set but the center stays slightly wobbly — that slight sinking in the middle is actually the signal that it's done.
+
+Let it cool for 30 minutes at room temperature. Then refrigerate for at least 90 minutes. Cold filling holds the meringue better.
+
+## How to Make Swiss Meringue for Lemon Meringue Pie
+
+Set up a double boiler or bain-marie — a heatproof bowl sitting over a pot of simmering water. Not boiling. Just simmering.
+
+Combine 100 ml sugar and 4 egg whites in the bowl. Stir constantly over the simmering water. You're dissolving the sugar completely. Test it with your fingers — no grit means it's ready. Target temperature is around 60 to 65°C (140 to 149°F). A thermometer helps but feel matters more.
+
+Remove the bowl immediately. Don't overheat it. Use an electric mixer on medium-high speed. Watch it transform from shiny and glossy to stable peaks. This takes around 5 to 7 minutes of whipping. Important — the meringue should be cool to touch before it goes in the oven. Hot meringue deflates easily if you rush it.
+
+## Swiss Meringue Butter Timing and the Torch
+
+Heat your oven broiler to high. Spread the meringue thick over the chilled lemon filling. Seal it all the way to the edges — gaps let the heat in and shrink the meringue. Look for soft, pillowy height. Soft peaks. Nothing harsh.
+
+Broil for 1 to 3 minutes. Watch it carefully. You want amber spots developing, brown and blistered. Not burnt. Smoke means it's gone too far. Some broilers run hotter than others, so pay attention to your oven specifically.
+
+If you're nervous about the broiler — and honestly, you should be, they're unpredictable — use a kitchen torch instead. Brown it evenly yourself. Takes longer but you control everything.
+
+Eat it the day you make it. The meringue stays crisp and the filling tastes fresh. Refrigerate leftovers up to 2 days. The crust softens but it's still fine.
+
+## Lemon Meringue Pie Tips and What Goes Wrong
+
+Undercook the filling and it's soupy at slicing. Don't rush the thickening stage. You feel it happen before you see it.
+
+Use fresh lemons. Bottled juice lacks the bite that makes this work. It's not a substitute.
+
+The ginger is there for a reason. Adds unexpected warmth that offsets the tartness. Don't skip it thinking you can add it later — it needs to infuse into the filling while it cooks.
+
+Swiss meringue fails usually when egg whites don't fluff properly. Dry your bowl and whisk completely. No plastic — use metal or glass. Even a tiny drop of egg yolk stops the whole thing. One yolk in four whites and you're starting over.
+
+Meringue too runny? Sugar didn't dissolve fully. You can't fix it once it's whipped. Dissolve completely over the water bath. No grit between your fingers.
+
+Blind bake your crust with pie weights. Prevents sogginess where the filling meets the shell. That's the difference between crisp and sad.
+
+Cool the entire tart fully before spreading meringue. Cold filling holds the meringue better.
+
+If you don't have a bain-marie, microwave the sugar and egg whites in 30-second bursts, whisking between each one. Watch the temperature. It's slower but it works. Don't rush the whisking stage. This is where most meringues fail.
+
+Older egg whites sometimes fluff better but dry out faster under heat. Freshness balanced with technique matters.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Lemon Meringue Tart
+
+**Can I use bottled lemon juice for the filling?**
+Not really. It tastes flat. Fresh lemon juice is the whole point of this dessert.
+
+**How do I know when the filling is thick enough?**
+It coats the back of a spoon with a thick veil. You can draw a line through it with your finger and the line stays. Around 11 to 12 minutes over medium heat usually gets there. Watch the consistency, not the timer.
+
+**Why does my Swiss meringue deflate?**
+Too hot when it goes in the oven usually. Cool it completely before spreading. Or the sugar didn't dissolve fully — you'll feel grit between your fingers if that's the case. Or egg yolk got in somehow. One drop ruins everything.
+
+**Can I make this ahead?**
+The filling yes — make it the day before, chill it overnight. The meringue goes on the day you serve it. Meringue hardens and gets chewy if it sits around too long in the fridge.
+
+**What's the ginger doing in there?**
+Rounding out the tartness. It's not supposed to taste like ginger. Just warmth underneath the lemon. Trust it.
+
+**Can I use regular meringue instead of Swiss?**
+Not the same thing. Regular meringue weeps and deflates. Swiss meringue is stable because the sugar dissolves first, heating the whites. Completely different result.
+
+**What if my lemon filling is too sour?**
+It shouldn't be. The sugar balances it. If it tastes off, your lemons might be old. Fresh lemons have better balance. And 14 minutes in the oven matters — underbaking makes it taste sharp instead of tart.
+
+**Can I torch the meringue instead of broiling?**
+Yes. Better actually. You control the browning completely. Broilers are unpredictable. If you have a torch, use it.
