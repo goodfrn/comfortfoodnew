@@ -1,10 +1,10 @@
 ---
-title: "Orzo Salad Goat Cheese"
+title: "Orzo Salad with Goat Cheese and Asparagus"
 slug: "orzo-salad-goat-cheese"
-description: "Orzo cooked risotto-style in vegetable broth with tender asparagus. Goat cheese melted in for creaminess, brightened by fresh lemon juice and zest. Olive oil split between cooking and finishing stages seals flavors. Adapted timing and ingredients for better texture. A cold salad or warm side with punchy herb notes added. Simple, rustic, but we dive into reason behind each step and sensory cues for timing instead of clocks."
-metaDescription: "Orzo salad with goat cheese, bright lemon, and tender asparagus cooked risotto-style in vegetable broth. Creamy, fresh, with punchy herb notes. 4 servings."
-ogDescription: "Orzo cooked risotto-style with asparagus and goat cheese. Bright lemon juice, fresh basil, olive oil finish. Warm or chilled, creamy yet fresh salad side."
-focusKeyphrase: "orzo salad goat cheese"
+description: "Creamy orzo salad with asparagus, herbed goat cheese, and bright lemon juice. Cooked risotto-style in vegetable broth with olive oil for a tender, flavorful side dish."
+metaDescription: "Make this orzo salad with goat cheese and fresh asparagus. Risotto-style cooking with lemon and herbs delivers creamy, bright flavors. Try it tonight."
+ogDescription: "Risotto-style orzo with asparagus, melted goat cheese, and fresh lemon. A creamy, bright side dish that's simple and elegant."
+focusKeyphrase: "orzo salad with goat cheese"
 date: 2025-12-30
 draft: false
 image: orzo-salad-goat-cheese.jpg
@@ -21,12 +21,16 @@ tags:
 - "asparagus"
 - "lemon"
 keywords:
-- "orzo salad"
-- "goat cheese"
-- "asparagus"
-- "lemon zest"
-- "basil"
-- "vegetable broth"
+- "orzo salad with goat cheese"
+- "asparagus goat cheese orzo"
+- "lemon orzo with asparagus"
+- "creamy goat cheese pasta salad"
+- "orzo pasta salad"
+- "risotto style orzo salad"
+- "goat cheese lemon pasta"
+- "whole wheat orzo with asparagus"
+- "vegetarian pasta dishes"
+- "vegetarian asparagus pasta"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "320"
@@ -73,3 +77,100 @@ faq:
 - "q: How to store leftovers? a: Refrigerate covered, lasts 2-3 days. Bring to room temp before eating to soften textures, flavors meld more. Reheat gently or serve cold. Adding a splash of olive oil or lemon before reheating refreshes moisture and brightness. Avoid microwaving too long or it dries fast."
 
 ---
+
+Cut the asparagus first. Broth sizzles in the pan, orzo goes in right after. Twelve minutes total, maybe less if your heat runs hot. Done before you know it.
+
+## Why You'll Love This Orzo Pasta Salad
+
+Takes 34 minutes start to finish — actual time, not the optimistic kind.
+Goat cheese melts into creamy pockets that don't try too hard. Just sits there, tangy, letting the lemon do the work.
+Works cold or warm. Tastes better the next day, which sounds weird but isn't.
+One pan. One saucepan. That's the whole thing. No colander, no second pot, no drama.
+Asparagus stays bright green and actually crispy, not sad. The orzo absorbs everything without turning into mush — vegetarian pasta that doesn't apologize for itself.
+
+## What You Need for Asparagus Goat Cheese Orzo
+
+Vegetable broth. Two and a quarter cups. Chicken broth works. Water with a bouillon cube works. Low sodium matters — the goat cheese brings salt.
+
+Orzo pasta. A cup and a quarter. Whole wheat orzo if you have it — the texture's different, grainier, holds up better. Regular works fine.
+
+Asparagus. One bunch, trimmed, cut into inch-long pieces. The thin ones cook faster. Doesn't matter.
+
+Goat cheese. Four ounces, herbed if you can find it. Feta works. Ricotta makes it creamier, less tang. I've used all three.
+
+Lemon. One large one. Juice and zest both. The zest matters more than you think.
+
+Basil. Fresh. One tablespoon, chopped. Dill works. Mint too. Changes the whole thing.
+
+Olive oil. Extra virgin. Three tablespoons total — two for cooking, one for finishing. Don't skimp on the finishing one.
+
+Salt and pepper. You'll need both. Taste as you go.
+
+## How to Make Creamy Goat Cheese Pasta
+
+Heat olive oil in a medium saucepan over medium-high. Two tablespoons. Watch it shimmer — not smoking, just hot.
+
+Pour the broth in. It'll bubble immediately. Let it go until you see that rolling simmer happening. Little pops, hissing sounds, the whole surface moving.
+
+Add the orzo and asparagus right in. Don't stir like you're possessed. Just enough to coat everything in oil, spread the asparagus around. One or two movements with a wooden spoon. That's it.
+
+Now patience starts. About ten to thirteen minutes, uncovered. The broth will shrink down. Watch for it — little pools turning glossy, thick, clinging to each orzo piece. Stir every couple minutes. Not constantly. Constantly makes it gluey and awful.
+
+The asparagus gives first — poke it with a fork around minute eight. You want slight resistance. A crisp bite. Not tender yet. It'll get there.
+
+The orzo should look plump. Still a little chew in the center. Like risotto at the right stage. Not dry. Not soupy. Mostly absorbed but some moisture still there.
+
+## How to Get This Lemon Orzo Pasta Perfect
+
+Pull the pan off heat. Right away. Don't wait.
+
+Stir in the remaining olive oil. The goat cheese — just drop it in chunks, it'll melt into creamy pockets. The lemon juice and zest. The basil.
+
+The cheese melts into the residual heat. You get these tangy streaks mingling with the orzo. The lemon cuts through it all. Bright. Sharp. Exactly what it needed.
+
+Taste it. Add salt. Add pepper. Goat cheese is salty already but balance matters — the lemon needs salt to sing.
+
+One more gentle stir. Everything should be combined but not beaten. Plump orzo, asparagus flecks, little stringy bits of cheese.
+
+## Orzo Salad Tips and Common Mistakes
+
+Overstir and it turns gluey. Stop stirring when you want to stir more.
+
+Undercook the orzo and it stays grainy in the center. The broth should be almost gone. Almost. Not totally gone. A light sheen coating everything.
+
+Asparagus cooks faster than orzo. If yours is getting too soft while the pasta's still firm, cut it bigger next time. Or add it later — maybe minute five instead of minute zero. Doesn't matter which way.
+
+If the broth evaporates too fast, add water. A quarter cup. Hot water. Room temp works too, just takes longer.
+
+Goat cheese that's too funky — swap half for ricotta. Creamier. Less aggressive tang.
+
+Lemon zest. Don't skip it. The juice alone isn't enough. The zest has the aromatics, the actual lemon smell that makes people stop eating and ask what you made.
+
+Cold version: let it cool to room temp, then refrigerate. When you eat it, bring it back to room temp. The orzo gets firmer when cold. Thickens up. Textures shift. Some people like it better that way.
+
+Prep asparagus while the broth heats. Zest the lemon then. Nothing sits around waiting. By the time heat's up, you're ready to go.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Lemon Orzo With Asparagus
+
+**Can I make this salad ahead of time?**
+Yeah. Cools down fine. Refrigerate it. Bring back to room temp before eating — the orzo loosens up again, gets creamy instead of stiff. Tastes better the next day anyway. Flavors meld overnight.
+
+**What if I use whole wheat orzo instead of regular?**
+Texture's different. Grainier. Holds up better in the fridge. Takes maybe a minute longer to cook — watch it, not the clock. Everything else stays the same.
+
+**Can I substitute the goat cheese?**
+Feta works. Drier, more crumbly. Ricotta works better — creamier, milder, less aggressive. Half and half is good too. Don't use cream cheese. Just don't.
+
+**How do I keep the asparagus from getting mushy?**
+Cook it with everything else but pull it out early if it's going soft fast. Or cut it bigger. Thin asparagus cooks in eight minutes. Thick asparagus takes twelve. Choose based on what you have.
+
+**Is this actually vegetarian pasta dishes material?**
+Totally. Swap the vegetable broth for chicken broth and it's still vegetarian. The goat cheese, the lemon, the asparagus — all there. The orzo absorbs all the flavor. Vegetarian pasta that doesn't feel like a compromise.
+
+**What herbs work besides basil?**
+Dill is good. Fresh mint changes it completely — lighter, summery. Parsley works. Chives work. Don't use dried herbs here. Doesn't hit the same. Fresh only.
+
+**Can I add other vegetables?**
+Peas work. Zucchini. Sun-dried tomatoes. Cherry tomatoes at the end so they don't fall apart. The broth-pasta ratio stays the same though. More vegetables means less orzo, basically.
