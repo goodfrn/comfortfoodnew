@@ -1,10 +1,10 @@
 ---
-title: "Spicy Cedar Plank Salmon"
+title: "Grill Salmon Fish with Spicy Mayo Sauce"
 slug: "spicy-cedar-plank-salmon"
-description: "Salmon grilled on soaked cedar plank, rubbed with spices, basted with spicy mayo sauce, layered with lemon slices. Smoky, fiery, touch of sweetness, medium heat, vibrant flavors."
-metaDescription: "Spicy cedar plank salmon grilled with smoky, fiery rub and spicy mayo glaze. Cedar soak, layered lemon, charred skin, tender pink flesh, 34 minutes total."
-ogDescription: "Grill salmon on soaked cedar plank, smoky heat meets spicy rub and creamy mayo glaze. Lemon brightens, skin crisps, salmon flakes tender. Fire cues guide timing."
-focusKeyphrase: "Spicy cedar plank salmon"
+description: "Grilled salmon on cedar plank with spicy mayo sauce, cayenne rub, and lemon. Smoky, fiery flavors with medium heat and vibrant taste in every bite."
+metaDescription: "Grill salmon fish on a cedar plank with spicy mayo sauce, cayenne pepper rub, and fresh lemon. Smoky and fiery flavors. Make it tonight."
+ogDescription: "Cedar plank grilled salmon with spicy mayo sauce, cayenne rub, and lemon slices. Bold, smoky, and delicious."
+focusKeyphrase: "grill salmon fish"
 date: 2026-02-11
 draft: false
 image: spicy-cedar-plank-salmon.jpg
@@ -21,9 +21,18 @@ tags:
 - "seafood"
 - "lemon"
 keywords:
+- "grill salmon fish"
+- "grilled salmon recipes"
 - "cedar plank salmon"
-- "spicy salmon sauce"
-- "grilling salmon"
+- "cedar plank salmon recipe"
+- "grilling salmon on cedar plank"
+- "grilled salmon marinade"
+- "salmon on the grill"
+- "bbq salmon recipe"
+- "lemon salmon recipe"
+- "seasoning a salmon"
+- "grilling salmon fillets"
+- "salmon fish bbq"
 breadcrumb: ["Home", "Recipes", "Seafood"]
 nutrition: 
  calories: "350"
@@ -75,3 +84,92 @@ faq:
 - "q: How to store leftovers? a: Sauce keeps up to 3 days refrigerate, seal container. Salmon last 2 days if wrapped tight. Reheat gently, avoid microwave timber too dry. Use leftover sauce as dip, spread, or marinade for veggies. Don’t refreeze salmon once cooked."
 
 ---
+
+Soak the cedar plank first — minimum an hour, up to two. This part matters. You'll hear it pop and sizzle on the grill instead of catching fire, which changes everything. The smoke gets sweet, not acrid. Salmon gets a whisper of cedar instead of char.
+
+## Why You'll Love This Grilled Salmon Recipe
+
+Takes 34 minutes total and most of that's just waiting for the grill to heat and the fish to cook through. Doesn't require you to flip anything or babysit it constantly.
+
+Spicy salmon seasoning does the heavy lifting — cayenne, Old Bay, hot sauce all working together. The brown sugar sneaks in caramel notes. Build a glaze, not just a coating.
+
+Cedar plank grilled salmon comes off with crispy skin. The flesh stays moist inside because the wood insulates it, steams it gently. Lemon hits at the end so it stays bright instead of cooking into bitterness.
+
+Works for a weeknight dinner or impressing people. Same recipe either way. Nobody has to know you didn't stress about it.
+
+## What You Need for Cedar Plank Salmon
+
+One cedar plank. Soak it. Water, an hour minimum. Don't rush this part — the drier it is, the faster it burns.
+
+One and a half pounds of salmon filet, skin on. Skin side down on that plank. It'll crisp up and hold the fish together.
+
+Kosher salt. Coarser. It stays on the food instead of vanishing. A teaspoon and a half for the rub. White pepper — three quarters teaspoon. Cayenne pepper — three quarters teaspoon, dry rub side. Then another half teaspoon goes in the sauce because we're building layers here.
+
+Spicy salmon sauce: mayonnaise base (a third cup), Old Bay (a teaspoon), hot sauce (Frank's or whatever, one teaspoon), dark brown sugar (a tablespoon). The sugar matters. Caramelizes on the grill. Gives it texture, sweetness that balances the heat.
+
+Three lemon slices. Fresh. Goes on at the end.
+
+## How to Make Grilled Salmon on Cedar Plank
+
+Heat the grill to medium-high. That's around 375 to 400 degrees Fahrenheit. Not blazing. Hot enough that you hear the cedar start popping when it hits the grate, hear the plank sizzle underneath. That sound is the whole thing working.
+
+Lay the salmon skin side down on the plank. Rub the top side first — kosher salt, cayenne, white pepper mixed together, pressed into the flesh. Don't skip this resting time. Let the salt pull flavors in, firm up the texture. Give it two minutes while the grill steadies.
+
+Set the plank directly over heat. Close the lid. You'll smell cedar rising, that smoky-sweet thing building. Five minutes goes by. Don't open it. Let it work.
+
+After five minutes, crack the lid. The flesh should be starting to opaque at the edges. That's when you slather on the spicy salmon sauce — the mayo mixture, thick. Close it again. Cook three more minutes. The sauce thickens on top, starts to brown where it hits the heat.
+
+Open again. Sauce coat goes thicker. This builds a sticky, fiery glaze that gets almost caramelized. Close for two more minutes. The whole grill smells spicy-sweet now.
+
+Scatter lemon slices on top of the salmon. Close the lid for another two minutes. The lemon juice steams into the fish, brightness cutting through the heat and the richness.
+
+## How to Get Grilled Salmon Fish Crispy and Perfectly Cooked
+
+Fork test. Open the lid, take a fork, peek at the thickest part of the flesh. It should flake but still feel moist. Not translucent anymore, not dry either. Internal temp around 150 degrees Fahrenheit. Hotter than that and the salmon gets mealy and tight.
+
+The cedar plank does half the work here. It's insulating the bottom, keeping the heat steady, preventing hot spots that char the skin or cook the edges before the center catches up. That's why cedar plank salmon stays moist.
+
+The skin — leave it alone. Don't flip, don't move it, don't poke it constantly. Skin side down the whole time. It'll crisp against the plank and the heat. That crust is what holds everything together when you lift the plank off.
+
+Lift the whole plank straight off the grill with tongs. The salmon comes with it. Skin stays crisp. Sauce is sticky and charred in spots.
+
+## Seasoning a Salmon and Common Mistakes
+
+Don't soak the cedar plank for less than 45 minutes. Dry wood catches fire. You'll get burning char instead of smoke. An hour is the minimum. Two is fine. It doesn't get "too soaked."
+
+If your grill runs hot, the plank chars too fast and the fish cooks unevenly. The edges get done before the middle. Adjust the burners down or move the coals around. Keep that cedar smoking slow, not flaming.
+
+White pepper in the rub does something different than black pepper — sharper, less earthy. If you only have black, fine. It works. Won't be exactly the same but it'll be good.
+
+The hot sauce in the spicy salmon sauce — Frank's RedHot is standard but whatever you have that's actually spicy works. Don't use some mild stuff thinking it'll be fine. The sauce needs heat or it's just sweet mayo.
+
+Leftover spicy salmon sauce keeps in the fridge. Dip for grilled vegetables. Spread on a sandwich the next day. Actually better the second day. Flavors settled.
+
+If you don't have a cedar plank, a soaked thick wood board works. Or foil boat with wood chips underneath. Won't be exactly the same cedar flavor but you get smoke and the indirect heat still works.
+
+No grill? Cedar plank salmon works in a 400-degree oven too. Same timing, same method. Not the same flavor. But it comes out moist and the sauce caramelizes.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Salmon Fish Recipe
+
+**How long do you grill salmon on a cedar plank?**
+Twenty-two minutes total from the moment the plank hits the grill. Five minutes first phase, then three, then two more, then two with lemon. That's the rhythm that works. Could be 20, could be 25 depending on grill temp and how thick your filet is. Fork test at the end — that's the real timer.
+
+**Can you reuse a cedar plank?**
+Once maybe. Second time it's fragile, more likely to char fast. Not worth it usually. Cedar plank salmon is a one-plank meal. Buy a new one next time. They're cheap.
+
+**What temperature should grilled salmon be cooked to?**
+Internal temp around 150 degrees. Fork test works better though — should flake but stay moist. 155 is fine too. Past that and it gets dry. Don't overthink it.
+
+**Do you have to use a cedar plank for grilled salmon recipes?**
+No but it changes the outcome. Without the plank you'll flip it or use foil and the skin gets soggy. Cedar plank keeps everything moist and the skin crisp. Worth doing if you can.
+
+**How do you know when grilled salmon is done cooking?**
+Listen and look. The surface should firm up slightly, not translucent. Fork should flake the thickest part. No raw-looking center. If the thickest part still looks gray and opaque, give it another minute. If it flakes easy and looks cooked, it's done.
+
+**Can you make cedar plank salmon in the oven?**
+Yeah. 400 degrees, same timing roughly. Won't taste like cedar smoke though. Worth trying if you don't have a grill but it's not the same thing.
+
+**What's the best way to season a salmon for grilling?**
+Salt and pepper. Cayenne if you want heat. That's the base. The spicy salmon sauce in this recipe does more — mayo, Old Bay, hot sauce, brown sugar builds a glaze. But sometimes just salt and lemon is enough. Depends what you want.
