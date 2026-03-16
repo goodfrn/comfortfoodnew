@@ -1,10 +1,10 @@
 ---
-title: "Spaghetti Squash Egg Nests"
+title: "Egg Muffins with Spaghetti Squash"
 slug: "spaghetti-squash-nests"
-description: "Spaghetti squash strands mixed with sautéed onion, herbs, and cheese make a nest baked in muffin tins. Eggs cracked gently atop, baked again till whites set, yolks soft. Simple ingredients reworked with flour and egg white for structure. Flavors balance between sweet squash and savory cheese. A veggie-forward brunch with tactile appeal, color, and varying textures from crisp edges to creamy centers."
-metaDescription: "Spaghetti Squash Egg Nests baked in muffin tins with onions, herbs, cheddar, almond flour bind. Crisp edges and creamy yolks in each cozy nest."
-ogDescription: "Egg nests baked with spaghetti squash strands, sharp cheddar, and herbs. Crispy edges hold silky eggs. Nutty almond flour swap. Watch whites set, yolks jiggle."
-focusKeyphrase: "Spaghetti Squash Egg Nests"
+description: "Egg muffins filled with spaghetti squash, cheddar cheese, onion, and garlic. Baked in muffin tins with soft yolks and crispy edges. Perfect for meal prep."
+metaDescription: "Egg muffins with spaghetti squash, sharp cheddar, and sautéed onion. Protein-packed breakfast cups baked in muffin tins. Make it tonight."
+ogDescription: "Spaghetti squash egg muffins with cheddar cheese and garlic. Easy baked breakfast cups with soft yolks."
+focusKeyphrase: "egg muffins"
 date: 2025-10-09
 draft: false
 image: spaghetti-squash-nests.jpg
@@ -21,9 +21,18 @@ tags:
 - "easy"
 - "breakfast"
 keywords:
-- "spaghetti squash"
-- "egg nests"
-- "brunch recipe"
+- "egg muffins"
+- "breakfast egg muffins"
+- "egg muffin cups"
+- "baked eggs in muffin tins"
+- "vegetable egg bake"
+- "cheese egg muffins"
+- "baked egg cups"
+- "egg muffin pan"
+- "breakfast egg cups"
+- "baked eggs with veggies"
+- "egg muffin recipe"
+- "spaghetti squash recipes"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "180"
@@ -71,3 +80,66 @@ faq:
 - "q: Best way to store leftovers? a: Refrigerate in airtight container. Reheat in toaster oven or skillet at medium heat for crisp edges returned. Avoid microwave; makes edges limp, eggs rubbery. Can freeze baked nests but texture suffers. Defrost fully before reheating for best texture. Store max 3 days fresh."
 
 ---
+
+Crack the egg in last, after the squash nests set firm. Thirty-five minutes in the oven before you even touch the eggs. This matters.
+
+## Why You'll Love These Egg Muffins
+
+Makes breakfast actual breakfast instead of cereal in a bowl. Vegetarian protein you can grab cold. Spaghetti squash does something strange here — gets almost crispy at the edges. One batch feeds you all week. Takes 70 minutes total but most of it's oven time, so you're not actually cooking. The sharp cheddar melts into the squash in a way that tastes better than it should.
+
+## What You Need for Egg Muffins
+
+One medium spaghetti squash. Cooked already. If you haven't done this yet, now's the time — takes 35-40 minutes in the oven at 400. Shred it after. Get the water out though, or the whole thing gets mushy.
+
+Teaspoon of olive oil. Not more. Not less. White onion, half a cup, finely diced. The fine part matters — thick pieces don't cook through. Dried oregano, teaspoon. Garlic powder, half teaspoon. Two cloves of fresh garlic, minced. Not garlic powder alone. You need both. Salt and pepper — quarter teaspoon each. Two tablespoons of almond flour instead of regular. Holds moisture better, tastes nuttier. One egg white. Sharp cheddar, shredded, half a cup. Mild cheddar doesn't work here — tastes like nothing. Six whole eggs. Cooking spray or PAM. This part is not optional.
+
+## How to Make Egg Muffins
+
+Heat the olive oil in a pan over medium heat. Medium. Not high. Add the diced white onion and let it sit for about six minutes, stirring every minute or so. You're waiting for it to go translucent and start smelling sweet. That smell is the point. Last two minutes, throw in the minced garlic. Any longer and it burns. Burnt garlic is bitter and there's no fixing it.
+
+Pull it all off the heat and let it cool while you do the next part. Don't skip this. Hot onions break down the squash in ways you don't want.
+
+Big bowl. Dump in the shredded spaghetti squash. Add the cooled onion mixture. Stir in the oregano, garlic powder, salt, and pepper. Now the almond flour — this keeps things from getting soggy. Pour in the egg white. This is your binder. Not fat. Just protein. Fold in the sharp cheddar last. You're not mixing aggressively here. Just folding until the cheese is spread through.
+
+Spray a muffin tin generously. Every cup. This prevents sticking and helps the nests crisp on the bottom. Use your fingers or a spoon to pack about a third cup of the squash mixture into each cup. Press the sides up to form a little nest wall. You need walls. Too loose and the nests collapse when you crack the egg in. Too tight and there's no room for the egg.
+
+## How to Get Crispy Edges on Egg Muffin Cups
+
+Pop the nests in at 400 degrees for 18 minutes. No eggs yet. Just the squash nests. Watch for the edges to turn golden and curl up slightly. Not brown. Golden. This step is drying them out so they have structure when the eggs go in.
+
+Pull them out and let them cool for about two minutes. Touch the edges — they should feel set but not hard. Then crack one whole egg into each nest. Yolk should land in the center without breaking. White spreads around the edges.
+
+Lower the oven to 370 degrees. Back in for about 12 minutes. You're watching for the whites to turn opaque and firm but still have a tiny jiggle when you move the pan. The yolks stay runny. This is the whole point. Cooking time depends on how hot your oven actually runs — mine takes 12, yours might take 13 or 14. Watch them. Don't time them.
+
+## Egg Muffin Pan Tips and Storage
+
+Pull them out and let them sit for five minutes before eating. The eggs keep cooking off heat and the cheese settles into the squash properly. This five minutes is not wasted time.
+
+Leftovers go in the toaster oven the next day at medium heat for about five minutes. Gets crispy again. The microwave turns them into rubber. Not worth it. They keep fine in the fridge for four days in a container. Probably five if your fridge is cold enough. Haven't actually tested past four.
+
+Don't use regular flour instead of almond flour. The nests get wet and fall apart. Don't skip the cooling step after cooking the onions. Don't pack the nests too tight. Don't use mild cheese. Don't microwave them. These are the things that go wrong. Everything else usually works.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Breakfast Egg Muffins
+
+**Can I make egg muffin cups the night before?**
+Yeah. Mix the squash, onion, and cheese mixture the night before. Keep it in the fridge. Spray the pan in the morning and pack the nests, then bake. The batter doesn't keep well longer than overnight — gets watery.
+
+**What can I use instead of spaghetti squash in these egg muffin cups?**
+Zucchini works. Shred it and squeeze the water out hard. Spinach. Just squeeze that too. Regular squash. The texture changes — less crispy, more dense. The almond flour matters more then. Mushrooms. Finely minced. They release water though, so cook them first to evaporate it.
+
+**Why do my egg muffins stick to the pan?**
+Not enough cooking spray. Use way more than seems right. Or the nests didn't crisp long enough before the eggs went in. That first 18 minutes at 400 is doing something important. Don't skip it or rush it.
+
+**Can I add meat to these breakfast egg muffins?**
+Sausage works if you cook it first and crumble it. Bacon too. Same thing — cook it, chop it, fold it into the squash mixture with the cheese. Changes the flavor completely. Not better or worse. Just different.
+
+**How long do egg muffin recipes last in the fridge?**
+Four days easy. Maybe five. The squash starts breaking down after that. They're also fine in the freezer for two months or so. Thaw overnight in the fridge, reheat in the toaster oven at 350 for about eight minutes.
+
+**Do I have to use sharp cheddar for egg muffins in a muffin tin?**
+Probably. Mild cheddar dissolves into nothing. You won't taste it. Gruyère works. Smoked gouda. Anything with actual flavor. Swiss gets a little grainy but it's fine. Stay away from pre-shredded stuff if you can — has anti-caking agents that make the texture weird.
+
+**Can I cook eggs in muffin tins at a lower temperature?**
+Yeah. 350 works. Takes longer. Maybe 15 minutes instead of 12. The squash nests are already set by then so it doesn't matter much. Going higher than 400 on that first bake burns the edges fast.
