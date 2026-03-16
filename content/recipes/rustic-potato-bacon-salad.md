@@ -1,10 +1,10 @@
 ---
-title: "Rustic Potato Bacon Salad"
+title: "Rustic Bacon Potato Salad with Tarragon"
 slug: "rustic-potato-bacon-salad"
-description: "Potatoes pan-seared with smoky pancetta and sweet shallots. Tossed in a sharp apple cider vinegar dressing with grainy Dijon mustard and fresh tarragon. A warm salad with punchy herbs and salty bites. Flexible with spuds and meats, simple but layered flavors. Cooking cues guide doneness and browning. Texture contrasts from crispy to tender. No dairy or gluten, naturally hearty. Serves 6 to 8, perfect for casual gatherings or as a side. A kitchen-tested version with swapped ingredients and timing tweaks to elevate the basics."
-metaDescription: "Rustic Potato Bacon Salad with pan-seared fingerlings, smoky pancetta, sharp cider vinegar dressing, grainy Dijon, and fresh tarragon. Warm, layered flavors serve 6 to 8."
-ogDescription: "Warm potato salad with crispy pancetta, tangy cider vinegar, grainy Dijon, and fresh tarragon. Pan-seared fingerlings hold shape, textured bites, smoky salty depth."
-focusKeyphrase: "Rustic Potato Bacon Salad"
+description: "Warm potato salad with pan-seared fingerling potatoes, crispy pancetta, and shallots. Tossed in apple cider vinegar and Dijon mustard dressing with fresh tarragon for bright, layered flavor."
+metaDescription: "Make this warm potato salad with fingerling potatoes, pancetta, and tarragon. Apple cider vinegar and Dijon mustard dressing brings punchy, complex flavor. Try it tonight."
+ogDescription: "Crispy pancetta, tender fingerling potatoes, and fresh tarragon in a tangy apple cider vinegar dressing. Warm, hearty comfort food."
+focusKeyphrase: "bacon potato salad"
 date: 2025-08-04
 draft: false
 image: rustic-potato-bacon-salad.jpg
@@ -21,9 +21,18 @@ tags:
 - "easy"
 - "comfort food"
 keywords:
-- "fingerling potatoes"
-- "grainy Dijon mustard"
-- "fresh tarragon"
+- "bacon potato salad"
+- "warm potato salad"
+- "potato salad recipe"
+- "rustic bacon potato salad recipe"
+- "pancetta potato salad"
+- "fingerling potatoes with bacon"
+- "warm salad"
+- "apple cider vinegar dressing"
+- "Dijon mustard potato salad"
+- "tarragon potato salad"
+- "comfort food salad"
+- "pan-seared potatoes"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "280"
@@ -69,3 +78,61 @@ faq:
 - "q: How store leftovers? a: Refrigerate loosely covered, best next day. Reheat slow on pan or microwave low power. Add fresh herbs off heat, preserve brightness. Freeze not recommended; texture breaks down and pancetta fat alters. Room temp service possible but avoid chilling cold, flavors mute."
 
 ---
+
+Cut the potatoes first—cold water, salt in now. Boiling takes 25 minutes, maybe less if you like them still firm. While they go, dicing pancetta. That's where the whole thing starts, really. Fat renders out slow, edges get crispy, and suddenly you've got a warm potato salad that actually tastes like something.
+
+## Why You'll Love This Warm Potato Salad
+
+Takes 55 minutes total, most of it just boiling potatoes while you do nothing. Works warm, works at room temperature, works cold the next day though it's honestly better warm. Pancetta instead of regular bacon means you get actual fat to dress the potatoes—not just smoky bits floating around. Easy enough that you're not sweating it, but tastes like you planned it.
+
+## What You Need for Fingerling Potatoes With Bacon and Tarragon
+
+Fingerlings. Two pounds. Not russets—they'd fall apart. Pancetta—five slices, diced. Avocado oil, not olive. Olive burns. Avocado oil stays calm under heat. Two shallots, finely chopped. Apple cider vinegar. Not white vinegar. Too sharp. A tablespoon of grainy Dijon mustard—the graininess matters, adds texture. Fresh tarragon, a quarter cup or so, chopped. Salt and pepper.
+
+## How to Make Rustic Bacon Potato Salad
+
+Start with cold water covering the potatoes by two inches. Salt it—not a pinch, actual salt. Moderate amount. Potatoes absorb it as they heat, tastes better all the way through instead of just at the surface. Bring to a boil, then let it settle to a gentle rolling boil. Twenty-five minutes. Fork should slide in easy but the potato stays structured. You're not looking for mush.
+
+While they're going, get a wide non-stick skillet. Pancetta in, medium heat. This is patient work. You want the fat to render out slowly, edges turning crispy, taking about seven minutes total. It'll crackle loud then soft then quieter. Stop when it's brown but not burnt—burnt tastes bitter and ruins everything. Pull the pancetta out onto paper towels, leave the fat in the pan.
+
+Shallots go in now. Stir them around in that fat for about six minutes. They soften, turn golden, smell sweet. Not brown. Brown means they're heading toward burnt. You want aromatic. You want that sweetness to come through.
+
+## How to Pan-Sear Your Potatoes With Shallots and Dijon
+
+Drain the potatoes and let them sit just long enough to handle. Half them—whole ones won't absorb anything. Put them back in the same skillet with the shallots and fat. Stir for four minutes. All the surfaces should touch that pan, get golden, pick up caramelized bits from the bottom. Firm but not stiff. That's the texture you're after.
+
+Pour the apple cider vinegar in. Quick sizzle. The pan deglazes—all those sticky brown bits lift up off the bottom. Off the heat now. Whisk in the mustard until it's smooth. No lumps. Toss in the tarragon. Taste it. Season with salt—but pancetta already brought saltiness, so go easy. Pepper freshly ground. That's it.
+
+## Pancetta Potato Salad Tips and Variations
+
+Serve it warm or room temperature. Cold works but flavors go quiet. You lose something.
+
+Pancetta can swap for smoked turkey bacon or diced chorizo if you want something different. Chorizo brings warmth and spice. Turkey bacon is leaner but less fat in the pan means less to dress the potatoes with—compensate by adding an extra tablespoon of oil.
+
+Avocado oil can become walnut oil if you want earthier, nuttier. Tarragon can become dill for brightness. Different direction entirely but both work.
+
+Potatoes turn mushy, boil time was too long. Next time shorter. Use waxy fingerlings or Yukon gold—not Russets. They hold structure better. Pancetta comes out chewy, it didn't render long enough. Cook it slower, longer, medium-low heat. Vinegar tastes too sharp, use less. Or add a tiny pinch of maple syrup or honey—balances it without tasting sweet.
+
+Cut the potatoes while they're still warm. Warm potato absorbs dressing way better than cool. Cold potato just sits there.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Warm Potato Salad With Bacon
+
+**Can I make this ahead?**
+Yeah. It's actually better cold the next day than hot the second time around—flavors settle in. Reheat gently, add fresh tarragon right before serving for punch. Texture loses crispness but the taste deepens.
+
+**What if I only have regular bacon?**
+Works. You won't get as much rendered fat though. Add another tablespoon of oil to compensate. Different but fine.
+
+**Should I peel the fingerlings?**
+No. Leave the skin on. That's the point. Texture matters.
+
+**Can I use a different vinegar?**
+Apple cider vinegar is sharp but not aggressive. White vinegar is too mean. Red wine vinegar works. Sherry vinegar works but tastes different—more subtle. Balsamic too thick. Stick with apple cider or red wine.
+
+**How long does it keep?**
+Three days in the fridge. After that it gets kind of tired. The potato texture turns soft all the way through instead of firm-soft. Still edible. Not amazing.
+
+**Do I have to use tarragon?**
+You don't have to. Dill is brighter. Parsley is safer. Chives work. Tarragon adds something specific though—slightly licorice-y, pairs with the vinegar and mustard. Worth trying once.
