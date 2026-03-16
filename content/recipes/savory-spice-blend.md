@@ -1,10 +1,10 @@
 ---
-title: "Savory Spice Blend Remix"
+title: "Homemade Spice Blend with Sesame Seeds"
 slug: "savory-spice-blend"
-description: "Blending sesame seeds, poppy seeds, onion flakes, garlic flakes, and a twist of crushed fennel seeds for a crunchier, more complex flavor profile. Adjust quantities slightly for balance—less salt, more garlic to cut through richness. Keeps sealed at room temp nearly a year, dry and crisp. Scatter on breads, roast veggies, avocado smash, or even grilled fish. Chunky bits signal freshness, toasty nutty smells mean it's time to toss on something hot. Learned the importance of fresh onion flakes—old ones taste flat and chalky. Fennel adds a subtle anise note, unexpected but works in savory mixes. Always crush seeds lightly before mixing, releases oils, boosts aroma. Replace poppy with chia for anti-clump and health kick. Mix with hands, feel the texture change. Store in dark jar, away from heat—no plastic bags, or soggy disasters."
-metaDescription: "Savory Spice Blend Remix mixes toasted sesame, poppy, fennel, onion and garlic flakes in dry crunch. Store sealed, use on savory foods for punch and texture."
-ogDescription: "Dry toast onion and garlic lightly. Crush fennel seeds gently. Mix sesame, poppy or chia seeds. Store airtight. Sprinkle on roasted veggies, avocado, eggs."
-focusKeyphrase: "savory spice blend"
+description: "Make a homemade seasoning with sesame seeds, poppy seeds, garlic, onion flakes, and crushed fennel seeds. Complex, crunchy flavor that lasts nearly a year."
+metaDescription: "Homemade spice blend recipe with sesame seeds, poppy seeds, garlic, and fennel. Easy to make and stores fresh for months. Make it tonight."
+ogDescription: "Savory spice blend with sesame, poppy seeds, garlic, and fennel. Crunchy, aromatic seasoning for breads and roasted vegetables."
+focusKeyphrase: "homemade spice blend"
 date: 2026-01-26
 draft: false
 image: savory-spice-blend.jpg
@@ -21,9 +21,16 @@ tags:
 - "easy"
 - "homemade"
 keywords:
+- "homemade spice blend"
+- "sesame poppy seed seasoning blend"
 - "spice blend"
-- "seed mix"
-- "savory seasoning"
+- "homemade seasoning"
+- "easy spice blend"
+- "toasted garlic onion spice mix"
+- "crushed fennel seed seasoning"
+- "sesame seed condiment"
+- "dry spice blend with fennel seeds"
+- "homemade spice mix"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "15"
@@ -61,3 +68,71 @@ faq:
 - "q: Best storage containers? a: Small glass jars with tight lids work well. Dry, dark, cool spots preferred. Plastic bags hold moisture, no good. Mason jars, spice jars work. Avoid metal spoons mixing, bruise seeds."
 
 ---
+
+Set it to 6 minutes total—you'll have a jar that lasts almost a year. Mix everything in a bowl and it's done. Sounds too simple. It's not.
+
+Had a container of store-bought seasoning salt that tasted like nothing. Stale. Expensive for what it was. Made this instead with things already in the cabinet. Changed everything about how I salt my food.
+
+## Why You'll Love This Savory Spice Blend Remix
+
+Takes 6 minutes flat—no cooking, just mixing and toasting.
+Sesame seeds actually stay crunchy for months if you seal it right. The black and white mix looks better on eggs, on potatoes, everywhere.
+One jar replaces five. Garlic powder, onion powder, salt, poppy seeds—it's all here.
+Way cheaper than the good salt blends. Make it twice and you've paid for the ingredients.
+Works on literally anything salty. Eggs. Popcorn. Roasted vegetables. Cream cheese. It adjusts to what you're eating instead of the other way around.
+
+## Ingredients for Easy Homemade Spice Mix
+
+White sesame seeds and black sesame seeds—two tablespoons and a tablespoon and a half. Not the same thing. Black ones are earthier. Both stay crunchy longer than you'd think.
+
+Poppy seeds or chia seeds if you want the texture to hold up longer. Poppy's traditional. Chia repels water better but changes how it feels in your mouth. Pick one.
+
+Dried minced onion and dried minced garlic—a tablespoon each. Light toast them first. Fifteen seconds in a hot pan. The smell jumps out immediately. Cool it before mixing or the heat kills the blend.
+
+Crushed fennel seeds. Three quarters of a teaspoon. Crush them gently in a mortar first—unlocks the oils, makes the whole thing smell different. Fennel's sweet and unexpected. It's why this isn't just salt.
+
+Coarse salt. One teaspoon. Reduce it because the fennel already brings brightness and punch. You don't need as much salt when fennel's in the mix.
+
+## How to Make a Sesame Poppy Seed Seasoning Blend
+
+Crush the fennel seeds in a mortar first. Just gently—not powder. You want flakes and broken pieces, not dust.
+
+Combine the white and black sesame seeds in a bowl. Add the poppy or chia. These are your texture base. They stay crunchy if everything else stays dry.
+
+## Toasted Garlic Onion Spice Mix — The Technique
+
+Dry toast the onion and garlic together. Hot pan, no oil. Fifteen seconds. The smell changes fast—you'll know when it's done. The air changes. Cool it on a plate first before it hits the other ingredients.
+
+Toss everything together once it's cool. Stir thoroughly. The fennel distributes unevenly if you don't, so some spoonfuls have more than others. Stir until it looks mixed.
+
+## Crushed Fennel Seed Seasoning — Storage and Use
+
+Transfer to an airtight container immediately. Press down slightly to reduce air pockets. Air is the enemy here—it stales the sesame oils.
+
+Store somewhere dark. Room temperature. Not the cabinet above the stove. Heat breaks down the aromatics. Keeps its crunch and aroma for up to 11 months if it stays dry. Maybe longer. Haven't pushed it past that.
+
+Use on everything salty. Roasted potatoes. Egg salad. Even popcorn. Sprinkle it on and press in with your fingers for best adhesion—the moisture on your fingertips helps it stick instead of just sitting on top.
+
+If you detect any mustiness or sogginess, toss and make fresh. Humidity kills it. One damp day in the cabinet and it's gone.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Sesame Seed Condiment
+
+**Can I make this without the fennel?**
+Sure. Just add another teaspoon of salt instead. Works fine. Tastes more one-note though. Fennel does something specific that salt alone doesn't.
+
+**Should I toast the sesame seeds?**
+No. They're already toasted when you buy them. Toasting again just burns them. The onion and garlic need the heat—the seeds don't.
+
+**How do I know when to toss it and make a fresh batch?**
+Smell it first. If it smells like nothing—stale, flat—it's done. If it smells musty or damp, it's done. Texture should snap when you bite one sesame seed. If it bends, moisture got in.
+
+**Can I use fresh onion and garlic instead?**
+Not really. Fresh has too much water. It'll clump and spoil. The dried stuff you toast is the whole point. If you want fresh flavor, use a different condiment.
+
+**What's the difference between poppy seeds and chia?**
+Poppy's traditional. Stays crunchy for weeks. Chia repels water better but tastes slightly different—more mineral. Poppy tastes cleaner. Try both if you want to know which you prefer.
+
+**Does this work on sweet things?**
+Tried it. Not really. The salt and umami clash with sweet. Use it on savory only.
