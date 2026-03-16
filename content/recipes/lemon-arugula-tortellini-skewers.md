@@ -1,10 +1,10 @@
 ---
-title: "Lemon Arugula Tortellini Skewers"
+title: "Lemon Arugula Tortellini Skewers with Mozzarella"
 slug: "lemon-arugula-tortellini-skewers"
-description: "Tortellini twisted with a tangy lemon-arugula pesto rather than spinach. Cooked al dente then chilled immediately to hold shape. Layered on skewers with cherry tomatoes and creamy bocconcini balls swapped for fresh mozzarella pearls. A handheld bite with contrasting textures—soft pasta, juicy tomatoes, chewy mozzarella. The pesto swaps basil for peppery arugula, adding a sharper edge. Olive oil adjusted for drizzle consistency. Quick to assemble, ideal for warm weather or casual gatherings with dipping sauce at center stage."
-metaDescription: "Lemon Arugula Tortellini Skewers packed with creamy mozzarella pearls, tangy lemon pesto and cherry tomatoes. Quick bites layered with sharp arugula punch and pine nuts."
-ogDescription: "Bright lemon and peppery arugula pesto coats tortellini skewers with juicy tomatoes and mozzarella pearls. Bite-sized texture play for casual gatherings."
-focusKeyphrase: "Lemon Arugula Tortellini Skewers"
+description: "Lemon arugula tortellini skewers layered with cherry tomatoes and fresh mozzarella pearls. Tangy pesto appetizer perfect for gatherings and warm weather entertaining."
+metaDescription: "Lemon arugula tortellini skewers with cherry tomatoes and mozzarella pearls. Easy cold pasta appetizer with pesto and pine nuts. Make it tonight."
+ogDescription: "Handheld tortellini skewers with tangy lemon-arugula pesto, cherry tomatoes, and creamy mozzarella pearls. Perfect party appetizer."
+focusKeyphrase: "lemon arugula tortellini skewers"
 date: 2026-01-15
 draft: false
 image: lemon-arugula-tortellini-skewers.jpg
@@ -21,9 +21,16 @@ tags:
 - "cheese"
 - "easy dinner"
 keywords:
-- "tortellini skewers"
-- "lemon pesto"
-- "arugula appetizer"
+- "lemon arugula tortellini skewers"
+- "cheese tortellini skewers"
+- "lemon arugula pesto tortellini"
+- "tortellini with cherry tomatoes and mozzarella"
+- "cold tortellini skewer recipe"
+- "lemon pesto tortellini appetizer"
+- "arugula pesto cheese tortellini"
+- "tortellini pasta appetizer"
+- "tortellini skewers with lemon and pine nuts"
+- "bocconcini tortellini pasta salad"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "120"
@@ -78,3 +85,93 @@ faq:
 - "q: How to store leftovers? a: Keep pesto airtight in fridge for couple days max. Dry tortellini separate, wrapped. Assemble fresh to avoid sogginess. Skewers do not freeze well; fresh bites best. Bring pesto to room temp before serving to reactivate flavors."
 
 ---
+
+Listen for the slight pop as the wooden skewer hits cherry tomato skin. That's when you know you've got it.
+
+## Why You'll Love These Tortellini Skewers
+
+Takes 24 minutes start to finish — 12 to cook, 12 to assemble and make the pesto.
+Tastes like a fancy appetizer. Isn't one. Just tortellini, tomatoes, cheese on a stick with arugula pesto.
+Works cold or room temperature. Makes it perfect for parties because you're not hovering over anything hot.
+The lemon cuts through the richness so it doesn't feel heavy — actually tastes bright, peppery, alive.
+Leftovers store separately so you can reassemble the next day if you want. Most people eat them all.
+
+## What You Need for Lemon Arugula Tortellini Skewers
+
+One package refrigerated cheese tortellini — 19 to 20 ounces. Don't use frozen. Texture matters here and fresh is different.
+
+Cherry tomatoes. A pint. Pick firm ones. Soft tomatoes split when you skewer them and that ruins everything. Skin should snap under your teeth, not mushy inside.
+
+Fresh mozzarella pearls — bocconcini. Eight ounces. Small enough that they fit the bite. If you grab big chunks they throw off the balance of the whole thing.
+
+Two cups packed fresh arugula. Not tired arugula. Fresh. Peppery.
+
+One garlic clove minced. One. Not three. It's a pesto, not a garlic bomb.
+
+Toasted pine nuts — a quarter cup. If you don't have them, toasted walnuts or almonds work. You need crunch and earthiness to cut the lemon. Don't skip it.
+
+A quarter cup grated Parmesan. The real stuff, not the green can.
+
+One small lemon. Zest and juice it.
+
+Extra virgin olive oil — a third cup, plus more if the pesto needs it. It thickens when cold so make it thinner than feels right.
+
+Salt and pepper. Obviously.
+
+Sixteen wooden skewers soaked in water for 30 minutes. Soak them. Burned skewers are a mess.
+
+## How to Make Lemon Arugula Tortellini Skewers
+
+Boil a big pot of water. Salt it generously — pasta needs flavor from the water or it tastes like nothing. Throw in the tortellini and cook it one or two minutes less than the package says. You want it firm enough that it doesn't fall apart when you skewer it.
+
+When it's tender but still has some resistance — that's the moment. Drain it immediately. Don't wait.
+
+Rinse it under cold running water. This stops the cooking dead cold fast. Crucial. Let it sit in the colander and actually drain — damp tortellini slips right off the skewer. Leaving water clinging is a mistake. Dry it. Cool it. Ready.
+
+## How to Get the Pesto Right
+
+While the pasta cools, blitz the arugula, garlic, pine nuts, Parmesan, lemon zest and juice in a food processor until it's finely chopped but not pureed. Stop before it turns dark green or it gets bitter.
+
+Drizzle olive oil in gradually while the machine's running. You want it combined but slightly chunky — should spread easily but not puddle. Adjust the oil to the consistency you want. Remember it thickens when it sits in the fridge. Better to start thinner.
+
+Salt and pepper it. Taste it. Tweak it.
+
+## Tortellini Skewers Tips and Common Mistakes
+
+Assemble them just before serving. Too long sitting and the wet ingredients compromise the pasta texture. It gets soft and slouchy.
+
+The assembly goes: tortellini, then tomato, then mozzarella, then tomato, then tortellini. Tightly packed but gentle pressure so things don't split. You're poking a wooden skewer through delicate stuff.
+
+Arrange them on a platter. Put the pesto in a bowl in the center. Serve it. The pesto can be made ahead — refrigerate it covered. Let it come back to room temp before serving so the smell opens up.
+
+Overcooking tortellini ruins everything. It gets floppy and won't hold the skewer. Cold rinse immediately after draining. That part's not optional. If you skip it, your pasta turns to mush and your appetizer falls apart.
+
+The pesto flavor gets a little better after sitting an hour or more but it's still bright if you serve it fresh. Either way works.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Lemon Arugula Tortellini Skewers
+
+**Can I make these ahead of time?**
+Make the pesto ahead — it sits fine in the fridge for a day. Assemble the skewers maybe 30 minutes before serving. Any longer and the moisture from the tomatoes starts breaking down the pasta.
+
+**What if I don't have fresh mozzarella?**
+Cubed feta works as a salty alternative. Texture's different — more crumbly — but the flavor works. Just drain it well so it doesn't wet the pasta.
+
+**Can I use frozen tortellini instead?**
+Probably. Hasn't tried it. Frozen's usually wetter and softer so might be messier on the skewer. Fresh tortellini has better bite.
+
+**How do I keep the pesto from separating?**
+Make it thicker than you think it should be. Olive oil separates if it's too thin. Coarse pesto texture keeps it together better — you don't need it silky smooth.
+
+**Why does my pesto taste bitter?**
+Over-blending brings out bitterness in arugula. Stop as soon as it's finely chopped. Dark green means you went too far.
+
+**Can I grill these instead of serving cold?**
+Metal skewers would work better for that since wood burns. But these are designed cold or room temp — the pesto's bright and fresh that way. Grilling changes the whole thing.
+
+**Do I really need to soak the wooden skewers?**
+Yes. Prevents splintering and burning. 30 minutes in water. Actually do it.
+
+**What if the pesto is too thick after chilling?**
+Drizzle more olive oil in while stirring. It's easier to thin than to thicken. Start conservative with oil.
