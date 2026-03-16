@@ -1,10 +1,10 @@
 ---
-title: "Rustic Baker Potatoes"
+title: "Potato Casserole with Caramelized Onions"
 slug: "rustic-baker-potatoes"
-description: "Potatoes sliced thin, layered with slowly caramelized onions cooked in white wine, infused with savory herbs, baked in chicken broth till tender. A cozy, savory vegetable side with a golden buttery crust. Variations include swapping chicken broth for vegetable stock or white wine for dry vermouth. The key is slow onion cooking and precise layering. Adjust salt after assembly. Watch the bubbling broth and edge browning for doneness cues. Often overlooked but worth patience and elbow grease. No em dash here, just commas and semicolons. Rooted in French tradition, but my tweaks bring out more aroma and texture contrast."
-metaDescription: "Rustic Baker Potatoes layered thin with caramelized onions, vermouth, thyme, baked gently in broth till tender and golden crust forms; slow cook, rich textures."
-ogDescription: "Thin potato layers, slow-caramelized onions, vermouth, thyme baked in savory broth. Watch edges, listen for bubbles; crust forms last, fork-tender center."
-focusKeyphrase: "Rustic Baker Potatoes"
+description: "Thinly sliced Russet potatoes layered with caramelized onions, fresh thyme, and dry vermouth, baked in vegetable broth until tender with a golden buttery crust."
+metaDescription: "Potato casserole with caramelized onions, thyme, and vermouth creates a savory, tender side dish. Try it tonight."
+ogDescription: "Layered potatoes, caramelized onions, thyme, and vermouth baked in vegetable broth for a buttery, golden comfort dish."
+focusKeyphrase: "potato casserole"
 date: 2025-09-28
 draft: false
 image: rustic-baker-potatoes.jpg
@@ -21,9 +21,16 @@ tags:
 - "vegetarian"
 - "easy dinner"
 keywords:
-- "baked potatoes"
-- "caramelized onions"
-- "vermouth potatoes"
+- "potato casserole"
+- "caramelized onion potato casserole"
+- "russet potato gratin with vermouth"
+- "potatoes baked in broth with thyme"
+- "layered potatoes with wine and onions"
+- "buttery potato and onion bake"
+- "vegetarian potato bake"
+- "comfort food side dish"
+- "potatoes cooked in vegetable broth"
+- "slow roasted potatoes with herbs"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "220"
@@ -87,3 +94,75 @@ faq:
 - "q: How to store leftovers? a: Cool completely first. Refrigerate covered 3-4 days max. Reheat covered at moderate temp, keep foil to avoid drying. Can freeze but texture might degrade. Thaw overnight in fridge preferred. Add broth splash before reheating if dry. Not great for microwave reheating; even warming better."
 
 ---
+
+Cut the onions first—960 grams, which sounds like a lot until you realize they shrink to almost nothing. Seven medium ones. Not eight. The sweetness needs to stay balanced. Then there's this moment where everything goes quiet in the oven for two hours and you realize you've built something that actually tastes like comfort food without any real tricks.
+
+## Why You'll Love This Potato Casserole
+
+Takes 2 hours 50 minutes total but most of that's the oven doing the work.
+Vegetarian. Actually filling as a side dish. Works cold the next day, maybe better.
+One buttered pan. Real butter. The edges get crispy in a way that matters.
+Layers of thin potatoes that go soft all the way through but don't fall apart.
+The caramelized onion potato casserole angle here—onions turn sweet and deep without burning, which takes patience but works.
+
+## What You Need for a Layered Potato Bake
+
+Seven medium onions. Sliced thin. The whole 960 grams of them.
+Unsalted butter. Divided. You use half to cook the onions, half to dot the top. About 70 grams total.
+Dry vermouth. Not white wine. The herbal notes go deeper and don't taste thin after two hours. 250 milliliters.
+Fresh thyme leaves. Not dried. Dried tastes like dust in this. 12 milliliters. Just the leaves, not the stems.
+Five pounds of Russet potatoes—that's 2.3 kilograms if you're weighing. Scrubbed. Skin stays on. The texture matters.
+Vegetable broth. Rich, if you can find it. 400 milliliters. Swap from chicken to keep it vegetarian or to add actual depth.
+Salt. Pepper. That's it.
+
+## How to Make Buttery Potatoes Cooked in Vegetable Broth
+
+Set the oven rack low. Preheat to 160 degrees Celsius—that's 320 Fahrenheit. Slower cook. More even. A 28 by 20 centimeter casserole dish. Buttered. Straight sides if you have it.
+
+Melt half the butter in a wide saucepan over moderate heat. Add the sliced onions. Don't crowd them or they'll steam instead of sweat. Stir often. Wait for them to go translucent and soft, like ribbons. No browning yet. Pour in the vermouth and turn the heat up. You want a vigorous simmer. Watch until it's dry—maybe 12 minutes, maybe 20. You'll smell that sweet wine aroma when it's right. The fond on the pan goes sticky. That's the signal. Salt it. Pepper it. Stir in the thyme. Let it rest off heat.
+
+Slice the potatoes thin. 2 millimeters if you have a mandoline. A sharp knife if you're careful. Keep them uniform—this matters for cooking evenly. Stack them separated by paper towels. Keep them dry.
+
+## How to Get Layered Potatoes with Wine and Onions Crispy and Perfect
+
+Layer half the potatoes into the dish. Sprinkle salt and pepper. Generous. This is the layer that needs seasoning.
+
+Spread all the onions over top. Press lightly. Don't smash. Cover with the rest of the potatoes. Light salt and pepper again. Pour hot broth over everything. Listen for it. Gentle splashes mean good coverage. Puddles mean too much.
+
+Dot the remaining butter in small pats across the top. Even distribution. This gets the browning.
+
+Cover tight with foil. Seal the edges. That traps the steam. Place in the oven for about 2 hours. Check by lifting the foil briefly. If the liquid's gone too far down, add a splash more broth. Not too much. Just enough.
+
+Remove the foil. Bake another 10 to 15 minutes. The edges start showing golden caramelization. Juices bubble gently. Pierce the center with a fork. Potatoes should slip apart. Not mushy. Just soft all the way through.
+
+Let it sit at room temperature for 15 minutes. The liquid settles. Layers firm up a bit.
+
+## Russet Potato Gratin Tips and What Actually Goes Wrong
+
+Onions burn before the wine evaporates? Lower the heat. It takes longer but it works.
+Broth disappears too fast mid-bake? Add warm water. Or more broth. Either one fixes it.
+Uneven slicing ruins everything—some potatoes cook twice as fast as others. Use the mandoline if you have it.
+Butter. Don't skip it. Olive oil works if you need dairy-free but it tastes different. Add minced garlic when you cook the onions if you want something else happening.
+Yukon Gold potatoes stay creamier but watch them—they cook faster. Maybe subtract 10 minutes.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Potato Casserole
+
+**Can I make this ahead?**
+Yes. Assemble it completely, cover, refrigerate. Bake the next day but add maybe 20 minutes to the total time because it's cold going in.
+
+**What if I don't have vermouth?**
+Dry white wine works. Doesn't taste the same—the herbs matter. Just use wine.
+
+**Should I peel the potatoes?**
+No. Skin stays on. The texture gets better and you don't have extra work.
+
+**How do I know when it's actually done?**
+Fork goes through easy. Not mushy. The edges of the potato slices turn golden and barely separate from each other. That's the moment.
+
+**Can I use chicken broth instead of vegetable?**
+Yeah. It's not vegetarian anymore but it tastes fine. Maybe even better, depends what you like.
+
+**Does it reheat well?**
+Reheats in a 160 degree oven covered for maybe 20 minutes. Stays good for three days in the fridge. Cold is fine too.
