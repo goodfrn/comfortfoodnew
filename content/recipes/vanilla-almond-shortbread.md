@@ -1,10 +1,10 @@
 ---
-title: "Vanilla Almond Shortbread"
+title: "Chocolate Chip Cookie Recipe with Almond Flour"
 slug: "vanilla-almond-shortbread"
-description: "Tender vanilla shortbread cookies with almond flour and a hint of cardamom. Flaky, buttery texture with crispy edges and just enough sweetness. Uses baking soda instead of baking powder for a subtle lift. Egg yolk and vanilla create richness. A sprinkle of coarse sugar on top adds crunch and sparkle. Chill dough for 45 minutes to prevent spreading. Bake until edges turn golden brown and centers set but soft. Adapted proportions for balance with almond flour. Milk in wash replaced by cream for gloss."
-metaDescription: "Vanilla Almond Shortbread with almond flour and cardamom for texture. Uses baking soda for subtle lift. Chill dough, egg wash with cream for glossy finish."
-ogDescription: "Almond flour adds moist crumb to vanilla shortbread. Baking soda lifts gently; chill dough well. Egg yolk wash with cream gives shine. Watch edges, smell cues guide."
-focusKeyphrase: "Vanilla Almond Shortbread"
+description: "Buttery vanilla shortbread cookies made with almond flour and cardamom. Golden edges, tender centers, crispy texture with coarse sugar topping. Bake today."
+metaDescription: "Chocolate chip cookie recipe using almond flour, vanilla, and cardamom for tender shortbread cookies. Golden, buttery, with crispy edges. Make it tonight."
+ogDescription: "Buttery shortbread cookies with almond flour, vanilla, and cardamom. Golden edges, tender centers, sugar-crusted. Bake now."
+focusKeyphrase: "chocolate chip cookie recipe"
 date: 2025-08-03
 draft: false
 image: vanilla-almond-shortbread.jpg
@@ -21,9 +21,16 @@ tags:
 - "almond"
 - "easy"
 keywords:
-- "shortbread"
-- "almond flour"
-- "vanilla extract"
+- "chocolate chip cookie recipe"
+- "shortbread cookie recipe"
+- "almond flour cookies"
+- "butter cookie recipes"
+- "vanilla shortbread cookies"
+- "cardamom cookies"
+- "homemade chocolate chip cookies"
+- "crispy cookie recipe"
+- "tender cookie recipe"
+- "golden edge cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "145"
@@ -78,3 +85,98 @@ faq:
 - "q: How to store cookies and dough? a: Store fully cool cookies airtight room temp or fridge; humidity makes soft. Freeze baked cookies a week max, re-crisp in low oven before eating. Dough discs wrap plastic tight, freeze months. Thaw in fridge before cutting. No double freeze. Cookie freshness linked to airtight storage."
 
 ---
+
+Dough goes in the fridge 45 minutes minimum. This matters more than you'd think. Everything else just clicks once cold butter hits a hot oven.
+
+## Why You'll Love This Chocolate Chip Cookie Recipe
+
+Takes 20 minutes hands-on. Actually bakes another 20. Total from nothing to cooling rack is 50 minutes, maybe a bit more if your oven runs cool.
+Almond flour. Changes everything. Makes them tender in a way regular cookies aren't — still snaps when you bite, but there's softness underneath.
+Works cold out of the fridge too. Not like, immediately. But day two tastes better. Flavors settle.
+Vanilla extract and that tiny pinch of cardamom do something. Can't quite name it. Just makes you keep eating.
+No mixer required — whisking by hand works fine. Fewer dishes. And honestly the butter stays cooler that way.
+
+## What You Need for the Best Chocolate Chip Cookie Recipe
+
+All-purpose flour. 155 grams or about a cup and a quarter. Sift it.
+Almond flour. 70 grams. Half a cup. Not almond meal — finer, smoother texture matters here.
+Baking soda. A teaspoon. Activates when it hits the egg.
+Fine sea salt. A quarter teaspoon. Coarse salt doesn't dissolve evenly.
+One egg plus an extra yolk. The yolk alone gets you richness. The whole egg gets structure. Both together work.
+Sugar. 130 grams. Two-thirds of a cup. White sugar. Not brown.
+Vanilla extract. Pure, not the fake stuff. A teaspoon and a half.
+Butter. Unsalted. Half a cup. Softened but not warm. This is where people mess up — cold butter chunks won't blend, but warm butter spreads too much.
+Cardamom. Ground. A fingerprint. Optional but don't skip it.
+Coarse sanding sugar for the top. Changes texture, catches light, gives you something to bite into.
+Egg yolk and heavy cream for the wash. One yolk. A tablespoon of cream. Makes them shiny.
+
+## How to Make Chocolate Chip Cookies That Actually Work
+
+Start with the dry stuff. Flour, almond flour, baking soda, salt, cardamom if using — sift it all together into a bowl. Mix it well. You're distributing the baking soda evenly so you don't get pockets of bitter.
+
+In a separate big bowl, crack the egg. Add the extra yolk. Add sugar and vanilla. Whisk this hard. With a mixer or by hand — doesn't matter. You're beating air in, getting it pale and slightly thicker. Don't go nuts though. Just until it looks lighter and foamy. Maybe 90 seconds of actual effort.
+
+Butter goes in next. Softened, not melted — chunks are fine, actually better. Blend until it combines but the butter stays cool. You want little pieces of cold butter in the dough still.
+
+Fold the dry ingredients in gently. A spatula works better than a spoon. Fold until you can't see flour streaks. Don't knead it. Don't overwork. Tender crumb is the whole point here.
+
+Press it flat into a disc, wrap it tight with plastic wrap, shove it in the fridge. Minimum 45 minutes. This is not negotiable. Cold butter won't spread all over the tray. Cold dough develops flavor. Cold dough gets you something actually good.
+
+## How to Get Chocolate Chip Cookies Crispy on the Edges and Soft in the Middle
+
+Heat your oven to 175 Celsius. That's 350 Fahrenheit. Center rack. Line two baking trays with parchment. This is where the butter drips go instead of burning on your pan.
+
+Dust your work surface with a bit of flour. Roll the dough out to about 6 millimeters thick. Not paper-thin — falls apart in the oven. Not thick — turns into shortbread more than cookie. Six millimeters. Use a 3-inch fluted cutter. Cut them. Reroll the scraps once. Once. That's it. Overworking kills the texture.
+
+Space them on the trays. Not touching. They'll spread a tiny bit but not crazy.
+
+Press coarse sugar on top of each one. This is where you get crunch. Where you get shimmer. The egg wash is going next.
+
+Mix one yolk with a tablespoon of heavy cream. Brush it lightly across each cookie. Not drenched. Just a thin coat. The cream fattens the egg wash, deepens the color, gives you shine. Milk would work but it thins everything out and makes them look dull.
+
+Bake one tray at a time. Separate racks, same oven — they compete for heat and bake unevenly. Watch them hard at 18 minutes. The edges should go golden. Actual gold, not yellow. The centers stay pale. Barely set. Touch one gently. Shouldn't crack. Should feel firm but soft.
+
+Twenty to 22 minutes usually. Yours might be different. Every oven has opinions.
+
+When they're done, the smell is — butter and vanilla and something sweet going caramel. Take them out. Slide a spatula under each one. Onto a wire rack. Immediately. Warm cookies are delicate. As they cool they crisp up. That snap you want happens in the next few minutes.
+
+## Chocolate Chip Cookie Recipe Tips and Common Mistakes
+
+The dough tastes a little bland cold. That's normal. It develops while it chills. Trust it.
+
+Don't skip the cardamom. It's subtle. You won't taste cardamom specifically. You'll just think "why is this so good?"
+
+Brown butter would work here but it's not the same. Changes the whole thing. Lighter butter stays lighter. Save brown butter for something else.
+
+One tray can cool while the other bakes. Two at once in the same oven and they battle for heat. Uneven results.
+
+If the centers crack when you jiggle them — they're overdone. If they don't move at all, pull them off the rack after a minute anyway. They firm up fast.
+
+Storage. Let them cool completely. Then airtight container. Room temperature is fine. They stay good 4 or 5 days but rarely last that long.
+
+The dough freezes great. Press it into a disc, wrap it, freeze it. Thaw before rolling. Actually no — you can roll it straight from frozen, add a couple minutes to bake time. Works fine either way.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Making Chocolate Chip Cookies
+
+**Why do the cookies spread too much?**
+Butter was too warm when you started. Or the dough didn't chill long enough. 45 minutes minimum. Cold dough = less spread. Warm dough = pancakes.
+
+**Can I use brown butter instead?**
+Different cookie. Nuttier. Darker. Not bad, just not this recipe. This one wants regular butter.
+
+**What if I don't have almond flour?**
+Use all all-purpose. Add a teaspoon of vanilla extract instead of a teaspoon and a half. Dough gets a bit tighter without almond's moisture. Works. Won't be the same softness though.
+
+**How do I know when they're actually done?**
+Edges golden. Centers pale and firm to touch. Jiggle the tray gently — if it cracks, it's done. Don't trust a timer. Your oven's wrong probably.
+
+**Can I bake both trays at once?**
+One at a time actually works better. They cool simultaneously but they don't fight for oven heat. Different baking times and uneven color if you stack them.
+
+**Do I have to use the egg wash?**
+No. They're fine without. The egg wash just makes them shiny and deeply golden instead of pale. If you skip it, they look homemade and flat. Which they are. But the wash fixes that.
+
+**How long do they keep?**
+Airtight container, room temperature, about 4 days. The snap dulls after that. Freeze the dough instead. Bake fresh whenever you want.
