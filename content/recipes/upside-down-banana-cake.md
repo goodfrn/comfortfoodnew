@@ -1,10 +1,10 @@
 ---
-title: "Upside-Down Banana Cake"
+title: "Pineapple Upside Down Cake Recipe"
 slug: "upside-down-banana-cake"
-description: "A dense banana cake with layer of caramelized fruit topping, swapped cherries for pineapple chunks, walnuts replaced by pecans. Bananas mashed rather than sliced under. Butter and brown sugar base creates sticky, sweet caramel crust. Vanilla swapped for almond extract. Adjusted sugar and butter slightly. Cook until cake springs back, edges caramelize and smell nutty. Moist in center, golden rim."
-metaDescription: "Dense upside-down banana cake with caramelized pineapple, pecans, almond notes. Sticky crust, moist crumb; bake till edges caramel color, aroma signals doneness."
-ogDescription: "Dense banana cake with caramel pineapple, pecans and almond extract. Sticky, crunchy crust, moist center, bake till browned edges, fragrant and nutty aroma."
-focusKeyphrase: "upside-down banana cake"
+description: "Pineapple upside down cake with mashed bananas, caramelized brown sugar butter topping, and pecans. Moist, golden cake with almond extract and whole milk."
+metaDescription: "Pineapple upside down cake featuring mashed bananas, pineapple chunks, pecans, and almond extract. Sticky caramel topping, moist center. Make it tonight."
+ogDescription: "Mashed banana cake with caramelized pineapple chunks, pecans, and almond extract. Golden edges, moist throughout."
+focusKeyphrase: "pineapple upside down cake"
 date: 2025-08-09
 draft: false
 image: upside-down-banana-cake.jpg
@@ -21,9 +21,16 @@ tags:
 - "pecan"
 - "dessert"
 keywords:
+- "pineapple upside down cake"
 - "banana cake"
-- "upside-down cake"
-- "pecan cake"
+- "banana cake recipes"
+- "upside down pineapple"
+- "pineapple upside down cake recipe"
+- "easy pineapple upside down cake"
+- "moist banana cake recipe"
+- "upside down cake"
+- "banana cup cake"
+- "chocolate banana cake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"
@@ -69,3 +76,97 @@ faq:
 - "q: Best way to store leftovers? a: Wrap warm cake in foil lightly or airtight container. Refrigerate or room temp, lasts few days. Cooling completely first prevents condensation soggy crust. Freeze slices wrapped tight; thaw slowly to keep texture."
 
 ---
+
+Butter and brown sugar go in the pan first. Pineapple on top. Then you pour banana cake batter over it and flip the whole thing upside down when it comes out—fruit side up, caramel dripping everywhere. Had three ripe bananas sitting on the counter that weren't getting any better, and some canned pineapple from Tuesday. This happened.
+
+## Why You'll Love This Pineapple Upside Down Cake
+
+The caramel crust forms on its own. Brown sugar and butter basically do the work.
+
+Banana cake that actually tastes like banana. Not a hint of it. The fruit goes through the whole thing.
+
+Pecans stay crunchy under that sticky glaze. Or swap them for hazelnuts. Doesn't really matter.
+
+Looks like you spent three hours on it. Takes an hour fifteen, most of that baking while you do something else.
+
+Works cold the next day. Maybe better. The flavors kind of meld overnight.
+
+## What You Need for Pineapple Cake
+
+Unsalted butter. Three quarters cup plus two tablespoons. Half goes in the pan with brown sugar, half gets creamed with granulated sugar. Don't use salted—the caramel needs to be yours to control.
+
+Light brown sugar. Not dark, not white. The molasses matters here. It's what makes that sticky crust actually taste like something.
+
+Three ripe bananas, mashed. Yellow with brown spots. Green bananas won't work. They're starch, not sweet. Mash them until no lumps. Some people use a fork. A blender works if you don't care about texture.
+
+Pineapple chunks. Canned, drained. Fresh works too but it's wetter—the pan gets soupy. Drained canned is easier.
+
+Pecans. Coarsely chopped. About a third cup. Toast them if you want. They don't need it.
+
+Two eggs. Room temperature if you want to get technical. Cold ones take longer to beat in. Doesn't matter that much.
+
+Almond extract. Two teaspoons. This is what makes the banana not taste like banana—it rounds it, makes it more like a dessert and less like fruit bread.
+
+Whole milk. Half a cup. Brings moisture. Buttermilk works. Regular milk works better. Don't use almond milk—too thin.
+
+All-purpose flour. One and a half cups. That's it. No cake flour drama.
+
+Baking powder. One and a half teaspoons.
+
+## How to Make Pineapple Upside Down Cake
+
+Heat the oven to 365. Get an eight-inch round cake pan. Sturdy one. Not the nonstick kind—butter matters here, actually matters, not just a trick.
+
+Soften half the butter with the brown sugar. Beat it until it looks grainy and creamy at the same time. Not melted. Press it into the bottom of the pan, smooth and even. Dump the drained pineapple chunks on top. Scatter the pecans over that. The fruit will bubble up around the edges when it bakes. That's what you want.
+
+Mix the eggs, almond extract, and milk in a separate bowl. Just stir until combined. This goes into the batter later.
+
+Take the rest of the butter—the second piece—and cream it with the granulated sugar. Beat it until it's pale and fluffy. This takes maybe three minutes if you're using a mixer, longer if you're doing it by hand. You're trying to get air into the butter. That air makes the cake tender instead of dense.
+
+Stir the mashed banana into that butter mixture. Now alternate. Dry ingredients—flour and baking powder mixed together—then the milk-egg mixture. Dry, then wet, then dry. Stop as soon as you can't see flour streaks. Overmix and you get a tough cake. It won't be pretty.
+
+## How to Get the Cake Golden and Sticky
+
+Pour the batter over the fruit and pecans. Smooth it gently—don't smash the pineapple into the sugar. It should look thick but pourable. Glossy.
+
+Slide it into the middle of the oven. Around 50 minutes, start checking. Wooden skewer poked in the middle should come out mostly clean. A few doughy crumbs are fine. Raw batter is not. The edges will be dark—almost caramel color. Smells like toasted brown sugar and banana. That's right.
+
+Let it sit in the pan for ten to fifteen minutes. Warm, not hot. This matters. The fruit stays stuck to the pan if it's too hot. It slides off too easy if it's cold.
+
+Run a thin knife around the edges. Get a plate bigger than the pan—important. Flip it over. Confidence helps. The fruit should stick to the cake now, all that caramel glued to the top. If a few pieces stay in the pan, fish them out and press them back on. It doesn't have to be perfect.
+
+## Pineapple Upside Down Cake Tips and Mistakes
+
+Don't overbake it. The crumb dries out. Fifty minutes is usually right. Your oven might run hot. Mine does. Forty-five sometimes. Check early.
+
+Cold butter means lumps in the batter. Everything should be soft. Not melted. Soft.
+
+Too much liquid and the bottom crust gets soggy. Make sure you drain the pineapple. Actually drain it. Let it sit in a strainer for a minute.
+
+The caramel can burn if the oven runs too hot. If it goes from brown to black in the last ten minutes, lower the temp. It doesn't hurt the cake—just tastes sharp instead of sweet.
+
+Cinnamon works if you want to add it. Half a teaspoon. Mix it with the flour. Hazelnuts instead of pecans. Toasted walnuts. Doesn't really change anything about how you make it.
+
+Storage. Wrap it or put it in a container. It stays moist for three days. Maybe four if you keep it in the fridge, but cold cake is less good. Room temperature is better.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Pineapple Upside Down Cake
+
+**Can you use fresh pineapple instead of canned?**
+Yeah, but drain it really well. Fresh is wetter. The pan gets soupy and the crust doesn't set the same way.
+
+**What if the cake sticks when you flip it?**
+Leave it in the pan longer before flipping. And make sure the pan isn't nonstick. Regular metal pan, buttered properly, and it comes out. If pieces stick anyway, just put them back on the cake. Nobody knows.
+
+**Can you make this with whole wheat flour?**
+Not really. It gets dense. All-purpose is the move here.
+
+**How long does it last?**
+Three days wrapped up. Tastes fine cold but way better at room temperature. Don't refrigerate unless it's summer.
+
+**Does the almond extract matter?**
+Yeah. It brightens the banana, stops it from tasting heavy. Skip it and the cake tastes like banana bread. With it, it tastes like dessert.
+
+**Can you swap the pecans?**
+Toast any nut you want. Walnuts work. Hazelnuts work better actually. Almonds are fine too. Doesn't change the bake time or anything.
