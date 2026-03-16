@@ -1,10 +1,10 @@
 ---
-title: "Roasted Sweet Potato Soup"
+title: "Sweet Potato Soup with Turmeric Ginger"
 slug: "roasted-sweet-potato-soup"
-description: "Roasted cubed sweet potatoes with garlic and onion blended with hot chicken stock. Greek yogurt flavored with turmeric and fresh ginger adds a spicy note. Toasted pumpkin seeds for crunch. A layered soup with multiple yogurts. The oven roasting time shifts slightly; garlic replaced by shallots; chicken broth replaced with vegetable broth to change flavor profile. Warm spice notes with cinnamon remain. Assembly includes multiple dollops of varied yogurts. Bread optional but recommended for dipping."
-metaDescription: "Roasted Sweet Potato Soup with garlic and onion blended in vegetable broth. Topped with spiced yogurt and crunchy pumpkin seeds."
-ogDescription: "Enjoy Roasted Sweet Potato Soup with layered yogurts and savory notes. A warm, comforting dish with toasted pumpkin seeds for texture."
-focusKeyphrase: "Roasted Sweet Potato Soup"
+description: "Roasted sweet potatoes and shallots blended with vegetable broth, topped with Greek yogurt infused with turmeric and ginger. Toasted pumpkin seeds add crunch to this warm, spiced comfort soup."
+metaDescription: "Sweet potato soup with turmeric and ginger Greek yogurt, roasted shallots, and pumpkin seeds. Creamy, warming, and naturally spiced. Make it tonight."
+ogDescription: "Roasted sweet potatoes and shallots with turmeric-ginger Greek yogurt and toasted pumpkin seeds. Warm spice, creamy comfort."
+focusKeyphrase: "sweet potato soup with turmeric and ginger"
 date: 2025-07-21
 draft: false
 image: roasted-sweet-potato-soup.jpg
@@ -21,9 +21,16 @@ tags:
 - "healthy"
 - "comfort food"
 keywords:
-- "soup recipe"
-- "healthy soup"
-- "fall recipes"
+- "sweet potato soup with turmeric and ginger"
+- "sweet potato soup"
+- "roasted sweet potato soup with greek yogurt"
+- "creamy sweet potato soup with pumpkin seeds"
+- "spiced sweet potato soup"
+- "roasted vegetable soup"
+- "sweet potato ginger soup"
+- "comfort food sweet potato soup"
+- "roasted sweet potato and shallot soup"
+- "greek yogurt sweet potato soup"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "180"
@@ -73,3 +80,67 @@ faq:
 - "q: Can I change the broth? a: Yes, broth options vary. Chicken broth adds flavor fullness. Vegetable broth is lighter. Both will work."
 
 ---
+
+Roast everything first—that's the whole difference here. Sweet potatoes, shallots, onion. Get them brown and soft before they hit the blender. 50 minutes total. Tastes like you spent all day on it.
+
+## Why You'll Love This Roasted Sweet Potato Soup
+
+Takes 20 minutes of prep, then the oven does the work. One blender. Cleanup is basically nothing.
+
+Warm enough for a real meal. The roasted edges give it something—not just smooth, actually has going on. Spiced yogurt on top makes it feel fancy but you're literally just stirring Greek yogurt and turmeric.
+
+Works cold the next day, maybe better. Healthy without tasting like you're being punished. Comfort food that doesn't feel heavy.
+
+## What You Need for Roasted Sweet Potato Soup
+
+Four cups of sweet potato, cubed. Two medium ones work. Shallots—two of them, halved. Not regular onion. Shallots caramelize different. One medium onion too, cut into chunks.
+
+Vegetable oil. Coconut oil for roasting—two teaspoons. Not for the blender, just for the pan. Salt and black pepper, basically as much as you think.
+
+One liter of hot vegetable broth. Plain Greek yogurt—zero percent. You need it twice. Six tablespoons mixed into the soup, another cup for garnish. Turmeric powder. Fresh ginger, grated. Cinnamon—a pinch. Toasted pumpkin seeds, quarter cup. That's the crunch.
+
+## How to Make Roasted Sweet Potato Soup
+
+Heat your oven to 420. Middle rack. Line a tray with parchment so cleanup's easier.
+
+Toss the sweet potatoes, shallots, onion with the vegetable oil and coconut oil. Salt it. Pepper it. Spread everything flat on the tray—one layer, not piled. Roast for 28 to 33 minutes. Flip everything halfway through. You're waiting for the edges to brown and the pieces to go soft. That's it. Not complicated.
+
+## How to Get Roasted Sweet Potato Soup Creamy and Smooth
+
+When it comes out, everything should be falling apart almost. Transfer the roasted stuff to a blender. Pour in the hot broth. Blend until it's silky—no lumps left. Actually smooth. Taste it. Salt and pepper it again if it needs it. It probably does.
+
+While that's happening, grab a small bowl. Stir six tablespoons of Greek yogurt with the turmeric, grated ginger, and cinnamon. Just a pinch of cinnamon. Add a tiny bit of salt to balance it out. That's your spiced yogurt.
+
+## Roasted Sweet Potato Soup Tips and Common Mistakes
+
+Don't skip roasting. Roasted vegetables taste completely different than boiled—they're sweet, they have depth, there's caramel happening. Blending raw or steamed ones tastes thin.
+
+One layer on the tray matters. Crowded means they steam instead of roast. Doesn't work.
+
+Halfway flip is real. Some spots brown faster than others. Flip them.
+
+The yogurt goes on last. Stir it into the hot soup and it breaks. It separates. Just dollop it cold on top of each bowl. Same with the spiced yogurt.
+
+Pumpkin seeds go on just before you eat. They stay crunchy that way. Ten minutes in the soup and they're soft. Not worth it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Sweet Potato Soup
+
+**Can I make this without roasting, just boil the vegetables?**
+You can. Won't taste the same. Roasting is the whole point—it makes them sweet and gives the soup depth. Boiled tastes thin.
+
+**What if I don't have Greek yogurt?**
+Regular yogurt works. Tastes tangier. Sour cream works too, richer. Haven't tried anything else.
+
+**How long does it keep?**
+Three, maybe four days in the fridge. Freezes fine—just don't freeze the yogurt dollop, add that when you reheat.
+
+**Is the ginger really necessary?**
+Adds something. Warmth. Not overpowering. If you hate ginger, skip it. The turmeric and cinnamon are enough on their own.
+
+**Can I use canned sweet potatoes?**
+No. The flavor's completely different. Just use fresh.
+
+**Do the pumpkin seeds have to be toasted?**
+Raw ones are fine if you toast them first. Five minutes in a dry pan. Brings out the flavor. Regular seeds work too, but toasted is better.
