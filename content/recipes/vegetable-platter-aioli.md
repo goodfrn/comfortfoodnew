@@ -1,10 +1,10 @@
 ---
-title: "Vegetable Platter with Garlic Aioli"
+title: "Garlic Aioli with Crudité Vegetables"
 slug: "vegetable-platter-aioli"
-description: "A colorful mix of boiled and raw vegetables served with a garlicky aioli made from egg yolk, Dijon mustard, and canola oil. Small rattes and tender carrots boil with haricots verts until barely soft, cooled quickly. Raw veggies like fennel wedges, cherry tomatoes, radishes, and cucumber slices add crunch and freshness. Hard-boiled eggs sliced in halves scattered around. Aioli whipped up by slowly emulsifying oil into a blend of egg yolk, lemon juice, mustard, and minced garlic. Salt and pepper finish. Chill aioli while prepping the veggies. Simple, fresh, no gluten, dairy or nuts. Bright appe-tizer or light starter. Serves 6 to 8."
-metaDescription: "Vegetable Platter with Garlic Aioli is fresh and colorful. A medley of veggies and creamy aioli offer a delightful starter."
-ogDescription: "Dive into this Vegetable Platter with Garlic Aioli. Fresh veggies. Creamy, garlicky aioli. Perfect for gatherings or light bites."
-focusKeyphrase: "Vegetable Platter with Garlic Aioli"
+description: "Garlic aioli made with egg yolk, lemon juice, and Dijon mustard pairs beautifully with fresh crudité. Boiled potatoes, carrots, haricots verts, hard-boiled eggs, and raw vegetables create a vibrant, gluten-free appetizer."
+metaDescription: "Make garlic aioli with egg yolk, lemon juice, and Dijon mustard for your crudité platter. Serve with potatoes, carrots, and fresh vegetables. Try it tonight."
+ogDescription: "Garlic aioli with egg yolk and lemon juice served alongside fresh crudité vegetables—potatoes, carrots, and more."
+focusKeyphrase: "aioli"
 date: 2025-07-25
 draft: false
 image: vegetable-platter-aioli.jpg
@@ -21,9 +21,18 @@ tags:
 - "condiment"
 - "healthy"
 keywords:
-- "vegetable platter"
+- "aioli"
+- "crudite"
 - "garlic aioli"
-- "healthy appetizer"
+- "aioli recipes"
+- "crudite platter"
+- "garlic aioli recipe"
+- "homemade aioli"
+- "easy aioli recipe"
+- "simple aioli recipe"
+- "lemon garlic aioli"
+- "aioli dip"
+- "garlic mayo"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "210"
@@ -68,3 +77,75 @@ faq:
 - "q: Can I store leftovers? a: Yes, cover chilled in the fridge. Consume within two days. Check the aioli too. Freshness counts. Don’t let it sit too long."
 
 ---
+
+One egg yolk. Lemon juice. Oil. That's it. Everything emulsifies or it doesn't—no middle ground. The garlic aioli either comes together smooth or breaks into a sad puddle. I've done both. The difference is speed and patience, which sounds like a fortune cookie but it's actually true.
+
+## Why You'll Love This Garlic Aioli Crudité
+
+Makes its own show. You're not cooking anything complicated—just boiling vegetables and whisking a sauce. People see the platter and think you spent hours on it. Takes 45 minutes tops. One bowl. One pot.
+
+Works as a dip, a condiment, or the whole meal if you're eating light. Throw it together on a Sunday, leave it in the fridge, and grab it whenever. Everything holds. The aioli doesn't separate if you make it right (see below).
+
+Healthy-ish. Mostly vegetables. The garlic mayo hits different than store-bought—sharper, brighter, actually tastes like garlic instead of stale jar flavor. One egg yolk is the entire fat base. Not nothing, but reasonable.
+
+Raw and cooked vegetables on one platter means texture contrast without extra work. Some crunch, some soft. Radishes stay crisp for days. Boiled eggs add protein. It's a complete vegetable platter that doesn't feel incomplete.
+
+## What You Need for Homemade Garlic Aioli
+
+One egg yolk—room temperature matters, cold breaks the sauce. Lemon juice. Not lime. Not vinegar. Lemon. Dijon mustard. A teaspoon and a half. Salt. One small garlic clove, minced fine. Canola oil. Not olive oil yet—that comes later if you want, but start with something neutral or the garlic gets buried. Pepper.
+
+For the crudités: small potatoes. Ratte or new potatoes work. Boiling potatoes if that's what you have. Around 300 grams. Carrots. Small ones, medium at most. Haricots verts—those thin green beans. Four hard-boiled eggs. Raw vegetables. Whatever you like. Fennel, radishes, cherry tomatoes, cucumber. It doesn't matter as long as it's crunchy.
+
+## How to Make Garlic Aioli
+
+Yolk goes in a medium bowl. Add the lemon juice, mustard, salt, and minced garlic. Whisk it all together until it looks combined—not smooth yet, just mixed. This is the base.
+
+Now the oil. Pour it into a measuring cup or something with a spout. Add it one drop at a time while you whisk. Sounds insane. It is. Keep going anyway. You're watching it thicken, thicken, thicken. After maybe a third of the oil is in and the mixture starts looking like actual mayo, you can speed up. Drizzle it in a thin stream. Keep whisking. The faster the whisking, the more oil it takes. Never stop.
+
+When all the oil is in, taste it. Adjust the salt. Add pepper. If it's too thick, a teaspoon of water loosens it. Not lemon juice at this point—that breaks it.
+
+Transfer to a small bowl. Cover it. Stick it in the fridge. It'll thicken more as it cools.
+
+## How to Get Vegetables Tender but Still Firm
+
+Potatoes in a large pot. Cover with cold water. Add salt—enough that it tastes like the sea. Bring it to a rolling boil. Boiling. Not simmering. Boiling.
+
+Twelve minutes. Set a timer or you'll forget and they'll turn to mush. After twelve minutes, add the carrots. Seven to nine minutes—depends on how thick you cut them. Medium carrots cut in half work. Thin carrots whole work.
+
+When the carrots are almost done, add the haricots verts. Three minutes. That's it. They go from raw to perfect in three minutes. Drain everything immediately. Don't let it sit.
+
+Dump it into a bowl of ice water. This stops the cooking dead. Leave it there until it's completely cold. Drain again.
+
+## Crudité Platter Tips and Common Mistakes
+
+The aioli bowl goes in the center. Everything else circles it. Potatoes first—they're the largest, they anchor the platter. Carrots next. Haricots verts fill the gaps. Hard-boiled egg halves scattered throughout. Raw vegetables on the outside edge because they're the most decorative.
+
+Chill everything before serving. Room temperature works if you're eating immediately, but chilled is better. The cold vegetables taste crisper. The garlic mayo stays firm instead of getting soft.
+
+Raw vegetables first if you're prepping ahead. They'll hold for two days. Boiled vegetables hold longer—three days easy. Assemble the platter an hour before serving, keep it covered in the fridge. The raw vegetables on the edge will stay crisp.
+
+Don't peel the potatoes. The skin holds them together and tastes good. Just scrub them under cold water. Radishes last—they'll soften if they sit too long. Add them 30 minutes before serving.
+
+The aioli doesn't break if you made it right. If it does break—if it looks separated and wrong—start over with a fresh yolk and whisk the broken batch into it drop by drop. Works maybe 70% of the time. The other 30%, you've got expensive dressing for salad.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Garlic Aioli Recipes
+
+**Can I use a blender or food processor for the garlic aioli recipe instead of whisking by hand?**
+Yeah. Pour the oil in slowly, same speed as by hand. Honestly, a blender works faster and the emulsion stays stable better. Hand-whisking feels more satisfying though. Either way, room temperature egg yolk is what matters.
+
+**What's the difference between aioli and garlic mayo?**
+Not much. Aioli is oil and egg and garlic emulsified together. Garlic mayo is the same thing. Some people say aioli doesn't have mustard, but mustard helps the emulsion hold, so it stays in here. Call it what you want.
+
+**Can I make this garlic aioli sauce ahead of time?**
+Three, maybe four days in the fridge. Covered. After that the garlic goes weird and sharp in a bad way. Make it fresh if you can. 20 minutes isn't that long.
+
+**What if the aioli breaks while I'm whisking?**
+Didn't go slow enough at the start. Start over with a fresh yolk. Add the broken batch drop by drop, whisking. Sometimes it comes back together. Sometimes it doesn't. Not sure why the results vary. Just does.
+
+**Can I use olive oil in a garlic aioli dip?**
+Half and half works. All olive oil and the garlic gets shadowed by the oil flavor. Worth trying once though—some people prefer it. Not me.
+
+**How long does the crudité platter last in the fridge?**
+Two days maximum. The potatoes and carrots last longer—three days. Raw vegetables start getting soft after 24 hours. The eggs are fine for a week but they get that sulfur smell eventually. The aioli's the limiting factor. Use that as your countdown timer.
