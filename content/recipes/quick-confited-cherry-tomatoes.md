@@ -1,10 +1,10 @@
 ---
-title: "Quick Confited Cherry Tomatoes"
+title: "Cherry Tomatoes Recipe with Maple Glaze"
 slug: "quick-confited-cherry-tomatoes"
-description: "Cherry tomatoes simmered gently in a tangy-honey glaze with garlic and a hint of spice. Uses lemon juice instead of vinegar with a touch of maple syrup replacing honey for subtle earthiness. Thyme replaces basil providing a different fragrant note. Tomatoes cooked till skin cracks, juices bubble, and sweet aroma rises. Great alongside grilled meat or fish. Simple, fast, with bright fresh flavors and that sticky-sweet glaze clinging just right."
-metaDescription: "Quick confited cherry tomatoes simmered gently in olive oil, lemon juice, maple syrup, garlic, chili flakes, and thyme for tender, sticky clusters with bright, fresh flavors."
-ogDescription: "Simmer cherry tomatoes slowly in olive oil and lemon juice with garlic and thyme for tender skin, bubbling juices, and a sticky-sweet glaze that clings just right."
-focusKeyphrase: "Quick Confited Cherry Tomatoes"
+description: "Cherry tomatoes recipe simmered in a sticky maple-lemon glaze with garlic and thyme. Skin cracks and juices bubble for bright, fresh flavors perfect alongside grilled proteins."
+metaDescription: "Cherry tomatoes recipe with maple syrup and lemon juice glaze, roasted with garlic and fresh thyme. Try it tonight."
+ogDescription: "Roasted cherry tomatoes with maple syrup, lemon juice, garlic, and thyme. Sweet, tangy, and sticky-perfect."
+focusKeyphrase: "cherry tomatoes recipe"
 date: 2025-08-01
 draft: false
 image: quick-confited-cherry-tomatoes.jpg
@@ -21,12 +21,18 @@ tags:
 - "easy"
 - "honey"
 keywords:
-- "cherry tomatoes"
-- "confit"
-- "maple syrup"
-- "olive oil"
-- "thyme"
-- "lemon juice"
+- "cherry tomatoes recipe"
+- "roasted cherry tomatoes"
+- "cherry tomatoes with garlic"
+- "roasted cherry tomatoes with garlic"
+- "confit tomato"
+- "sautéed cherry tomatoes"
+- "bake cherry tomatoes"
+- "cherry tomato confit"
+- "garlic roasted cherry tomatoes"
+- "roasted cherry tomatoes and garlic"
+- "cooked cherry tomatoes"
+- "cherry tomatoes in the oven"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "130"
@@ -63,3 +69,72 @@ faq:
 - "q: How to store leftovers? a: Tomato confit best fresh but oil can keep few days in fridge. Store in airtight container. Reheat gently or use cold oil for dressing salads or bread. Don’t freeze; tomato softens too much, texture lost."
 
 ---
+
+Whole clusters of tomatoes on the vine hit the hot oil and you don't move them. Just let them sit there, skin starting to blister. Fifteen minutes tops. That's it.
+
+## Why You'll Love This Roasted Cherry Tomatoes Dish
+
+Takes seven minutes to prep if you're slow about it. Literally just chop garlic, measure stuff, dump it in.
+Summer side that works with literally everything—grilled fish, chicken, bread, nothing at all.
+The maple syrup does something weird with the lemon juice. Sweet and sharp at the same time. Not saccharine.
+Tastes better the next day cold. Maybe not better. Different. Different works.
+One pan. Olive oil becomes this sticky, concentrated thing that's honestly worth scraping off the pan and eating with bread. Cleanup takes two minutes.
+
+## What You Need for Sautéed Cherry Tomatoes
+
+Olive oil. Sixty milliliters. Not vegetable oil. Not avocado oil—okay, avocado works. But olive's the point.
+Lemon juice. Twenty milliliters. Fresh. Bottled goes flat.
+Maple syrup. Twenty. Not honey. Not agave. Maple has this specific thing that happens when it hits heat.
+Two garlic cloves. Crushed, not minced. Crushing them releases the oils differently. Bigger texture in the sauce too.
+Chili flakes. Optional but don't skip it. A pinch. Literally a pinch. Not the whole jar.
+Cherry tomatoes on the vine. Four hundred fifty grams. On the vine matters—they hold together better. Stays intact instead of turning to soup.
+Fresh thyme. Fifteen milliliters of leaves. Dried doesn't work here. It tastes like hay.
+Salt and pepper. The kind you already have.
+
+## How to Make Baked Cherry Tomatoes That Actually Work
+
+Medium-low heat. That's the whole thing. Most people rush this. Don't.
+
+Pour the olive oil into a large heavy skillet. The oil needs space to move around. Pour in the lemon juice, the maple syrup, the crushed garlic, and the chili flakes if you're using them. Don't stir constantly—swirl it once, let it sit. You're watching for fragrant. Not sizzling hard. Not bubbling angry. Just fragrant. Maybe two minutes. The garlic should smell sweet, not burnt.
+
+Salt the liquid now. Pepper it. This part people forget. You're seasoning the oil, not the tomatoes. It matters.
+
+## How to Get Roasted Cherry Tomatoes Perfectly Cooked
+
+Whole clusters go in. Don't break them apart. Nestle them so the skin just touches the pan. This is where the browning happens. Some air underneath keeps them from steaming.
+
+Cover loosely. Not sealed. Loose. You want the steam to escape but stay warm. Twelve to fifteen minutes.
+
+Listen for bubbling. Thick bubbling. Not aggressive, just slow and steady like something's breaking down. Watch for the skins to split—just tiny cracks. That's the signal. If the liquid's evaporating too fast, splash a spoonful of water in there. Don't overthink it.
+
+Lid comes off. Press one tomato gently. Should feel soft all the way through but still hold its shape. If it collapses, you went too far. The garlic should smell mellow now, infused into everything. Spoon the warm tomatoes and all that sticky sauce onto a plate. This liquid is liquid gold. Don't waste it.
+
+## Roasted Cherry Tomatoes Tips and What Goes Wrong
+
+Don't use clusters that are completely green. The vine ones are usually ripe enough but look for the ones with some red already going.
+The oil breaks sometimes if you crank the heat. Just keep it medium-low. Patience is the only technique here.
+Thyme goes on at the end. Not during. If you add it early it loses flavor and turns into herb dust.
+Leftover oil. Don't throw it away. Drizzle it over crusty bread. Drizzle it over eggs. Drizzle it on literally anything toasted.
+Leftover tomatoes taste better cold. Store them in the oil. They infuse overnight and somehow get sweeter.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Cherry Tomatoes Confit
+
+**Can you make cherry tomato confit in the oven instead of on the stovetop?**
+Yeah. Three hundred twenty-five degrees for maybe forty minutes. Slower than the skillet but less watching. Same result basically. Comes out slightly drier on top which some people prefer.
+
+**How long do cooked cherry tomatoes keep?**
+Fridge, covered, five days maybe six. The oil preserves them. Cold from the fridge is actually better than room temperature for keeping.
+
+**What's the difference between sautéed cherry tomatoes and roasted ones?**
+Sautéed is faster, hotter, more direct heat on the skin. Roasted goes slower and the insides break down more. This recipe is kind of both—medium heat, covered, so you get some browning and some softening.
+
+**Can you dry cherry tomatoes in the oven instead?**
+Different thing entirely. You'd go low and slow for hours. This isn't that. This is cooked through but still juicy.
+
+**Do you have to use clusters on the vine?**
+Loose ones work but they fall apart more. The vine holds them together so they stay intact. Matters more than people think.
+
+**What happens if you add garlic roasted cherry tomatoes too early?**
+It burns. Turns bitter. Sad. Add it at the beginning because the low heat doesn't burn it. High heat burns it immediately.
