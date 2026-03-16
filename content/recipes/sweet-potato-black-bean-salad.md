@@ -1,10 +1,10 @@
 ---
-title: "Sweet Potato Black Bean Salad"
+title: "Recipe For Bean Salad With Sweet Potato"
 slug: "sweet-potato-black-bean-salad"
-description: "Cubed sweet potatoes roasted till they crackle and soften. Black beans and corn bubbling with cumin and lime zest. A dressing blending tangy lime juice, creamy yogurt swapped for sour cream, mayo, a touch of honey, and a punch of garlic. Jalapeño optional but recommended for those chasing heat. Tossed, stirred, and ready as a cold salad or lightly warm. Textures playing between tender cubes and crisp onions. The sensory cue is a nutty roasted aroma and a visual cue the golden edges of sweet potato cubes. A vibrant salad with a subtle smoky hint from cumin and fresh cilantro notes rounding it out."
-metaDescription: "Sweet Potato Black Bean Salad roasted to tender cubes with crisp onions, cumin’s smoky hint, fresh lime dressing, cilantro, and jalapeño kick. Mexican-inspired flavors."
-ogDescription: "Roasted sweet potatoes meeting black beans, corn, cumin, lime, and tangy creamy dressing. Textures clash; crisp onion and soft potato dance. Jalapeño optional extra heat."
-focusKeyphrase: "Sweet Potato Black Bean Salad"
+description: "Roasted sweet potato cubes tossed with black beans, corn, and red onion in a tangy lime-yogurt dressing. This bean salad features fresh cilantro and a hint of cumin for vibrant flavor."
+metaDescription: "Recipe for bean salad with roasted sweet potatoes, black beans, and corn in a creamy lime dressing. Make it tonight."
+ogDescription: "Roasted sweet potato and black bean salad with corn, cilantro, and a zesty lime-yogurt dressing."
+focusKeyphrase: "recipe for bean salad"
 date: 2025-10-13
 draft: false
 image: sweet-potato-black-bean-salad.jpg
@@ -21,9 +21,18 @@ tags:
 - "healthy"
 - "mexican"
 keywords:
+- "recipe for bean salad"
 - "sweet potato salad"
+- "black bean and corn salad"
 - "black bean salad"
-- "cumin lime dressing"
+- "black bean salad recipe"
+- "bean and corn salad"
+- "roast sweet potato salad"
+- "mexican bean salad"
+- "sweet potato salad recipe"
+- "bean corn salad"
+- "black bean corn salad recipe"
+- "beans salad dressing"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "180"
@@ -83,3 +92,103 @@ faq:
 - "q: How long can I store the salad? a: Best eaten within 1 to 2 days. Refrigerate in sealed container no problem. Flavors mingle, but sweet potato softens losing snap. Can serve cold or room temp. Reheat lightly, no high heat. Not great for longer storage or freezing; texture suffers."
 
 ---
+
+Cube the sweet potatoes first. Doesn't sound like much, but sizes matter—half inch, consistent, or some go soft while others stay crunchy. Had that problem once. Never again.
+
+## Why You'll Love This Sweet Potato Salad
+
+Takes 45 minutes total. Maybe less if you move fast. Not a side dish that hogs the oven all day.
+
+Works cold straight from the fridge or room temp. Takes it anywhere—picnics, potlucks, meal prep. The flavors actually get better overnight, beans and cumin meld into something deeper.
+
+Vegetarian and feels substantial. Not just lettuce. The black beans and corn bring protein, the sweet potato brings something almost creamy when it's still slightly warm.
+
+Cilantro and lime keep it bright. That jalapeño optional thing? Skip it if heat isn't your speed. The salad holds up fine without it.
+
+Cleanup isn't painful. One sheet pan. One bowl for mixing. Not a whole production.
+
+## What You Need for Black Bean and Corn Salad
+
+Sweet potatoes—2 and a half cups cubed, about half inch. Consistency actually matters here. Peel them first or leave skin on, doesn't really change anything except texture.
+
+Olive oil. A tablespoon. That's enough to make them shine without going soggy.
+
+Black beans, a can and a half, rinsed and drained. Don't skip the rinsing. The liquid tastes like tin.
+
+Corn. Fresh is better. Frozen works. Canned is fine too, just drain it well.
+
+Red onion. A full cup diced. The color stays bright. Regular onion works but tastes sharper, almost mean.
+
+Lime zest and lime juice. Lime zest goes in the salad mix—a teaspoon. Three tablespoons fresh squeezed juice goes in the dressing. Bottled lime juice is kind of sad. Don't use it.
+
+Cumin. Half a teaspoon. Ground. It's earthy, warm, smells like you know what you're doing.
+
+Salt, pepper. A teaspoon salt, quarter teaspoon pepper. Adjust after.
+
+Cilantro. Fresh. A third cup chopped. If cilantro tastes like soap to you, use parsley instead. The salad still works.
+
+Jalapeño. Optional. One fresh one, finely diced. For heat. Some people skip it entirely.
+
+For the dressing—sour cream, not yogurt, a little thinner but tangier. Two tablespoons. Mayo, three. Honey, a tablespoon. One clove garlic minced. All whisked together with the lime juice.
+
+## How to Make Sweet Potato Salad
+
+Preheat to 410. Get the oven actually hot before the potatoes go in—temperature matters more than you'd think.
+
+Toss the cubed sweet potatoes with olive oil. Get every piece coated, glossy, even the awkward ones. Spread them flat on a sheet pan lined with parchment. Single layer. No stacking. No overcrowding. They need room or they steam instead of roast.
+
+Roast 25 minutes. Stir every 7 or 8 minutes. Don't set a timer and forget. You'll feel the difference when they're done—edges go golden, almost crackly, and the smell hits you before you see the color change.
+
+While that's going, combine the black beans, corn, diced red onion, ground cumin, lime zest, salt, pepper, cilantro, and jalapeño if you're using it. Just mix it all together in a bowl. The cumin releases something right away—earthy, warm. Don't skip it thinking you can add it later. Doesn't work the same.
+
+The sweet potatoes should come out looking like dark honey on the outside, pale orange inside. Not falling apart. Not hard in the middle. That specific texture where you could crush it with your thumb but it holds its shape.
+
+Let them cool for a few minutes. Not until they're cold. Still warm, just not steaming. Then fold them into the bean mixture. Gently. They'll break if you're rough about it.
+
+## How to Get the Dressing Right
+
+Whisk together the lime juice, sour cream, mayo, honey, and garlic. Fresh garlic—minced, not pressed. One clove. Maybe half if you're cautious. The dressing should taste bright from the lime, creamy from the sour cream and mayo, with honey rounding out the sharp edges.
+
+Taste it. Actually taste it. If it's too acidic, add a bit more honey. If it's too heavy, squeeze more lime juice. This is where balance happens.
+
+Pour it over the salad. Stir carefully so everything gets coated but the sweet potatoes don't fall into pieces. The dressing clings to everything—beans, corn, onion, potato—and pulls the flavors together.
+
+Serve it room temperature or cold. Both work. Refrigerate if you made it ahead. The salad keeps 1 to 2 days easy. Flavors meld better on day two. Sweet potatoes soften a bit though, lose that snap. Not bad. Just different.
+
+## Sweet Potato Salad Tips and Common Mistakes
+
+Too many potatoes crowded on the pan and they steam instead of roast. They come out soft and pale. Use two pans if you need to. Rotate them halfway. Even heat wins.
+
+Sweet potatoes already mushy? Oven ran hot. Or you cubed them too small. Cut them bigger next time. Half inch is the baseline.
+
+The onion too pungent and sharp? Rinse the diced pieces under cold water for a minute. Takes the aggressive edge off without losing the crunch.
+
+Don't skip rinsing the canned beans. The liquid is metallic tasting. Rinse and you're golden.
+
+Dressing too thin? A spoonful of tahini thickens it and adds depth. Miso paste does the same. Start with a teaspoon and taste.
+
+The jalapeño situation—if you want heat but not dominating, remove the seeds and white ribs. Just the flesh. Still hot but cleaner. If you want to skip it entirely, the salad's just as good.
+
+Cumin is important. Don't omit it thinking the lime will carry the flavor. They do different things.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Sweet Potato Salad
+
+**Can I make this ahead?**
+Yeah. Make it the day before if you want. Flavors meld better overnight actually. Sweet potatoes soften a bit from the dressing, but they don't fall apart or anything. Just loses the crunch. Still tastes good.
+
+**What if I don't have sour cream?**
+Use yogurt. Full-fat plain yogurt. You'll lose a tiny bit of tang, so add a squeeze more lime juice or a dash more honey to compensate. It works.
+
+**Can I swap the black beans for something else?**
+Kidney beans work. Pinto beans work. They're all fine. Black beans just taste better here. Firmer, earthier. But if that's what you have, use it.
+
+**Should I use fresh or frozen corn?**
+Fresh is better if you can get it. Frozen is fine. Canned is... canned tastes a little off. If that's all you have, drain it well and it's passable. You could char frozen corn on a stovetop for a minute or two if you want smokiness.
+
+**How spicy is this?**
+Not spicy if you skip the jalapeño. With it? Mild heat. One fresh jalapeño doesn't take over. If you like really hot, add more. If you want barely anything, use half.
+
+**Can I serve this warm or does it have to be cold?**
+Room temperature is best. Warm works fine too, makes the dressing coat better. Cold works but the flavors are quieter. Pick whatever suits the meal.
