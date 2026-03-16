@@ -1,10 +1,10 @@
 ---
-title: "Turkey Thigh Confit"
+title: "Turkey Thigh Recipes with Spiced Salt Rub"
 slug: "turkey-thigh-confit"
-description: "Slow-cooked turkey thighs in rendered duck fat with a zesty spiced salt rub. The process draws out moisture while infusing flavor, followed by a long, low bake till meat pulls away easily. Aromatic blend shifts with cumin and mustard seed swapped in for coriander and pepper pink. Leafy herbs tangle with warm clove and juniper berries, creating a complex savory backdrop. Efficient curing followed by a gentle simmering bath ensures moist, tender flesh that shatters under fork pressure. Kept refrigerated, lasts a week, great cold or warm, salad topping or rustic main."
-metaDescription: "Slow-cooked turkey thighs simmered in rendered duck fat with a spiced salt rub, cumin and mustard swapping traditional herbs; tender, rich, nuanced flavor."
-ogDescription: "Slow-baked turkey thighs in aromatic duck fat, cumin-mustard spice rub. Tender, moist meat peeled easily, bold flavor layers deep slow cooking style. Try savory confit."
-focusKeyphrase: "turkey thigh confit"
+description: "Slow-cooked turkey thighs in rendered duck fat with cumin, mustard seeds, and aromatic spices. Tender, flavorful meat that lasts a week and works warm or cold."
+metaDescription: "Turkey thigh recipes featuring duck fat confit with cumin and mustard seed spiced salt rub. Moist, tender meat that pulls apart easily. Make it tonight."
+ogDescription: "Slow-cooked turkey thighs in rendered duck fat with cumin, mustard seeds, bay leaves, and cloves. Tender confit-style meat."
+focusKeyphrase: "turkey thigh recipes"
 date: 2025-08-05
 draft: false
 image: turkey-thigh-confit.jpg
@@ -21,9 +21,18 @@ tags:
 - "dry rub"
 - "comfort food"
 keywords:
-- "confit"
-- "turkey thighs"
-- "duck fat cooking"
+- "turkey thigh recipes"
+- "turkey drumstick and thigh recipes"
+- "recipes using turkey thighs"
+- "recipe for turkey seasoning"
+- "slow cook turkey thigh"
+- "bake turkey thighs in oven"
+- "cook turkey thighs in oven"
+- "turkey thigh roast"
+- "braised turkey thigh"
+- "duck confit rillettes"
+- "confit leg"
+- "temp for turkey thighs"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "450"
@@ -78,3 +87,100 @@ faq:
 - "q: How to store and reheat confit turkey? a: Keep shredded confit submerged in fat sealed in fridge up to a week, freeze for longer. Warm gently in skillet with splash stock; avoid high heat. Can serve cold sliced on salads or sandwiches. Fat layer protects from drying; don’t skim off."
 
 ---
+
+Cut the turkey thighs the night before. Salt them hard. Let time do the work—12 hours minimum, but overnight is better. The meat goes deeper than you'd expect. Then comes the fat, the low heat, the wait. Three hours and ten minutes total in the oven. Sounds long. Isn't complicated.
+
+## Why You'll Love This Turkey Thigh Roast
+
+Tastes like something you didn't make. That's the whole point of confit. Comfort food that actually feels like a project, but doesn't demand you stand around.
+
+The dry rub—cumin, mustard seeds, allspice—sits on the meat for hours. Flavor goes in, not on top. Completely different from regular roasted turkey thighs.
+
+Slow cooker vibes without the slow cooker. You get actual texture. Skin side down first, then flipped. The fat renders out of the meat itself, not just sitting there.
+
+Works cold. Works hot. Works shredded on salad. Works in a sandwich three days later and tastes better than it did the first night.
+
+Duck fat is the thing here. Not a substitute—the ingredient. Everything else supports it.
+
+## What You Need for Turkey Seasoning and Confit
+
+Coarse salt. Not table salt. The crystals dissolve slower, which is the entire point.
+
+Cumin seeds and yellow mustard seeds—toast them first. Two minutes, keep shaking. Cool them down. Then grind coarsely. This matters more than you think. Pre-ground loses half the point.
+
+Allspice berries. Two of them. Bay leaves torn. Two cloves. Rosemary—strip the leaves off the sprig, don't use the stem.
+
+Turkey thighs. Two of them, about a kilogram each. Dark meat. This part matters. Breast meat dries out in confit. Thighs stay tender because fat actually needs somewhere to go.
+
+Rendered duck fat. 1.8 liters. Cold, warm, doesn't matter at first. It needs to come up to temperature on the stove, then go over the turkey. You can use goose fat. Pork fat works if you have to. Duck is best. Just is.
+
+## How to Make Turkey Drumstick and Thigh Recipes
+
+Start with the spiced salt. Dry skillet, medium heat. Drop in cumin seeds and mustard seeds. They'll smell done before they look done—that's the signal. Two minutes tops. Moving them constantly so nothing catches.
+
+Pour them onto a plate. Let them actually cool. Then mortar and pestle time. Coarse grind. You want texture, not powder. Mix that into the salt with allspice, bay, cloves, rosemary. One bowl. Stir it together.
+
+Lay the turkey thighs skin side up in a glass or ceramic dish. Doesn't have to be fancy. Just not metal—metal reacts with salt.
+
+Grab about three teaspoons of the spiced salt per thigh. Rub it in. Under the skin. Into the crevices. Wherever meat is exposed, salt goes. This is the dry rub recipes approach but way slower, way deeper. Cover it tight. Plastic wrap works. Foil works. Put it in the fridge.
+
+Now you wait. Twelve hours minimum. Overnight is better. Twenty-two to twenty-six hours if you're doing it right. Flip the thighs halfway through so the salt flavor hits evenly. This is the part that takes time but no effort. Just patience.
+
+## How to Get Turkey Thighs Tender in the Oven
+
+Preheat the oven. 130 Celsius. That's 265 Fahrenheit. Center rack. Low heat is the whole technique here.
+
+Pull the thighs out of the fridge. Rinse them under cold water. Get the excess salt off. Don't skip this. Too much salt is inedible salt. Pat them dry—paper towels, and keep going until the skin is almost tacky to the touch.
+
+Heavy pot. Ovenproof. Ceramic or cast iron or stainless. Put the thighs in skin side down.
+
+Get the duck fat on the stove, low heat. Just let it warm up. Fragrant. Fluid. Then pour it over the thighs slowly. They should be completely underwater. If they're not, use hot fat to top them up. Air exposure kills confit.
+
+Cover it. Lid or foil, doesn't matter. Seal it tight. Into the oven.
+
+Two hours. Then flip each thigh carefully. The meat will be starting to give. One more hour. Internal temp isn't the thing to watch—texture is. The meat should come apart with finger pressure. Like butter. Actual soft butter.
+
+That's three hours and ten minutes total from cold oven to done.
+
+Pull it out. Let it cool a bit before you touch the meat. The fat's still hot. Drain off what you can. Then shred it with your fingers or a fork. Bones out. Skin off—it gets weird in storage. Just the meat, tender and pulling apart.
+
+## Turkey Thigh Roast Tips and Common Mistakes
+
+Save the bones. Simmer them with aromatics for stock. Rich stock. Use it later in sauces, in braises, in gravies. Don't throw them away.
+
+If it came out too salty, rinse the meat. Then soak it fifteen minutes in cold water. Dry it well after. Next time, rinse the salt off the thighs before cooking and you'll fix half of it.
+
+Too dry means you cooked too hot or too fast. Temperature for turkey thighs matters here more than anywhere else. Stay low. Three hours isn't fast. That's the point. Slow rendering, slow cooking, texture stays intact.
+
+Store it submerged in fat. Sealed container. Fridge holds it five to seven days easy. Freezes longer if you need it to.
+
+Reheating: gentle skillet with a splash of stock. Or cold, sliced thin on bread or salad. The cold version tastes different. Meatier. Some people prefer it that way.
+
+No duck fat? Goose fat is better if you can find it. Pork fat clarified works. Chicken fat works but it's thin—more like poaching than confit. Slow cooker method works too if you're desperate, but the texture suffers.
+
+The seasoning swap: mustard seeds and cumin bring earthiness. Not bright. If you want bright, swap in coriander and black pepper. Not the same dish though. Smoked paprika at the end adds a layer. Diced garlic in the fat adds aroma. But this version—this version is what it is.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Turkey Thigh Roast
+
+**How long does turkey thigh roast actually take?**
+Twelve hours for the salt cure minimum. Then three hours and ten minutes in the oven. So fifteen hours and ten minutes total if you count salt time. But the salt cure happens overnight anyway, so really it's just the three-hour cook time plus your regular schedule.
+
+**Can I use a slow cooker instead of the oven?**
+Yes. Low setting, same fat coverage, longer—probably four to five hours. Texture won't be quite as good. Oven renders the fat slower, which is the whole thing. But it works. Crock pot turkey thigh method is easier if you hate watching the oven.
+
+**What temperature for turkey thighs if I'm not using confit?**
+Higher. Like 160 Celsius for a basic roast. Takes maybe an hour and a half. But then you're not making confit. You're just roasting thighs. This recipe is specifically the slow-fat method. Temperature for turkey thighs changes depending on what you're actually doing.
+
+**Can I smoke turkey drumstick and thigh recipes instead?**
+Different method entirely. Smoking works but you lose the confit technique. If you want to smoke turkey thighs, that's smoked turkey dry rub recipes territory. This one is about low, slow, fat. Not smoke.
+
+**How much of the spiced salt do I actually need?**
+Three teaspoons per thigh. Doesn't sound like much. Is enough. If you mess up and use more, rinse thoroughly. Salt cure is powerful. Respect it.
+
+**Can I make this ahead and freeze it?**
+Absolutely. Submerge the shredded meat in fat, freeze it. Thaw slowly in the fridge before you use it. Five to seven days refrigerated, but frozen keeps it months. Just thaw it right.
+
+**Do I have to use duck fat?**
+Not if you don't have it. Goose fat is superior. Clarified pork fat works. Chicken fat is thinner but it'll work. The dish changes slightly depending on what fat you use. Duck is classic for a reason. But recipes using turkey thighs don't require it if you can't find it.
