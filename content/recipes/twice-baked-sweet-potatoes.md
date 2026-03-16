@@ -1,10 +1,10 @@
 ---
-title: "Twice-Baked Sweet Potatoes"
+title: "Sweet Potato Casserole with Marshmallows"
 slug: "twice-baked-sweet-potatoes"
-description: "Sweet potatoes baked whole then scooped and mashed with cream cheese, butter, salt, and a nutty cinnamon-brown sugar mix; refilled and baked again topped with toasted marshmallows. Pecan nuts swapped for walnuts for texture variation. Timing adjusted slightly to rely on softness by touch and marshmallows golden hue. Key technique is not overstuffing the skins. Brown sugar split to layer flavor and crunch. The process teaches watchful baking, aroma cues, and doughy marshmallow signs. Substitutions suggest Greek yogurt or mascarpone for cream cheese. Visual and tactile clues govern success, not clocks."
-metaDescription: "Twice-Baked Sweet Potatoes with creamy filling, cinnamon-walnut crunch, and toasted marshmallow topping. Hands-on baking cues guide timing and texture."
-ogDescription: "Sweet potatoes scooped and mashed with butter, cream cheese, cinnamon, nuts; baked twice topped with toasted marshmallows. Rich texture, sense-driven timing."
-focusKeyphrase: "twice baked sweet potatoes"
+description: "Sweet potato casserole made with cream cheese, butter, cinnamon, and walnuts, then topped with toasted marshmallows. Twice-baked comfort food."
+metaDescription: "Sweet potato casserole recipe with cream cheese, walnuts, brown sugar, and marshmallows. Make it tonight."
+ogDescription: "Creamy sweet potato casserole with toasted marshmallows, walnuts, and cinnamon. A twice-baked classic."
+focusKeyphrase: "sweet potato casserole"
 date: 2025-10-04
 draft: false
 image: twice-baked-sweet-potatoes.jpg
@@ -21,9 +21,18 @@ tags:
 - "pecan"
 - "holiday"
 keywords:
-- "sweet potatoes"
-- "mashed sweet potato filling"
-- "toasted marshmallows"
+- "sweet potato casserole"
+- "sweet potato casserole recipe"
+- "baked sweet potatoes"
+- "twice baked potatoes"
+- "mashed sweet potatoes"
+- "roasted sweet potatoes"
+- "twice baked potato recipe"
+- "loaded baked potatoes"
+- "baked sweet potato recipe"
+- "potato casserole"
+- "roasted sweet potato recipe"
+- "marshmallow sweet potato"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "320"
@@ -66,3 +75,47 @@ faq:
 - "q: Best way to store leftovers? a: Cool completely before fridge. Wrap stuffed potatoes tight or use airtight container. Reheat in oven 350°F till warmed through; marshmallows get soft. Microwave makes marshmallows rubbery. Freeze not ideal due to texture changes."
 
 ---
+
+Stab the potato before anything else. Actually—set the oven to 405 first, then stab. Four medium sweet potatoes, rinsed hard under water, no grit. Foil on the sheet. They go in for almost an hour, maybe longer. You'll know because the knife slides through like it's barely there.
+
+## Why You'll Love This Sweet Potato Casserole
+
+Comfort food that doesn't feel heavy. The filling stays creamy underneath but the marshmallow top gets that crispy-soft thing that just works. Makes your kitchen smell like cinnamon and caramelized sugar without trying. Side dish that actually tastes like you spent time on it—takes 1 hour 40 minutes total but most of that's the oven doing the work. Holiday dinner staple for a reason. Pecans and walnuts add crunch that doesn't disappear. Leftovers taste better the next day, somehow.
+
+## What You Need for Baked Sweet Potatoes
+
+Four medium sweet potatoes. Don't grab the giant ones—they take forever and the insides get mealy. Unsalted butter. Three tablespoons. Cream cheese works best but mascarpone doesn't hurt, Greek yogurt works if that's what's there. Four ounces. Kosher salt—half a teaspoon. Light brown sugar, a third of a cup total, but split it up. Walnuts or pecans. Half a cup chopped. Cinnamon—a teaspoon of ground. Mini marshmallows. A full cup. Not the big ones. They melt weird.
+
+## How to Bake Sweet Potatoes
+
+Oven goes to 405. Scrub each potato under running water—you're getting the grit off, not peeling. Lay them on a foil-lined sheet with space between them. Not touching. Heat surrounds them better that way. Slide it in and don't open the door for 45 minutes minimum. Fifty-five to 65 minutes is the window. Test with a knife after 50—it should slide through like the potato's already butter. If it doesn't, close the door. Check every seven minutes after that. The skin wrinkles slightly. The smell gets sweet. Let them cool until you can hold one without swearing.
+
+## How to Get Crispy Toppings on Your Baked Potato Casserole
+
+While they cool, chop walnuts with two-thirds of the brown sugar and cinnamon. Mix it in a bowl. Keep the last bit of sugar separate. This goes on top. When the potatoes are cool enough, slit them lengthwise and pry gently—the skin holds everything. Scoop the insides into a bowl, leaving maybe a quarter inch clinging to the skin. Mash that scooped flesh with butter, cream cheese, salt. Don't overmash. Lumps are good. They make it interesting. Fold in most of that nut mixture. Spoon it back into the skins. Not overfull. Dust the remaining sugar-nut mix on top. Back into the oven, 15 minutes at 405. Watch the edges—they'll brown slightly. That's when you know the filling's set enough.
+
+## Sweet Potato Casserole Tips and Common Mistakes
+
+Pull them out. Top each one with a handful of mini marshmallows. Not buried. Just on top. Bake again—this time 400, five minutes, door cracked so you can watch. Marshmallows puff and turn gold fast. Burnt marshmallow ruins everything. Take them out when the tops are golden and the insides still feel soft. Serve immediately. The crust is crispy but inside stays soft. If a skin cracks while you're scooping, foil patches work. Use them for snack-size bites. Don't score the skins before the first bake—juices escape and the flesh dries out. Let them stay whole. Potato size matters for timing—thin ones cook faster and can crumble if you're not careful in round two. Cooling is essential. You want them cold enough to handle but not cold. Warm filling collapses the skin. Foil on the sheet catches sugar and butter drips. Stops smoking. Easier cleanup. Prevents the bottom from burning. Don't skip the rest after baking—it firms things up without heat burns.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Sweet Potato Casserole Dish
+
+**Can you make this ahead?**
+Bake through step four, refrigerate overnight, then add marshmallows and finish in the oven the next day. Works fine. Might take an extra three minutes.
+
+**What if your sweet potatoes are huge?**
+They'll take longer. Maybe 75 minutes instead of 65. You'll know when the knife slides. Don't guess.
+
+**Can you use regular potatoes instead?**
+No. Different texture. Different flavor. Not the same thing.
+
+**Why does the marshmallow always burn?**
+Five minutes at 400 is the window. If your oven runs hot, watch it. Some ovens it's four minutes. The door stays cracked so you can see.
+
+**Should you add the marshmallows before the second bake or after?**
+After. If you add them earlier they melt into the filling and get gummy. Nobody wants that.
+
+**Can mascarpone work if you don't have cream cheese?**
+Yeah. Use the same amount. It's a bit richer. Might need slightly less butter but honestly it doesn't matter much.
