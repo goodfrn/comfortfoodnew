@@ -1,10 +1,10 @@
 ---
-title: "Reduced Strawberry Cake"
+title: "Strawberry Cake with Cream Cheese Frosting"
 slug: "reduced-strawberry-cake"
-description: "Strawberries simmered down into a thick reduction to pack flavor, folded into a gelatin-infused batter. Two 8-inch layers baked till toothpick clean. Cream cheese frosting tinted pink with puree and strawberry extract. Moist, tangy, and sweet with deep berry notes. Watch for bubbling and color shifts when reducing fruit, and textures on frosting to get the right spread. Tricks for dealing with sticky pans and timing frosting softness included. Substitutions for gelatin and oils, plus troubleshooting. Expected yield 12 slices with 706 kcal roughly each. Fat around 34g, carbs at 96g, protein 7g all per serving calculated."
-metaDescription: "Reduced Strawberry Cake with fresh berries simmered down, folded in gelatin-batter, baked layers and tangy pink cream cheese frosting. Twelve slices, rich flavor and texture."
-ogDescription: "Layers of strawberry reduction baked into cake batter, topped with pink cream cheese frosting tinted by puree and extract. Moist, tangy, berry deep."
-focusKeyphrase: "Reduced Strawberry Cake"
+description: "Strawberry cake made with fresh strawberries simmered into a thick reduction, folded into gelatin-infused white cake batter. Topped with tangy cream cheese frosting and strawberry puree for deep berry flavor."
+metaDescription: "Strawberry cake recipe with fresh strawberry reduction, cream cheese frosting, and strawberry puree. Moist two-layer homemade cake. Make it tonight."
+ogDescription: "Homemade strawberry cake layered with cream cheese frosting and strawberry puree reduction. Fresh, tangy, and naturally sweet."
+focusKeyphrase: "strawberry cake with cream cheese frosting"
 date: 2025-10-17
 draft: false
 image: reduced-strawberry-cake.jpg
@@ -20,9 +20,16 @@ tags:
 - "dessert"
 - "homemade"
 keywords:
-- "strawberry cake"
-- "gelatin batter"
-- "cream cheese frosting"
+- "strawberry cake with cream cheese frosting"
+- "strawberry reduction cake"
+- "homemade strawberry cake"
+- "layered strawberry cake"
+- "cream cheese frosting strawberry"
+- "fresh strawberry cake recipe"
+- "strawberry puree cake"
+- "two layer cake recipe"
+- "strawberry gelatin cake"
+- "strawberry cake from scratch"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "706"
@@ -83,3 +90,92 @@ faq:
 - "q: Best way to store cake? a: Wrapped tightly in fridge or freezer wraps preserves freshness. Chill for firmness but store at fridge temp. Room temp for short periods only; strawberries spoil fast out of cold. Frosting softens with warmth, hold shape better cold."
 
 ---
+
+Chopped strawberries, heavy saucepan, no lid. That's where everything starts. Three cups down to barely three-quarters, ruby red, the smell thick enough to stand in. Most people don't bother reducing—they just dump berries in and call it fresh. This cake isn't that.
+
+## Why You'll Love This Strawberry Cake
+
+Tastes like you actually made it from scratch. Not from a box, even though there's a box in there. The reduction changes everything—the flavor concentrates instead of diluting.
+Two layers. Homemade frosting. Takes work but it's the kind that matters.
+Strawberry gelatin mixed into the batter itself. Not a shortcut. A choice. Changes the crumb texture and makes it tender without being fragile.
+Leftovers stay moist for three days. Maybe four. Keeps getting better.
+Pink naturally, no need to overdo the coloring if you reduce the berries long enough. Works.
+
+## What You Need for a Layered Fresh Strawberry Cake
+
+Three cups of fresh strawberries, chopped rough. Doesn't need to be perfect. One standard box of white cake mix—reduce it by 10 grams if you want less sweetness, but skip it if that sounds fussy. Three large eggs. One cup water. Half cup vegetable oil, or light olive, or avocado. Whatever you have.
+
+Strawberry gelatin powder for the batter. Agar-agar works if you're vegetarian and willing to hunt for it.
+
+For the frosting: eight ounces cream cheese softened, ten tablespoons unsalted butter softened, one teaspoon strawberry extract. Or swap that for vanilla and zest a fresh strawberry into it instead. Five cups of powdered sugar sifted—don't skip the sifting, it matters. One cup plus two tablespoons of the thick strawberry puree reduction you're about to make. Pink gel food coloring, but probably less than you think. Heavy cream in tablespoon increments.
+
+## How to Make the Strawberry Reduction
+
+Chopped strawberries go straight into a heavy 2-quart saucepan. Medium heat. No lid. You want the steam escaping so the flavors concentrate instead of steaming back into the berries.
+
+Gets bubbling fast. Then simmer hard, stir every few minutes so it doesn't stick or scorch. The berries break down slowly—fifteen to twenty-five minutes of watching it. You're looking for the liquid to almost disappear and the whole thing to thicken. The color gets darker, deeper. Not brown. That's too far.
+
+Mash the berries with a potato masher as they soften. You want them broken but not completely smooth yet. The consistency changes when you do this—it goes from jammy to paste-like in a way that happens faster than just time alone.
+
+Pull it off the heat. Let it cool. Then stick it in the fridge uncovered for an hour. It thickens more, sets up properly. Don't cover it or condensation drips back in and ruins everything you just worked for.
+
+The whole reduction should be down to about three-quarters of a cup. Ruby colored. Sticky. This is what goes in the cake and the frosting.
+
+## How to Make the Two Layer Strawberry Puree Cake from Scratch
+
+Preheat to 350 degrees. 325 if your oven runs hot or you're using dark pans. Line two 8-inch cake pans with parchment disks and spray the sides. Edges stick without it—learned that the hard way.
+
+Dry cake mix and strawberry gelatin go in a bowl together. Eggs, water, oil. Electric mixer on low speed, just combine. Don't overbeat. The batter should be velvety, not whipped full of air. Overbeating makes it tough.
+
+Fold in half cup of the cooled strawberry puree. Not whisking. Folding. Watch for the streaks to disappear—that's when you know it's evenly mixed.
+
+Divide batter between the pans. Even split. Tap the pans gently against the counter to release any trapped air bubbles.
+
+Bake for twenty-five to thirty minutes. But start checking at twenty-three. A toothpick comes out clean with moist crumbs—not wet batter, not dry cake. The line between moist and overdone happens faster than you think.
+
+Cool the pans for ten minutes on a wire rack. Loosen the sides with a thin knife if they're stubborn. Invert them onto the rack, peel off the parchment, and let them cool completely top-side up.
+
+## Fresh Strawberry Cake Frosting and Assembly
+
+Beat cream cheese with softened butter and strawberry extract until smooth. No lumps. Homogenous paste. This takes a couple minutes.
+
+Add powdered sugar slowly. Beat fully after each addition. The frosting thickens but stays pliable. You're not making buttercream—this is softer, more spreadable.
+
+Fold in the remaining quarter cup of strawberry puree reduction. Gently. This is where the color builds and the zing comes back. Beat once more, soft motion.
+
+Heavy cream goes in tablespoon at a time. One tablespoon, stir. Another if needed. You want it to spread easily but hold its shape. Too thin and it runs off the cake. Too thick and you tear out crumbs.
+
+Pink gel coloring in drops. Fold carefully. You need less than you think because the puree already gives color. Build up to pastel, not neon.
+
+Trim the cake tops level with a bread knife, sawing motion, steady hand. Domed peaks make assembly impossible.
+
+First layer on a serving plate, right-side up. Dollop about half cup frosting, spread evenly to the edges with an offset spatula. Don't overdo it or the filling oozes out when you press the top layer down.
+
+Second layer on top. Press gently but firm. It seals. Spread remaining frosting on top and all around the sides, thick coat, cover it completely.
+
+Chill. Frosting firms up. Flavors meld. Freezer or fridge depending on when you need it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Strawberry Puree Layer Cake
+
+**Can I use frozen strawberries instead of fresh?**
+Sure. Thaw them first, drain the liquid off. They reduce faster because they're already breaking down. Watch the timing—might take ten to fifteen minutes instead of twenty-five.
+
+**What if I don't want to reduce the strawberries?**
+It won't taste the same. The reduction is the difference between a strawberry cake and a strawberry-flavored cake. Not worth skipping.
+
+**Do I have to use strawberry gelatin?**
+Not really. Vanilla extract and more strawberry puree works. Changes the texture slightly—less set, a bit more tender. Some people prefer it.
+
+**How do I know when the frosting is the right consistency?**
+Spread some on a plate with a knife. If it holds the shape of the knife mark, it's done. If it flattens out immediately, add more heavy cream. If you can barely get it to move, add more puree reduction.
+
+**Can I make this the day before?**
+Yeah. Wrap it in plastic, stick it in the fridge. The frosting sets, the crumb stays moist. Actually tastes better the next day.
+
+**Is the strawberry extract necessary?**
+No. Vanilla and fresh strawberry zest works fine. Extract just makes the strawberry flavor louder. Comes down to preference.
+
+**What if my strawberries weren't very sweet?**
+The reduction still works. Add a tablespoon of honey or sugar to the puree if you want it sweeter. Or just leave it. The cake mix and frosting have enough sugar anyway.
