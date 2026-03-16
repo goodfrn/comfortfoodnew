@@ -1,10 +1,10 @@
 ---
-title: "Zesty Shortbread Bars"
+title: "Shortbread Millionaire with Lemon Glaze"
 slug: "zesty-shortbread-bars"
-description: "A lemon-infused shortbread baked lower and slower to catch that light golden edge. Uses cornstarch for that tender crumble. Butter creamed well with sugar and brightened with lemon and vanilla extracts. Flour folded in until dough clumps into a ball. Pressed firmly but gently into pan, baked until edges whisper golden. Cool slightly then cut while warm—cracking edges happen if too chilled. Glazed tops with tangy lemon icing spiked with butter for richness. A simple substitution for lemon extract with lemon zest or even yuzu. Cornstarch could be swapped for arrowroot if needed—keeps the crumb soft. If dough sticks, wet fingertips help without watering down. Watch visual cues more than clocks. Expect sizzle and aroma shifts marking doneness. Bite into buttery, citrus-laced richness balanced with a creamy glaze—shortbread done right, no shortcuts."
-metaDescription: "Zesty Shortbread Bars baked low and slow with cornstarch for tender crumb, bright lemon zest, and a creamy lemon butter glaze. Cuts clean warm, edges golden."
-ogDescription: "Baked low, these lemon-scented shortbread bars crack clean warm. Cornstarch tenderizes crumb, lemon zest and glaze cut through buttery richness nicely."
-focusKeyphrase: "Zesty Shortbread Bars"
+description: "Buttery shortbread millionaire with lemon zest and cornstarch for a tender crumble. Topped with tangy lemon juice glaze and melted butter for richness."
+metaDescription: "Make shortbread millionaire with lemon zest and cornstarch for tender, buttery cookies. Finished with a lemon juice glaze. Try it tonight."
+ogDescription: "Buttery shortbread millionaire with lemon zest and cornstarch. Topped with tangy lemon glaze and melted butter."
+focusKeyphrase: "shortbread millionaire"
 date: 2026-01-14
 draft: false
 image: zesty-shortbread-bars.jpg
@@ -21,9 +21,18 @@ tags:
 - "citrus"
 - "easy"
 keywords:
+- "shortbread millionaire"
+- "millionaire shortbread cookie recipe"
+- "lemon shortbread cookies"
+- "lemon shortbread"
+- "shortbread cookies with lemon"
 - "shortbread bars"
-- "lemon zest"
-- "cornstarch"
+- "lemon shortbread recipe"
+- "shortbread crust"
+- "millionaire bars"
+- "shortbread bar cookies"
+- "lemon curd shortbread"
+- "shortbread bars recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "427"
@@ -69,3 +78,93 @@ faq:
 - "q: How to store bars to keep texture? a: Airtight container best; keeps moisture balanced but after two days bars soften. Microwave brief bursts restore some firmness; don’t overdo or glaze melts. Can freeze bars wrapped tightly; thaw completely before glazing or serving. Glaze holds better refrigerated; bring bars to room temp before eating."
 
 ---
+
+Preheat to 320. Shortbread gets grainy at higher temps. Three layers coming — butter base, then nothing fancy, then lemon glaze on top that's kind of the whole point.
+
+## Why You'll Love This Lemon Shortbread Cookie Recipe
+
+Takes 15 minutes to prep if you have a mixer. Rest of the time it's just waiting.
+The butter-to-sugar ratio keeps it from tasting like pure sweetness. Actual flavor underneath.
+Lemon zest works better than extract — fresher, less perfumy, tastes like an actual lemon.
+Cornstarch instead of all flour. Makes it snap instead of crumb. That's the texture thing that's hard to explain until you bite one.
+Cold-pressed bars cut clean. Most people don't wait. Worth it though.
+
+## What You Need for Lemon Shortbread Cookies
+
+Salted butter softened. A cup. The salt matters — cuts the richness so it doesn't sit heavy on your tongue.
+
+Two thirds cup sugar. Granulated, not brown. Brown changes the whole thing.
+
+Fresh lemon zest. Two teaspoons scraped right off the peel. Smells incredible the second you do it. Extract is fine if that's what you have — just use one teaspoon and it's less aggressive.
+
+Vanilla extract. One teaspoon. Doesn't taste like vanilla, just makes everything feel rounder somehow.
+
+One and a half cups flour. Regular all-purpose. Nothing fancy.
+
+Two tablespoons cornstarch. This plus the flour is the secret to the snap. Arrowroot powder works the same way.
+
+For the glaze: powdered sugar, melted butter, milk, fresh lemon juice. That's it. The glaze is where the lemon gets bright again after baking mellows it out.
+
+## How to Make Lemon Shortbread
+
+Cream the butter and sugar in a mixer on medium for maybe three minutes. It'll go pale and fluffy. Scrape the sides halfway through or the bottom corners stay grainy.
+
+Add the lemon zest and vanilla. Mix slow. You're just distributing it, not aerating anymore. Takes like a minute.
+
+Pour in the flour and cornstarch together. Go low speed. This is the part where you can wreck it by mixing too hard — you want a soft dough ball, not something that's been worked to death. It'll pull together in the center of the bowl and you're done. Thirty seconds maybe.
+
+Press it into the panned pan with damp fingertips. Cold water on your fingers keeps it from sticking to your hands but doesn't add moisture to the dough. Smooth it even. Doesn't have to be perfect.
+
+## How to Get Lemon Shortbread Bars Crispy and Set
+
+Bake 37 to 42 minutes at 320. The edges'll turn pale gold first. Center should feel firm when you press it lightly — not jiggly, not hard. Just set. You'll smell it before you see it — that rich buttery lemon smell means you're close. Sometimes there's a faint crackle sound when it's done, which sounds wrong but isn't.
+
+Pull it out and let it sit in the pan for exactly five minutes. Warm shortbread cuts clean. Let it go cold and every bar cracks in a weird way. Just five minutes changes everything.
+
+Lift the whole thing out using the parchment edges. Don't try to take bars out of the pan yet. Let it cool all the way on a rack, parchment still on, maybe 20 minutes.
+
+Then make the glaze. Whisk powdered sugar, melted butter, milk, and lemon juice in a bowl until it's smooth. Not lumpy. Smooth takes like 30 seconds. If it's too thick, add milk drop by drop. Too thin, add more sugar.
+
+Dip just the top of each bar. Let the excess drip back into the bowl. Lay them on a wire rack over a baking sheet so the glaze sets harder with air underneath.
+
+## Lemon Shortbread Tips and Common Mistakes
+
+Don't soften the butter in the microwave. Just leave it out for an hour. Microwave softens the outside and leaves it cold inside and it creams weird.
+
+The cornstarch isn't optional. People always try to skip it and add more flour instead. The texture completely changes. Not better. Just different and chewy.
+
+Fresh lemon juice in the glaze, not bottled. Bottled tastes metallic after a day. Fresh stays bright.
+
+Line the pan with parchment with the edges hanging over. It makes removal clean instead of a crumble situation. Costs nothing.
+
+Don't overbake it. The edges turning pale gold is the sign. Centers will keep cooking after you pull it out from the residual heat.
+
+If your bars came out greasy or dense, the butter probably wasn't soft enough or got overworked. Soft butter creams light. Cold or overmixed butter stays heavy.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Millionaire Shortbread Cookie Recipe
+
+**Can I use lemon extract instead of fresh zest?**
+Yeah, use one teaspoon. It's sharper though. Not as good but it works. Won't taste quite the same.
+
+**How long do these keep?**
+A few days in an airtight container. After that the texture starts going soft. Microwave for 10 seconds if you want it crispy again.
+
+**Can I make this without cornstarch?**
+You can but it won't snap the same way. You'll get a shortbread cookie that crumbles more. Not bad, just softer.
+
+**Why did mine spread too much?**
+Butter was probably too soft or warm when you mixed. Room temperature matters. If your kitchen's hot, chill the dough in the pan for 30 minutes before baking.
+
+**Is this actually a millionaire bar?**
+Not the traditional kind with the caramel layer. This is just the lemon shortbread base with a lemon glaze. The name's kind of a misnomer but the flavor works.
+
+**Can I freeze these?**
+Cool them completely first, then yeah. They freeze fine for a couple weeks. Thaw at room temp — don't microwave them frozen.
+
+**What's the difference between using lemon extract vs lemon zest for this shortbread bar recipe?**
+Fresh zest tastes like actual lemon. Extract tastes like lemon-flavored perfume if you overdo it. Zest wins every time for a lemon bars or lemon shortbread biscuit situation.
+
+**Why does the recipe call for 320 degrees instead of 350?**
+Shortbread has so much butter it burns easy at high temps. 320 lets it cook through without browning the edges to a crisp. Lower and slower is the move.
