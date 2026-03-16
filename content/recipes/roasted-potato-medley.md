@@ -1,10 +1,10 @@
 ---
-title: "Roasted Potato Medley"
+title: "Roasted Potatoes with Herbs & Butter"
 slug: "roasted-potato-medley"
-description: "Chunky potatoes roasted in butter with a savory dry soup mix twist. Skin-on or off, bites crunchy with soft insides. Onion soup powder swapped for dry herb blend; aroma rises as butter melts. Baked slowly until edges brown, tender centers signal readiness. Occasional stirring keeps exterior crispy without mush. Hands-on cues better than timers. A classic with a subtle herb upgrade. Perfect for my lazy weekends and last-minute sides."
-metaDescription: "Roasted Potato Medley with Yukon Golds, melted butter, and a dry herb mix. Crunchy skins, soft centers, and hands-on cues for roasting success."
-ogDescription: "Chunky roasted Yukon Gold potatoes tossed in butter and herbs. Watch for sizzle, smell herbs crisping, and poke for tender edges. No mush, just texture."
-focusKeyphrase: "Roasted Potato Medley"
+description: "Crispy roasted potatoes made with Yukon Gold chunks, melted butter, and dry herbs like thyme and rosemary. Golden edges, tender centers."
+metaDescription: "Roasted potatoes recipe with Yukon Gold, butter, and fresh herbs. Crispy outside, soft inside. Easy comfort food side. Make it tonight."
+ogDescription: "Butter roasted Yukon Gold potatoes with thyme and rosemary. Crispy, golden, and irresistibly tender."
+focusKeyphrase: "roasted potatoes"
 date: 2026-01-10
 draft: false
 image: roasted-potato-medley.jpg
@@ -22,8 +22,14 @@ tags:
 - "easy dinner"
 keywords:
 - "roasted potatoes"
-- "Yukon Gold potatoes"
-- "herb butter potatoes"
+- "easy roasted potatoes"
+- "butter roasted potatoes"
+- "roasted yukon gold potatoes with herbs"
+- "crispy roasted potatoes with rosemary and thyme"
+- "potato side dish"
+- "skin-on roasted potatoes in butter"
+- "comfort food potatoes"
+- "roasted potatoes with dry herb seasoning"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "220"
@@ -68,3 +74,53 @@ faq:
 - "q: How to store leftovers? a: Airtight container fridge. Best within two days. Reheat in oven at 350°F keeps crisp texture. Microwave heats unevenly, sometimes chewy or soggy. Cool leftovers fast; warm air toughens skins and dulls flavor. Avoid freezing, changes texture weird."
 
 ---
+
+Forty-five minutes if you move fast. Potatoes cut, butter melted, into the oven. That's the whole thing. Well, almost.
+
+## Why You'll Love This Roasted Potatoes Recipe
+
+Crispy outside, soft in the middle. Every single time. Not just a side dish — people ask for seconds on this alone. Butter does that. The herbs help. Takes 70 minutes total but most of it's the oven doing the work while you're doing literally anything else. Comfort food that's actually easy. One pan. No fuss. Leftovers taste better cold the next day, maybe even better than fresh. And cleanup's just warm water.
+
+## What You Need for Butter Roasted Potatoes
+
+Yukon Gold potatoes. Two pounds, cut into chunks about the size of dice. Skin stays on or comes off — doesn't matter that much, but skin stays crispier. Four tablespoons butter, melted. Not browned. Just melted. A packet of dry herbs — thyme, rosemary, parsley mixed together. Salt and fresh black pepper. Optional yellow onion, diced, if you want bite. That's actually it.
+
+## How to Make Crispy Roasted Potatoes
+
+Set the oven to 390°F. Fan on if you've got it. Cut potatoes while the oven heats. Keep the chunks roughly the same size — an inch, maybe a little less. Smaller pieces get crispier. Bigger pieces stay softer inside. Either works. Melt the butter slow in the microwave or a small pot. Don't let it brown. Pour it into a roasting pan — doesn't need grease. Toss the potatoes with the butter first, then the herbs, then salt and pepper. Mix it so everything's coated. Doesn't have to be perfect. Add the onions now if you're using them. Slide the pan into the oven, middle rack. Don't think about it for 20 minutes.
+
+## How to Get Roasted Potatoes Crispy and Golden
+
+After 20 minutes, open the door. You'll hear sizzle. That's right. Stir the potatoes around with a spatula or wooden spoon. Doesn't take long. Gets them from sticking and browns them evenly on different sides. Back in the oven. Check again at 45 minutes total. Poke one with a fork. Should give a little. Not mushy. The edges should be golden, kind of the color of old wood. If they're still pale, add five to ten more minutes. Watch it though. Every oven runs different. Want them extra crispy? Flip everything onto a baking sheet and broil for three to five minutes. Stay in the kitchen for this part. They'll burn if you look away.
+
+## Roasted Potatoes Tips and Common Mistakes
+
+Sticking happens. Keep a small bowl of water near the oven. Quick splash fixes it before it gets burnt. Don't crowd the pan. Potatoes touching each other steam instead of roast. If your pan's small, use two pans. Dry herb mix works better than fresh here. Fresh herbs burn. Tried it once. Just doesn't work. Some people add onions partway through. Don't. They either get burned or stay raw. Add them at the start with the potatoes. Black pepper goes on fresh after roasting — tastes better that way, more peppery. Parsley on top is optional but changes it. Adds color, adds freshness. The leftovers reheat in the oven at 350 for about ten minutes. Microwave makes them soft and weird. Not worth it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Potatoes
+
+**Can I use regular white potatoes instead of Yukon Gold?**
+Yeah, but they get softer faster and don't get as crispy. Yukon Gold's different. The skin and starch both handle heat better. Reds work too. White potatoes are kind of mushy.
+
+**How do I know when they're actually done?**
+Fork poke. Should go through easy but not fall apart. The skin should be wrinkled a little and golden on the edges. If they look pale, they need more time. Not done yet.
+
+**Can I cut them bigger or smaller?**
+Smaller pieces get crispier. Bigger pieces take longer and stay softer inside. Your choice. Just keep them consistent so they cook evenly. Some raw, some overcooked is annoying.
+
+**Should I peel the potatoes?**
+Don't. Skin stays on. Crisps up better. Adds texture. Looks better too. If you hate potato skin for some reason, peel them, but you'll miss the crispy part.
+
+**What if I don't have dry herbs?**
+Fresh herbs burn. Don't use them during cooking. You could use a different dry seasoning — oregano works, garlic powder works. Or nothing. Potatoes with just salt and butter are actually fine. Add fresh parsley after, if you want.
+
+**Can I make these ahead of time?**
+Cook them full amount, then cool them down. Store them in a sealed container in the fridge. Reheat in a 350°F oven for ten minutes. They come back. Microwave and they turn to mush. The texture falls apart.
+
+**Does the butter have to be unsalted?**
+Salted butter works. Just use less salt in the seasoning. Add it at the end after you taste. More control that way.
+
+**Why does my pan stick so bad?**
+Metal pans stick less. Ceramic sticks more. Use a spatula, not a wooden spoon on ceramic. Splash of water helps. Some people spray the pan first. I don't. Just watch it and stir halfway through.
