@@ -1,10 +1,10 @@
 ---
-title: "Smoky BBQ Chicken Wings"
+title: "Baked Chicken Wings with Smoked Paprika"
 slug: "smoky-bbq-chicken-wings"
-description: "Chicken wings chopped at joints into two pieces each, marinated overnight in a tangy, smoky blend featuring tomato paste, apple cider vinegar, olive oil, dark brown sugar, smoked paprika, coriander, cumin, salt, and fresh garlic. Oven-roasted until the skin crisps and meat juices run clear. Yields 48 wing pieces, gluten-free, dairy-free, nut-free. A savory, smoky flavor with a subtle heat and balance of sweetness and acidity. Prep includes chopping, simmering sauce to thicken, long marination for depth, and roasting in batches to maintain crispness."
-metaDescription: "Smoky BBQ chicken wings cut at joints, marinated long in tangy, smoky sauce with tomato paste and spices, then roasted crisp. Gluten, dairy, nut-free."
-ogDescription: "Chop wings at joints, marinade overnight in smoky blend with paprika and garlic, roast until crispy skin snaps and juices run clear. Crisp edges guaranteed."
-focusKeyphrase: "Smoky BBQ chicken wings"
+description: "Smoky baked chicken wings marinated in tomato paste, apple cider vinegar, and smoked paprika. Crispy skin, tender meat, naturally gluten-free. Perfect for game day."
+metaDescription: "Baked chicken wings recipe with smoked paprika marinade. Tangy tomato paste and apple cider vinegar create crispy, flavorful wings. Try it tonight."
+ogDescription: "Crispy baked chicken wings with smoked paprika, tomato paste, and apple cider vinegar marinade. Savory, smoky, and perfectly tender."
+focusKeyphrase: "baked chicken wings"
 date: 2025-08-15
 draft: false
 image: smoky-bbq-chicken-wings.jpg
@@ -21,9 +21,18 @@ tags:
 - "comfort food"
 - "easy dinner"
 keywords:
-- "BBQ chicken wings"
-- "smoky wings recipe"
-- "overnight marinated wings"
+- "baked chicken wings"
+- "chicken wing marinade"
+- "crispy baked chicken wings"
+- "baked chicken wings recipe"
+- "oven baked chicken wings"
+- "paprika chicken recipe"
+- "chicken wing recipes baked"
+- "smoked paprika chicken"
+- "baked crispy chicken wings"
+- "chicken marinade recipe"
+- "oven wings recipe"
+- "easy baked chicken wings"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "280"
@@ -68,3 +77,71 @@ faq:
 - "q: How store leftovers? a: Raw wings freeze best; can roast frozen adding few min. Cooked wings last 3-4 days fridge, reheat in oven for crisp, not microwave. Sauce keep separate, simmer before serving. Avoid reusing raw marinade for safety."
 
 ---
+
+Trim the wings first—two segments each, throw away the tips. Pat them dry so the marinade actually sticks instead of sliding off. That part matters more than people think.
+
+## Why You'll Love This Chicken Wing Marinade Recipe
+
+Takes overnight, which sounds annoying but you're sleeping anyway. Wings come out tender all the way through, not just the edges. The spice isn't fire—it's warm and smoky, hits you in the back of your throat instead of your lips. Comfort food that actually tastes like something. Easy dinner prep. Mix it, coat the wings, refrigerate, done. Leftovers freeze. Heat them up days later and they're still good, maybe better.
+
+## What You Need for This Baked Chicken Wings Recipe
+
+Twenty-four whole wings, cut at the joints so you get forty-eight segments. Discard the tips—they're mostly skin and bone anyway.
+
+Tomato paste. A hundred milliliters. Not sauce, not straight tomato. The paste is thicker, more concentrated. Apple cider vinegar keeps it from being too sweet. Extra virgin olive oil, though honestly regular works. Dark brown sugar, packed down. Smoked paprika—the real stuff, not regular paprika. Ground coriander. Ground cumin. Kosher salt. Three garlic cloves, minced fine. Worcestershire sauce is optional but add it. Fifteen milliliters. It disappears into the background and makes everything taste deeper.
+
+That's it. Everything else is technique.
+
+## How to Make This Oven Baked Chicken Wings Recipe
+
+Get a saucepan. Medium heat. Dump the tomato paste, apple cider vinegar, olive oil, brown sugar, smoked paprika, coriander, cumin, salt, garlic, and Worcestershire all at once. Don't overthink the order. Stir until it stops being lumpy and the sugar starts melting. Bring it to a gentle boil—not aggressive, just breaking the surface. Keep stirring. The sugars need to meld with the spices or you get gritty pockets. About six minutes. You'll smell it getting denser, smokier. That's your cue.
+
+Pull it off heat. Let it cool to room temperature—pour it into a bowl if you're impatient, it speeds things up.
+
+Pat those wings dry again. They should feel almost squeaky. Throw them in a large bowl. Pour the cooled marinade over everything. Get your hands in there and stir until every piece is coated, especially the undersides where the skin is thinner. This is where flavor actually goes in. Don't rush it. Cover tightly. Refrigerate for minimum ten hours. Overnight is better. This isn't optional. The wings won't be tender without the time.
+
+## How to Get Baked Crispy Chicken Wings Every Time
+
+Twenty minutes before you cook, pull them out of the fridge. Temperature matters. Preheat the oven to 175 Celsius—that's 350 Fahrenheit. Line your baking sheets with parchment. Makes cleanup nothing.
+
+Space the wings out. No crowding. Crowded wings steam. Steamed wings get soft. Arrange them single layer, not touching. Middle rack. That's where the heat's most even.
+
+Twenty-five minutes on the first side. You'll hear them crackling before you smell them. The sauce is caramelizing. The skin is tightening. Flip them—careful, the coating's sticky. Another fifteen minutes. The edges should be golden, almost dark. Pierce the thickest part. Juices run clear. Skin snaps when you bend it. That's done.
+
+If you're not totally sure, five more minutes won't kill it. Watch it though. The line between crispy and dry is maybe three minutes.
+
+Cook in batches if your sheet's small. Leftovers freeze. Straight from frozen, same time, maybe add two minutes. They come back fine.
+
+## Easy Baked Crispy Hot Wings Tips and Common Mistakes
+
+The marinade has to cool before the wings go in. Hot marinade starts cooking the outside while the inside stays raw. You'll end up with burnt skin and soft meat. Room temperature. Non-negotiable.
+
+Don't skip the pat dry step at the beginning. Moisture is the enemy of crispy. Sounds simple. Changes everything.
+
+The second flip is important. First side gets the smoke ring from the sauce caramelizing. Second side gets the color and snap. Flip only twice. More flipping and the coating slides around.
+
+Worcestershire sounds optional because the recipe says it is. Don't skip it. It's not there to taste like Worcestershire. It's there to make everything taste sharper, rounder somehow. You won't identify it. You'll just notice the wings taste better.
+
+Leftovers reheat better in a 200-degree oven for ten minutes than in the microwave. The microwave makes the skin rubbery. The oven wakes it back up.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Chicken Wing Marinade
+
+**Can you grill these instead of baking them?**
+Yes. Actually, grill marks add something. Oil your grates well or they stick. High heat, maybe five minutes per side. Watch them. Grill's faster than oven and hotter, so they catch faster. Marinade drips through the grates, which is a waste, but the caramelization on the meat itself is better.
+
+**How long does the marinade last in the fridge?**
+Seven days if you keep it sealed. After that it starts separating. The oil rises. It's fine to use. Tastes fine. Just stir it again.
+
+**What if I only have twelve hours, not overnight?**
+Ten hours is the minimum. Twelve is better. Six hours and it works but the meat won't be as tender. The flavor's still there. The texture's different.
+
+**Can you make double?**
+Yeah. Everything scales up. The cooking time stays the same because you're not changing the thickness of the meat. Just more trays.
+
+**Do the wings need to stay spaced out?**
+Absolutely. Touch them and they steam together instead of roasting. Defeat the whole point. Touching = soft. Spaced = crispy. That's the rule.
+
+**What goes wrong if you skip the cooling step?**
+Hot marinade starts cooking the outside skin immediately. You get a crust that tastes burnt even when it's not, and soft meat inside because the heat never penetrates evenly. Room temperature. Let it sit fifteen minutes if you're in a hurry.
