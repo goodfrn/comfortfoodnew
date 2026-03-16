@@ -1,10 +1,10 @@
 ---
-title: "Warm Fennel Grape Fish Salad"
+title: "Fennel Salad with White Fish & Grapes"
 slug: "warm-fennel-grape-fish"
-description: "A warm salad mixing white fish fillets with thinly sliced fennel and green grapes. Olive oil and fresh herbs bring brightness, lemon juice adds tang. Fish cooked quickly with shallots, broken into pieces. Lettuce base, tossed gently. Light, fresh, gluten and dairy free."
-metaDescription: "Warm Fennel Grape Fish Salad. Light, fresh flavors with subtle herbs contrast fish and crisp veggies in a gluten-free dish."
-ogDescription: "A unique warm salad with fish and fennel. Fresh flavors combine in this light gluten-free dish that offers a twist on traditional salads."
-focusKeyphrase: "Warm Fennel Grape Fish Salad"
+description: "Fennel salad featuring pan-seared white fish fillets, sliced fennel, and red grapes with spinach and arugula. Fresh dill, lime juice, and olive oil create a light, gluten-free dish."
+metaDescription: "Fennel salad recipe with white fish fillets, red grapes, and fresh dill. Light, gluten-free, and ready in minutes. Make it tonight."
+ogDescription: "Pan-seared white fish with thinly sliced fennel, red grapes, and fresh herbs. Light and naturally gluten-free."
+focusKeyphrase: "fennel salad"
 date: 2025-07-22
 draft: false
 image: warm-fennel-grape-fish.jpg
@@ -22,8 +22,13 @@ tags:
 - "fennel"
 keywords:
 - "fennel salad"
-- "fish recipe"
-- "healthy salad"
+- "fennel bulb salad"
+- "white fish recipes"
+- "fennel salad recipe"
+- "shaved fennel"
+- "flaky white fish"
+- "citrus fennel salad"
+- "baked white fish recipe"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "310"
@@ -73,3 +78,73 @@ faq:
 - "q: Can I add more vegetables? a: Absolutely, bell peppers or cucumbers could work. But stick to crunchy textures for balance. Experiment with choices."
 
 ---
+
+Fennel sliced thin, grapes halved, fish still warm from the pan. That's it. That's the salad.
+
+## Why You'll Love This Fennel Salad with White Fish
+
+Comes together in 40 minutes flat — 25 to prep, 15 to cook. Fish gets flaky and light. The fennel bulb stays crisp even after it hits the warm fish, which sounds weird but works. Lemon and lime cut through everything without making it feel heavy. Cold next day, maybe better. Healthy enough that you don't feel guilty eating it for lunch twice in a row.
+
+## What You Need for Fennel Bulb Salad
+
+White fish fillets. Three large ones, about 210 grams total. Basa works. Swai works. Doesn't matter much — the sauce carries it anyway. Three tablespoons of olive oil for the pan. Get it hot.
+
+One small red onion, chopped fine. Adds a bite at the end. Red onion, not white. The color sticks around.
+
+For the salad: two cups of mixed baby spinach and arugula. Two cups halved red grapes — they burst a little when the warm fish touches them. One small fennel bulb, sliced thin as paper. The fronds too, chopped up. Fresh dill. Three and a half tablespoons extra virgin olive oil. A tablespoon and a half of lime juice. Salt. Pepper.
+
+## How to Make Fennel Salad with White Fish
+
+Heat the olive oil in a non-stick pan. Medium-high. Wait for it to shimmer, maybe 2 minutes. Salt and pepper the fish fillets now, both sides. Don't be shy.
+
+Lay them flat in the pan. Three to four minutes per side — listen for the sizzle to stay steady. If it gets quiet, heat's dropping. If it cracks and pops, pull the heat back. The flesh should go opaque. You'll know because the white line creeps from the edge toward the center. When it reaches the middle, flip.
+
+Last minute — literally the last 90 seconds before you pull it out — throw the chopped red onion in the pan. Stir it around the fish. It'll soften fast. Gone soft, everything comes off heat.
+
+Flake the fish into bite-size pieces with a fork while it's still warm. Some pieces bigger, some smaller. Doesn't matter. Set it aside on a plate to cool just a bit.
+
+## How to Get Fennel Salad Right
+
+Slice that fennel bulb thin. Like, you should almost see through it. A sharp knife matters here. The knife does the work, not your hands. Just drag it. Dragging cuts cleaner than chopping.
+
+Put the spinach and arugula in a big bowl first. Add the halved grapes. Now the fennel slices — they stay separate for a second, then soften slightly when everything gets tossed. Fennel fronds go in. Dill goes in. Drizzle the extra virgin olive oil over top. Just cover it loosely. Add the lime juice.
+
+Toss it with your hands. Get everything coated. Now add the warm fish and onions. Fold gently — you want the fish in pieces but not shredded. Taste it. It'll probably need more salt. Add salt. Probably needs pepper too. Add pepper.
+
+Serve warm. Not hot — warm. The salad stays crisp, the fish stays flaky, the whole thing makes sense together.
+
+## Fennel Salad Tips and Common Mistakes
+
+Don't let the fish sit in the pan too long after the onion goes in or it dries out. Two minutes. That's enough.
+
+The fennel bulb salad concept works with any white fish recipes — basa fillet recipes, swai fish recipes, doesn't matter. White fish dish or fancy fish, the fennel cuts the richness the same way.
+
+Lime juice matters more than lemon here. Lime's sharper. Lemon's rounder. This needs sharp.
+
+Make it an hour ahead if you want. The salad softens slightly, absorbs the oil and lime. Some people prefer it that way. Some don't. Either works.
+
+Fennel apple salad is a different thing entirely — if you're thinking of swapping the grapes for apple, don't bother. Grapes stay too firm and sweet. Apple gets weird.
+
+One more: the red onion goes in the pan with the fish, not raw in the salad. Raw would overpower everything. Cooked softens it just enough.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Fennel Salad with White Fish
+
+**Can I use frozen white fish fillets for this recipe?**
+Yeah. Thaw them completely first. Pat them dry on paper towels or they'll steam instead of searing. Otherwise same timing.
+
+**What's the difference between basa fillet and other white fish for this dish?**
+Basa's milder. Swai's milder. White fish in general is delicate. For this salad it doesn't matter much because the fennel and lime do the heavy lifting.
+
+**How should I store leftovers of fennel bulb salad?**
+Container in the fridge, four days max. The fish stays better than you'd think. Fennel softens more but stays edible. Don't add the extra virgin olive oil until you're about to eat it or it gets a little slick.
+
+**Can I make the salad components ahead for a quick white fish dish?**
+Slice the fennel bulb. Chop the dill and fennel fronds. Halve the grapes. Keep them separate, dry, in the fridge. Cook the fish fresh when you're ready. Assembly takes five minutes.
+
+**Why does the recipe use lime juice instead of lemon for fennel and white fish?**
+Lime's sharper. Cuts through without feeling round. Lemon would make it taste like something you've had before. Lime makes it taste like this specific thing.
+
+**Is this actually healthy or does it just feel healthy?**
+It's healthy. White fish is lean. Spinach and arugula are basically nothing. Olive oil's fat but it's the right kind. The grapes are sugar but not much of it. 40 minutes total, so no time for damage.
