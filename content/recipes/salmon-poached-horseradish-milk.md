@@ -1,10 +1,10 @@
 ---
-title: "Salmon Poached Horseradish Milk"
+title: "Poached Salmon in Horseradish Milk with Dill"
 slug: "salmon-poached-horseradish-milk"
-description: "Saumon gently simmered in milk infused with creamy horseradish and lightly thickened with arrowroot. Four skinless fillets poached delicately till tender, seasoned with fresh dill rather than basil for an herbal twist. A quick alternative to corn starch, arrowroot brings clarity and smooth texture. Serve with sautéed asparagus and wild rice or quiona for a rustic meal. Timing is flexible; melt and bubble of milk signals readiness. Ideal for cooks needing a quick pan dish with subtle heat and clean flavors without eggs, nuts, or gluten."
-metaDescription: "Salmon gently poached in milk infused with creamy horseradish and arrowroot thickened sauce. Fresh dill brightens, served with asparagus and wild rice, subtle herbal notes."
-ogDescription: "Salmon poached in horseradish-infused milk, thickened with arrowroot. Delicate flavors, fresh dill finish, served with crisp asparagus and nutty wild rice or quinoa."
-focusKeyphrase: "salmon poached horseradish milk"
+description: "Poached salmon fillets in creamy horseradish milk with fresh dill. Four tender skinless portions simmered gently in milk thickened with arrowroot for a smooth, elegant sauce."
+metaDescription: "Poached salmon in horseradish milk—tender fillets with fresh dill and creamy sauce. Quick, gluten-free, and elegant. Make it tonight."
+ogDescription: "Tender salmon fillets poached in creamy horseradish milk with fresh dill. Elegant, quick, and naturally gluten-free."
+focusKeyphrase: "poached salmon in horseradish milk"
 date: 2025-08-02
 draft: false
 image: salmon-poached-horseradish-milk.jpg
@@ -21,9 +21,15 @@ tags:
 - "one pot"
 - "main dish"
 keywords:
+- "poached salmon in horseradish milk"
+- "poached salmon fillets with horseradish cream sauce"
+- "salmon with horseradish sauce"
+- "creamy salmon poached in milk"
+- "easy salmon dinner"
+- "one pot salmon"
+- "salmon cooked in milk and horseradish"
 - "poached salmon"
-- "horseradish milk sauce"
-- "arrowroot thickening"
+- "salmon dinner"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "310"
@@ -72,3 +78,87 @@ faq:
 - "q: How to store leftovers? a: Refrigerate salmon and sauce separately if possible. Store in airtight container, keep sauce chilled tight to prevent thick skin formation. Reheat gently on low heat, stir milk sauce slowly. Avoid microwave high heat; sauces separate fast."
 
 ---
+
+Salmon goes in milk. Not water. Not wine. Just milk and horseradish and it works somehow. Twelve minutes to start the sauce. Then the fish. Done in thirty-four minutes flat.
+
+## Why You'll Love This One Pot Salmon Dinner
+
+Takes thirty-four minutes total — actually less if you move fast. Salmon dinner on a weeknight without the fuss.
+
+The whole thing happens in one pot. No separate pan for vegetables. No multiple dishes stacking up. Just one thing to clean.
+
+Horseradish cuts through the richness. Not spicy like you'd think. Just sharp enough that it tastes like something. Dill finishes it and it gets bright.
+
+Creamy without being heavy. The milk thickens just enough. Tastes like you planned this out. You didn't.
+
+Cold salmon from this tastes better the next day. Not many things work that way. This does.
+
+## What You Need for Poached Salmon Fillets with Horseradish Cream Sauce
+
+Milk. Whole milk works. Two-percent fine. Not skim — it gets thin.
+
+Creamy horseradish from a jar. The kind in the condiment aisle. Not the hot kind in a tube. Not powder. The actual creamy stuff. About a tablespoon and a third.
+
+Arrowroot powder. Thickens faster and clearer than cornstarch. Not cornstarch. Different texture. Arrowroot holds.
+
+Salmon. Skinless fillets. Six hundred grams total — four portions. Doesn't have to be perfect pieces. Cut them yourself or get them cut.
+
+Salt. Cracked black pepper. Fresh dill. Chopped. About two and a half tablespoons.
+
+That's it. Nothing else needed.
+
+## How to Make Creamy Salmon Poached in Horseradish Milk
+
+Start off the heat. Pour the milk into a pot — not on the stove yet. Add the horseradish. Whisk in the arrowroot. Keep going until there's no lumps at all. This matters. Lumps stay lumps.
+
+Now turn it to medium-low. Not medium. Medium-low. Stir constantly. The milk wants to scorch on the bottom if you don't. Keep the whisk moving. You'll feel when it starts to thicken — maybe three minutes, maybe five. Depends on your stove.
+
+Tiny bubbles form at the edges first. Not a boil. Just bubbles. That's when you season. Salt. Pepper. Taste it. It should taste sharp and creamy at the same time.
+
+## How to Get Salmon Tender and the Sauce Perfect
+
+Gently nestle the salmon in. Four pieces. Don't drop them. Just lay them in the warm milk. Lower the heat to very low. This is poaching. Not boiling. The milk barely moves.
+
+Four minutes per side. Watch the color change. The fish goes from bright pink to pale. That's how you know. Press it lightly with your finger — it should give a little but not fall apart.
+
+Around minute six or seven, taste the sauce. Adjust now if you need more horseradish or salt. The dill goes in at the end so don't count on it to fix things mid-cook.
+
+Milk wants to get a skin on top sometimes. Just stir it gently. Breaks it up. Doesn't hurt anything. Watch the heat the whole time — if it bubbles too hard it curdles. Low. Keep it low.
+
+Transfer the salmon to plates carefully. It'll be soft. Use a spatula. Spoon the horseradish milk over everything. Dill on top. Serve it right now.
+
+## One Pot Salmon Tips and Common Mistakes
+
+Don't skip whisking the arrowroot in cold milk. It dissolves in cold but clumps if you dump it in hot. Same with the horseradish. Cold milk first.
+
+The milk will thicken as it cools. It looks thinner than you want when it's hot. Trust it. It sets up.
+
+Overheating kills everything. The milk splits. The salmon gets rubbery. Low heat from the start. Actually low. Not "medium-low that feels medium."
+
+If you forget about it and the milk boils hard, it's probably done for. The texture changes. Start over. Doesn't take that long anyway.
+
+Salmon thickness matters slightly. Thin fillets go faster. Thick ones need maybe an extra minute per side. Poke it. You'll know.
+
+You can poach the salmon, cool it, then warm the whole thing up later. Works cold too. Horseradish milk gets thicker when cold — good texture for leftovers.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Salmon Poached in Horseradish Milk with Dill
+
+**Can I use a different type of fish?**
+Probably. Cod works. Halibut works. Anything that stays together when cooked. Doesn't have to be salmon.
+
+**What if I don't have arrowroot powder?**
+Cornstarch does the same thing. Uses a tiny bit more. The sauce gets slightly less clear. Tastes the same.
+
+**How long does it keep?**
+Three days in the fridge. Covered. The sauce gets thicker when cold, which is actually better.
+
+**Can I make the sauce ahead?**
+Yeah. Make it, cool it, reheat gently with the salmon in it. Don't boil it again.
+
+**What vegetables work on the side?**
+Green beans. Asparagus. Roasted beets. Sautéed spinach. Honestly anything. Not picky.
+
+**What if the milk curdles?**
+It's done. Start over. Happened because heat was too high. Next time lower.
