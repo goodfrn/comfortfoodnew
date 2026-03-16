@@ -1,10 +1,10 @@
 ---
-title: "Smoky Chicken Tortilla Soup"
+title: "Chicken Tortilla Soup with Crispy Tortilla Strips"
 slug: "smoky-chicken-soup"
-description: "Chunky, smoky chicken soup loaded with corn, chipotle heat, and rich tomato broth. Tortilla strips baked crisp, not fried, layered on top. Uses fire-roasted tomatoes swapped for canned diced tomatoes for earthier flavor. Chicken shredded instead of diced for texture contrast. Chipotle peppers in adobo bring smoky heat, but swap for smoked paprika if can’t find them. Broth simmered gently until aromas mingle, soup thickens slightly. Onion and garlic start caramelizing to deepen base. Oven-baked tortilla strips get crunchy gold edges without grease, tossed mid-bake for even browning. Salt and pepper adjusted through cooking; taste early, adjust late. Perfect for chilly evenings when you want warmth with a little bite."
-metaDescription: "Smoky Chicken Tortilla Soup packed with shredded chicken, smoky chipotle heat, corn, and oven-baked tortilla strips. Warm, hearty, with layers of texture and flavor."
-ogDescription: "Chunky smoky chicken soup with chipotle fire, juicy corn, and crunchy baked tortilla strips. A bowl full of texture, heat, and rich tomato broth goodness."
-focusKeyphrase: "Smoky Chicken Tortilla Soup"
+description: "Smoky chicken tortilla soup with fire-roasted tomatoes, corn, and chipotle peppers in adobo. Topped with crispy baked tortilla strips for crunch without the grease."
+metaDescription: "Chicken tortilla soup recipe with shredded chicken, fire-roasted tomatoes, corn, and chipotle adobo. Baked tortilla strips on top. Make it tonight."
+ogDescription: "Smoky, hearty chicken tortilla soup loaded with corn and chipotle heat. Crispy baked tortilla strips, no frying."
+focusKeyphrase: "chicken tortilla soup"
 date: 2025-11-12
 draft: false
 image: smoky-chicken-soup.jpg
@@ -21,10 +21,18 @@ tags:
 - "spicy"
 - "comfort food"
 keywords:
-- "smoky chicken soup"
-- "chipotle soup"
-- "tortilla strips"
-- "Mexican-American soup"
+- "chicken tortilla soup"
+- "chicken tortilla soup recipe"
+- "tortilla soup recipe"
+- "tortilla soup"
+- "chicken corn tortilla soup recipe"
+- "creamy chicken tortilla soup"
+- "chicken mexican soup"
+- "chicken taco soup"
+- "best chicken tortilla soup recipe"
+- "chicken mexican soup recipe"
+- "chicken enchilada tortilla soup"
+- "homemade tortilla soup"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "250"
@@ -73,3 +81,95 @@ faq:
 - "q: How to store leftovers? a: Store soup separately from tortilla strips. Soup lasts 3-4 days refrigerated, reheat gently. Tortilla strips keep best in airtight container at room temp max 1-2 days. If strips get limp, re-toast briefly. Avoid mixing till ready to serve."
 
 ---
+
+Heat olive oil in a heavy pot. Onion goes in first—chop it medium, not fine. Garlic after about 2 minutes, when the onion starts going translucent at the edges. Stir. Around 4 to 6 minutes total here. You'll smell it shift from sharp to sweet. Don't let garlic brown.
+
+Pour in the broth. Add the tomatoes with their juice. Throw in your shredded chicken—rotisserie works just as good, saves time. Corn. The chipotle peppers, chopped small. That adobo sauce from the can. Cumin, chile powder, salt, pepper. Stir it all together so the spices hit the liquid and bloom.
+
+Crank heat to high for maybe a minute. You want to see bubbles rising steady. Then drop it back to medium-low, put a lid on it—not tight, just sitting there. Simmer. This is where flavors start talking to each other. 17 to 22 minutes. Stir once or twice so nothing sticks to the bottom.
+
+## Why You'll Love This Chicken Tortilla Soup
+
+Comes together in 34 minutes flat. Twelve to prep, twenty-two to cook. No weird ingredient list.
+
+Tastes like it's been sitting all day even though it hasn't. That smoky-sweet heat from the chipotles does something to chicken broth that shouldn't work but does.
+
+Actually fills you up. Chicken, corn, broth—it's a meal, not a bowl of nothing.
+
+The tortilla strips stay crispy even when they're sitting in hot soup, which most things don't. Something about baking them first.
+
+Works as a weeknight dinner or when people show up and you need food fast. Comfort food that doesn't feel heavy.
+
+## What You Need for Chicken Tortilla Soup
+
+Olive oil. Two tablespoons for the pot, one more for the tortillas. Extra virgin if you have it, doesn't really matter.
+
+One medium onion. Yellow or white. Red onions are too sweet here.
+
+Three cloves garlic. Minced fine. Don't use pre-minced from a jar.
+
+Five cups chicken broth. Low sodium. The regular stuff is too salty already and soup concentrates it.
+
+One can of fire-roasted diced tomatoes. The fire-roasted part matters. Regular canned tastes flat.
+
+Three cups cooked shredded chicken thighs. Thighs stay juicier than breast meat. If you're using rotisserie chicken, just pull it apart. Saves 20 minutes.
+
+One cup corn. Frozen or canned. Frozen tastes better honestly. Drain the canned stuff if you go that way.
+
+Two chipotle peppers in adobo. The small can. Chop them fine. And grab that adobo sauce from the can—a tablespoon of it goes in.
+
+Cumin, chile powder, salt, pepper. Ground cumin, not seeds. One teaspoon cumin. A teaspoon and a half of chile powder. Start with one teaspoon salt, adjust after. Half teaspoon black pepper.
+
+Four tortillas for the strips. Corn or flour. Corn gets crispier. Toss them with a tablespoon olive oil and a teaspoon of kosher salt.
+
+## How to Make Chicken Tortilla Soup
+
+Start the onion in a heavy pot with olive oil on medium heat. Watch it. The edges go translucent first, then it softens all the way through. Around 4 minutes in, add garlic. Mince it small so it cooks fast. Stir constantly for the next 2 minutes or until the raw smell is gone. That's about 6 minutes total for this part.
+
+Everything else goes in at once. Broth, tomatoes with juice, your chicken, corn, those chopped chipotles, the adobo sauce, cumin, chile powder, salt, pepper. Stir hard for maybe 30 seconds so the spices aren't sitting in clumps. They need to disperse into the liquid.
+
+Turn heat up to high and wait for the surface to bubble steadily. A full minute, maybe less. Then turn it back down to medium-low. Put a lid on the pot—not all the way on, just resting there. This is the actual cooking part now, and it takes 17 to 22 minutes. The soup will reduce a little. The flavors marry. Stir it once or twice so the chicken doesn't stick. The corn should be tender, the broth should taste like it's been thinking about this for hours instead of minutes.
+
+## How to Get Crispy Tortilla Strips on Your Chicken Tortilla Soup
+
+While the soup simmers, handle the tortillas. Preheat oven to 350. Cut four tortillas into strips—thin, like quarter-inch wide. They shrink when they bake.
+
+Toss them in a bowl with a tablespoon olive oil and a teaspoon kosher salt. Coat everything but don't soak them. They should look damp, not wet.
+
+Spread them in a single layer on parchment. Don't overlap. Bake 8 minutes, then shake the pan and toss them around so they brown even. Bake another 7 to 12 minutes. Watch the oven the second time. They go from golden to burnt in like 90 seconds. When the edges are brown and crispy but the middle still has a tiny bit of give, pull them out. They crisp up more as they cool. They're not meant to be hard all the way through.
+
+## Chicken Tortilla Soup Tips and Common Mistakes
+
+Taste it before you serve. The salt needs adjusting almost always. Start low, add more. You can't take it out. If you want more heat, a pinch of cayenne works. Or another half teaspoon of adobo sauce. The chipotles are doing work but they're not aggressive unless you want them to be.
+
+Use chicken thighs or rotisserie chicken. Breast meat gets stringy in soup. Thighs stay tender because they have more fat and moisture.
+
+Don't brown the onion. Most soup recipes say caramelize. This one doesn't. You want sweet and mild, not deep and brown. That comes from the fire-roasted tomatoes and the chipotles.
+
+The tortilla strips are the only thing that's supposed to be crispy. If they go in the soup too early they turn into mush. Top each bowl as you serve it. Or make them an hour ahead and keep them in an airtight container. They last.
+
+Corn adds sweetness without being obvious. It balances the smoke and heat. If you don't have it, skip it. Don't sub something random.
+
+The adobo sauce is essential. It's not just heat—it's that smoky, almost fruity undertone that makes this taste different. Don't skip it thinking the peppers are enough.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chicken Tortilla Soup
+
+**Can I make this in a slow cooker?**
+Yeah. Brown the onion and garlic in a pot first for 5 minutes, then dump everything into the slow cooker. Low for 4 hours or high for 2. Tortilla strips still go in the oven and get added at the end. Slow cooker makes the flavors blend more, which some people like.
+
+**What if I don't have chipotle peppers?**
+You're missing the whole point honestly. But if you have to—jalapeños plus a teaspoon of smoked paprika gets you close. Not the same. The chipotles do something specific that's hard to replicate.
+
+**Can I use chicken breast instead of thighs?**
+You can. It'll be drier. Thighs stay juicy when they're simmering in broth. Breast meat pulls apart into strings and gets kind of sad. Rotisserie chicken is breast and thigh mixed, so it works fine either way.
+
+**How long does this keep?**
+Four days in the fridge, covered. The tortilla strips get soft by day two so don't mix them in. Keep them separate, crisp them back up in the oven if you want. The soup itself tastes better after a day honestly.
+
+**Can I double it?**
+Sure. Everything doubles. Cook time stays about the same—maybe add 5 minutes to the simmer. The pot needs to be big enough that it's not crammed full.
+
+**Is this spicy?**
+Not really. Two chipotle peppers in five cups of soup isn't aggressive. It's smoky and warm, not hot. If someone at your table can't handle any heat, tone down the chipotles to one pepper or skip the adobo sauce.
