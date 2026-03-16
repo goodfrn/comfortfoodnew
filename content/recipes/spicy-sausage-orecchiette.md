@@ -1,10 +1,10 @@
 ---
-title: "Spicy Sausage Orecchiette"
+title: "Arrabbiata Sauce Pasta with Spicy Sausage"
 slug: "spicy-sausage-orecchiette"
-description: "Orecchiette cooked al dente tossed with spicy Italian sausage browned with garlic and crushed red pepper flakes. Fresh tomatoes simmer down until their moisture is gone. A splash of robust red wine deglazes the pan, lifting browned bits. Rapinis added to soften but keep bite. Parmigiano Reggiano folded in last for salty punch. A balance of heat, tang, bitterness, and umami walking a tightrope. No fancy prep needed; rely on sensory signals more than timing. Adapt with kale or broccoli rabe substitutes for rapinis. Use sweet sausage if heat’s too much. Leftover pasta? Quick reheat in pan with splash of wine or stock."
-metaDescription: "Spicy Sausage Orecchiette with bitter rapinis and tangy tomato wine sauce. Pasta tossed with fragrant garlic, red pepper, Parmigiano for punchy finish."
-ogDescription: "Sausage browned, garlic sniffs, tomatoes reduce down. Wine deglazes, rapinis soften crisp. Orecchiette catches sauce. Parmigiano melts last. No timing stress here."
-focusKeyphrase: "Spicy Sausage Orecchiette"
+description: "Orecchiette tossed with spicy Italian sausage, garlic, crushed red pepper, fresh tomatoes, and rapinis. Red wine deglazes the pan. Parmigiano Reggiano finishes this bold arrabbiata pasta with umami depth and heat."
+metaDescription: "Make arrabbiata sauce pasta with spicy Italian sausage, fresh tomatoes, and rapinis. Bold, authentic flavors in one pan. Try it tonight."
+ogDescription: "Spicy arrabbiata pasta with Italian sausage, tomatoes, and rapinis. Bold heat, tangy tomatoes, salty cheese. Make it tonight."
+focusKeyphrase: "arrabbiata sauce pasta"
 date: 2025-09-28
 draft: false
 image: spicy-sausage-orecchiette.jpg
@@ -21,9 +21,18 @@ tags:
 - "spicy"
 - "easy dinner"
 keywords:
-- "orecchiette"
-- "spicy Italian sausage"
-- "rapinis"
+- "arrabbiata sauce pasta"
+- "spicy sausage pasta"
+- "orecchiette with sausage"
+- "arrabbiata recipe"
+- "spicy pasta sauce"
+- "italian sausage pasta"
+- "orecchiette sausage and broccoli"
+- "broccoli rabe sausage orecchiette"
+- "pasta arrabbiata sauce"
+- "arrabiata sauce recipe"
+- "spicy italian sausage dinner"
+- "red wine pasta sauce"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "470"
@@ -62,3 +71,59 @@ faq:
 - "q: Storage tips? a: Cool quickly, fridge in airtight container. Reheat on stove not microwave—low heat, splash broth or wine helps keep texture. Leftover pasta loves gentle warming to avoid flattening or soggy mess."
 
 ---
+
+Sausage goes in first—break it apart with a wooden spoon so it gets those crispy brown bits that actually carry flavor. Garlic halfway through. Red pepper flakes at the same time. That's when the whole pan smells like something happened.
+
+## Why You'll Love This Arrabbiata Sauce Pasta
+
+34 minutes total. Actual dinner, not some side project. One skillet basically handles it—that's the cleanup win right there. The spicy hits different when you build it yourself instead of buying jarred. Rapinis stay slightly crisp even when they're in the sauce, which not everyone does right. Sausage meat means you're not eating plain red sauce—there's actual protein happening, it's filling. Tastes better cold the next day, which never happens with regular pasta.
+
+## What You Need for Arrabbiata Sauce Pasta
+
+400 grams orecchiette pasta. That shape grabs sauce better than spaghetti does. Three sausages, crumbled. Italian, spicy—the label matters. Four garlic cloves. Minced. Not smashed. Crushed red pepper flakes. Three milliliters sounds small but it's sharp. Extra virgin olive oil—45 milliliters gets the sausage going and later you'll use more in tossing. Four medium Italian plum tomatoes, diced. Fresh. Not canned. They collapse differently. 200 milliliters dry red wine. Red wine. Not white, not some cheap cooking wine that tastes like vinegar. A bunch of rapinis, cut into chunks, about 2.5 centimeters. Parmigiano Reggiano, finely grated. 200 milliliters. Actual cheese, not the green can.
+
+## How to Make Arrabbiata Sauce Pasta
+
+Fill a pot with water. Salt it heavily—more salt than feels right. Boil the pasta until it's almost al dente. Firm but not raw. The starch in the water matters, so don't rinse it after draining. Toss with a drizzle of olive oil so it doesn't clump. Cover it loosely, set it aside.
+
+Heat 45 milliliters of olive oil in a big heavy skillet over medium-high. Add the crumbled sausage. Break it apart with a wooden spoon—the pieces should get small, crispy on the edges. That browning is where the flavor is. Takes about 7 or 8 minutes to get the meat fully cooked and those bits golden. When it's halfway done, that's when garlic and red pepper flakes go in. Stir. The smell changes immediately—sharp, hot, aromatic.
+
+Once the sausage is browned and any liquid has cooked off, add the diced tomatoes. The sauce goes chunky. Let it bubble, watch the tomatoes soften and start to break down. The whole thing gets thicker. You'll hear it change—from watery, splashing bubbles to a quieter, heavier simmer. When the excess liquid is mostly gone and you see the sauce pulling away from the pan slightly, you're there. Maybe 8 to 10 minutes.
+
+## How to Get Arrabbiata Sauce Pasta Crispy and Balanced
+
+Pour in the red wine. It'll sizzle—that's the pan deglazing, lifting all those caramelized sausage bits stuck to the bottom. Stir that into the sauce. Now add the rapinis. They wilt fast. Cover the pan, lower the heat just a touch, let them soften gently for maybe 5 to 7 minutes. Still slightly crisp when you bite them, not mushy. Taste the greens as you go.
+
+Add the cooked pasta straight into the sauce. Sprinkle the Parmigiano Reggiano over it. Toss everything over low heat until the cheese melts and everything is coated, married together. This takes 2 minutes. Not more. Adjust what needs adjusting—salt if it needs it, pepper if it needs it. Sometimes the sauce is acidic and a pinch of sugar helps. Not much. Just enough to round the edges.
+
+## Arrabbiata Sauce Pasta Tips and Common Mistakes
+
+Don't overcook the pasta initially. It goes back in the sauce, so underdone is the move. The starch helps the sauce stick, which is why you don't rinse it. Brown the sausage completely—that's where half the flavor lives. If you rush it, the sauce tastes thin. Rapinis matter. Spinach doesn't work the same way. Rapinis have a slight bitterness that balances the spicy and tomato. The red wine is actual wine, not something you'd never drink. It matters. If you're using a cheap sausage full of fillers, it's noticeable. Get decent meat. Fresh tomatoes, not canned. Canned tastes different—sweeter usually. The pan should be heavy and big enough that nothing's crowded. Everything cooks faster and browns better. Serve immediately. Don't hold it warm. The texture gets muted.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Arrabbiata Sauce Pasta
+
+**Can you make this without rapinis?**
+Spinach works. Kale works. They're different textures but the sauce doesn't care. Rapinis stay crisp longer, which is why I use them.
+
+**What if you don't have red wine?**
+White wine tastes too bright. Skip it entirely and cook the sauce 3 minutes longer to evaporate the tomato liquid. Not ideal but it works.
+
+**How spicy is this actually?**
+Three milliliters of red pepper flakes hits hard if you're not used to it. Start with half, taste after, add more. Heat builds over a few minutes.
+
+**Can you make arrabbiata sauce pasta ahead?**
+Make the sauce, refrigerate it. Cook the pasta fresh, toss them together. Reheating dulls it slightly but it's still good. Cold leftover pasta from the fridge is honestly better than warm day-olds.
+
+**Does the penne with arrabbiata sauce recipe work the same way?**
+Penne holds sauce differently than orecchiette. You'll use more sauce because penne's smoother. The method's identical. Cook penne to just shy of done, same as the orecchiette.
+
+**What's the difference between this and regular spicy vodka pasta?**
+Vodka pasta uses cream. This uses meat and wine. Vodka pasta is richer. This is sharper, more actual heat. Different dishes.
+
+**Why grate the cheese fresh instead of using pre-grated?**
+Pre-grated has cellulose in it so it doesn't clump. That coating means it doesn't melt smooth. Fresh Parmigiano melts into the pasta instead of sitting on top.
+
+**Can you add cream to make it less spicy?**
+Yeah. It softens the heat. Also makes it richer, changes what you're eating. It becomes something else.
