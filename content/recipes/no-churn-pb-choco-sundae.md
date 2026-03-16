@@ -1,10 +1,10 @@
 ---
-title: "No-Churn PB Choco Sundae"
+title: "No-Churn PB Chocolate Sundae Recipe"
 slug: "no-churn-pb-choco-sundae"
-description: "A layered no-churn ice cream dessert mixing homemade peanut butter chocolate shards, vanilla and chocolate frozen creams, topped with a luscious fudge-peanut butter sauce and optional festive garnishes. No ice cream maker required. Uses whipped cream and sweetened condensed milk for texture, with a crunchy chocolate peanut topping to cut richness."
-metaDescription: "No-Churn PB Choco Sundae layering peanut butter shards vanilla chocolate frozen creams topped fudge-peanut butter sauce crunchy chocolate peanut topping."
-ogDescription: "Layered no-churn ice cream sundae with peanut butter shards vanilla and chocolate frozen creams plus fudge sauce rich textures no ice cream maker needed."
-focusKeyphrase: "No-Churn Peanut Butter Chocolate Sundae"
+description: "No-churn peanut butter chocolate sundae with whipped cream, sweetened condensed milk, and homemade chocolate shards. Layer vanilla and chocolate frozen cream with fudge sauce for an easy dessert."
+metaDescription: "No-churn chocolate peanut butter sundae using whipped cream and sweetened condensed milk. Topped with homemade chocolate shards and fudge sauce. Make it tonight."
+ogDescription: "Layered no-churn sundae with peanut butter chocolate shards, whipped cream, and rich fudge sauce. No ice cream maker needed."
+focusKeyphrase: "no-churn peanut butter chocolate sundae"
 date: 2025-08-03
 draft: false
 image: no-churn-pb-choco-sundae.jpg
@@ -21,9 +21,16 @@ tags:
 - "chocolate"
 - "fudge"
 keywords:
+- "no-churn peanut butter chocolate sundae"
 - "no-churn ice cream"
-- "peanut butter dessert"
-- "frozen cream sundae"
+- "chocolate peanut butter dessert"
+- "no bake peanut butter chocolate"
+- "homemade peanut butter chocolate shards"
+- "no-bake chocolate fudge peanut butter ice cream"
+- "layered no-churn ice cream"
+- "peanut butter chocolate frozen dessert"
+- "whipped cream dessert no bake"
+- "sweetened condensed milk ice cream"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "380"
@@ -108,3 +115,105 @@ faq:
 - "q: How to store leftovers? a: Keep airtight container freezer best. Shards keep longer frozen no moisture. Sauce refrigerate in sealed jar, warm gently before reuse. Cream layers refreeze but texture softens, best eaten fresh. Quick thaw then scoop works okay."
 
 ---
+
+Seventy minutes and you've got no-churn ice cream that tastes like it took actual work. Chocolate shards that snap. Fudge sauce warm against cold cream. The thing is—no baking, no machine, no stress. Just layers that somehow become this thing you scoop into bowls and people ask for the recipe immediately.
+
+## Why You'll Love This No-Churn Peanut Butter Chocolate Sundae
+
+No-churn ice cream that's actually creamy. Not icy. Not weird.
+Chocolate peanut butter shards stay crispy for days if you don't eat them first.
+Fudge sauce that's thick and glossy and tastes like it simmered for hours. Didn't.
+Works cold straight from the freezer or soften it three minutes. Either way.
+No machine. No eggs. No risk. Just whip cream and condensed milk and somehow it becomes frozen cream that scoops like real ice cream.
+
+## What You Need for Homemade Peanut Butter Chocolate Shards
+
+Creamy peanut butter. Tahini works if you want it less sweet. Three tablespoons.
+Unsalted butter. One tablespoon plus a teaspoon. Melts with the peanut butter—don't overheat it or it separates and you start over.
+Graham crackers or digestive biscuits crushed up. Three tablespoons. The crunch matters.
+Powdered sugar. Three tablespoons. Sweetens the whole shard layer without making it gritty.
+Semisweet dark chocolate. Ninety grams. Tempered. The snap depends on this. If it's not tempered it gets chalky and soft.
+
+For the frozen creams—heavy whipping cream. Cold. Seven fluid ounces for vanilla, then you whip another seven for chocolate.
+Sweetened condensed milk. Half a cup total, split between the two. This is what makes it frozen and creamy without an ice cream machine.
+Vanilla extract. A teaspoon. One.
+Cocoa powder. Natural cocoa. A heaping quarter cup for the chocolate layer. Dutch-process is richer if you have it.
+
+The sauce needs granulated sugar, cocoa powder, more heavy cream, and peanut butter. Five tablespoons sugar. One-fifth cup cocoa. Seven fluid ounces cream. Three tablespoons peanut butter.
+
+## How to Make No-Bake Peanut Butter Chocolate Sundae
+
+Start with the shards because they need time. Line a baking sheet with parchment. Put your peanut butter and butter in a glass bowl and microwave it for 25 to 30 seconds. Not longer. It melts fast and if you overheat it the butter separates and you're stuck with a greasy mess.
+
+Stir in the crushed biscuits and powdered sugar. It'll look like paste. Grab an offset spatula and spread it thin—about a quarter inch thick, maybe thinner. Thinner gets crispier but breaks easier. Thicker takes forever to freeze.
+Into the freezer. Seven to twelve minutes. You're looking for the surface to feel firm when you press it lightly. No fingerprints.
+
+Spread tempered chocolate over the top. Doesn't have to be perfect. A gentle swirl is fine. Thin coverage snaps better than thick.
+Back in the freezer for seven minutes until it's glossy and completely firm.
+
+Flip the whole thing onto a cutting board. Chop it roughly into shards. They don't have to match. Keep them in an airtight container in the freezer until you need them. They soften fast at room temperature.
+
+The frozen creams are where the no-machine thing actually works. Chill your mixing bowl and beaters first. Pour in cold heavy cream and vanilla extract. Whip on medium-high until stiff peaks form. This takes longer than you think. Soft peaks aren't enough. Keep going.
+
+Gently fold in sweetened condensed milk using a spatula. Fold it, don't stir. You're keeping the air. It should look shiny and creamy with no lumps. That's your vanilla cream. Set it aside. Don't whip it after the condensed milk goes in—turns oily.
+
+## How to Get No-Churn Ice Cream Crispy and Perfect
+
+Chocolate cream is separate. Mix condensed milk with cocoa powder and a pinch of salt in a bowl until it's a uniform paste. Taste it before you go further. Cocoa can be sharp. Add more sweetness if it needs it.
+
+Chill another bowl. Whip more heavy cream to stiff peaks the same way. Fold the chocolate paste into it carefully. The chocolate cream will be denser than the vanilla. Less shiny. But it scoops fine.
+
+Both creams get a quick chill while you build the thing.
+
+Use a clear container if you have one. One and a half liters. Start with a tablespoon of vanilla cream spread across the bottom. Cover the whole thing. No gaps.
+Chocolate cream next. A few spoonfuls. Scatter shards on top. Push them down lightly so they stay in the cream instead of floating.
+Keep layering. Vanilla. Chocolate. Shards. Top with shards pressed gently into cream.
+Cover it. Freeze at least six to eight hours. Overnight is better.
+
+When you scoop it, let it sit out three to five minutes. The texture gets softer without melting into puddles.
+
+## Warm Fudge Peanut Butter Sauce and Serving Tips
+
+The sauce is fast. Whisk sugar and Dutch cocoa together in a small saucepan off heat. Get the lumps out now.
+Add cream. Whisk it. Put it on medium-low heat and watch it. You'll see bubbles around the edges. Smell deep chocolate.
+Remove from heat the second it boils. Swirl in peanut butter until it's smooth and glossy. Don't overheat after the peanut butter or it seizes.
+
+Let it cool five minutes. Keep it warm.
+
+To serve: warm sauce in the dish first. One scoop of the layered frozen cream. More sauce on top. Another scoop if you're feeling it.
+Whipped cream or coconut whip. Maraschino cherries. Chocolate wafers. Sprinkles if you want them.
+Serve fast. The shards soften and the sauce gets cold if you wait.
+
+Tahini works instead of peanut butter if you want less sweetness. Add a teaspoon of honey to the fudge sauce if the cocoa tastes bitter.
+If shards melt when you slice them, freeze your knife first.
+Can skip the shards entirely and just do layered vanilla and chocolate frozen cream.
+Dairy-free means coconut cream instead of whipped cream and coconut condensed milk. Keeps the whole thing plant-based.
+Fold gently. This is the only real rule. Air in the whipped cream is what makes it work without a machine.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About No-Churn Ice Cream
+
+**Can I make this without condensed milk?**
+Haven't tried it. The condensed milk is what keeps it from getting icy. Sugar and fat do something you can't replicate with just regular cream and whipping.
+
+**How long does the no-churn peanut butter chocolate dessert last in the freezer?**
+Two weeks before it starts getting crystallized and weird. Make it, eat it. Not a storage thing.
+
+**What if I don't have cocoa powder on hand?**
+Melted chocolate works. Not the same texture but it works. Chocolate peanut butter sundae still happens.
+
+**Can I use natural peanut butter instead?**
+The oil separates. Use creamy peanut butter. Or tahini. It's less thick but tastes fine.
+
+**How do I keep the shards crispy longer?**
+They soften at room temp. Serve cold. The instant they warm up they get bendy. That's just what happens.
+
+**Do I actually need to temper the chocolate?**
+Yes. Untempered chocolate gets chalky and soft. Tempered chocolate snaps. Big difference in texture. Worth the extra five minutes.
+
+**What's the difference between regular and Dutch-process cocoa in the sauce?**
+Dutch is richer and less bitter. Regular cocoa is sharper. Dutch is better if you have it but regular works fine.
+
+**Can I make the layered no-churn ice cream with graham crackers without the chocolate shards?**
+Totally. Just layers of vanilla and chocolate cream with maybe some crushed graham crackers mixed in. It's not the same crunch but it's still good.
