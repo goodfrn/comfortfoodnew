@@ -1,10 +1,10 @@
 ---
-title: "Mini Crab Sliders"
+title: "Mini Crab Sliders with Sriracha Mayo"
 slug: "mini-crab-sliders"
-description: "Tiny crab cake burgers revamped. Smaller bread, less mayo, hotter sauce. Crunchy carrot strips swapped for cucumber ribbons. Avocado stays. Dill pickle turns sweet. Mayo mixed with sriracha and a touch of lemon zest. Grill buns slight longer. Cook crab cakes 1 minute less. Sliders stacked fast. Ready in under 15 minutes. Great bite-sized seafood option. Dairy and nut-free. Seven ingredients only."
-metaDescription: "Mini Crab Sliders are bite-sized seafood treats. Quick to prepare, full of flavor, perfect for parties and gatherings. Only seven ingredients needed."
-ogDescription: "Mini Crab Sliders offer spicy, creamy flavors in a small package. Perfect for any gathering. Quick prep and tasty bites."
-focusKeyphrase: "Mini Crab Sliders"
+description: "Mini crab sliders made with crab cakes, sriracha mayo, cucumber ribbons, avocado, and sweet gherkins. Ready in under 15 minutes for an easy seafood appetizer."
+metaDescription: "Make mini crab sliders with crab cakes, sriracha mayo, cucumber, and avocado in 15 minutes. Easy seafood appetizer. Try it tonight."
+ogDescription: "Bite-sized crab sliders with spicy sriracha mayo, fresh cucumber, avocado, and sweet gherkins. Quick and easy seafood appetizer."
+focusKeyphrase: "mini crab sliders"
 date: 2025-07-20
 draft: false
 image: mini-crab-sliders.jpg
@@ -21,9 +21,16 @@ tags:
 - "easy"
 - "avocado"
 keywords:
+- "mini crab sliders"
 - "crab sliders"
-- "mini burgers"
-- "seafood bites"
+- "crab cake sliders with sriracha mayo"
+- "easy crab appetizer"
+- "crab sliders with spicy mayo and pickle"
+- "mini crab burgers with cucumber and avocado"
+- "appetizer sliders with avocado"
+- "crab cakes burger"
+- "grill crab sliders with lemon zest"
+- "crab slider recipe with sweet gherkins"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "180"
@@ -63,3 +70,82 @@ faq:
 - "q: How long can I keep crab cakes? a: Cooked crab cakes up to three days in fridge. Uncooked? Around a day. Make sure to check always for freshness."
 
 ---
+
+Zest the lemon first—before you forget. Mix it straight into mayo with Sriracha. This is where the whole thing lives. Heat your pan or grill now while you're thinking about it.
+
+## Why You'll Love These Mini Crab Sliders
+
+Takes 11 minutes flat. Appetizer done before your guests even sit down.
+Crab cakes are already cooked. You're just assembling. No skill required here.
+That spicy mayo with lemon zest tastes like you tried. You didn't.
+Works cold. Works room temp. Works straight off the grill if you time it right.
+Avocado on top makes it fancy. Gherkin slice makes it weird in the good way. People ask for the recipe.
+
+## What You Need for Crab Cake Sliders
+
+Mayonnaise. A full 140 ml. That sounds like a lot. It's not.
+Sriracha. 15 ml. Don't skip it. The heat matters against the sweet pickle.
+Fresh lemon zest. One teaspoon. Not juice—zest. Zest stays bitter and bright. Juice goes soft.
+Mini slider buns. Twelve of them. Buy the good ones if they exist at your store. Cheap buns get soggy fast.
+Cooked crab cakes. Twelve small ones. Already done. Don't cook them again. Just warm them or don't.
+Cucumber. Half one. Peel it into ribbons. Thick strips, not paper-thin. They hold up better.
+Avocado. One. Ripe but not squishy. It'll smash when you add it if you're not careful.
+Sweet gherkin slices. Twelve pieces. One per slider. This is the weird part that works.
+
+## How to Make Mini Crab Sliders
+
+Zest that lemon. Get a microplane if you don't have one. Regular grater works. Just more work.
+
+Mix the zest with mayo and Sriracha in a bowl. Taste it. Adjust the heat. Some people want more Sriracha. Some want less. Depends on you.
+
+Get your pan or grill hot. This takes two minutes. You'll know because it smells. Lay the slider buns flat on the heat. Toast them about two minutes. Longer than you'd normally do. You want the cut side actually crunchy. Not just warm.
+
+Spread the spicy mayo on the bottom of each toasted bun. Don't go crazy. Enough to taste it.
+
+Place one crab cake on the mayo. It's already cooked. Just sitting there now.
+
+## How to Build Crab Sliders with Avocado and Cucumber
+
+Cucumber ribbons go on top of the crab cake. Let them sort of pile. Messy is fine.
+
+Avocado slices on top of that. They're soft. They'll squish when you bite it. That's okay. That's the point.
+
+One gherkin slice. Just one. It sits right on top of the avocado. Sounds strange. Trust it.
+
+Top bun closes the whole thing. Serve immediately. Don't wait. The bun gets soft if you sit there talking about it.
+
+## Mini Crab Burger Tips and Common Mistakes
+
+Toast those buns longer. This is the only thing that matters texture-wise. Soggy buns ruin everything.
+
+Avocado slices versus mashed. Slices look better. Mashed is easier to eat. Pick one and commit.
+
+The cucumber has to be thin but not transparent. Thick enough to have structure. Thin enough that it doesn't stick out everywhere.
+
+Sriracha mayo ratio. Twelve sliders need 140 ml mayo plus 15 ml Sriracha. Don't halve it and make six. The sauce is what carries these. Too little looks sad.
+
+Cold crab cakes work fine. They don't need heating. Hot is nicer but not necessary. Actually—warm them if you can. Makes it better.
+
+Sweet gherkins are weird. Green olives don't work the same way. Dill pickles too aggressive. Sweet gherkins are the right weird.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Easy Crab Sliders
+
+**Can I make crab sliders ahead of time?**
+Toast the buns and make the mayo an hour before. Assemble five minutes before serving. Crab cake sliders get weird if they sit assembled. The bun softens. The mayo seeps. Just don't do it.
+
+**What if I don't have lemon zest?**
+You need it. The acid from the zest does something the mayo can't. Lime zest works instead. Regular lemon juice doesn't work the same way.
+
+**Are these good cold?**
+Yeah. They're actually better cold the next day if you somehow have leftovers. Haven't had leftovers. But probably.
+
+**Can I use store-bought crab cakes?**
+That's the whole point. They're already cooked. Twelve small ones. Some stores have them. Some don't. Ask the fish counter.
+
+**Do I need a grill or can I use a pan?**
+Either works. Pan is faster. Grill makes them look better for a party. Taste is the same.
+
+**What makes appetizer sliders with avocado different from a regular crab burger?**
+Mini buns. Avocado instead of lettuce. The pickle slice. The 11 minutes. It's an appetizer burger because it's bite-sized and you serve it standing up while people mingle.
