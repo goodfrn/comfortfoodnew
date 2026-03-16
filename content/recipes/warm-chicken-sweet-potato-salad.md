@@ -1,10 +1,10 @@
 ---
-title: "Warm Chicken and Sweet Potato Salad"
+title: "Kumara and Potato Salad with Chicken"
 slug: "warm-chicken-sweet-potato-salad"
-description: "A warm salad featuring sweet potatoes and kale. Cooked chicken adds protein. Crispy pancetta provides flavor. Roasted sweet potatoes form the base. A creamy dressing ties everything together. Pecans add crunch. Serve warm or at room temperature."
-metaDescription: "Warm Chicken and Sweet Potato Salad is a hearty blend of sweet potatoes, chicken, and kale, tossed with a creamy dressing. Perfect for lunch or dinner."
-ogDescription: "Enjoy this comforting Warm Chicken and Sweet Potato Salad with crispy prosciutto and a creamy dressing. Ideal for meal prep and flavorful dinners."
-focusKeyphrase: "Warm Chicken and Sweet Potato Salad"
+description: "Warm kumara and potato salad featuring roasted sweet potatoes, shredded chicken, crispy prosciutto, and kale with a creamy Greek yogurt dressing."
+metaDescription: "Make this warm kumara and potato salad with roasted sweet potatoes, chicken, prosciutto, and kale. Greek yogurt dressing ties it together. Try it tonight."
+ogDescription: "Roasted sweet potatoes, chicken, prosciutto, and kale in a warm salad with creamy Greek yogurt dressing and toasted walnuts."
+focusKeyphrase: "kumara and potato salad"
 date: 2025-07-15
 draft: false
 image: warm-chicken-sweet-potato-salad.jpg
@@ -20,9 +20,16 @@ tags:
 - "potato"
 - "roasted"
 keywords:
-- "healthy salad"
-- "warm salad recipe"
-- "protein rich meal"
+- "kumara and potato salad"
+- "sweet potato and salad"
+- "potato salad with sweet potatoes"
+- "roasted sweet potato salad"
+- "kale and sweet potato salad"
+- "warm chicken salad"
+- "chicken and kale salad"
+- "salad recipes with sweet potato"
+- "kumara salad recipe"
+- "sweet potato salad with chicken"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "550"
@@ -73,3 +80,79 @@ faq:
 - "q: Can this be made vegan? a: Yes, replace chicken with beans. Use tempeh for protein. Adjust dressing with tahini instead of yogurt."
 
 ---
+
+Forty-five minutes start to finish. Three things on one sheet. Warm kale salad that actually tastes like something.
+
+## Why You'll Love This Kumara and Potato Salad
+
+Roasted sweet potato with crispy edges and that specific soft-on-the-inside texture you want from a salad base. The prosciutto basically cooks into the kumara, so you get salt and savory mixed through everything. Kale gets massaged, stays chewy-not-limp. Works cold the next day, maybe better. One bowl for dressing. Chicken already cooked—just shred it and go. Takes 45 minutes if you're moving. Walnuts stay crunchy for a while. Tastes like something that took forever but didn't.
+
+## What You Need for Kumara and Potato Salad
+
+Nine hundred grams of sweet potatoes. Peel them, cut them into chunks about half an inch. Doesn't have to be perfect.
+
+Prosciutto—a hundred and fifteen grams, diced small. It gets salty and crispy in the oven, which is the whole point.
+
+Ground cumin. Five grams. Not a lot. Gives it depth without tasting like spice.
+
+Kale. Three hundred grams, no stems. The leaves just get torn up. Olive oil goes in before heat, which sounds weird but massages it soft.
+
+Cooked chicken breast. Two hundred and fifty grams shredded. Rotisserie works. Yesterday's chicken works. Doesn't matter.
+
+Walnuts. Toasted. Thirty grams. Or more. They stay crunchy longer if they're already toasted before you add them.
+
+For the dressing: Greek yogurt, apple cider vinegar, whole grain mustard, honey, one shallot sliced thin. Sounds like a lot of components. It's not. Five things. Mix them together.
+
+## How to Make Kumara and Potato Salad
+
+Heat the oven to 220°C. Get a baking sheet lined with parchment—doesn't matter if you don't have parchment, but it helps.
+
+Toss the kumara chunks with the diced prosciutto and cumin in a bowl. Salt it. Pepper it. Spread it flat on the sheet—single layer, things touching a little but not piled. Goes in for 20 minutes.
+
+While that's going, massage the kale. Sounds weird. Just means pour some olive oil over it and work it with your hands for a minute. Gets darker. Gets softer. Doesn't cook yet.
+
+## How to Get the Kumara Crispy and the Kale Right
+
+The sweet potato should have edges that are starting to brown at 10 minutes. Stir it then. Let it finish at 20. You're looking for soft inside, slightly hardened outside—the color of caramelized honey in some spots.
+
+Shred your chicken while that happens. Doesn't need to be pretty. Just pull it apart.
+
+At 20 minutes, pull the sheet out. Add the chicken right on top. The kale goes in for just 5 more minutes—if you put it in earlier it gets too soft and turns into nothing. Just needs to warm up and wilt slightly.
+
+The dressing happens in a bowl while everything's roasting. Whisk the yogurt, vinegar, mustard, and honey together. Stir in the shallot. Taste it. Fix it if it needs fixing. Some batches need more salt. Some need more honey. Depends.
+
+## Kumara Salad Tips and Common Mistakes
+
+Don't crowd the baking sheet. Potatoes steam instead of roast. Space matters.
+
+The prosciutto gets really salty when it cooks. If you hate salt, use less. Or skip it and use bacon. Probably better, actually.
+
+Kale goes in last—this is important. Goes mushy if it's in there the whole time. Five minutes. That's it.
+
+Shallot in the dressing is technically optional. Haven't tried it without. Might work. Probably tastes flatter.
+
+The yogurt breaks if you add heat after it's in the dressing. Mix the dressing cold. Add it after things cool slightly. Or drizzle it warm and it'll separate a little—still tastes fine but looks weird.
+
+Walnuts can be swapped for pecans. Sunflower seeds work too but don't get crispy the same way.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Sweet Potato Salad
+
+**Can I make this ahead?**
+Yes. Roast everything, let it cool, store it in a container. Dressing separate. Mix it the next day. Actually tastes better cold—the flavors sit longer.
+
+**What if I don't have prosciutto?**
+Bacon does the job. Pancetta. Even just skip it and add more salt to the kumara. Won't be the same but it works.
+
+**How long does it keep?**
+Three days in the fridge easy. After that the kale gets too soft. Dressing stays longer if you keep it separate.
+
+**Can I use regular potato instead of sweet potato?**
+White potato works. Russet gets mushier. Yukon Gold stays firmer. Not the same flavor though—sweet potato has something going on that regular potato doesn't.
+
+**Is this warm or cold?**
+Both. Tastes better warm—the chicken and kumara are actually warm, the kale is warm. Can eat it cold. Different thing. Still good.
+
+**Can I add more chicken?**
+Sure. This isn't precious. Double the chicken and it's a real meal instead of a salad. Whatever you want.
