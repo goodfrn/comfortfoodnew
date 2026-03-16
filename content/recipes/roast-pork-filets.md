@@ -1,10 +1,10 @@
 ---
-title: "Roast Pork Filets Trio"
+title: "Roasted Pork Filets with Cashew Curry Sauce"
 slug: "roast-pork-filets"
-description: "Roasted pork filets sliced, served with three distinct sauces. Coconut curry sauce thickened with peanut butter and crunch. Coriander-jalapeño mayo for fresh heat and herbaceous pop. Olive and preserved lemon sauce, smooth with vibrant tang. Techniques focus on browning for crust, resting for juicy meat, and sauce layering. Substituted butter with ghee, peanuts swapped to cashews for nuttier flavor. Adjusted spice amounts for balance and timing tweaked by minutes, notable aroma cues highlighted. A hands-on take with practical tips for imperfect kitchens and ingredient swaps. Sensory cues taught so anyone can spot doneness or sauce thickness by smell, texture, and look."
-metaDescription: "Roast Pork Filets Trio with three sauces–coconut-curry cashew, coriander-jalapeño mayo, olive preserved lemon. Browning key. Rest meat for juicy result."
-ogDescription: "Roast pork filets seared to crust, rested for juiciness. Three sauces to pick from. Cashew curry, herby mayo, or zesty olive lemon. Practical tips included."
-focusKeyphrase: "Roast pork filets"
+description: "Roasted pork filets with coconut curry cashew sauce, coriander-jalapeño mayo, and olive-preserved lemon sauce. Pan-seared then rested for juicy meat and crispy crust."
+metaDescription: "Roasted pork filets with three sauces: coconut curry cashew butter, coriander-jalapeño mayo, and preserved lemon. Tender, juicy, restaurant-quality. Make it tonight."
+ogDescription: "Tender roasted pork filets with coconut curry cashew sauce, jalapeño mayo, and preserved lemon. Three distinct sauces, one unforgettable meal."
+focusKeyphrase: "roasted pork filets"
 date: 2025-08-04
 draft: false
 image: roast-pork-filets.jpg
@@ -21,9 +21,16 @@ tags:
 - "spicy"
 - "peanut butter"
 keywords:
-- "pork filets"
-- "cashew sauce"
-- "jalapeño mayonnaise"
+- "roasted pork filets"
+- "pork filets with cashew butter sauce"
+- "roasted pork with coconut curry"
+- "coriander jalapeño mayo pork"
+- "pork with preserved lemon sauce"
+- "asian pork dishes"
+- "coconut curry pork recipe"
+- "pork main course"
+- "pork filets with coconut milk"
+- "pan seared pork filets"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "460"
@@ -89,3 +96,103 @@ faq:
 - "q: Best way to store sauces? a: Tight containers in fridge. Cashew-curry and mayo up to 5 days. Lemon-olive sauce safe 3-4 days max. Reheat gently to avoid breaking. If frozen, texture shifts possible. Always check aroma, color before using."
 
 ---
+
+Pork goes in at 410. Two minutes a side until the crust locks in, then oven for maybe 12 minutes and you're done. Three sauces because one gets boring and this meat deserves options—spicy cashew, bright cilantro mayo, or rich olive with preserved lemon. Pick one. Or do all three if you're showing off.
+
+## Why You'll Love This Roasted Pork with Three Sauces
+
+Takes 41 minutes total if you don't pause. Pork filets cook fast—none of that waiting around for a big roast.
+
+The three sauces mean it's not just roasted pork, it's roasted pork with actual options. Serve the Asian curry one night, the mayo the next. Works cold too, which is the best part.
+
+Spicy cashew sauce hits different—roasted coconut curry pork tastes expensive and impossible until you realize it's not.
+
+No resting on one flavor. Ginger. Jalapeño. Preserved lemon. Each sauce tastes like it came from somewhere else. Each one different.
+
+Cleanup isn't nothing. Three sauces means three bowls. But the pork itself? One pan.
+
+## What You Need for Roasted Pork Filets
+
+Two pork filets. Around 500 grams each. Not the thin cuts—filets hold together and stay pink in the middle.
+
+Olive oil. Just a tablespoon. For the sear, nothing else.
+
+Salt and pepper. That's the pork.
+
+For the coconut curry cashew sauce—garlic, ginger, curry powder, vegetable oil, coconut milk, cashew butter instead of peanut butter (richer, doesn't dominate), chopped cashews for texture, green onion, lime zest and juice, brown sugar to balance it.
+
+The coriander jalapeño mayo needs mayo, cilantro, garlic, jalapeño, lemon juice, cumin, salt, pepper. Nothing fancy.
+
+Olive and preserved lemon sauce is ghee, a small shallot, white wine, beef stock, black olives, flour, parsley, preserved lemon rind. The preserved lemon does most of the work.
+
+## How to Make Roasted Pork Filets
+
+Oven to 410. Mid-rack. Heat olive oil in an ovenproof pan—the kind that goes from stove to oven without a meltdown—until it shimmers. Not smoking. Shimmering.
+
+Pork in. Both sides get two minutes. Real two minutes. Don't move it around. You want a crust, that tan-brown crust that seals in the juice. Season as you go. Salt it while it's sizzling. Pepper right after. The heat locks it in.
+
+Pan straight to the oven. Twelve minutes. Maybe fourteen if your oven runs cool. Don't guess. Use a thermometer. 58 degrees Celsius inside and you're safe. It keeps cooking when you pull it out.
+
+Rest it. Seven minutes. Loosely tented with foil so steam doesn't escape and dry everything out but air can still move. The juice redistributes. This is the part people skip and regret.
+
+Slice it across the grain. Thin or thick. Doesn't matter as long as you cut against the lines running through the meat.
+
+## How to Get Roasted Pork with Spicy Peanut Sauce Right
+
+Oil in a small pan, medium heat. Garlic and ginger go in together. Thirty seconds and it smells like something is happening. That's the signal.
+
+Coconut milk in. Stir until the color is even. Add the cashew butter—it'll be thick at first, just keep stirring and it'll loosen into the coconut. The toasted cashews go in now. The lime zest. The juice. Green onion at the very end because it needs to stay bright.
+
+Low heat. Simmer for maybe six or eight minutes. Keep stirring. The sauce thickens, coats the back of a spoon. If it's too thin, let it go a bit longer. If it breaks—if the butter separates—you overheated it. Start over or just eat it anyway; it still tastes good.
+
+Taste it. Add a pinch of brown sugar if it's too sharp. Sometimes the lime is aggressive. Sugar smooths it.
+
+The mayo comes together in a food processor. Mayo, cilantro, jalapeño, garlic, lemon juice, cumin. Blitz until smooth. If you want it spicy, leave the jalapeño seeds in. If heat makes you nervous, pull them out. Keeps for five days in the fridge.
+
+For the olive and preserved lemon sauce—ghee in a pan, medium heat. It melts with a quiet hiss. Shallot goes in for about two minutes. Translucent. Not brown. White wine poured in and you let it boil down hard until the pan looks almost dry. That concentrates everything.
+
+Beef stock in. The olives. A tablespoon and a half of flour whisked in fast so you don't get lumps. Four to six minutes of simmering until it thickens and loses that raw flour taste. Parsley and preserved lemon rind go in last. The lemon is salty and sharp—it wakes up the whole thing.
+
+Don't salt until the end. The olives and stock and lemon are already doing the salty work.
+
+## Roasted Pork with Coconut Curry Tips and Mistakes
+
+Resting matters more than timing. You could roast it to 62 degrees and then rest it and it'll dry out. But 58 degrees and a proper seven-minute rest and it's perfect. Carryover cooking is real.
+
+The sear isn't optional. It's not about looks. It's about flavor. Those two minutes per side create the crust that tastes toasted and nutty. Skip it and the pork is just pale and sad.
+
+Cashew butter over peanut butter in the curry sauce—peanut is strong and can break if it gets hot. Cashew is quieter, lets the coconut and curry do their thing. If you only have peanut butter, use less and add it after the coconut milk cools slightly.
+
+Don't crowd the pan for the sear. Two filets is fine. More than that and you're steaming instead of searing. The pan needs space.
+
+Preserved lemon is not regular lemon. If you can't find it, don't substitute fresh lemon in that sauce. Just skip it or use a different sauce. It's the whole point of that one.
+
+The cilantro mayo is forgiving. Lime works instead of lemon. Different flavor but still good. You can add more jalapeño or less. Tastes like your preference.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Pork Filets
+
+**How do I know if the pork is done?**
+Thermometer. 58 Celsius. Trust it more than color or the way it feels. If you don't have one, cut into the thickest part and look—should be pale pink all the way through.
+
+**Can I make the sauces ahead?**
+All three keep in the fridge. Cashew curry for maybe four days. Mayo for five. Olive lemon sauce for three. Reheat the sauces gently or eat them cold. The mayo is better cold anyway.
+
+**What if my pork is thicker than 500 grams?**
+Add time in the oven. Start checking at 12 minutes. A thermometer tells you for sure. Thicker cuts might need 16 or 18 minutes. The sear stays the same—two minutes per side.
+
+**Can I use peanut butter instead of cashew in the curry sauce?**
+Technically yes. It'll work. But use less—peanut is stronger and the sauce gets heavy. Add it after the coconut milk cools a touch or it might break.
+
+**Should I rest the pork if I'm in a hurry?**
+No. The meat will be dry. You've got time. Seven minutes isn't long. Loosely tented so it stays warm. That's how pork goes from rubber to perfect.
+
+**What do I do if one of the sauces breaks?**
+The mayo can separate if it's too warm—just whisk in another egg yolk, slowly. The cashew sauce breaks if you overheat it—not worth fixing, start fresh. The olive lemon sauce doesn't usually break because of the flour. Just whisk harder if lumps form.
+
+**Is pork filet the only cut that works?**
+Pork tenderloin is the same thing. Pork chops would work but they're thinner, cook faster. Pork shoulder is too tough for a quick roast. Stick with filet or tenderloin.
+
+**What's the difference between Asian pork dishes with peanut sauce and this?**
+This uses cashew, which is milder. The pork roasts instead of stir-frying. The three sauces give you options—curry, herbal mayo, or rich lemon. It's more formal, takes more time, costs a bit more.
