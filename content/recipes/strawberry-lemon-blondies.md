@@ -1,10 +1,10 @@
 ---
-title: "Strawberry Lemon Blondies Remix"
+title: "Lemon Dessert Bars with Strawberries"
 slug: "strawberry-lemon-blondies"
-description: "Golden blondies bursting with zesty lemon and fresh strawberries. Butter whipped with sugars till airy; eggs and lemon meld in for tangy moisture. Flour blended with baking powder and cornstarch for tender crumb. Strawberries folded gently to keep texture, baked till edges turn deep gold and toothpick comes with a few moist crumbs. Glaze drizzled warm, tart and sweet balance the rich bars. Notes on ingredient swaps, timing tweaks, visual cues— for cooks who trust sight, smell, feel over clock."
-metaDescription: "Strawberry Lemon Blondies Remix with zesty lemon, tender crumb from cornstarch, fresh berries, and a tangy glaze. Baking tips and swaps included."
-ogDescription: "Zesty lemon meets tender blondies with fresh strawberries folded in. Tangy glaze seals the deal. Watch edges color and toothpick crumbs for doneness."
-focusKeyphrase: "Strawberry lemon blondies"
+description: "Lemon dessert bars with fresh strawberries and a tangy glaze. Butter, eggs, and lemon juice create tender, moist blondies with cornstarch for perfect crumb."
+metaDescription: "Lemon dessert bars loaded with fresh strawberries, lemon juice, and a sweet glaze. Easy recipe with real ingredients. Make it tonight."
+ogDescription: "Buttery lemon blondies with fresh strawberries and a bright lemon glaze. Simple homemade dessert bars that taste amazing."
+focusKeyphrase: "lemon dessert bars"
 date: 2025-10-03
 draft: false
 image: strawberry-lemon-blondies.jpg
@@ -21,9 +21,16 @@ tags:
 - "dessert"
 - "easy"
 keywords:
-- "lemon blondies"
-- "strawberry dessert"
-- "blondie glaze"
+- "lemon dessert bars"
+- "lemon bars"
+- "lemon dessert squares"
+- "lemon bar recipes"
+- "strawberry blondies"
+- "lemon squares recipe"
+- "easy lemon dessert bars"
+- "lemon bars recipe easy"
+- "simple lemon bar recipes"
+- "best lemon bars recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "304"
@@ -76,3 +83,79 @@ faq:
 - "q: How to store leftovers? a: Airtight container room temp up to 3 days keeps texture. Strawberries lose bite after long resting. Avoid fridge, dries bars out or makes crumb tough. Freeze unglazed bars up to a month; thaw before glazing. Glaze soggy after freeze if applied first."
 
 ---
+
+Butter and brown sugar first. Three-minute beat till it's fluffy but not split. That's the difference between blondies that spread everywhere and bars that hold their shape.
+
+## Why You'll Love This Lemon Dessert Bars
+
+Takes 60 minutes total. 25 minutes of actual work, then you walk away while the oven does it.
+The crumb stays tender because of cornstarch. Nobody expects that. Works every time.
+Strawberries stay fresh tasting instead of turning into jam. You have to drain them — that part matters.
+Tastes like dessert but lighter. Not heavy. Kind of blondie, kind of cake, kind of something else entirely.
+Glaze soaks in while they're warm. Adds lemon without making them wet.
+
+## What You Need for Lemon Dessert Squares
+
+Two sticks of softened butter. Room temp. If it's cold the sugar won't cream right — granulated and brown mixed together, three-quarters cup total of the granulated if you want less sweet, full cup if you like them sticky.
+
+Three eggs, beaten in one at a time. Lemon juice and zest. Fresh lemon. The zest matters more than people think — that's where the flavor actually lives.
+
+Vanilla extract or almond if you want something different. Half a teaspoon lemon extract — not more, or it tastes medicinal.
+
+Two and a half cups flour. Baking powder. Salt. Cornstarch. That cornstarch is the thing — makes the crumb tender. Don't skip it.
+
+Strawberries. Diced, drained. This is important. Wet strawberries turn the whole thing soggy in the middle. Pat them dry first.
+
+For the glaze: powdered sugar, lemon juice, melted butter. Comes together in like 30 seconds.
+
+## How to Make Easy Lemon Dessert Bars
+
+Oven to 345. Line a 9x13 pan with parchment, leave the sides hanging over so you can pull the whole thing out at the end instead of breaking it trying to get it out the regular way.
+
+Cream the butter and sugars together. One to two minutes. It should look fluffy but not greasy — stop early if it starts to get soft and slippery, because that means the bars will spread too much and won't hold together when you cut them.
+
+Add the eggs one at a time. Beat it on medium-high for three minutes total. The mixture will look curdled at some point. It's fine. It looks broken but it's not. Add the lemon juice, zest, vanilla, and lemon extract. Beat until it's barely combined. Stop before you overmix. Air bubbles matter here.
+
+## How to Get Tender Lemon Squares
+
+Whisk the dry stuff in a separate bowl first. Flour, baking powder, salt, cornstarch. The cornstarch is why this works. It breaks up the gluten structure and makes the bars tender instead of tough. Fold the dry into the wet. Gently. Lumps are okay. Overmixing makes them dense.
+
+Stir in the strawberries. Just until they're spread throughout. If they're too juicy, drain them or pat them with paper towels — wet strawberries create soggy spots that don't bake right.
+
+Spread the batter into the pan. Don't obsess over smoothing it out. Tap it to settle, but don't work it. The top should look a little textured, not like glass.
+
+Bake for 30 to 35 minutes. At 30 minutes, stick a toothpick in the center. If it comes out with a few moist crumbs, you're done. If it's wet batter, give it a few more minutes. The edges will get golden brown and slightly crispy. The center will jiggle a little — it sets as it cools.
+
+Make the glaze while they're still warm. Whisk powdered sugar, lemon juice, and melted butter until it's loose and pourable. Not thick. Spread it over the bars while they're warm. It soaks in slightly and adds tang without making them wet.
+
+## Lemon Bar Tips and Common Mistakes
+
+Cool them completely in the pan before you cut. Seriously. If you try to cut them warm they fall apart. Lift the whole thing out using the parchment flaps and cut on a cutting board. Edges come out clean that way.
+
+Strawberries go soft after about two days. Not bad. Just less fresh tasting. If you're not eating them right away, freeze the bars without the glaze. They last a month frozen. Glaze them after you thaw them.
+
+The lemon zest is doing most of the work here. Fresh zest. From a microplane. Not that powdery stuff from a jar. It has actual flavor.
+
+Brown sugar adds moisture. That's why it's in here. If you skip it the bars get crumbly instead of tender. Don't mess with the ratio.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Lemon Dessert Bars
+
+**Can I use a different fruit instead of strawberries?**
+Blueberries work. Raspberries work but they get weird. Blackberries are fine. Whatever you use, drain it well. That part's not negotiable. Wet fruit ruins the texture.
+
+**Does this work with a shortbread crust?**
+You could make a shortbread base if you want to. Bake it first until it's barely set, then add this batter on top. Adds maybe 10 minutes to the total time. Not necessary. It's already good without it.
+
+**Can I make these with almond flour instead of all-purpose?**
+No. Almond flour is too dense. Cornstarch is what makes the crumb work here. All-purpose or nothing.
+
+**How do I know when they're actually done?**
+Toothpick method. If it comes out with a few wet crumbs it's done. Overdone is worse than a tiny bit underdone. The bottom will still bake as it cools.
+
+**Can I make these dairy-free?**
+Coconut oil instead of butter. Same amount. Tastes a little different but still works. The glaze might need an extra teaspoon of lemon juice to thin it out.
+
+**Why are mine spreading too much?**
+Butter wasn't room temp or you creamed it too long. Also check that your baking powder is fresh. Old baking powder doesn't puff right.
