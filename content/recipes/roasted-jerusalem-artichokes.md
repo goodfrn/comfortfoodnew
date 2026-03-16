@@ -1,10 +1,10 @@
 ---
-title: "Roasted Jerusalem Artichokes Twist"
+title: "Roasted Jerusalem Artichokes with Browned Butter"
 slug: "roasted-jerusalem-artichokes"
-description: "Roasted Jerusalem artichokes with browned butter and fresh herbs, offering crispy edges and tender insides. Adjusted roasting times for better texture. Chives replaced with tarragon for an aromatic twist. Butter quantity slightly reduced. Focus on tactile cues, caramelization color, and scent for doneness. Suitable for vegetarian, gluten-free, and lactose-free modifications if using vegan butter. Perfect side for meats or braised dishes. Common pitfalls and substitutions explained clearly."
-metaDescription: "Roasted Jerusalem Artichokes Twist with browned butter, fresh tarragon, crisp edges, tender centers; rich caramel notes, tactile doneness cues, vegan butter option."
-ogDescription: "Crispy roasted Jerusalem artichokes tossed in browned butter and tarragon. Watch caramel color, aroma, and texture. Vegan butter works for lactose-free tweaks."
-focusKeyphrase: "roasted Jerusalem artichokes"
+description: "Roasted Jerusalem artichokes with browned butter and fresh tarragon create crispy edges and tender insides. Learn caramelization techniques and doneness cues for perfect results."
+metaDescription: "Roasted Jerusalem artichokes with browned butter and tarragon. Crispy edges, tender centers, aromatic herbs. Try it tonight."
+ogDescription: "Jerusalem artichokes roasted with browned butter and tarragon for crispy, caramelized perfection. Save this one."
+focusKeyphrase: "roasted jerusalem artichokes with tarragon"
 date: 2025-09-24
 draft: false
 image: roasted-jerusalem-artichokes.jpg
@@ -21,11 +21,16 @@ tags:
 - "easy"
 - "healthy"
 keywords:
-- "Jerusalem artichokes"
-- "browned butter"
-- "tarragon"
+- "roasted jerusalem artichokes with tarragon"
+- "browned butter roasted artichokes"
+- "crispy roasted jerusalem artichokes with herbs"
+- "jerusalem artichokes with browned butter and tarragon"
+- "tarragon roasted artichokes recipe"
 - "roasted vegetables"
-- "root vegetables"
+- "vegetarian roasting"
+- "easy roasted vegetables"
+- "healthy vegetarian sides"
+- "side dish recipes"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "160"
@@ -61,3 +66,56 @@ faq:
 - "q: How store leftovers? a: Cool quickly, refrigerate airtight. Reheat in hot skillet to revive crisp edges; microwave ruins texture. Eat within 2 days max. Can freeze but lose crispness; reheat gently. Avoid soggy cold storage."
 
 ---
+
+Cut them in half. Medium ones, anyway. The small ones roast whole—like finger potatoes but earthier. Set the oven to 210°C and let it heat while you work. This matters more than you'd think.
+
+## Why You'll Love This Roasted Vegetables Side Dish
+
+Takes 20 minutes of actual work. The oven does the rest for 50 minutes while you do something else.
+Comes out golden and crunchy on the outside, tender all the way through—the kind of side dish that disappears before the main course even lands.
+One pan. Browned butter. Tarragon at the end. Vegetarian, healthy, doesn't feel like you're trying too hard.
+Works cold the next day. Maybe even better. Tastes like it sat overnight and figured itself out.
+Cleanup is fast. One skillet. That's it.
+
+## What You Need for Crispy Roasted Jerusalem Artichokes with Herbs
+
+Nearly a kilogram of Jerusalem artichokes—scrub them well, don't peel. The skin gets crispy.
+Browned butter. Not regular butter. Not vegan either, though vegan works if that's your lane. Browned butter gives you a nuttier flavor that matters here. Twenty-five milliliters is all you need.
+Fresh tarragon, finely chopped. Thirty milliliters. Not dried. Dried tastes like nothing.
+Salt. Pepper. That's it. Smoked salt works too if you have it—adds something subtle.
+
+## How to Make Easy Roasted Vegetables
+
+Heat an ovenproof skillet over medium. Medium, not high. Melt the browned butter in there—watch it settle and coat the pan. Toss the artichokes in. Six to seven minutes. You're not trying to cook them through. You're just getting the edges soft and a light golden crust happening on the bottom. It's a jump-start. Keeps them from getting soggy in the oven.
+
+Salt and pepper go in now, while they're in the pan. Early seasoning hits different. The flavors deepen instead of sitting on top. Smoked salt if you're into that.
+
+Straight into the oven. Middle rack. 210°C. Forty-five to fifty minutes total.
+
+## How to Get Roasted Vegetables Perfectly Crispy and Golden
+
+Stir every 12 to 15 minutes. That's it. You're watching for golden-blistered spots—the kind of brown that looks almost too dark but isn't. The aroma changes. Raw, earthy smell becomes sweet and nutty. That's your cue you're getting close.
+
+Squeeze one with tongs. Should feel firm but give a little. Not mushy. Not hard. Somewhere between. They keep cooking a tiny bit after you pull them out, so pull them maybe 30 seconds before they feel perfectly done. Temperature matters less than watching. Every oven runs hot or cold.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Jerusalem Artichokes with Tarragon
+
+**Can you make this with regular potatoes instead?**
+Yeah, but it's a different dish. Potatoes need longer. These have this weird texture, kind of creamy inside with crispy edges. Potatoes won't do that.
+
+**Do you have to use browned butter?**
+Vegan butter works. Real butter gives you something more in the flavor department though. Regular melted butter also works fine—just won't taste as nutty. Olive oil is too aggressive here.
+
+**What if your artichokes are all different sizes?**
+Stir more often. Uneven sizes means uneven cooking. Halve the big ones, leave the small ones whole. You'll end up stirring every 10 minutes instead of 15, but that's fine.
+
+**Can you prep these ahead?**
+Scrub them earlier, sure. Don't cut them until you're ready to cook. They oxidize and get weird. The whole thing takes an hour once you start. Not worth prepping hours ahead.
+
+**What goes with this as a side dish?**
+Roasted meats. Fish. Braised anything. Works with slow-cooked rabbit too if you're that person. For vegetarian, add garlic cloves at step three for depth. Lemon zest right before serving brightens everything up.
+
+**How long do leftovers last?**
+Three days in the fridge, covered. Cold they're actually good. Reheat them in a low oven—microwave makes them mushy.
