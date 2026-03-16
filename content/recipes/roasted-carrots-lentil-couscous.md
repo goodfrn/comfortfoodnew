@@ -1,10 +1,10 @@
 ---
-title: "Roasted Carrots Lentil Couscous"
+title: "Roasted Carrots Lentil Couscous with Halloumi"
 slug: "roasted-carrots-lentil-couscous"
-description: "Carrots seared gently in olive oil with water till tender, mingled with a spiced lentil-tomato ragout infused with smoked paprika instead of cumin, harissa replaced by harissa blended with chipotle for smoky heat. Couscous soaked in vegetable broth enhanced with turmeric for color and earthiness. Topped with peppery mizuna instead of arugula, and crumbly halloumi subbing feta adds a sharp tang. Lemon zest brightens the plate. Visual and tactile cues guide timing ensuring each component sings. Midcook adjustments advised for texture tweaks. A rustic, smoky twist on traditional couscous laden dishes with vegetable-forward robustness and spice complexity."
-metaDescription: "Roasted Carrots Lentil Couscous layers smoky lentil-tomato ragout with tender carrots and turmeric-tinted couscous topped with peppery mizuna and crumbly halloumi cheese."
-ogDescription: "Smoky lentils, tender roasted carrots, and turmeric couscous piled high with peppery greens and salty halloumi. Bold, textured, and layered flavors in every bite."
-focusKeyphrase: "Roasted Carrots Lentil Couscous"
+description: "Roasted carrots lentil couscous bowl with spiced lentils, harissa-chipotle blend, and crumbly halloumi. Tender carrots, brown lentils, and turmeric couscous create a satisfying vegetarian meal."
+metaDescription: "Make roasted carrots lentil couscous with halloumi tonight. Spiced brown lentils, smoked paprika carrots, and vegetable broth couscous. Try it tonight."
+ogDescription: "Roasted carrots, brown lentils, and couscous with halloumi. Smoky harissa-chipotle spice and fresh lemon zest. A vegetarian bowl that delivers."
+focusKeyphrase: "roasted carrots lentil couscous"
 date: 2025-08-14
 draft: false
 image: roasted-carrots-lentil-couscous.jpg
@@ -21,9 +21,16 @@ tags:
 - "roasted"
 - "harissa"
 keywords:
-- "couscous"
-- "lentils"
-- "roasted carrots"
+- "roasted carrots lentil couscous"
+- "lentil couscous bowls"
+- "vegetarian couscous recipes"
+- "roasted carrots with lentils and couscous"
+- "harissa lentil tomato couscous"
+- "couscous with roasted carrots and halloumi"
+- "chipotle harissa lentil couscous"
+- "smoked paprika roasted carrots and lentils"
+- "vegetarian lentil ragout with couscous"
+- "roasted carrots couscous bowl with spiced lentils"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "350"
@@ -68,3 +75,70 @@ faq:
 - "q: How long can leftovers keep? a: Store lentil ragout tightly sealed refrigerated about 3 days max. Reheat gently to keep texture – microwave or stovetop low heat. Couscous dries fast, toss lightly with olive oil and lemon juice before warming to revive softness and separation."
 
 ---
+
+Cut the carrot tops off—leave a little bit of the stalk. Gets better texture that way. Three parts happen at once here: couscous steams itself, carrots go soft and sweet, lentils turn into this smoky tomato thing. Takes 55 minutes total but you're mostly just waiting.
+
+## Why You'll Love This Roasted Carrots Lentil Couscous
+
+Vegetarian bowl that actually feels like dinner. Not a side pretending to be a main.
+Everything roasts or braises in one skillet—the harissa gets into the lentils, the carrots soak up that smoked paprika. Takes 20 minutes of actual work, then it's just heat.
+Halloumi on top melts into the warm couscous. Changes the whole thing.
+Cold the next day, maybe better. Mizuna stays crispy if you add it last.
+
+## What You Need for Roasted Carrots Couscous with Spiced Lentils
+
+Young carrots—about 500 grams, the kind with the greens still on. Not baby carrots in plastic. The real ones. Trim them, halve the bigger ones lengthwise.
+
+Couscous. 180 grams. Vegetable broth—300 ml, just hot enough to bubble a little. Not a rolling boil. Kill the heat, stir it in, cover it. Seven minutes.
+
+Brown lentils from a can. Rinse them first. One 400 ml can. Diced tomatoes, same size can.
+
+Harissa-chipotle blend. Three milliliters—adjust up if you want actual heat. Smoked paprika. Three milliliters. Olive oil and water, 20 ml and 100 ml.
+
+Mizuna leaves. Thirty grams. Halloumi cheese, crumbled. Ninety grams. Lemon for zest at the end.
+
+## How to Make Roasted Carrots Lentil Couscous
+
+Start with the broth. Get it hot. Not boiling—just steaming. Pour it over the couscous in a bowl. Stir it. Cover with a plate or lid. Set a timer for seven minutes. Don't touch it. The grains swell, absorb everything. Fluff with a fork after. Tender. Separate.
+
+Olive oil in a wide skillet on medium heat. Add water. Carrots go in with the little stalks still attached. Cover it. Cook seven to nine minutes. Stir once, maybe twice. Watch for them to go soft but still snap when you push a fork in. Not mushy. Salt and pepper.
+
+Lower the heat. Lentils in next. Diced tomatoes. The harissa-chipotle blend—start with three milliliters, taste it, add more if you want. Smoked paprika. Stir it all together. Let it bubble gently for five minutes. The sauce thickens. The smell gets smoky and good. Taste it. Fix the salt. If it's too thick, splash in a bit of broth.
+
+Plate the couscous first. Spoon the lentil ragout on top. Carrots arranged over that. Mizuna leaves scattered around. Crumbled halloumi goes on last. Squeeze fresh lemon zest over everything.
+
+## Roasted Carrots Lentil Couscous: Tips and Common Mistakes
+
+Don't skip rinsing the canned lentils. They come in this starchy liquid. Rinse it off. The sauce stays cleaner that way.
+
+Halloumi. Some stores don't have it. Ricotta salata works. Goat cheese crumbled works. Something sharp and crumbly that doesn't melt into nothing.
+
+Carrots take longer than you think if they're thick. Cut them the same size so they finish together. Nothing worse than some soft and some still firm.
+
+The couscous can dry out if you leave it sitting too long after fluffing. If you're reheating leftovers, toss it with a little olive oil and lemon juice. Brings it back.
+
+Mizuna's mild. If you like more pepper, use arugula. Spinach if you want soft. Both work.
+
+Harissa-chipotle is the backbone here—the warmth, the smoke. Don't skip it thinking you'll add heat later. The timing's wrong. It needs to cook into the lentil sauce.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Lentil Couscous Bowls
+
+**Can I make this without harissa-chipotle?**
+You could. The dish becomes flatter though. Smoked paprika alone isn't enough. If you really can't find it, mix a little regular harissa with smoked paprika. Something that gives you that heat and smoke together.
+
+**How do I know when the carrots are actually done?**
+Fork test. Pierce one. It should give when you push but still have resistance. Takes about eight to nine minutes on medium heat with the lid on. If they're still firm, cook longer. If they're mushy, you went too far.
+
+**Does this work cold?**
+Yeah. The lentil ragout tastes better cold actually. The couscous dries out a tiny bit unless you save it separate. Dress the couscous with olive oil and lemon juice when you reheat or eat cold. Mizuna and halloumi go on right before eating.
+
+**Can I roast the carrots in the oven instead of the skillet?**
+Do it at 200 degrees celsius for about 20 minutes. Stir halfway through so they caramelize even. They get a different texture—more concentrated sweetness. The lentil ragout still happens in the skillet. Works fine either way.
+
+**What if I can't find young carrots with tops?**
+Regular carrots work. Just cut them thin so they cook fast. The tops are nice because they look good plated and add a little green. Not essential though.
+
+**How long do leftovers keep?**
+The lentil ragout keeps three days in the fridge. Couscous separate, maybe two days. Reheat gently on the stove. Mizuna and halloumi are fresh additions—add them right before eating. The dish holds up but it's best warm and freshly assembled.
