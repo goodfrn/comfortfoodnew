@@ -1,10 +1,10 @@
 ---
-title: "Rustic Herb Scones"
+title: "Herb Scones with Spelt and Oat Flour"
 slug: "rustic-herb-scones"
-description: "Fluffy, lightly savory scones with a hint of fresh herbs. Uses spelt and oat flours, baking soda replaces powder. Butter swapped with olive oil. Slightly denser texture, tender crumb. Rest time adjusted to 25 minutes. Bakes in 12-18 minutes. Ideal for tea or breakfast, creamy spread or herbed cream cheese. No eggs or nuts. Easy handheld treats with a subtle earthy twist from rosemary and thyme added into the dough."
-metaDescription: "Rustic Herb Scones with spelt and oat flour, olive oil replacing butter. Savory herbs, baking soda lift, tender crumb. Great for tea or breakfast snacks."
-ogDescription: "Fluffy rustic scones using spelt, oat flour, olive oil. Earthy rosemary, thyme flecks, gentle texture. Baked golden, soft centers. Savory handheld bites."
-focusKeyphrase: "Rustic Herb Scones"
+description: "Fluffy herb scones made with spelt flour, oat flour, and fresh rosemary and thyme. Olive oil replaces butter for a tender crumb. Perfect for breakfast or tea."
+metaDescription: "Herb scones with spelt flour, oat flour, rosemary, and thyme. Easy vegetarian breakfast recipe using olive oil instead of butter. Make it tonight."
+ogDescription: "Savory herb scones with spelt, oat flour, fresh rosemary and thyme. Tender, fluffy, and egg-free."
+focusKeyphrase: "herb scones"
 date: 2025-07-30
 draft: false
 image: rustic-herb-scones.jpg
@@ -20,9 +20,15 @@ tags:
 - "vegetarian"
 - "easy"
 keywords:
-- "spelt flour"
-- "olive oil scones"
-- "baking soda scones"
+- "herb scones"
+- "savory scones"
+- "easy herb scones"
+- "spelt flour scones with rosemary and thyme"
+- "olive oil scones instead of butter"
+- "oat flour herb scones"
+- "fresh rosemary thyme scones"
+- "vegetarian breakfast scones"
+- "baking soda scones recipe"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "185"
@@ -62,3 +68,77 @@ faq:
 - "q: How to store leftovers? a: Wrap cooled scones airtight or in container. Room temp works couple days, fridge longer but dries out faster. Freeze individually, thaw gently. Reheat slightly in oven or microwave."
 
 ---
+
+Cut the dough in half instead of overworking it. That's the whole thing right there. Most scones get dense because people treat the dough like bread — kneading, folding, working it until it's smooth. Don't. The second the milk hits the flour, you're done mixing. Rough. Shaggy. Looks wrong. That's right.
+
+## Why You'll Love These Rustic Herb Scones
+
+Ready in 40 minutes total — 20 minutes hands-on, then bake while you do something else. The rest time is just sitting there, no effort.
+
+Vegetarian breakfast that actually tastes like something. Not sweet. Not bland. Rosemary and thyme go all the way through. Works hot or cold. Next day's fine too, maybe better.
+
+Olive oil instead of butter means no special trips to the store. You already have it. Chilled straight from the fridge works.
+
+Spelt flour gives them this specific texture — not dense, not fluffy. Kind of crumbly in the center. Oat flour makes the crust hold together without making it tough.
+
+One bowl. Two knives. That's the equipment situation. Cleanup takes five minutes.
+
+## What You Need for Herb Scones with Fresh Rosemary and Thyme
+
+Three hundred milliliters of spelt flour. Not all-purpose. Spelt's got more protein — holds the structure better and doesn't get gluey. One fifty of oat flour. The two together do something regular flour doesn't.
+
+Baking soda. Twelve milliliters. Not baking powder. The milk reacts with baking soda and that's what gives them the lift. Salt — just a pinch. Granulated sugar, forty milliliters. Sounds weird in a savory scone but it's not sweet. Just rounds out the herbs.
+
+Olive oil, eighty milliliters, and it has to be cold. Straight from the fridge, or keep it in ice water for five minutes first. Cold oil stays separate in the dough longer and that's what creates the crumb texture.
+
+Room temperature milk, one ninety milliliters. Not cold, not hot. Just sit it on the counter for a bit.
+
+Fresh rosemary and fresh thyme, ten milliliters each, finely chopped. Dried's not the same — the oils are different, the flavor's flat. Don't bother with dried here.
+
+## How to Make Easy Herb Scones
+
+Heat the oven to 175 Celsius. Line a baking sheet with parchment paper and set it aside.
+
+Large bowl. Spelt flour, oat flour, baking soda, salt, sugar, the rosemary, the thyme — everything dry goes in together. Stir once to combine. Take the cold olive oil and cut it in with two knives. Push the oil into the flour. Keep cutting. You're looking for coarse crumbs. Uneven. Lumpy. Like sand with pebbles in it. Takes maybe two minutes. Don't overthink it.
+
+Pour in the milk. Use a knife, not your hands. Stir until the dry bits disappear. Stop immediately. The second you can't see white flour anymore, you're done. The dough will look rough and shaggy and barely held together. That's perfect.
+
+## How to Shape and Rest Rustic Herb Scones
+
+Dust your work surface with oat flour. Not much. Just enough so the dough doesn't stick. Turn the dough out. Don't knead it. Don't fold it. Pat it down to about two and a half centimeters thick — that's just over an inch if you're eyeballing it.
+
+Cut rounds with a two and a half inch cutter. You'll get nine, maybe eight depending on how you arrange them. Place each one on the baking sheet. Leave space between them. They don't rise much but they need room.
+
+Cover the sheet loosely with a clean cloth. Not plastic. Just cloth. Somewhere warm — near a window, on top of the fridge, doesn't matter as long as it's not cold. Twenty-five minutes. They'll look slightly puffed when you come back.
+
+## Baking and Common Mistakes with Olive Oil Scones
+
+Middle rack. Not the top. Not the bottom. Twelve to eighteen minutes. Start checking at twelve. The edges should be golden — the color of dark honey. The centers should feel firm when you press them. Not rock hard. Just firm. If they're still soft, give them two more minutes.
+
+The number one mistake is pulling them out too early because they look done. They'll fall apart. They need that full 12-18 minutes to set. The second mistake is overworking the dough before baking. Cut in the oil fast and messy. Mix in the milk with barely any effort. The third mistake is using warm oil. Cold is not negotiable.
+
+They come out best when you serve them warm, maybe 5 minutes after they cool enough to touch. Or room temperature later. Cold from the fridge the next morning, split and toasted, they're honestly better than fresh.
+
+Leftover scones keep three days in an airtight container. Not the cupboard — the fridge. Some people wrap them individually. I just stack them. Works either way.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Baking Soda Scones with Fresh Herbs
+
+**Can I use all-purpose flour instead of spelt flour?**
+Not ideal. All-purpose gets dense when you do the hands-off mixing. Spelt's got a tighter crumb. If you're out, maybe try half all-purpose and half spelt. Haven't tested it, so it might be different.
+
+**What if I don't have fresh rosemary and thyme?**
+Don't use dried. Seriously. The flavor profile's completely different. Fresh herbs are the whole point of these. Sub with fresh basil or chives if you want something else, but that's a different scone.
+
+**Why can't I use softened butter instead of olive oil?**
+You can. It won't work the same way — butter melts faster, so the texture gets tighter. Olive oil stays separate longer in the cold dough. Butter will give you a denser scone. If you're using butter, chill it hard and work faster.
+
+**How do I know when they're actually done baking?**
+The edges are golden-brown. The centers feel firm when you press with your finger. Not soft. Not hard. Firm. If you're still not sure, break one open — the inside should have no wet dough. A little crumb, yes. Wet, no.
+
+**Do I have to let them rest for 25 minutes?**
+The longer the better. Fifteen minutes minimum. Twenty-five is ideal. They rise more and bake more evenly. You can go longer if you want — resting in a warm spot overnight works, just cover them. Cold resting doesn't work — they need warmth.
+
+**Can I freeze the dough?**
+Pat them into rounds, freeze them on a sheet, then bag them. Bake from frozen — add 3-4 minutes to the time. They come out fine, maybe slightly crumbly. Not worse.
