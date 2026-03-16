@@ -1,10 +1,10 @@
 ---
-title: "Spinach Lentil Asparagus Salad"
+title: "Spinach Salad with Guanciale & Lentils"
 slug: "spinach-lentil-asparagus-salad"
-description: "A hearty salad balancing smoky diced guanciale and sautéed oyster mushrooms tossed with tender green lentils and crisp-tender asparagus pieces. Baby spinach leaves mingle through a tangy dressing made with apple cider vinegar, mild honey, and whole grain mustard. The pancetta substitute adds texture; oyster mushrooms lend an earthy chew contrasting the vegetables. Simple, rustic, packed with layers of flavor. Salting at the right stage crucial. Cool asparagus quickly to retain snap. Emphasis on sensory cues—fat rendered to crackling edges, mushrooms browning deeply but not drying. Dressing emulsified smoothly with gentle whisking. No tricky dressings here. Fork-tender lentils hold their shape, not mushy. Salt and pepper to balance. A midday staple with guts, no frills."
-metaDescription: "Spinach Lentil Asparagus Salad with smoky guanciale, sautéed oyster mushrooms, and tangy honey mustard vinaigrette. Crisp asparagus and tender lentils balanced perfectly."
-ogDescription: "A rustic salad mixing crackling guanciale, soft lentils, crisp asparagus, and baby spinach tossed in honey whole grain mustard dressing. Textures snap and meld."
-focusKeyphrase: "Spinach Lentil Asparagus Salad"
+description: "Hearty spinach salad tossing baby spinach with crispy guanciale, sautéed oyster mushrooms, green lentils, and asparagus. Apple cider vinegar dressing brings tangy depth to this rustic, flavor-packed meal."
+metaDescription: "Make this spinach salad with guanciale, oyster mushrooms, green lentils, and asparagus. Apple cider vinegar dressing adds tangy flavor. Try it tonight."
+ogDescription: "Crispy guanciale, earthy oyster mushrooms, and green lentils meet tender baby spinach in this rustic salad with apple cider vinegar dressing."
+focusKeyphrase: "spinach salad"
 date: 2025-08-13
 draft: false
 image: spinach-lentil-asparagus-salad.jpg
@@ -22,8 +22,17 @@ tags:
 - "healthy"
 keywords:
 - "spinach salad"
-- "oyster mushrooms"
-- "whole grain mustard dressing"
+- "lentil salad"
+- "spinach salad dressing"
+- "warm spinach salad"
+- "green lentil salad"
+- "spinach bacon salad"
+- "french lentil salad"
+- "asparagus salad"
+- "apple cider vinegar dressing"
+- "easy spinach salad"
+- "hearty salad recipe"
+- "lentil salad recipes"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "350"
@@ -65,3 +74,75 @@ faq:
 - "q: Storage tips? a: Salad best fresh same day. Keep leftovers in airtight container. Spinach wilts fast, so store separately or add last before serving next day. Refrigerate asap. If make vinaigrette ahead, keep it sealed, shake again before use. Don’t over chill salad, that dulls asparagus snap and flavors quiet."
 
 ---
+
+Cut the guanciale first—fat sputter means it's working. Mushrooms get soft and mahogany. Spinach stays bright. This is what happens when you actually pay attention instead of dumping everything in a bowl and calling it salad.
+
+## Why You'll Love This Spinach Salad
+
+Takes 40 minutes total, most of that just cooking. Lentils do the heavy lifting so you're not hungry an hour later. The warm guanciale hits cold spinach—that contrast works. Dressing balances itself, doesn't need fussing. One bowl cleanup. Tastes better the next day, actually. Not sure why but the acidity softens and everything tastes rounder.
+
+## What You Need for This Lentil Salad
+
+Guanciale. Not bacon. The fat flavor is different—deeper, porkier. Pancetta works if guanciale's a hunt. Dice it about half a centimeter thick so it crisps properly instead of turning into chewy scraps.
+
+Oyster mushrooms. They hold texture better than buttons and absorb less oil. Quartered so they cook even. Button mushrooms work but they get spongy.
+
+Extra virgin olive oil—50 ml total, split two ways. Half for cooking mushrooms, half for the dressing. Apple cider vinegar, not white. Tastes less sharp. 40 ml sounds like a lot but lentils absorb it.
+
+Whole grain mustard with the seeds visible. Smooth mustard gets lost. Mild honey, 12 ml. Not agave, not brown sugar. Honey emulsifies better.
+
+Green lentils. The kind that don't fall apart. Rinsed and drained from the can. Fresh spinach, a liter of baby leaves. Asparagus, half a bunch of the slender kind, cooked until it snaps but doesn't shatter. Salt and pepper at the end.
+
+## How to Make This Spinach Salad
+
+Heat 25 ml oil in a large skillet, medium-high. Guanciale goes in and immediately the fat starts to sputter. Listen. That's the sound of it working. Edges tighten, color moves from pale pink to golden-bronze. Takes maybe 3 minutes. Don't walk away. Smoke means it's too hot—pull the pan, lower the temp. Remove with a slotted spoon so the fat stays behind. Set it aside.
+
+Same pan. Lower the heat to medium. Mushrooms go in now. Stir them constantly. They release water, then they brown. Takes about 8 minutes. You're coaxing color out of them—that mahogany tone is what you want. They should stay soft but not collapse. If there's a pool of fat at the bottom, some of it drains off, but keep a bit. That's flavor.
+
+## How to Get the Dressing Right on Your Spinach Salad
+
+Mixing bowl. Remaining 25 ml oil, apple cider vinegar, honey, whole grain mustard. Whisk it. Not a blender. Whisk. The texture changes—it goes from separated to creamy-looking. That's emulsified. Taste it. Too sharp? Add a drop more honey. Too sweet? A tiny splash of vinegar. It balances. This is the hard part. Everything else just happens.
+
+Cool the guanciale and mushrooms slightly. Combine them with the lentils and asparagus. Add the spinach last. Fold gently because spinach bruises and turns dark if you throw it around. The warmth from the mushrooms and guanciale wilts it just enough—not into submission, just enough.
+
+Pour the dressing over and fold again. Taste for salt. Lentils absorb seasoning aggressively so you probably need more than you think. Pepper now. Chill it if you have time—20 minutes. Letting flavors sit quiets the acidity. Serve it at room temperature. Cold salad tastes too sharp. Room temperature tastes balanced.
+
+## Lentil Salad Tips and Common Mistakes
+
+Overcooked asparagus becomes mushy and tastes like nothing. Cook it until it snaps when you bite it—that gentle resistance. Dump it in ice water immediately after. Stops the cooking, keeps the color green. Don't skip that step or it keeps cooking in the pan heat.
+
+Guanciale can burn in seconds if the pan's too hot. Medium-high, not high. You want the edges to tighten and brown, not turn black. If it smokes, you went too far. Start over with a cooler pan. The fat is the whole point—don't char it.
+
+Mushrooms release water. That's normal. Keep stirring. The water evaporates and then the browning actually starts. If you drain too much fat, the mushrooms taste boring. Keep enough to coat them.
+
+Dressing needs balance. Not an opinion. If it's too vinegary, lentils absorb it and the whole salad tastes sour by tomorrow. If it's too sweet, the mustard disappears. Taste it straight from the bowl before you dress anything.
+
+Spinach wilts but shouldn't turn to mush. Warm mushrooms do that gently. If you heat everything separately and then reheat before serving, spinach gets sad. Eat this salad at room temperature or cold, not hot.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Spinach Salad Dressing
+
+**Can I make this ahead?**
+Yes. Everything except the spinach. Combine the guanciale, mushrooms, lentils, and asparagus. Keep the dressing separate. Add spinach and dress right before eating or it gets sad.
+
+**What if I don't have guanciale?**
+Pancetta. Thick-cut bacon if you're stuck. Drain it well or the salad gets greasy. Neither tastes exactly the same but they work.
+
+**How do I get the dressing to stay emulsified?**
+Whisk constantly. Don't use a blender or it breaks. If it separates anyway, just whisk it again before you use it. Not a big deal.
+
+**Is this actually healthy?**
+Lentils and spinach are high protein and fiber. The guanciale and oil are fat but real fat, not nothing. It's a complete meal, not a rabbit food salad.
+
+**Can I use frozen spinach?**
+No. Frozen spinach has water. Thaw it, squeeze it, and you've got a sad mush. Fresh only.
+
+**Does this warm bacon dressing work with other salads?**
+Yeah, but it's built for lentils and mushrooms. The acid and mustard play off those flavors specifically. Try it on kale or bitter greens—the warm bacon dressing mellows them out.
+
+**How long does this lentil salad keep?**
+Three days in the fridge. The acidity preserves it. Day two actually tastes better. Day three tastes flat so don't bother.
+
+**What if the asparagus isn't crisp-tender?**
+Overcooked it. Next time. This time you eat it as is. Ice water immediately after cooking prevents mushiness.
