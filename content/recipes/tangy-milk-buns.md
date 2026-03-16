@@ -1,10 +1,10 @@
 ---
-title: "Tangy Milk Buns"
+title: "Dinner Rolls Recipe with Instant Yeast"
 slug: "tangy-milk-buns"
-description: "Soft milk buns fermented with instant yeast and a splash of lemon juice for subtle tang. Olive oil swapped for avocado oil for a buttery undertone. Kneaded till smooth, risen in warm spot twice, baked to golden crust. Well aerated texture, slightly chewy but tender inside. Great for sandwiches or breakfast. Keeps 2-3 days airtight. Aroma hints nutty citrus."
-metaDescription: "Tangy Milk Buns with avocado oil and lemon juice. Lightly chewy crumb, golden crust. Twice risen, baked till hollow tap sounds. Fresh kept 2-3 days sealed."
-ogDescription: "Soft milk buns lifted by lemon juice and avocado oil. Twice risen, baked to golden crisp. Chewy crumb, airy holes. Store airtight, freeze for longer."
-focusKeyphrase: "Tangy milk buns"
+description: "Soft dinner rolls made with warm milk, instant yeast, and fresh lemon juice for subtle tang. Brushed with avocado oil for a buttery finish. Perfectly tender inside with a golden crust."
+metaDescription: "Dinner rolls recipe using instant yeast, warm milk, and avocado oil. Soft, tender homemade rolls with a golden crust. Make it tonight."
+ogDescription: "Soft homemade dinner rolls with instant yeast and warm milk. Light, airy texture brushed with avocado oil."
+focusKeyphrase: "dinner rolls recipe"
 date: 2025-09-26
 draft: false
 image: tangy-milk-buns.jpg
@@ -21,9 +21,18 @@ tags:
 - "easy"
 - "breakfast"
 keywords:
-- "milk buns"
-- "yeast bread"
-- "avocado oil bread"
+- "dinner rolls recipe"
+- "yeast roll recipe"
+- "homemade yeast rolls"
+- "easy dinner rolls"
+- "soft yeast roll recipe"
+- "bread recipe milk"
+- "homemade dinner rolls"
+- "yeast rolls recipe easy"
+- "dinner rolls recipe easy"
+- "best dinner rolls recipe"
+- "recipe for soft dinner rolls"
+- "homemade rolls recipe"
 breadcrumb: ["Home", "Recipes", "Breads"]
 nutrition: 
  calories: "146"
@@ -66,3 +75,82 @@ faq:
 - "q: How to store buns best? a: Wrap airtight room temp up to 3 days. Refrigeration kills softness, dries crumb fast. Freeze if longer, slice frozen or thaw gently. Avoid plastic wrap traps moisture causing soggy crust on thaw. Use bread bag then reseal. Toast after thaw brings some crust life back."
 
 ---
+
+Warm milk. Sugar. Yeast. Five minutes and you know if this is happening or not. The bubbles either show up or they don't—no middle ground with yeast. But once they do, you're actually making bread. Homemade dinner rolls from actual dough, not some shortcut thing. Sixty-five minutes total from here to pulling golden rolls out of the oven. Tried this a dozen ways. This one works every time.
+
+## Why You'll Love This Easy Dinner Roll Recipe
+
+Takes just over an hour start to finish—40 minutes prep, 30 minutes baking.
+Makes 12 rolls that fit a single pan. No juggling. Serve them warm or room temp the next morning with coffee.
+Yeast rolls don't require some secret technique. Just warm milk, patience, and knowing what to feel for in the dough.
+Homemade yeast rolls keep in an airtight container two or three days. Freeze them. Thaw. Still tastes better than store bread.
+Not soft like brioche, not dense like sandwich bread—somewhere between. Light. Pulls apart. The little holes mean they baked right.
+
+## What You Need for Homemade Yeast Rolls
+
+Warm milk—185 ml, lukewarm like bathwater but not hot. Hot kills yeast. Cold and nothing happens. Body temperature is the target.
+
+Sugar. Just 25 ml. Feeds the yeast, helps it wake up and get working.
+
+Instant yeast—10 ml, 2 teaspoons. Not active dry. Instant dissolves faster, blooms easier.
+
+Avocado oil. 25 ml to mix in, plus more for brushing at the end. Lighter than olive oil, doesn't burn in the oven. Vegetable oil works if that's what you have. Taste shifts slightly but buns still rise.
+
+Fresh lemon juice—5 ml. Sounds weird in bread. Isn't. It wakes up the yeast, makes the dough tighter, keeps rolls fresher longer. Don't skip it. Apple cider vinegar does the same thing if lemon's not around.
+
+Flour—all-purpose, unbleached, 400 ml. That's one and two-thirds cups roughly. Sift it. Aerates the flour, makes mixing easier.
+
+Salt. Half a teaspoon. Controls yeast so it doesn't go crazy. Also makes the flavor actually taste like something.
+
+## How to Make Yeast Dinner Rolls
+
+Pour the warm milk into a measuring cup. Add sugar and lemon juice and yeast. Don't mix yet—just sit with it. Wait five to eight minutes. The surface should get frothy, little bubbles breaking through. If nothing happens, yeast is dead or the milk was too hot. Start over. When it bubbles, stir it slowly—keep those bubbles intact, don't smash them all down.
+
+Sift flour and salt together in a big bowl. Mix it around, get the salt distributed. Dust won't work here. Pour the milk mixture over slowly and start stirring with a wooden spoon or silicone spatula. Stir aggressively. Dough comes together shaggy and sticky and that's exactly right. Don't add more flour to make it smooth. Rough dough makes light rolls. Smooth dough means dense.
+
+Flour your counter. Dump the dough out. Knead hard for six or seven minutes. Smash and fold, smash and fold. Watch it change from a sticky blob into something with actual structure, something that springs back a bit when you push it. Still tacky—good. Totally dry means the rolls will be dense. A tiny splash of cold water if it's resisting. Just a splash. Flour it bit by bit if it's too wet but don't overdo it. The dough right now determines the texture you get when you bite into them later. Roll it into a tight ball. That tension matters.
+
+## How to Get Homemade Yeast Rolls to Rise Properly
+
+Grease a bowl lightly with avocado oil, drop the dough in, spin it once so it's coated all over. Cover with cling film, press it down gentle so the plastic hugs the surface. Prevents a crust from forming. Find a warm spot—next to a bowl of hot water, oven light on, wherever stays around 75-80 degrees. Let it sit one hour forty-five minutes to two hours until it doubles in size. Poke it. The indentation should stay there, not bounce back immediately. That's double. Smooth on top with bubbles just underneath, jiggly when you move the bowl. If it's not quite there, leave it. Patience here beats rushing.
+
+Prep your baking pan—28 by 20 centimeters. Grease it, dust it lightly with flour. The bottoms stick if you skip this part. Punch the dough down gently. Not violently—just enough to release some air. Divide into 12 chunks. Use a scale if you want them all the same size; makes them bake evenly. Roll each one into a tight ball. Cup your hand, roll the dough into your palm while pressing lightly on the counter. Smooth skin on the outside keeps them from tearing in the oven.
+
+Space them evenly in the pan so they're almost touching but not quite. Cover loosely with plastic wrap. Back into the warm spot for fifty to sixty-five minutes. They'll swell again, nearly double, start pulling apart slightly at the edges. Poke one gently. The indentation stays—doesn't spring back instantly. That's the moment to bake. Overproof them even five minutes and they collapse flat and dense in the oven.
+
+## Easy Yeast Rolls Tips and Common Mistakes
+
+Rack goes center. Oven to 190 Celsius, 375 Fahrenheit. Brush the tops lightly with avocado oil—just a brush, not a pour. Adds shine, helps the crust color and crisp without getting greasy. Too much oil and they taste slick.
+
+Bake twenty-five minutes. Watch the color shift from pale to golden. Edges caramelize. The smell goes from yeasty-soft to toasty-warm. Tap the bottom of one roll—hollow sound means it baked through. If it sounds dense, five more minutes. Don't rely only on time. Every oven runs different.
+
+Cool on a wire rack minimum twenty minutes. The temptation to slice warm bread is real. Don't. The crumb will compress, smear, fall apart. Wait and get the light, airy texture you actually want. Chewy inside with little holes—that's what proper cooling does.
+
+Store in an airtight container at room temperature two to three days. Don't refrigerate; it dries them out fast. Freeze for longer storage. Thaw at room temp an hour before serving. They come back soft.
+
+Never bother with active dry yeast if you can get instant. Instant dissolves faster, blooms cleaner, works more reliably. The basic yeast roll recipe works because the ratios are tight and the process respects what yeast needs—warmth, food, time. Skip a step or rush and you get dense rolls. Follow it and they're light, they pull apart, they taste homemade because they are.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Easy Yeast Dinner Rolls
+
+**Can I use all-purpose flour instead of unbleached?**
+Works fine. Color shifts slightly—regular all-purpose is bleached so it bakes paler. Taste is the same. Unbleached just looks more rustic.
+
+**What if my yeast doesn't bubble in that first five minutes?**
+Yeast is dead. Happens. Either the yeast expired or the milk was too hot and killed it. Start over with fresh yeast and cooler milk. Body temperature—around 37 Celsius. If it's hotter, wait.
+
+**Can I use butter instead of avocado oil?**
+Yeah. Melt it first, let it cool to warm before mixing. Flavor changes slightly—butter makes them taste richer, less neutral. Still works. Skip avocado oil entirely and use melted butter. Same amount.
+
+**How do I know when the second rise is done?**
+Poke it gently. The indentation should stay there instead of bouncing back. They don't need to double—they need to feel jiggly and light. If you're not sure, let them go a few more minutes. Overproofing is worse than underproofing.
+
+**Can I make this dough the night before?**
+Yeah. After the first rise, punch it down and refrigerate it overnight covered. Let it come to room temp in the morning—about thirty minutes. Then divide, shape, and do the second rise. Might rise faster because the yeast is already awake.
+
+**Why does the recipe call for lemon juice?**
+Activates the yeast differently, tightens the gluten structure, keeps the rolls fresher longer. Doesn't taste lemony—you won't taste it. Use apple cider vinegar if you don't have lemon. Same effect. One teaspoon.
+
+**What does the hollow tap test actually tell you?**
+If the bottom sounds hollow when you tap it, the inside baked through—no dough density in the middle. If it sounds flat and dense, still raw inside or baked but underproofed. Hollow = done.
