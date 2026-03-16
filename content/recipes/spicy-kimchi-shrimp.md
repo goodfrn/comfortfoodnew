@@ -1,10 +1,10 @@
 ---
-title: "Spicy Kimchi Shrimp Sauté"
+title: "Shrimp Stir Fry Recipe with Kimchi"
 slug: "spicy-kimchi-shrimp"
-description: "Shrimp cooked with aged kimchi, scallions, garlic, and toasted sesame. Uses less oil, replaces some sugar with honey, swaps toasted sesame seeds for crushed peanuts to add crunch, and adds a hint of fresh ginger. Quick stir-fry that thickens kimchi juice and finishes off with a fresh scallion burst. Serve over jasmine rice or noodles for a savory, tangy, nutty twist."
-metaDescription: "Spicy Kimchi Shrimp Sauté is a quick, savory dish blending shrimp, kimchi, garlic, and peanuts for a tangy, nutty flavor. Serve with rice or noodles."
-ogDescription: "Quick, spicy, and nutty. Spicy Kimchi Shrimp Sauté with shrimp, garlic, ginger, and peanuts served over rice or noodles. Bold flavor meets simplicity."
-focusKeyphrase: "Spicy Kimchi Shrimp Sauté"
+description: "Shrimp stir fry recipe with fermented kimchi, garlic, ginger, scallions, and crushed peanuts. Quick and savory dish thickened with sesame oil and honey over rice or noodles."
+metaDescription: "Make this shrimp stir fry recipe with kimchi, garlic, ginger, and peanuts. Quick, tangy, and nutty. Try it tonight."
+ogDescription: "Shrimp stir fry with kimchi, garlic, ginger, and peanuts. Tangy, quick, and delicious over rice or noodles."
+focusKeyphrase: "shrimp stir fry recipe"
 date: 2025-07-20
 draft: false
 image: spicy-kimchi-shrimp.jpg
@@ -21,9 +21,18 @@ tags:
 - "sesame"
 - "easy dinner"
 keywords:
-- "kimchi shrimp"
-- "easy dinner"
-- "Korean-inspired"
+- "shrimp stir fry recipe"
+- "stir fried shrimp"
+- "shrimp stir fry dishes"
+- "shrimp and stir fry"
+- "prawns stir fry"
+- "quick shrimp stir fry recipe"
+- "sauteed shrimp dishes"
+- "shrimp saute recipe"
+- "prawn stir fry recipe"
+- "easy recipe for shrimp stir fry"
+- "noodle shrimp stir fry"
+- "wok fried shrimp"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "280"
@@ -63,3 +72,86 @@ faq:
 - "q: Can I skip the peanuts? a: Absolutely. Substitute sesame seeds if needed. Different crunch though. Or just skip them entirely. Kimchi and shrimp still delicious all on their own."
 
 ---
+
+Heat the oil first — it needs to actually shimmer. Scallions go in for like 90 seconds, just enough to wake them up. Then the kimchi. That's the whole thing right there.
+
+## Why You'll Love This Shrimp Stir Fry
+
+Takes 22 minutes total. Twelve to prep. Ten in the pan. Done before you're hungry.
+Spicy but not aggressive. The kimchi brings heat, the honey pulls it back a bit.
+Works as a weeknight dinner. Works cold the next day, maybe better. Toss it over rice or noodles or just eat it straight.
+One pan. Everything goes in the same skillet. Cleanup is like thirty seconds.
+Tastes Korean without trying too hard. That umami thing. Sesame and peanuts at the end make it feel deliberate.
+
+## What You Need for a Shrimp Stir Fry
+
+Vegetable oil. Not olive. It smokes at the wrong temperature. Ten ml sounds small — it's enough.
+
+Scallions split two ways. White parts chopped fine. Green parts chunked bigger. They cook different and that's the point.
+
+Garlic. Three cloves. Minced means minced. Not sliced.
+
+Kimchi. Four hundred ml. Fermented is non-negotiable. The raw stuff doesn't have the funk. Doesn't work.
+
+Fresh ginger. Grated. Five ml. Sounds specific. It is. Ginger powder doesn't cut it here.
+
+Small shrimp. Four hundred grams, about eighty to a hundred count. Size matters because they cook in four minutes flat. Bigger shrimp and you're waiting around.
+
+Honey. Just three ml. Not for sweetness exactly. Balances the spice somehow. Doesn't explain it well. Just works.
+
+Toasted sesame oil. Ten ml. Get the kind that smells like a Korean restaurant. The nutty stuff. Not the light kind.
+
+Crushed roasted peanuts. Ten ml. They go in at the very end so they don't get soggy.
+
+## How to Make Shrimp Stir Fry
+
+Medium heat. Oil in the pan. Wait for it to shimmer — you'll see it move different, sort of liquid glass thing. Takes a minute.
+
+White scallions in. Garlic in. Ninety seconds. Don't leave it. The moment garlic starts to smell like something is when you stop.
+
+Kimchi. Ginger. Honey. Stir it. The liquid's going to come out of the kimchi right away. That's supposed to happen. Keep stirring because it can burn on the bottom and taste harsh.
+
+Four to five minutes you're cooking the kimchi down. The liquid should almost disappear. It won't completely — don't wait for that. You want just a bit of moisture left clinging to everything. This is the part that takes the longest but honestly it's the least amount of work.
+
+Shrimp goes in. Sesame oil. Peanuts. Stir constantly now. The shrimp go from gray to opaque in about three minutes. They curl when they're done. Don't overcrowd the pan or they steam instead of fry — give them space if you can.
+
+Green scallion pieces in for the last thirty seconds. That's it. The heat stays on but just barely. You want them just warmed through, not cooked. They'll still be a little crisp that way.
+
+## Tips for Getting Your Shrimp Stir Fry Right
+
+The hardest part is the kimchi phase. That's where it can go wrong — the bottom burns, everything tastes bitter. Don't do that. Stir it constantly. Lower heat if you need to. It's better slow than charred.
+
+Shrimp cook fast. Actually fast. Three to four minutes. If you're watching your phone you'll miss it. Watch the pan.
+
+Cold shrimp cook faster than room temperature shrimp. Room temperature shrimp cook faster than warm shrimp. Doesn't make a huge difference but it matters.
+
+The sesame oil goes in with the shrimp, not before. If it hits the hot empty pan it burns and tastes acrid. Acrid is bad.
+
+Green scallions have to go in last. Thirty seconds. That's a rule. They're there for texture and brightness. Cooked through and they're just flavor.
+
+Don't use dried ginger. Haven't tried it. Probably doesn't work the same way. Fresh ginger has a bite that powder doesn't have.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Shrimp Stir Fry Dishes
+
+**Can you make this stir fried shrimp without kimchi?**
+Not really this dish. You could make a different stir fry without it. This one needs the kimchi. It's the whole angle.
+
+**How spicy is it?**
+Depends on your kimchi. Some brands are aggressive, some aren't. You control that by controlling the kimchi. More kimchi, more heat. Less kimchi, less heat. Simple.
+
+**Can you use bigger shrimp?**
+Yeah. They'll just take longer. Maybe five or six minutes instead of three or four. Size 60-70 count works fine. Just watch them.
+
+**What if you don't have sesame oil?**
+It tastes different. Not bad, just different. The sesame is kind of the point though. Have tried substituting with other oils and it flattens everything out.
+
+**Does it work over noodles?**
+Works over noodles. Works over rice. Works with nothing underneath. The shrimp and stir fry vegetables situation adapts to whatever you've got. Jasmine rice is good. So are ramen noodles. So is just eating it from the pan standing at the counter.
+
+**Can you meal prep this?**
+Cold, yeah. Maybe better cold actually. The flavors kind of sink in overnight. Reheat it slowly or don't reheat it at all.
+
+**Should you marinate the shrimp first?**
+No. Doesn't need it. Everything happens in the pan. Adding a step doesn't make it better.
