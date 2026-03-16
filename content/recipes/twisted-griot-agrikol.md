@@ -1,10 +1,10 @@
 ---
-title: "Twisted Griot Agrikol"
+title: "Slow Cooker Pulled Pork with Orange & Lime"
 slug: "twisted-griot-agrikol"
-description: "A Haitian-inspired slow-cooked pork shoulder dish, simmered in a citrusy, spicy broth with fresh herbs and fried to a crispy finish. Uses beef broth, orange and lime juices, and a bouquet garni of scallion, parsley, and thyme. Substitutes avocado oil for vegetable oil and tamarind paste for some marinade acidity. Includes a fresh Scotch bonnet or habanero for heat. Pork is barely tender before frying to retain texture. Served with traditional sides or creative mashups like sweet plantains or cornmeal cakes. No dairy, gluten, eggs, or nuts."
-metaDescription: "Twisted Griot Agrikol slow-simmered pork shoulder in citrusy spicy broth; fried crisp with bouquet garni, Scotch bonnet heat, avocado oil, tamarind twist. Gluten free."
-ogDescription: "Spicy, citrusy Haitian pork shoulder simmered slow in beef broth; fried crisp in corn oil. Tamarind adds tang, Scotch bonnet whole for measured heat. Rest meat before fry."
-focusKeyphrase: "Twisted Griot Agrikol"
+description: "Slow cooker pulled pork shoulder with citrusy orange and lime juice, beef broth, Scotch bonnet heat, and fresh herbs. Crispy-fried finish. Dairy-free."
+metaDescription: "Slow cooker pulled pork made with pork shoulder, orange juice, lime juice, and Scotch bonnet pepper. Tender, spicy, and crispy. Try it tonight."
+ogDescription: "Haitian-style slow cooker pulled pork with orange juice, lime, and Scotch bonnet. Citrusy, spicy, and crisped to perfection."
+focusKeyphrase: "slow cooker pulled pork"
 date: 2025-08-20
 draft: false
 image: twisted-griot-agrikol.jpg
@@ -21,9 +21,18 @@ tags:
 - "spicy"
 - "citrus"
 keywords:
-- "pork shoulder"
-- "Scotch bonnet"
-- "tamarind paste"
+- "slow cooker pulled pork"
+- "slow cooker bbq pulled pork"
+- "pulled pork crock pot"
+- "pulled pork recipe slow cooker"
+- "crock pot pulled pork"
+- "slow cooked pork shoulder"
+- "pork shoulder slow cooker"
+- "shredded pork slow cooker"
+- "haitian pulled pork"
+- "citrus pork slow cooker"
+- "spicy pulled pork recipe"
+- "crispy pulled pork"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "430"
@@ -69,3 +78,56 @@ faq:
 - "q: How to store leftovers? a: Cool quickly, airtight in fridge up to 3 days. Reheat gently in pan with minimal added liquid. Fry again briefly to crisp exterior if texture lost. Freezing possible but texture alters; best eaten fresh."
 
 ---
+
+Heat avocado oil until it shimmers. Stir in that Haitian marinade—watch it bubble and darken. Immediately add pork chunks, coat every piece. One and a half minutes. That's it. Not a hard sear. Just a glaze.
+
+## Why You'll Love This Slow Cooker Pulled Pork
+
+Takes 2 hours 35 minutes total and tastes Caribbean. The citrus and spice hit different from regular barbecue pulled pork crock pot versions. Slow cooker does the work—you're basically done once it hits a simmer. Crispy outside, tender inside. Not the mushy pulled pork slow cooker thing that falls apart before it hits the pan. Fresh orange juice and lime juice, plus that whole Scotch bonnet floating in there, they don't go away when it cooks—they concentrate. Haitian-style means it's spicy but not aggressive. Works hot or cold. Cleanup's minimal. One pot. One slow cooker if you skip the sear. Actually, don't skip the sear.
+
+## What You Need for Caribbean Pulled Pork Crock Pot
+
+Avocado oil. Not olive. Burns too easy. A quarter cup. Tangy Haitian-style marinade—three tablespoons plus a teaspoon. This is the foundation. Don't skip it. Pork shoulder, boneless, two point two pounds, cut into four-centimeter chunks. Size matters. Too small and it shreds in the broth. Too big and it doesn't cook through evenly. Beef broth. Three point seven five cups. Homemade's better but low-sodium store-bought works. Orange juice and lime juice—fresh, not concentrate. A whole lime. A whole orange. Minced garlic, three cloves. One Scotch bonnet pepper. Keep it whole. A scallion, parsley, and thyme bundled together with twine. Corn oil for frying later. Tamarind paste is optional—replaces part of the lime juice if you want deeper tang. Salt and black pepper. That's it.
+
+## How to Make Shredded Pork in Slow Cooker
+
+Heat that avocado oil over medium-high until shimmering. Barely takes a minute. Add the Haitian marinade and stir fast. Watch it. It should bubble and darken a bit but not burn. That's the smell you want. Immediately toss in pork chunks. Coat every single piece—takes about a minute and a half. Don't crowd the pan. You're not browning hard here. Just coating. Scrape up the sticky bits at the bottom.
+
+Add beef broth, orange juice, lime juice, tamarind paste if using. Pour slow because it'll sizzle and steam everywhere. Stir in minced garlic. Drop in the whole Scotch bonnet—don't poke it, don't break it. Keep it whole or the heat spreads everywhere. Make a bouquet garni by tying the scallion, parsley, and thyme together with kitchen twine. Drop it in. Season with salt and cracked black pepper. Stir once.
+
+Bring to a rolling boil. Once it gets there, reduce to medium-low and leave it uncovered. You'll see gentle bubbles, subtle steam. Not angry. Just steady. This is the slow cooker part, except you're doing it on the stove because browning matters first. Around 1 hour 40 minutes. Stir every 20 minutes. Watch the moisture. The pork's ready when you can poke it with a fork and it goes in with some resistance—not shredding yet. Not falling apart.
+
+## How to Get Crispy Pulled Pork Crock Pot Texture
+
+Remove the bouquet garni carefully. Remove the whole pepper carefully. Don't break the pepper or you release all the heat at once. It'll be too much. Drain the pork with a slotted spoon onto paper towels. Let it sit 15 minutes. This drains the liquid and firms it up. Frying works better when the meat's not wet.
+
+Heat corn oil to 175 degrees Celsius. Maybe 180. Watch for shimmering waves and wisps of smoke. You need heat. Fry in small batches. Two to four minutes each. Turn occasionally. Look for golden blistering spots. Listen for the sound—steady frying, not crazy splat. Remove to paper towels. They should be crisp outside, juicy inside. Miss the golden edges and they get soggy. That's the mistake.
+
+## Barbecue Pulled Pork Slow Cooker Tips and Common Mistakes
+
+The whole Scotch bonnet is there for flavor, not heat. Keep it whole and it's controlled. Break it open and you regret it. Orange juice and lime juice have to be fresh. Concentrate tastes thin. The slow cooker part is flexible—could go 2 hours instead of 1 hour 40 minutes if your pork's thick. The frying part matters. Some people skip it and just shred the pork from the broth. It works. But it's not crispy. Not the same. The meat firms up when it cools so 15 minutes of resting is real. Don't skip that either. Tamarind paste makes it deeper—not necessary but it rounds out the citrus. Haitian pulled pork crock pot recipes usually include it. The bouquet garni keeps the thyme and parsley from floating everywhere and getting stuck in teeth. Tie it tight.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Slow Cooker Pulled Pork Recipe
+
+**Can I use a slow cooker for the whole recipe instead of the stovetop?**
+Yeah. Brown the pork in a hot pan first—three to four minutes, get some color. Transfer to the slow cooker. Add everything else. Cook on low for six to seven hours. You lose the sear so the flavor's lighter. The frying step still matters at the end.
+
+**What if I can't find Haitian-style marinade?**
+Skip it. The pork still works with just the broth, citrus, and garlic. You lose that specific tang. Tastes more like regular pulled pork crock pot. If you have jerk seasoning, that's closer. Use half the amount.
+
+**Can I shred the pork instead of frying it?**
+Sure. Pull it apart with two forks while it's warm. It'll be tender and fall-apart. Not crispy. Totally different texture. Some people prefer that. I don't.
+
+**How long does the cooked shredded pork keep?**
+Three days in the fridge. Four days if you're lucky. Freezes for three months.
+
+**What's a substitute for Scotch bonnet if I can't handle spicy?**
+Don't use one. Or use half a bell pepper instead. No heat. Just flavor. The barbecue pulled pork slow cooker version becomes sweeter without it.
+
+**Can I double this recipe?**
+Yeah. Double everything. Cooking time might go up 20 minutes. You're looking for the same fork-tender texture. Check at two hours instead of one hour 40 minutes.
+
+**What sides work with Caribbean pulled pork slow cooker style?**
+Duriz collé—that sticky cornmeal. Plantain pesée. Coconut rice. Mashed cassava. Pikliz on the side if you want more spice. None of it's complicated. Most of it's just boiled starches with butter and salt.
