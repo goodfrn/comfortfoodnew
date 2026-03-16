@@ -1,10 +1,10 @@
 ---
-title: "Smoky Lime Chipotle Remoulade"
+title: "Chipotle Mayo Recipe with Lime & Cilantro"
 slug: "smoky-lime-chipotle-remoulade"
-description: "A spicy smoky remoulade with roasted chipotle peppers blended into a creamy base. Lime juice adds brightness while mayo provides smoothness. Cilantro optional, fresh herb pop or skip if you hate green bits. Adds smoky heat to sandwiches, tacos, burgers, or grilled veggies. Can control heat by adding chipotle peppers bit by bit. Holds well chilled in fridge for up to a week. Simple but layered flavors, with a kick. Makes about eight generous servings, enough for a party or leftovers."
-metaDescription: "Smoky Lime Chipotle Remoulade blends chipotles, lime, mayo and paprika into spicy creamy sauce for sandwiches, tacos, burgers. Chill for best flavor hit."
-ogDescription: "Spicy chipotle and lime mix with creamy mayo for a smoky kick. Layered flavors, bit chunky texture. Chill flavors, add chipotle slow to control heat."
-focusKeyphrase: "Smoky Lime Chipotle Remoulade"
+description: "Smoky chipotle mayo blends roasted peppers in adobo with creamy mayonnaise and fresh lime juice. Add cilantro for a bright herb twist. Perfect for tacos and sandwiches."
+metaDescription: "Easy chipotle mayo recipe using canned chipotles in adobo, mayo, and fresh lime juice. Smoky, creamy, and ready in minutes. Make it tonight."
+ogDescription: "Homemade chipotle mayo with roasted peppers, mayo, and lime juice. Smoky and creamy in one simple recipe."
+focusKeyphrase: "chipotle mayo recipe"
 date: 2026-02-07
 draft: false
 image: smoky-lime-chipotle-remoulade.jpg
@@ -20,9 +20,18 @@ tags:
 - "mexican"
 - "easy"
 keywords:
-- "chipotle peppers"
-- "lime juice"
-- "mayonnaise"
+- "chipotle mayo recipe"
+- "chipotle mayo"
+- "chipotle mayonnaise"
+- "homemade chipotle mayo"
+- "chipotle mayo sauce"
+- "spicy remoulade"
+- "chipotle aioli recipe"
+- "easy chipotle mayo"
+- "simple chipotle mayo"
+- "chipotle mayo dip"
+- "adobo mayo"
+- "smoky chipotle mayo"
 breadcrumb: ["Home", "Recipes", "Sauces and Condiments"]
 nutrition: 
  calories: "90"
@@ -72,3 +81,91 @@ faq:
 - "q: How long to store remoulade? a: Up to seven days airtight refrigerated. Stir if separates. Freshness best first 3-4 days. Keep chilled always. Can also freeze but texture may change slightly."
 
 ---
+
+Throw a can of chipotle peppers into the processor. Thirty-five seconds. You want chunky paste, not smooth — texture matters here.
+
+## Why You'll Love This Chipotle Mayo
+
+Six minutes and you've got a condiment that tastes homemade. Store-bought spicy mayonnaise is fine until you try this.
+Works on everything. Sandwiches, tacos, roasted vegetables — cold or hot doesn't matter.
+Heat builds slowly. Not a punch. A burn that sits there.
+Cilantro optional. Skip it if you don't want soapy. Parsley works too.
+One can does the job. You're not buying three specialty ingredients. Mayonnaise. Lime. Chipotle. Done.
+
+## What You Need for Homemade Chipotle Mayonnaise
+
+One 7-ounce can of chipotle peppers in adobo sauce. The whole can. Some people hold back — don't. You can always add less next time.
+
+Mayonnaise. One cup. Real mayo, not the light stuff. It needs fat to carry the smoke and heat without falling apart. Greek yogurt works if you're cutting calories, but texture shifts toward thin. Different sauce. Both good.
+
+Fresh lime juice — three tablespoons. Not bottled. Bottled tastes like plastic. The acid cuts through richness, keeps everything from tasting heavy.
+
+Cilantro. A quarter cup, chopped. Optional. Honestly optional. Some people hate it.
+
+Salt and pepper. Fine sea salt works better than kosher here — spreads more evenly into the mayo. Quarter teaspoon black pepper.
+
+Smoked paprika. A teaspoon. This is the twist. Extra smoky depth without extra heat. Shifts the flavor from "spicy mayo" to "actually layered."
+
+## How to Make Chipotle Mayonnaise
+
+Start with the chipotles and some of their adobo sauce — the whole can goes in. Food processor or blender, doesn't matter. Blitz for about thirty-five seconds. Watch for that thick, chunky paste. You want to see pepper skin flakes still there. Stop before it gets smooth.
+
+Spoon it into a bowl. Set aside.
+
+Don't wash the processor. Add the lime juice, mayonnaise, cilantro if you're using it, salt, pepper, and smoked paprika. Pulse. Just pulse. Don't blend it smooth or the mayo breaks and gets runny and thin.
+
+Chipotle paste goes in slowly. A tablespoon at a time. Taste as you go. I dump the whole can in because I like heat, but start small. Chipotle is fire-hot and smoky. You can always add more.
+
+The texture should look creamy with tiny chunks of pepper skin and adobo flecks visible. That's how you know it's right.
+
+## How to Get the Texture Right
+
+Refrigerate it. At least thirty-five minutes. This part matters. Rest time lets flavors marry and the spices mellow slightly. The sauce thickens up. Spreads easier. Tastes better cold.
+
+The blending part is where people mess up. Too long in the processor and you get watery, separated sauce. Chunky mayo breaks. That sweet spot is thick and gritty — you can spread it, still see pepper skin.
+
+If it comes out too thick after it chills, stir in a teaspoon or two of water or more lime juice to loosen it. For dipping. For spreading. Depends what you're doing.
+
+Separation happens sometimes. Just stir before serving.
+
+## Chipotle Mayo Tips and Common Mistakes
+
+Leftover adobo sauce from the can. Use it. A teaspoon at a time in step three. Punchy flavor boost.
+
+Don't skip the rest. Fresh lime should buzz through but mellow. Mayo smooths the heat. Cilantro brightens. Salt brings balance. Without them, sauce tastes flat and one-note.
+
+The smoked paprika addition is small but changes everything. Deeper. More alive.
+
+Sour cream swap doesn't work. I tried it. Mayo offers better creaminess. The base matters.
+
+Skip cilantro if soapiness bothers you. Parsley is a solid swap. Different herb note but it works.
+
+Stores airtight in the fridge up to seven days. The flavor stays alive even after days.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chipotle Mayonnaise
+
+**Can I make chipotle mayo without a food processor?**
+Blender works. Hand mixer works. You just need to break down the peppers into paste. Takes longer without a processor but gets there.
+
+**How spicy is this chipotle mayo?**
+Depends how much of the can you add. Half the can is medium heat. Whole can is fire. Start with a quarter can if you're not sure.
+
+**Can I use Greek yogurt instead of mayo?**
+Yeah. Texture gets thinner, tangier. More salad dressing than sauce. Works fine for dipping. Different thing than chipotle mayonnaise. Both taste good.
+
+**What should I use this on?**
+Sandwiches. Tacos. Roasted vegetables. Grilled tofu. Cauliflower. Fish. Cold too — works as a dressing. Some people use it on eggs.
+
+**How long does it keep?**
+Seven days, airtight. Flavor stays good. Texture stays creamy. Just stir before serving if separated.
+
+**What if I don't have fresh lime juice?**
+Bottled works but tastes different. Flat. Plastic-y. Fresh is better. Even half the fresh lime helps. Don't skip acid.
+
+**Can I make a batch ahead?**
+Yes. Make it the morning before. Flavors actually get better after sitting. Spices mellow, mayo thickens.
+
+**Is it really a spicy remoulade?**
+Remoulade is mayo with herbs and relish traditionally. This one's smoky and spicy. It's in that family. Call it chipotle mayo or spicy remoulade — doesn't matter.
