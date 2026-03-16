@@ -1,10 +1,10 @@
 ---
-title: "Pepperoni Cheese Logs"
+title: "Pepperoni Cheese Logs with Egg Roll Wrappers"
 slug: "pepperoni-cheese-logs"
-description: "Wrapped pizza-style logs with pepperoni and mozzarella, fried or frozen for later. Uses egg roll wrappers for crunch. Freeze well, fry to golden-brown crisp outside, gooey cheese inside. Swaps sausage for pepperoni, adds parmesan twist. Oil temp crucial at low 320-330°F. Avoid bursting cheese; fry low and watch bubbles. Quick prep, adaptable, snack or party food."
-metaDescription: "Pepperoni Cheese Logs fried to golden crisp; mozzarella core plus parmesan edge crunch. Freeze-friendly, quick prep, low oil temp key for no cheesy mess."
-ogDescription: "Crunchy pepperoni cheese logs with melty mozzarella center and parmesan twist. Freeze solid, fry low 320-330°F, watch bubbles and color shifts for best results."
-focusKeyphrase: "Pepperoni Cheese Logs"
+description: "Crispy pepperoni cheese logs made with egg roll wrappers, mozzarella string cheese, and parmesan. Fried to golden-brown perfection with gooey melted cheese inside."
+metaDescription: "Make pepperoni cheese logs with egg roll wrappers and mozzarella string cheese. Crispy fried appetizer that freezes well. Try it tonight."
+ogDescription: "Crispy fried pepperoni cheese logs with mozzarella and parmesan. Made with egg roll wrappers for the perfect party snack."
+focusKeyphrase: "pepperoni cheese logs"
 date: 2025-10-11
 draft: false
 image: pepperoni-cheese-logs.jpg
@@ -22,8 +22,15 @@ tags:
 - "snack"
 keywords:
 - "pepperoni cheese logs"
-- "egg roll wrapper snacks"
-- "crispy fried snacks"
+- "fried cheese snacks"
+- "crispy pepperoni cheese rolls"
+- "pepperoni mozzarella egg roll wrappers"
+- "homemade pizza logs with string cheese"
+- "frozen appetizers to fry"
+- "pizza appetizers"
+- "fried mozzarella and pepperoni wraps"
+- "make ahead pizza snacks"
+- "pepperoni mozzarella parmesan egg rolls"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "220"
@@ -69,3 +76,104 @@ faq:
 - "q: What if oil temperature drops when frying? a: Crowding biggest cause. Drop to 300 or below = greasy, pale logs, rubbery crust. Fry max 3-4 logs at once, wait for temp rebound before next batch. Use thermometer if available or test flick water regularly. Use vegetable oil with high smoke point. Fresh oil keeps flavor crisp; reused oil darkens taste."
 
 ---
+
+Lay out your egg roll wrappers like you're about to work fast. Pepperoni. String cheese. Egg wash. Oil heating. This isn't complicated, but it matters that you move. Twelve logs. Twenty-two minutes of prep. Sixteen minutes in hot oil. Done.
+
+## Why You'll Love This Pepperoni Cheese Logs Recipe
+
+Takes 22 minutes to assemble if you don't overthink it.
+Fried until the wrapper cracks and the cheese gets hot inside — not leaking everywhere, just warm and soft where it counts. Works as a pizza appetizer or just a snack on a Tuesday.
+Freeze them for up to six months. Grab them when you need something fast.
+Make ahead means zero stress. They fry from frozen, no thawing, just drop and wait.
+The parmesan adds something you wouldn't expect. Sharper than just mozzarella alone.
+
+## What You Need for Pepperoni Mozzarella Egg Rolls
+
+Egg roll wrappers. Twelve of them. The size matters — large, not the small ones.
+Pepperoni. Five slices per log. The overlap keeps them from sliding around.
+One string cheese per log. Just one. It's the anchor.
+Parmesan cheese. Grated. Two tablespoons total — sprinkle a pinch over each filling before you roll. Changes the flavor. Not a lot, but noticeably.
+One egg beaten with a fork. This is your glue. No egg, they open in the oil. Not worth it.
+Vegetable oil. Enough to submerge. Temperature matters more than amount. 320 to 330 degrees. A thermometer is honestly required.
+
+## How to Make Pepperoni Cheese Logs
+
+Set everything on one plate or cutting board before you start. Seriously. Clutter kills speed, and you'll want momentum once you begin.
+
+Brush the egg wash on the edges of one wrapper. All four sides where they meet. Not the whole wrapper — just the edges. That seal is everything. No seal means oil gets in. Cheese leaks out. Grease everywhere.
+
+Stack five pepperoni slices in the center. They should overlap slightly, like a fan but tight. Sprinkle parmesan over them now. Just a pinch. Enough to feel it but not enough to overwhelm.
+
+Lay the string cheese right on top of the pepperoni. Don't cut it. Whole. It acts as the spine. Keeps everything from rolling around inside the wrapper while you're folding.
+
+Fold the bottom edge up and over the filling. Snug but not violent. Then fold the left side in, then the right side, like you're making an envelope. Leave the top flap loose for now.
+
+Roll upward. Tight. The tighter you roll, the less oil it drinks and the crunchier the outside stays. Seal that top flap down hard. Press it.
+
+Lay them on wax paper or parchment. Space them out. They're going to sit here, and if they touch they'll stick together when you freeze them.
+
+Freeze them loosely covered for at least one hour. They keep for six months if you want to store them.
+
+## How to Get Crispy Pepperoni Cheese Rolls
+
+Heat the oil to 320 to 330 degrees. Use a thermometer. Seriously. Don't guess. A thermometer takes the guessing out.
+
+You can test it with a water droplet if you want — flick one in and it should sizzle immediately and float. But if you're doing twelve logs, just use a thermometer.
+
+Drop 3 to 4 logs in at a time. Not more. Temperature drop is real. Too many logs in cold oil and they come out greasy and the wrapper stays soft.
+
+Watch for bubbles around the edges. Watch for the color. Golden. Not brown yet. Still golden. That's 1.5 to 2 minutes usually.
+
+Flip them. The other side needs the same time. Golden. The cheese should still be inside at this point. You'll see it pushing against the wrapper a little. That's perfect.
+
+Pull them out before the cheese actually leaks. It'll leak if you leave them too long. Hot oil and melted cheese escaping is a burn waiting to happen and a waste of your cheese log.
+
+Transfer to paper towels. Gently. Don't stab them. Just let them drain.
+
+Repeat with the rest. Work in batches.
+
+Eat them hot. Immediately. Marinara dip or a sharp mustard. Cold they're fine but hot they're actually crispy.
+
+If you froze them and want to fry later, don't thaw. Drop them frozen into the oil. Add maybe a minute or two to the frying time because the center needs to heat through from a cold start. Everything else stays the same.
+
+## Pepperoni Cheese Logs Tips and Common Mistakes
+
+Don't skip the egg wash. That seal holds everything. No seal means oil inside and cheese outside.
+
+Overlap your pepperoni but keep it centered. Edge pepperoni hangs out of the wrapper and cooks weird.
+
+String cheese. One piece. Not two. Not torn up. One piece whole. It's the structure.
+
+Oil temperature. Get a thermometer. 320 to 330 degrees. Below that and they absorb oil like sponges. Above that and the outside burns before the cheese gets hot.
+
+Crowding the pot is the biggest mistake. Three or four logs at a time. That's it.
+
+Don't flip them too early. Wait for the edges to look golden first. Flipping too soon means the other side doesn't cook evenly.
+
+Freezing works great. They actually fry better from frozen because the wrapper sets faster before the oil can soak through.
+
+If you want to make ahead pizza snacks for later, freeze them right after rolling. Don't fry first. Fry straight from frozen when you're ready.
+
+Parmesan instead of more mozzarella. Try it. It's sharper. It's different. Worth testing once.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Pepperoni Cheese Logs
+
+**Can I bake these instead of frying?**
+No. They won't get crispy. The wrapper stays soft and rubbery. These need oil. Deep fry or air fry if you have one, but regular oven doesn't work.
+
+**How long do they keep in the freezer?**
+Six months easy. Longer probably. The wrapper doesn't degrade and the cheese doesn't go anywhere. Once they're frozen hard, bag them up. They're fine.
+
+**What if the cheese leaks while frying?**
+You fried too long. Pull them out earlier next time — when the wrapper's golden but before you see cheese trying to escape. It's a timing thing. Gets faster after the first batch.
+
+**Do I have to use string cheese?**
+Probably not. Any mozzarella cube would work. The string cheese just stays together better. Shredded mozzarella would make them fall apart inside the wrapper.
+
+**Can I use a different dip?**
+Marinara works. Mustard works. Ranch works. Basically any dip you'd eat pizza with. That's all they are — fried pizza in a wrapper.
+
+**How many oil times do I need per batch?**
+One pot. Just keep the temperature steady. If it drops between batches, let it come back up before you add more logs. Refill the oil as it gets low, but usually one pot of oil does all twelve logs without draining.
