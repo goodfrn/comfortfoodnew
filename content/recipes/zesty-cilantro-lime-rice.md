@@ -1,9 +1,9 @@
 ---
-title: "Zesty Cilantro Lime Rice"
+title: "Cilantro Lime Rice Pilaf with Smoked Paprika"
 slug: "zesty-cilantro-lime-rice"
-description: "A vibrant twist on basic cilantro lime rice with slightly altered spice quantities, substituting chicken broth for vegetable broth for a lighter base, and a unique hint of smoked paprika for a subtle depth. Onion and garlic gently sautéed in olive oil instead of butter, letting flavors build slowly while keeping the garlic from burning. The rice simmers covered with undisturbed steam, then finished off with fresh lime zest, juice, and chopped cilantro for that bright punch. Textural fluffing emphasized to avoid mush. A staple side that balances acidity, earthiness, and herbal brightness. Serves perfect with seafood, chicken or Mexican dishes."
-metaDescription: "Zesty Cilantro Lime Rice with smoky paprika, fresh lime, and cilantro. Rinsed rice simmers undisturbed in veg broth. Fluffy grains, bright herb punch for Mexican-inspired meals."
-ogDescription: "Cilantro lime rice brightened with smoked paprika, vegetable broth, and fresh lime zest. Toasted rice, gentle simmer, no peeking. Fluff, fold cilantro, serve warm."
+description: "Cilantro lime rice pilaf made with long grain white rice, fresh lime juice, and cilantro. Sautéed garlic and onion in olive oil with smoked paprika create depth and flavor."
+metaDescription: "Make cilantro lime rice pilaf tonight with fresh cilantro, lime juice, and garlic. Fluffy long grain white rice seasoned with cumin and smoked paprika. Try it tonight."
+ogDescription: "Cilantro lime rice pilaf with garlic, onion, and smoked paprika. Fresh lime juice and cilantro finish this fluffy, flavorful side dish."
 focusKeyphrase: "cilantro lime rice"
 date: 2025-11-10
 draft: false
@@ -21,8 +21,17 @@ tags:
 - "easy"
 keywords:
 - "cilantro lime rice"
-- "smoked paprika"
-- "vegetable broth"
+- "rice pilaf"
+- "cilantro lime rice recipe"
+- "cilantro rice"
+- "lime rice"
+- "cilantro lime rice cooker"
+- "rice side dishes"
+- "cilantro rice recipe"
+- "lime and rice"
+- "rice with coriander"
+- "brown rice pilaf"
+- "wild rice pilaf"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "210"
@@ -65,3 +74,85 @@ faq:
 - "q: How long can leftovers keep? a: Refrigerate in airtight container up to 4 days. Reheat with broth splash in skillet. Freeze portions up to 2 months, thaw slowly. Cilantro best fresh chopped every time. Avoid microwaving or overcooking when reheating."
 
 ---
+
+Toast the rice in hot oil first—that's the whole trick. Three cloves of garlic. Half an onion. Twelve minutes of prep, eighteen minutes cooking. That's it.
+
+## Why You'll Love This Rice Pilaf
+
+Comes together in 30 minutes total.
+Takes almost no dishes. One skillet, one lid. Done.
+Works cold the next day. Maybe better cold, actually.
+Cilantro and lime hit different in rice pilaf—fresh and bright without tasting like a health food. Just tastes good.
+Vegetarian by default. Sides work for anything.
+
+## What You Need for Cilantro Lime Rice
+
+Olive oil. A tablespoon. Not more.
+
+White onion—half a medium one, chopped fine. Not yellow. Yellow gets too sweet.
+
+Garlic. Three cloves minced. Or four if you like it strong.
+
+Long grain white rice, rinsed. One and a half cups. Rinsing matters. Skip it and you get gluey rice.
+
+Cumin and garlic powder. A teaspoon of cumin, half teaspoon of the powder. Smoked paprika too—that one's optional but good. It adds something.
+
+Kosher salt. One teaspoon. Freshly ground black pepper. Half teaspoon.
+
+Vegetable broth. Two and a third cups. Chicken broth works if that's what you have.
+
+Lime. One large one for zest and juice—two tablespoons of the juice. Fresh cilantro. Half a cup chopped.
+
+## How to Make Cilantro Lime Rice
+
+Heat the oil in a medium skillet over medium heat. Not hot yet. Just warm.
+
+Add the onion. Stir it around until it goes translucent. Three to four minutes. You're not browning it. Just softening. It should still be kind of white.
+
+Garlic goes in next. One minute. Stir constantly. You'll smell it get sweet and sharp. Stop before it turns brown or bitter. Right when it smells good.
+
+## How to Get Rice Pilaf Crispy and Nutty
+
+This is where the toast happens. Dump in your rinsed rice. Stir so every grain gets coated in the oil and onion mixture. Forty seconds. That's all.
+
+Watch for the rice to get slightly glossy and smell nutty. Like you're toasting it. You'll hear tiny crackles under the spatula. That sound means it's working.
+
+Toss in the cumin, garlic powder, salt, pepper, and paprika. Stir until the spices coat everything evenly. Important step. Uneven spice distribution sucks.
+
+Pour the vegetable broth in. Turn the heat up just until it starts bubbling gently. That's simmering. Once it bubbles, cover it tight with a lid. Lower the heat all the way to low. This is crucial.
+
+Don't lift the lid. Steam escapes. Rice cooks unevenly. Just leave it sealed for eighteen to twenty minutes. You'll know it's done when the broth's absorbed and the rice looks plumped and almost translucent. Crackling sounds get quieter. That's your cue.
+
+## Cilantro Rice Tips and Common Mistakes
+
+Rest it for five minutes off heat with the lid still on. Sounds weird but it matters. The rice keeps steaming and the grains separate better.
+
+Fluff with a fork. Not a spoon. Spoons break grains. Forks separate them.
+
+Add the lime zest and lime juice right when you fluff. Then fold in the cilantro. The colors pop—bright green, and it smells sharp and fresh.
+
+Taste it. If it needs more salt, add it now. More lime? Go for it. Tastes better when you own it.
+
+Leftovers are actually better the next day. Refrigerate it. When you reheat, add a splash of broth so it doesn't dry out. Two minutes in a warm pan and it's like it just came off the stove.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Cilantro Lime Rice
+
+**Can I make cilantro and lime rice in a rice cooker?**
+Yeah, but the toast step is gone. Put the oil and onion and garlic in the bottom of the cooker, let it sit while it heats up. Add rice. Pour broth in. Run it. Won't taste exactly the same—that toasted nuttiness comes from the skillet heat—but it works. Add lime and cilantro after.
+
+**What if I don't have vegetable broth?**
+Chicken broth. Water with a pinch of salt. Both work. Broth tastes better but water's fine if that's all you have.
+
+**Can I use brown rice instead?**
+No. Different cook time. Brown rice takes like forty-five minutes. This recipe doesn't work the same way. Stick with white.
+
+**Why do you rinse the rice?**
+Starch comes off. Too much starch and it glues together. Rinsing takes two minutes and fixes that problem. Just run it under cold water, swish with your hand until the water runs mostly clear.
+
+**How much cilantro do I need?**
+Half a cup chopped. Or less if cilantro tastes like soap to you—some people have that genetic thing. It's optional. The lime carries it fine without.
+
+**Do I have to use smoked paprika?**
+No. It's good but not essential. Skip it if you don't have it. The cumin's enough. Smoked paprika just adds a tiny bit of depth that nobody will miss if it's gone.
