@@ -1,10 +1,10 @@
 ---
-title: "Smoky Marinated Veggies"
+title: "Grilled Zucchini with Peppers and Eggplant"
 slug: "smoky-marinated-veggies"
-description: "A medley of grilled bell peppers, red onions, zucchini, and eggplants, soaked in an aromatic, garlicky vinaigrette with herbs and black peppercorns. The vegetables char just right—skin blistered, flesh tender but holding shape—then steep in a hot olive oil and white wine vinegar marinade enhanced with fresh rosemary. Left to mellow in jars, these antipasti brighten any appetizer spread or grill session. Vegan, gluten-free, no nuts or dairy."
-metaDescription: "Smoky Marinated Veggies grilled with blistered skin, softened garlic, infused rosemary, layered in jars with tangy red wine vinegar marinade. Mediterranean vegan antipasti."
-ogDescription: "Grill till charred skins crack, garlic simmered low in olive oil, rosemary pine scent filling kitchen. Layer colorful veggies with marinade. Chill and meld flavors before serving."
-focusKeyphrase: "Smoky Marinated Veggies"
+description: "Grilled zucchini, bell peppers, eggplant, and red onions marinated in olive oil, garlic, and fresh rosemary. Charred vegetables with tender flesh, perfect for appetizers."
+metaDescription: "Grilled zucchini recipe with bell peppers, eggplant, and red onions in garlic rosemary marinade. Charred, tender vegetables. Make it tonight."
+ogDescription: "Charred grilled zucchini, peppers, and eggplant in a garlicky rosemary marinade. Perfect grilled vegetable side dish."
+focusKeyphrase: "grill zucchini on grill"
 date: 2025-08-19
 draft: false
 image: smoky-marinated-veggies.jpg
@@ -21,9 +21,18 @@ tags:
 - "easy"
 - "mediterranean"
 keywords:
-- "grilled bell peppers"
-- "marinated eggplants"
-- "red wine vinegar marinade"
+- "grill zucchini on grill"
+- "grilled vegetables"
+- "grilled veggies"
+- "bell peppers on grill"
+- "grilled eggplant"
+- "grilled vegetable recipe"
+- "bbq vegetables"
+- "best vegetables to grill"
+- "vegetable grilling"
+- "marinated grilled vegetables"
+- "grilled zucchini recipe"
+- "mediterranean grilled vegetables"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "180"
@@ -83,3 +92,76 @@ faq:
 - "q: How long do marinated veggies last stored? a: Refrigerate sealed jars minimum 24 hours for flavors but can keep 2 weeks max, check oil clarity and odor regularly. If oil clouds or smells off discard. Room temp risky, better fridge. Can add more olive oil topping to cover if level drops. Sterilize jars thoroughly to avoid spoilage. Refrigerated and sealed best option."
 
 ---
+
+Char the bell peppers first—that smoky skin blistering on the grill is where this whole thing starts. Three orange, two red. Let them blacken. The smell is a signal. Steam them covered after, peel the skin off easy, then build your jar with layers of everything else grilled tender with marks still showing. Marinade hot over top. Wait 24 hours minimum. That's it.
+
+## Why You'll Love This Grilled Vegetables Recipe
+
+Takes an afternoon but most of it's hands-off—peppers steaming while you prep everything else. You're not actually cooking the whole time.
+Vegetarian side that works with literally anything. Fish, meat, nothing. Leftovers taste better than day one. Flavors settle into the oil.
+Grilling vegetables on grill means char and smoke you can't get any other way. Oven roasting won't give you that.
+Mediterranean angle—looks fancy in jars but it's just vegetables and salt and time. Simple enough that nothing complicated can go wrong.
+One batch makes enough for two weeks. Room in the fridge. No constant cooking.
+
+## What You Need for Grilled Vegetables
+
+Three orange bell peppers and two red ones—the color mix matters visually once jarred. Two medium zucchini cut in half lengthwise, then sliced thick about 1cm. Eggplant too, same thickness. Three medium red onions sliced into rounds at 1cm—threads toothpicks through the loops so they don't scatter into coals. Two cloves garlic chopped fine for the vegetable toss, then 14 more halved for the marinade oil.
+
+Olive oil. 270 ml for tossing vegetables, then 460 ml more for the marinade. Extra virgin. The cheap stuff disappears into jars like it was never there.
+
+Red wine vinegar instead of white—earthier, less sharp vinegar bite. Six rosemary sprigs, thyme works if that's what you have. Salt, pepper, eight whole black peppercorns. That's actually everything.
+
+## How to Make Grilled Vegetables on the Grill
+
+Heat the grill high. Peppers go straight on the bars. No oil. No pan. Just char the skin until it blackens and blisters all over, rotating as you go. Takes maybe 7 to 10 minutes. Smell that smoky tang—that's your cue. Pull them off into a bowl. Cover tight with plastic wrap. They steam themselves for 20 minutes. Loosens the skin. Makes peeling stupid easy.
+
+While they're sweating, thread toothpicks or skewers through onion rings so they stay intact on the grill. No falling pieces. This step sounds fussy. It saves everything.
+
+Big bowl. Throw in your onions, zucchini, eggplants, the finely chopped garlic. Drizzle 150 ml olive oil over top. Salt. Pepper. Toss until they glisten. Not drenched. Just coated.
+
+## How to Get Grilled Vegetables Perfectly Charred
+
+Medium heat on the grill. Watch for flare-ups from the oil hitting coals. Move vegetables around, let them sit long enough for marks to form. You're looking for tender with still a slight firmness when you fork-test it. Not mushy. Not chewy. That takes about 20 minutes but depends on heat and thickness. Some vegetables finish before others. That's fine. Pull them as they're done.
+
+Spread them on a tray to cool so they don't trap steam and go soft. You want texture.
+
+Peppers—once they're cool enough, peel them. Skin slips right off with your finger or a knife tip. Remove seeds and membranes. Cut each one into three generous strips. Aim for color mixing in the jars later.
+
+## Grilling Zucchini and Other Veggies: Tips and What Goes Wrong
+
+The marinade is where flavor lives. Heavy saucepan. Combine 460 ml olive oil, the 14 garlic cloves halved, rosemary sprigs, peppercorns. Heat it slowly. You want small bubbles around the edges, not a fry. About 12 minutes. Garlic softens, goes slightly golden, releases aroma but doesn't brown. Browned garlic tastes burnt. Bad.
+
+Pull it off heat. Stir in red wine vinegar. Salt to balance. Let it sit five minutes. The oil and vinegar marry.
+
+Layer vegetables in clean sterilized jars. Colors alternating. Peppers, onions, zucchini, eggplant. Softened garlic halves and rosemary sprigs scattered through the layers. Pour the hot marinade over everything until it's completely covered. Tap the jars on the counter edge—expels trapped air bubbles.
+
+Seal them. Not too tight. Leave a tiny gap for expansion as things cool. They cool on the counter until lukewarm. Maybe an hour. Then refrigerate. 24 hours minimum before opening. 48 is better. Flavors need time to settle into the oil.
+
+Tried this rushed once. Everything tasted separated and harsh. Wait.
+
+If you don't have a grill, broiler works. Or cast iron on the stove with oil—gets grill marks faster but loses that smoke. Missing something. You can fake it with smoked paprika in the marinade but it's not the same.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Zucchini on the Grill
+
+**How long do grilled vegetables last in the fridge?**
+Two weeks if the oil stays clear. Anything cloudy or smell off, pitch it. Oil preserves things.
+
+**Can I use white wine vinegar instead of red wine vinegar?**
+Yeah but it's sharper. Harsher. Red wine vinegar is earthier. White gets loud. Tried both. Red works better here.
+
+**What if my vegetables get too soft?**
+Next time pull them earlier. Test with a fork. Should have give but not fall apart. Texture matters. Mushy doesn't keep well.
+
+**Do I have to steam the peppers after grilling them?**
+No. But the skin peels clean with steaming. Without it, you're scraping. Steaming takes 20 minutes sitting covered. Worth it.
+
+**Can I use thyme instead of rosemary?**
+Yeah. Oregano too. Rosemary is Mediterranean angle, thyme is lighter, oregano is stronger. Herb choice changes the vibe but it all works.
+
+**Should I pack the jars while the marinade is hot?**
+Pour it hot over cool vegetables. The warmth helps flavors move into things. Cool marinade doesn't infuse the same way. Heat matters.
+
+**What if I don't have a grill?**
+Roast vegetables under the broiler. Get them charred. Won't taste smoky but texture works. Cast iron on the stove does grill marks if that's all you have. Microwave? Don't. Just don't.
