@@ -1,9 +1,9 @@
 ---
-title: "Roasted Beet Salad Remix"
+title: "Roasted Beet Salad with Goat Cheese"
 slug: "roasted-beet-salad-remix"
-description: "Roasted beets tossed with crumbled goat cheese, cinnamon-spiked walnuts, olive oil, and a splash of sherry vinegar. Simple, earthy, with a sweet note from the nuts. Roasting brings out that deep, caramelized flavor. Peeling skins by hand after resting is crucial—slip off easily with paper towels or gloves to avoid purple hands. Marinate chopped beets briefly in oil and acid to soften sharpness. Replace feta with goat cheese for creamier texture and add toasted walnuts for crunch and warmth. Timing is flexible, watch beets for tender piercing over clock. Serve chilled, entropy of flavors sharp and rich."
-metaDescription: "Roasted Beet Salad Remix with goat cheese, cinnamon-spiced walnuts, sherry vinegar. Earthy, sweet, nutty, chilled and marinated for deep flavor meld."
-ogDescription: "Crunchy toasted walnuts with cinnamon, creamy goat cheese and roasted beets. Marinate with sherry vinegar, chill to firm, serve room temp for best aroma."
+description: "Roasted beet salad with crumbled goat cheese, cinnamon walnuts, and sherry vinegar. Earthy, sweet, and creamy in every bite."
+metaDescription: "Roasted beet salad recipe with goat cheese, toasted cinnamon walnuts, and sherry vinegar. Easy side dish. Make it tonight."
+ogDescription: "Roasted beets, creamy goat cheese, cinnamon walnuts, and sherry vinegar. A simple, elegant salad."
 focusKeyphrase: "roasted beet salad"
 date: 2025-10-09
 draft: false
@@ -21,9 +21,16 @@ tags:
 - "walnut"
 - "cinnamon"
 keywords:
+- "roasted beet salad"
 - "beet salad"
-- "roasted beets"
-- "cinnamon walnuts"
+- "roasted beets with walnuts"
+- "goat cheese salad"
+- "roasted beets and goat cheese"
+- "cinnamon walnut beet salad"
+- "sherry vinegar beet salad"
+- "roasted vegetable salad"
+- "warm beet salad"
+- "toasted walnut salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "180"
@@ -72,3 +79,87 @@ faq:
 - "q: Leftovers store how long? a: In airtight container refrigerator up to 3 days best for texture. Separate cheese if worried about sogginess. Room temp before serving lets flavors bloom again. Freeze not recommended; beets get mushy, cheese changes texture. Leftover idea: add to grain bowls next day or pulse into spreads with herbs."
 
 ---
+
+Three pounds of beets and no side dish. Pulled them in the oven at 420 and honestly forgot about them. Came out soft, sweet, the skins just sliding off. This happened.
+
+## Why You'll Love This Roasted Beet Salad
+
+Takes about two hours, but most of that's the oven doing the work. You're not standing there sweating it out.
+Cold or room temp — works both ways. Tastes even better the next day.
+Goat cheese gets creamy against the warm beets, the walnuts stay crunchy. All three things happening at once.
+Sherry vinegar cuts through the earthiness in a way white vinegar never would. Just tastes cleaner.
+Literally no cooking skill needed. Roast. Peel. Chop. Done.
+
+## What You Need for Roasted Beets with Walnuts
+
+Beets — three or four medium ones, washed. Not peeled yet. The skin protects them while they roast.
+Olive oil. Three tablespoons total. Two go with the beets at the start, one more in the marinade.
+Sherry vinegar. Two tablespoons. Or balsamic if that's what you have. Sherry's softer though. Less aggressive.
+Walnuts — a third cup. Toasted yourself with a quarter teaspoon of cinnamon mixed in. The spice matters. Don't skip it.
+Goat cheese. Four ounces, crumbled. Feta works if goat cheese isn't around. Different flavor, more salt, but it holds its shape better.
+Honey. Two teaspoons. Balances the vinegar. Not for sweetness — for smoothing the sharp edges.
+Salt and pepper.
+
+## How to Make Roasted Beets with Cinnamon Walnuts and Goat Cheese
+
+Heat the oven to 420. Whole beets. Just toss them with a small drizzle of olive oil — one tablespoon — and put them in a baking dish. Cover it tight with foil. Really tight. The steam does half the work.
+
+Roast for an hour fifty minutes. Maybe an hour forty if your beets are small. The fork test — poke one. Should slide through like it's butter. If it catches, five more minutes. Give it time.
+
+Pull it out. Don't peel them yet. This is important. Let them sit for 25 to 30 minutes. The heat makes the skin stick. Cool them down and the skin just comes off like paper. Put on gloves or grab a paper towel. The color bleeds otherwise.
+
+Rub the skins off. They'll slip. Some spots stick — run it under water if you need to. You'll see the beet beneath, glossy and smooth. Pat them dry.
+
+## How to Get Roasted Beets Tender and Perfectly Glazed
+
+Quarter them or chop however you want. Rough is fine. Put them in a bowl with two tablespoons of olive oil and the sherry vinegar. Let them sit. Eight to twelve minutes. The vinegar cuts that earthy thing beets do. The oil smooths it.
+
+While the beets marinate, toast the walnuts. Dry skillet. Medium heat. Stir them. You'll hear them crackle a little. After a few minutes — and this is the good part — sprinkle the cinnamon on. Just toss. Keep it going. Two minutes more and it smells incredible. Then pull them off. Let them cool.
+
+Toss everything together now. The beets, the walnuts, the goat cheese in chunks, a drizzle of honey on top. Salt it. Pepper it. The honey works with the vinegar. Doesn't make it sweet — makes it balanced. Be gentle so the cheese doesn't turn to mush.
+
+Chill it. Minimum 30 minutes. The flavors actually meld. The beets get firmer. Cold is right. But if your fridge is really cold, let it sit out for a few minutes before you eat it. Cold dulls flavors sometimes. Room temp brings it back.
+
+## Roasted Beet Salad Tips and Common Mistakes
+
+Resting the beets after roasting. This is the one thing that matters. Hot, the skins grab. Cold, they're hard. That 25-minute window is real.
+
+If you're rushing — and I get it — microwave them wrapped in a damp towel instead. Ten to fifteen minutes. Skins peel way faster. You lose the roasting depth though. The sweet edge. Still works. Just different.
+
+Walnuts can be pecans. Pine nuts if you want something lighter. The cinnamon is the whole thing though. Don't leave that out.
+
+Goat cheese is tangy. Feta is salty. If you go feta, use less salt in the salad itself.
+
+Apple cider vinegar works if sherry's nowhere around. It's lighter. You might need a touch more honey though. Balance the acid differently.
+
+Marinating actually matters. Don't skip it. The oil and vinegar together change how the beet tastes. Without it, it's just chopped beet on a plate.
+
+Oven temp can float between 400 and 425. Higher gets you more caramelization on the surface. Risks drying the inside out. Lower takes longer. Forty-two zero is the sweet spot.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Beets with Walnuts
+
+**How long does roasted beet salad keep in the fridge?**
+Four days, easy. Five if it's sealed tight. The vinegar acts like a preservative. Flavor gets deeper actually.
+
+**Can you make this salad ahead?**
+Absolutely. Make it the day before. The beets soak longer, flavors blur together in a good way. Toss it an hour before eating if it's been cold — brings it back to life.
+
+**What if your beets are really big?**
+Takes longer. Maybe two hours instead of one fifty. Cut one in half halfway through to test. Biggest one takes the longest. That's your timer.
+
+**Does the goat cheese have to be on top?**
+Nope. Mix it in. It breaks into smaller pieces and spreads around. Some people like it that way. Some don't. Neither's wrong.
+
+**Can you serve this warm?**
+Technically yes but it's designed for cold. Goat cheese gets runny. Walnuts lose their snap. Room temp is the compromise — tastes good both ways actually.
+
+**Is the cinnamon necessary?**
+Yes. Seriously. Most people don't expect it in a salad and that's the whole thing. Walnuts alone are just nuts. With cinnamon they're different.
+
+**What's the deal with sherry vinegar?**
+It's rounder than white vinegar. Softer. Balsamic works but it's heavier, almost sweet. Sherry slides in better. Apple cider is lighter. Just pick what you have — they all work, just different.
+
+**Can you double this recipe?**
+Sure. Scale everything up. Roasting time stays the same. Marinating time the same. The dish gets bigger, the process doesn't change.
