@@ -1,10 +1,10 @@
 ---
-title: "Savory Basil Tomato Pie"
+title: "Tomato Pie with Mozzarella and Fresh Basil"
 slug: "savory-basil-tomato-pie"
-description: "Layered tomato pie with mozzarella, Parmesan, mayo, basil, and onion baked in a flaky crust. Moisture control key. Resting time crucial to set filling. Golden, bubbly cheese topping signals doneness. Substitute Greek yogurt for mayo for tang, or swap mozzarella with provolone for sharper bite. Use sweet onions or scallions instead of regular onion to change aroma. Prep involves salting tomatoes to bleed out excess juice, preventing soggy crust. Serving after resting improves slice integrity. Rimmed pan protects oven from drips. Experience shows blotting tomatoes twice crucial. Flavor builds over time, layers melding with baking."
-metaDescription: "Savory Basil Tomato Pie with layered ripe tomatoes, basil, mozzarella, and Parmesan baked in flaky crust. Moisture control via salting and blotting essential for slice integrity."
-ogDescription: "Layers of tomato, basil, mozzarella baked golden brown. Salt and blot twice to avoid soggy crust. Rest pie before slicing to firm filling. Flavor melds with bake time."
-focusKeyphrase: "basil tomato pie"
+description: "Layered tomato pie with mozzarella, Parmesan, mayo, and fresh basil in a flaky crust. Salted tomatoes prevent sogginess for perfect slices."
+metaDescription: "Make tomato pie with mozzarella, Parmesan, mayo, and fresh basil. Crispy crust, melted cheese topping. Try it tonight."
+ogDescription: "Homemade tomato pie with fresh basil, mozzarella, and Parmesan. Golden, bubbly cheese. Pure comfort."
+focusKeyphrase: "tomato pie"
 date: 2025-10-04
 draft: false
 image: savory-basil-tomato-pie.jpg
@@ -21,8 +21,15 @@ tags:
 - "italian"
 keywords:
 - "tomato pie"
-- "basil pie"
-- "mozzarella tomato bake"
+- "tomato mozzarella parmesan pie"
+- "savory tomato pie with mayo and basil"
+- "layered tomato pie with mozzarella and parmesan"
+- "homemade tomato pie with fresh basil and onion"
+- "vegetarian tomato pie with mozzarella"
+- "tomato pie with crispy crust and melted cheese"
+- "basil tomato pie with fresh herbs"
+- "italian cheese pie"
+- "vegetarian pie"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "375"
@@ -66,3 +73,94 @@ faq:
 - "q: How to store leftovers? a: Cool fully first. Wrap tight, refrigerate up to 2 days. Reheat gently covered, low heat to avoid drying or soggy crust. Not great cold, crust toughens. Freeze not recommended."
 
 ---
+
+Slice the tomatoes thin. Salt them. Sit for twelve minutes while the oven hits 345. This is the step that saves you from a soggy bottom—every time someone skips it, the crust gets ruined.
+
+## Why You'll Love This Vegetarian Tomato Pie
+
+Takes just over an hour total. Most of that's waiting, not actual work.
+
+Tastes like summer even when tomatoes aren't perfect. The mayo and cheese cover for almost any tomato that isn't ideal.
+
+Works as a side or a whole dinner. Slice it cold the next day too—maybe better cold.
+
+Fresh basil and mozzarella make it feel fancy. Isn't. Just layering.
+
+One crust. One bowl. Cleanup's minimal.
+
+## What You Need for Vegetarian Tomato Pie with Fresh Basil and Onion
+
+Five large ripe tomatoes—actually ripe, or skip this entirely. Salt for the tomatoes upfront, separate from anything else.
+
+A pie crust. Pre-made works. Homemade works better but frozen is fine.
+
+Mayo. Cup of it. Greek yogurt works if you want less heavy, or half mayo half yogurt if you're hedging your bets.
+
+Mozzarella and Parmesan. A cup of shredded mozzarella. Provolone works if that's what you have. A third cup of Parmesan grated. They need to be different cheeses—one gooey, one sharp.
+
+Garlic. Two cloves. Minced small.
+
+Fresh basil. Half a cup chopped. Not dried. Fresh matters here. Dried tastes like regret.
+
+Sweet onion or scallions. Half a cup chopped. The sweet matters—regular yellow onion's too harsh.
+
+## How to Make Homemade Tomato Pie with Mozzarella and Parmesan
+
+Oven goes to 345. Not 350. Not 375. Lower than you'd think, which is the whole thing—you want the cheese golden before the tomatoes explode into nothing.
+
+Slice the tomatoes. Thin enough to see through almost, but not paper-thin. You want them to hold their shape during baking. Toss with salt. Spread on paper towels. This is not optional. Twelve minutes, minimum. The salt pulls liquid out—that liquid ruins everything if it hits the crust.
+
+Blot them after. Hard. Paper towel on top, paper towel underneath, press down. You'll be shocked how much water comes out. Do it again with fresh towels. Your future self will thank you.
+
+## How to Get Crispy Crust and Melted Cheese on Your Layered Tomato Pie
+
+While tomatoes dry, mix the mayo with both cheeses and the minced garlic. Don't whip it. Just stir until it looks like one thing instead of separate things. Let it sit. The flavors need a minute together.
+
+Press the crust into a rimmed baking sheet. Not a pie pan. A sheet with edges. Catches the drips, keeps the filling from escaping.
+
+Layer tomatoes inside. Stagger them for height. Sprinkle basil and onion between layers so you get the fresh parts in every slice. This isn't a tomato stack—it's a tomato pie, so it needs layers that matter. Pour the cheese mixture over top. Smooth it gently. Don't compress.
+
+Bake on a rimmed sheet for 40 to 45 minutes. Watch the cheese color, not the clock. It should go golden brown. Edges should bubble. The smell tells you everything—roasted garlic, herbs, something you want to eat immediately.
+
+If edges burn before the middle's done, tent with foil. If cheese isn't browning after 45 minutes, the oven's cool. Broil a minute under close watch. One minute is enough to burn it.
+
+Pull it out. Let it rest. Fifteen minutes minimum. The filling sets up. The crust firms. If you slice it warm and it's soupy, you didn't rest long enough.
+
+## Tomato Pie Tips and Common Mistakes
+
+Soggy crust is usually the tomato situation. If you salted and blotted and it still happened—blind bake. Ten minutes at 345 before you layer. Just the crust. Empty. Edges get crispy that way.
+
+Tomatoes still weeping? They weren't ripe enough, or you didn't blot hard enough. Either salt longer next time, or accept that some moisture's coming. The cheese handles it mostly.
+
+Mayo feels heavy? Mix it with Greek yogurt instead. Half and half. Tangier, lighter, still holds everything together.
+
+Fresh basil gone brown? Don't use dried. Switch to fresh oregano or fresh chives. Different flavor but tastes good. Dried basil tastes like sadness.
+
+Edges burning, middle not cooked? Lower oven temp next time. Your oven probably runs hot. Every oven's different.
+
+Cheese not browning? Could be the oven. Could be the mayo—too much mayo can block browning. Less mayo next time, or broil at the end.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Vegetarian Tomato Pie
+
+**Can I make this ahead?**
+Assemble it, cover it, throw it in the fridge for a few hours. Bake when you're ready. Cold filling takes a few extra minutes in the oven—maybe five more. Or bake it, slice it cold the next day. That works too.
+
+**What if my tomatoes aren't very flavorful?**
+Salt's your friend here. More salt on the tomatoes pulls out more flavor. Doesn't make them less watery if you blot—just makes them taste like something.
+
+**Can I use dried basil instead of fresh?**
+No. It'll taste flat. Use oregano or chives instead if that's all you have.
+
+**Is there a lower-fat version?**
+Half mayo, half Greek yogurt. Works. You lose a tiny bit of richness but it's not tragic.
+
+**Why does the crust get soggy if I skip the blotting step?**
+Tomatoes release water. That water soaks the crust from the bottom and it gets soft instead of crispy. You can't skip it.
+
+**Can I use a regular pie pan instead of a sheet?**
+It works but edges might not crisp the same way. Sheet pan with a rim is better because heat comes from underneath and the sides don't trap steam.
+
+**How long does leftover tomato pie keep?**
+Three days in the fridge covered. After that it gets weird. Freezes okay if you want, thaws in the fridge, not quite the same texture but still edible.
