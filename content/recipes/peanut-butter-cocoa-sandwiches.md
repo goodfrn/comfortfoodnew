@@ -1,10 +1,10 @@
 ---
-title: "Peanut Butter Cocoa Sandwiches"
+title: "Peanut Butter Cocoa Sandwich Cookies"
 slug: "peanut-butter-cocoa-sandwiches"
-description: "Rich cocoa cookies dotted with peanut butter chips, sandwiched with creamy peanut butter frosting. Uses baking soda for lift, careful folding for chip integrity. Chilled dough for easy slicing. Bakes fast, cookies soft but firm on cool down. Frosting thick with a subtle hint of vanilla and milk balancing sweetness. Substitutions include almond butter or sunflower butter for allergies, coconut oil for butter. Watch for dough temperature, crumbly or sticky means fridge time. Frosting can be stiffened or loosened with milk tweaks. Sandwich them when cookies are cool but frosting still spreadable. Peanut butter chips avoid meltdown. Best done with patience, watch textures over time. Familiar yet with a twist: swapped light brown sugar for maple sugar, deeper, caramel notes."
-metaDescription: "Peanut Butter Cocoa Sandwiches packed with cocoa, peanut butter chips and creamy peanut butter frosting. Chilled dough for sliceable soft cookies in 35 minutes."
-ogDescription: "Dense cocoa cookie logs, chilled then sliced. Peanut butter chips hand folded, frosting thick but spreadable. Maple sugar twist, fast bake, cool before sandwiching."
-focusKeyphrase: "peanut butter cocoa sandwiches"
+description: "Rich cocoa cookies with peanut butter chips, sandwiched with creamy peanut butter frosting. Made with maple sugar, cocoa powder, and soft-baked perfection."
+metaDescription: "Peanut butter cocoa sandwich cookies recipe with creamy peanut butter frosting, peanut butter chips, and maple sugar. Make it tonight."
+ogDescription: "Homemade cocoa cookies loaded with peanut butter chips and creamy peanut butter frosting. Soft, chewy, and totally craveable."
+focusKeyphrase: "peanut butter cocoa sandwich cookies"
 date: 2025-10-17
 draft: false
 image: peanut-butter-cocoa-sandwiches.jpg
@@ -21,9 +21,16 @@ tags:
 - "dessert"
 - "easy"
 keywords:
-- "peanut butter chips"
-- "chilled dough cookies"
-- "peanut butter frosting"
+- "peanut butter cocoa sandwich cookies"
+- "chocolate peanut butter cookies"
+- "peanut butter chip cookies"
+- "cocoa peanut butter sandwich cookies"
+- "peanut butter frosting chocolate cookies"
+- "easy chocolate peanut butter cookies"
+- "homemade cocoa cookies with peanut butter chips"
+- "chocolate cookies with creamy peanut butter frosting"
+- "maple sugar cocoa cookies"
+- "peanut butter filled chocolate cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "210"
@@ -79,3 +86,85 @@ faq:
 - "q: How to store cookies and keep chips intact? a: Airtight container best. Room temp okay up to a day but chips and frosting soften fast. For longer storage, refrigerate to prevent melting. Before eating, bring back to room temp for best texture. Avoid freezing frosting sandwiches, can get crumbly after thaw."
 
 ---
+
+Slice the dough into thin medallions. Bake until the edges crackle but the center still gives when you press it. The frosting goes between them — thick, creamy, just enough to hold without squishing out the sides.
+
+## Why You'll Love This Peanut Butter Cocoa Sandwich Cookies
+
+Takes 35 minutes total if you skip the fridge time, but don't — the dough needs it. Two flavors that don't usually go together but somehow do here. Chocolate cookies, peanut butter frosting, peanut butter chips mixed in for texture. Easy enough that you won't think about it halfway through. Keeps for a day at room temperature. Longer in the fridge, but bring them back to room temp before eating or the frosting's too hard.
+
+## What You Need for Chocolate Peanut Butter Cookies
+
+Flour and cocoa powder. Not Dutch-process — regular unsweetened. The baking soda needs the cocoa to actually work. Salt. One cup plus two tablespoons flour total. Half cup unsalted butter, softened — not melted, not cold. Granulated and maple sugar mixed. Maple sugar's sweeter, so it's less of it. Light brown sugar works if you can't find maple. One egg. Half a teaspoon vanilla. That's the cookies.
+
+For the frosting part: six tablespoons more butter. Half cup creamy peanut butter. Two cups powdered sugar. One tablespoon milk — maybe a bit more depending on how thick your peanut butter is. Half teaspoon vanilla again.
+
+The chips go in the dough. Peanut butter chips. Don't crush them with the mixer — fold them in by hand or they break down and seep oil everywhere.
+
+## How to Make Peanut Butter Chip Cocoa Cookies
+
+Sift the flour, cocoa, baking soda, salt together. Do this twice if you have lumps. Cocoa powder gets dense.
+
+Soften the butter — it should spread with your thumb but hold shape. Beat it with both sugars for three minutes. Keep going until it looks pale and fluffy. Scrape the bowl once or twice. This part matters. The air you're whipping in is what makes them soft inside.
+
+Add the egg and vanilla. Beat until it's glossy and you can't see streaks. This takes maybe a minute.
+
+Add the dry stuff slowly. Mix on low. Stop as soon as you don't see flour anymore. Overmix and they get dense. Really dense.
+
+Fold the peanut butter chips in by hand. Use a spatula. Don't be rough but don't be timid either. They go throughout.
+
+Split the dough in half. Shape each half into a log about 1.5 inches thick. Wrap tight in plastic. Fridge for 75 minutes minimum. This is non-negotiable. Cold dough slices clean.
+
+## How to Get Cocoa Cookies with Peanut Butter Chips Crispy
+
+Preheat to 355°F. Slice the dough into half-inch thick medallions. Space them on parchment because they spread a little.
+
+Bake 9 to 12 minutes. Watch the edges. They should look slightly crackled, maybe a tiny bit dark. The centers should still feel soft when you press them. This is the hard part — stopping before they look "done." They firm up on the cooling rack.
+
+Five minutes on the sheet, then move them. They're fragile. Let them cool all the way before frosting.
+
+## Peanut Butter Frosting for Chocolate Cookies — Tips and Mistakes
+
+Beat the butter alone first. Seems dumb. Do it anyway. Four minutes until it's pale. This lightens the peanut butter that's about to go in.
+
+Add the peanut butter. Mix completely. It'll be thick.
+
+Powdered sugar goes in slowly. Add it a cup at a time. The frosting gets stiff and grainy — that's normal. Scrape the sides.
+
+Milk and vanilla go in last. One tablespoon at first. Stir until it spreads easy but doesn't run off the cookie. Milk is powerful. Add it teaspoon by teaspoon if you go over.
+
+Spread it on the cookie bottoms. Thick enough that you see it when you bite. Not so much it squeezes out.
+
+Press the top on gently. Don't smash. Just enough so they stick.
+
+Chill them for 10 minutes if the frosting's still warm or soft. Room temperature is fine after that.
+
+Store in an airtight container. They last a day on the counter. After that, fridge. The peanut butter frosting gets softer in heat. Let them come back to room temperature before eating or the texture's off.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate Peanut Butter Cookies
+
+**Can I make the dough ahead?**
+Yeah. Wrap it, fridge overnight. Slice and bake whenever. Two days max though.
+
+**What if I don't have maple sugar?**
+Light brown sugar works fine. Use the same amount. Regular granulated too, but the flavor shifts a tiny bit.
+
+**Can I use almond butter instead?**
+Totally. The frosting gets thinner so watch the milk. Add less.
+
+**Why do they crack on top?**
+The oven's too hot. Lower it to 350 next time. Or they baked too long. That crackle means they're almost overdone. You want it just starting.
+
+**How soft should they be when they come out?**
+Like if you push the center, it gives. Not mushy. Just — soft. They harden as they cool.
+
+**Can I freeze them?**
+Frosted or not. Layer with parchment. They're fine for a month. Thaw on the counter for 20 minutes before eating. The frosting softens back up.
+
+**What's the difference between a chocolate peanut butter sandwich cookie and regular?**
+These have both in the dough, plus the frosting. More peanut butter happening. Denser chocolate flavor. Chip texture. More going on.
+
+**Should I chill the frosting before spreading?**
+If it's too soft yeah. Five minutes in the fridge. Not more or it hardens up again.
