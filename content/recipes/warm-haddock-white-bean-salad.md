@@ -1,10 +1,10 @@
 ---
-title: "Warm Haddock White Bean Salad"
+title: "Air Fryer Haddock with White Bean Salad"
 slug: "warm-haddock-white-bean-salad"
-description: "Haddock fillets cooked in an air fryer at 205°C for around 8 minutes, then flaked. White beans marinated with anchovy paste, garlic, shallots, and smoked paprika. Mixed with torn Boston lettuce and fresh herbs like tarragon and parsley. Dressed with a citrusy vinaigrette of olive oil and lime juice. Served with lemon wedges to squeeze over. No nuts, dairy, gluten or eggs."
-metaDescription: "Warm Haddock White Bean Salad is a flavorful blend of flaky fish, marinated beans, and fresh greens. Perfect for a light meal."
-ogDescription: "Experience the delight of Warm Haddock White Bean Salad. Fresh, zesty, and packed with protein, it's a must-try."
-focusKeyphrase: "Warm Haddock White Bean Salad"
+description: "Air fryer haddock fillet paired with white beans, anchovy, garlic, and smoked paprika. Tossed with Boston lettuce, fresh herbs, and lime vinaigrette. Gluten-free, dairy-free."
+metaDescription: "Air fryer fish recipe: crispy haddock with white bean salad, anchovy, garlic, and fresh herbs. Try it tonight."
+ogDescription: "Crispy air fryer haddock meets white bean salad with anchovy, garlic, and fresh herbs. Simple and delicious."
+focusKeyphrase: "air fryer fish"
 date: 2025-07-23
 draft: false
 image: warm-haddock-white-bean-salad.jpg
@@ -21,9 +21,18 @@ tags:
 - "citrus"
 - "healthy"
 keywords:
-- "haddock"
-- "white beans"
-- "smoked paprika"
+- "air fryer fish"
+- "air fryer haddock"
+- "white bean salad"
+- "haddock recipe"
+- "air fryer fish recipes"
+- "fish with white beans"
+- "lime vinaigrette"
+- "anchovy white bean"
+- "smoked paprika fish"
+- "gluten free fish recipe"
+- "air fried fish"
+- "Boston lettuce salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "370"
@@ -70,3 +79,51 @@ faq:
 - "q: How should I store leftovers? a: Store in an airtight container in the fridge. Best within a day or two. Freshness fades quickly. Beans stay good longer than fish."
 
 ---
+
+Brush the haddock with lime-soaked oil, slide it into the air fryer at 205°C, and eight minutes later you've got flaked fish over a bright white bean salad. That's it. The whole thing—prep to plate—is 23 minutes.
+
+## Why You'll Love This Air Fryer Fish Salad
+
+Takes 23 minutes start to finish. Seriously.
+Seafood meets healthy greens without feeling like you're eating something you "should" eat. The haddock gets flaky and tender in the air fryer instead of dry like it always does on the stove.
+White beans hold the dressing. Shallots. Anchovies that dissolve into something you can't quite name but tastes good. Lime juice cuts through it all.
+Works cold the next day. Better, maybe.
+One bowl for dressing, one basket, done.
+
+## What You Need for This Air Fryer Fish Salad
+
+Haddock fillets—two pieces, cut to fit your basket. Could use cod. Probably shouldn't use tilapia. The firm ones work. Anchovies. Two of them minced up. They disappear into the dressing, so don't skip them. Garlic. Two cloves. Shallot. One, sliced thin so it softens while you wait. Olive oil—60 milliliters, good stuff. Lime juice—45 milliliters, fresh. Canned white beans. Rinsed. Don't use the liquid. Smoked paprika—12 milliliters. Boston lettuce torn up. Fresh herbs. Tarragon, parsley, chives, chopped. Lemon wedges for the end.
+
+## How to Cook Fish in an Air Fryer
+
+Pour olive oil and lime juice into a bowl. Mix it. Brush half of it onto the haddock pieces. Salt, pepper, done with that part. Place the fish in the air fryer basket—don't stack them, lay them flat. 205°C. Eight minutes if they're thin. Nine if they're thick. You'll know it's ready when it flakes. Pull it out. Break it apart with a fork into chunks. Not tiny pieces. Chunks.
+
+## How to Get Air Fried Fish Crispy and Tender
+
+The skin doesn't get crispy on haddock unless you fry it in oil, and that's not what we're doing here. The goal is flaky. Tender inside. The air fryer at 205°C does that in eight minutes. Don't crowd the basket. The fish needs space around it or it steams instead. If yours is thicker than two centimeters, add a minute. Watch it. The lime oil on top keeps it from drying out. That matters more than you'd think.
+
+## Fish in an Air Fryer Tips and Common Mistakes
+
+Preheat the basket. Three minutes empty at 205°C. Sounds annoying, but it matters. The fish cooks faster when the basket's already hot. Don't flip it. Just leave it. Salt the fish after it's cooked if you salt it now it draws moisture out. The dressing marinates while the fish cooks—so while you're waiting those eight minutes, mince the anchovies, chop the herbs, slice the shallot, dump everything with the white beans into the remaining dressing. By the time the haddock comes out, the salad's ready. Layer it in the bowl—lettuce first, then the marinated beans, then the flaked fish on top. Squeeze lemon over it. The acidity ties everything together.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Cannellini Fish Salad
+
+**Can I use frozen haddock in the air fryer?**
+Thaw it first. Fully. Or it'll cook unevenly and fall apart in the basket.
+
+**How long does this keep?**
+Two days in the fridge. The fish gets softer but doesn't go bad. The lettuce goes limp—add fresh lettuce the next day if you care about texture.
+
+**What if I don't have haddock?**
+Cod works. Halibut works. Flounder works. Salmon's too oily for this. Don't use salmon.
+
+**Can I make this without anchovies?**
+Technically yes. Should you? No. They're not a taste—they're a texture thing. They dissolve. You don't taste fish. You taste depth.
+
+**Do I really need smoked paprika or can I skip it?**
+Skip it and the salad's flat. It's not hot. Just adds a smoke note that pulls the whole thing together. Use it.
+
+**Can I cook the fish on the stove instead of an air fryer?**
+Sure. Pan-sear it skin-side down in oil. Four minutes skin, three minutes flesh side. You'll need more oil than the air fryer uses, so maybe don't.
