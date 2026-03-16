@@ -1,10 +1,10 @@
 ---
-title: "Soft Peanut Butter Cookies"
+title: "Soft Peanut Butter Cookies with Almond Extract"
 slug: "soft-peanut-butter-cookies"
-description: "Soft peanut butter cookies with a tender crumb and classic crisscross fork marks. Brown and white sugars creamed with butter, swapped one egg for 2 egg yolks to boost chewiness. Slight reductions in baking soda and powder to avoid over-rise. Vanilla swapped for almond extract to add a nutty twist. Chilled dough firms up for easier shaping. Rolled in sugar before baking to add subtle crunch and shine. Visual cues prioritized over strict time: edges set but cookies pale indicates readiness. Cooling on the sheet helps them finish cooking gently without cracking. Store airtight to prevent drying. Practical tips for substitutions and common issues included for confident baking results."
-metaDescription: "Soft Peanut Butter Cookies with tender crumb and classic crisscross marks. Almond extract swaps vanilla; egg yolks boost chewiness. Chilling controls spread. 36 count."
-ogDescription: "Soft peanut butter cookies firmed by chilled dough. Almond extract gives nutty twist. Egg yolks add chew. Visual cues beat timer. Sugar coating crackles."
-focusKeyphrase: "Soft Peanut Butter Cookies"
+description: "Soft peanut butter cookies made with creamy peanut butter, brown sugar, and egg yolks for extra chewiness. Rolled in sugar before baking for subtle crunch and shine."
+metaDescription: "Make soft peanut butter cookies with creamy peanut butter, brown sugar, and almond extract. Chewy, tender crumb with classic crisscross marks. Try it tonight."
+ogDescription: "Soft peanut butter cookies with brown sugar and almond extract. Chewy, tender crumb with crisscross fork marks and subtle sugar crunch."
+focusKeyphrase: "peanut butter cookies"
 date: 2025-10-29
 draft: false
 image: soft-peanut-butter-cookies.jpg
@@ -21,9 +21,17 @@ tags:
 - "comfort food"
 - "homemade"
 keywords:
-- "peanut butter cookie recipe"
-- "soft cookies"
-- "cookie dough chilling"
+- "peanut butter cookies"
+- "soft peanut butter cookies"
+- "easy peanut butter cookies"
+- "chewy peanut butter cookies"
+- "homemade peanut butter cookies"
+- "peanut butter blossoms"
+- "peanut butter oatmeal cookies"
+- "pb cookies"
+- "molasses cookie recipe"
+- "no bake cookies"
+- "3 ingredient peanut butter cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "120"
@@ -77,3 +85,93 @@ faq:
 - "q: How long keep cookies fresh? a: Room temp airtight max four days. After that, cookies harden and lose chew. Freeze dough scoops for quick bake later or bake then freeze cookies in airtight bag. Thaw at room temp; reheating in microwave few seconds helps soften again."
 
 ---
+
+Butter, brown sugar, peanut butter, egg yolks. That's the base. No vanilla — almond extract instead. Changes everything.
+
+## Why You'll Love These Peanut Butter Cookies
+
+Takes 26 minutes total, most of it waiting for dough to chill. Seriously easy to throw together.
+Soft. Like, actually soft. The kind you bite into and it gives. Not the crispy kind that snaps.
+Comfort food that feels homemade because it is. Nothing fancy. Nothing pretentious. Just peanut butter cookies that taste like someone made them on a Tuesday.
+They keep for days. Room temperature, airtight container. Probably better the next day, honestly.
+
+## What You Need for Peanut Butter Cookies
+
+One cup of softened butter — not melted, soft. Room temperature matters. Brown sugar and white sugar mixed, three quarters and a half cup. Peanut butter, creamy or chunky, a full cup. Pick one and stick with it.
+
+Almond extract over vanilla. Two teaspoons. Tastes different. Better. Not a million times better but noticeably.
+
+Two egg yolks. Not whole eggs. Yolks only. They're what makes these chewy instead of cake-like. A quarter cup of milk — or sour cream if you have it, or yogurt. Adds tang, adds moisture.
+
+Flour, two and a quarter cups. Baking powder, one teaspoon. Baking soda, a quarter teaspoon. Salt, half a teaspoon. Sift them together, don't skip it.
+
+Granulated sugar for rolling. That's it.
+
+## How to Make Peanut Butter Cookies
+
+Cream the butter with both sugars. Medium speed, about ninety seconds. It should go pale, almost fluffy. The sugar dissolves into the butter — that's when you stop. Too long and it breaks.
+
+Add the peanut butter. Mix until you can't see the dry parts anymore. You want streaks of it still visible though. If it's totally smooth and separated, you went too far.
+
+Almond extract goes in. Then egg yolks, one at a time. Wait after each one so it actually incorporates. This takes two minutes, maybe three. Patient mixing.
+
+Pour in the milk. Mix until it looks like dough again. This step adds moisture that keeps them soft.
+
+Sift the flour and leavening together in another bowl. Do it. Sifting prevents pockets of baking powder that taste like metal.
+
+Add the dry stuff gradually to the wet stuff. Use the paddle, not the whisk. Mix until it just comes together. The second you can't see dry flour, stop. Overmixing makes them dense.
+
+Cover the bowl. Put it in the fridge. Forty-five minutes minimum. One hour better. This firms everything up so shaping doesn't turn into a mess and spreading in the oven stays controlled.
+
+## How to Get Soft, Chewy Peanut Butter Cookies
+
+Heat oven to 350 degrees. Line your sheets with parchment or a silicone mat.
+
+Use a cookie scoop or just a spoon and make one-inch balls. Roll each one in granulated sugar until it's coated. The sugar is what gives you that crackly outside later.
+
+Space them two and a half inches apart. They spread. Not wildly but enough that touching cookies means fused cookies.
+
+Fork dipped in sugar — sugar keeps it from sticking — and flatten each ball with that crisscross pattern. Don't press hard. You want them maybe a quarter inch thick, not paper-thin.
+
+Bake for ten to fourteen minutes. Watch the edges. The centers will look soft and almost glossy. That's right. The edges should start getting faint golden. Pull them out before they look fully done. They keep cooking on the sheet.
+
+Three minutes on the hot sheet. This lets them firm up without hardening. Then move to a cooling rack. Hot cookies won't cut cleanly or handle right. They need to cool completely before storing.
+
+## Peanut Butter Cookie Tips and Common Mistakes
+
+Use chunky peanut butter if you want texture. Creamy works fine too. Don't use the natural kind where all the oil's on top — it messes with the dough ratio.
+
+Egg yolks. This is the thing people skip and regret. Whole eggs make them cakey. Yolks make them chewy. The difference is noticeable.
+
+Dough too soft after chilling? Add flour by the tablespoon until it firms up. Weather affects this. Humidity changes how much flour you actually need.
+
+Cookies spreading too much means your butter was too soft going in or your oven runs cold. Chill longer next time. Or drop the butter by a tablespoon. Test it.
+
+Too dry and crumbly? Add an extra yolk next time or another tablespoon of milk. Seriously, one yolk changes it.
+
+Don't skip the almond extract. Vanilla works but tastes like every other peanut butter cookie. Almond is subtle and it works.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Peanut Butter Cookies
+
+**Can I make no bake peanut butter cookies instead?**
+Different thing entirely. This recipe needs baking. If you want no bake cookies, that's a different base — usually just peanut butter, powdered sugar, and chocolate. Totally doable but not this recipe.
+
+**How long do peanut butter cookies last?**
+Four days in an airtight container at room temperature. They get softer as they sit, which is usually fine. Freeze the baked ones or the dough balls for longer — they keep for months frozen.
+
+**Can I use chunky peanut butter instead of creamy?**
+Yes. Gives you texture. Some people prefer it. Doesn't change the bake time or technique.
+
+**Why egg yolks and not whole eggs?**
+Whites dry things out. Yolks add fat and make them chewy. It's the difference between a cookie and a biscuit basically.
+
+**What if I don't have almond extract?**
+Vanilla works. Just says vanilla on the bottle, same amount. Won't be quite the same flavor but it'll be fine. The cookies are still good.
+
+**Should I chill the dough?**
+Yes. Forty-five minutes minimum. It's not optional. Warm dough spreads everywhere and you get flat cookies. Chilled dough bakes up thicker.
+
+**Can I freeze peanut butter cookie dough balls?**
+Absolutely. Freeze them on a sheet first so they don't stick together, then bag them. Bake straight from frozen, add maybe a minute to the time.
