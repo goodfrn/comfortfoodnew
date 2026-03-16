@@ -1,10 +1,10 @@
 ---
-title: "Spinach Chicken Enchiladas"
+title: "Chicken Enchilada Recipe with Spinach"
 slug: "spinach-chicken-enchiladas"
-description: "A hearty casserole blending wilted spinach, black beans, corn, and shredded chicken folded into whole wheat tortillas. Smothered with tangy enchilada sauce and melted cheese, baked to bubbly perfection. Balanced blend of flavors and textures, easy midweek meal or made-ahead crowd-pleaser. Spins on classic enchiladas by swapping one ingredient and adjusting cooking steps for better moisture retention and chew."
-metaDescription: "Spinach Chicken Enchiladas with black beans, corn, cumin-spiced filling wrapped in whole wheat tortillas, baked in rich enchilada sauce and melty cheese."
-ogDescription: "Rolled enchiladas bursting with spinach, shredded chicken, black beans, and corn. Baked with cheese and tangy sauce for hearty Mexican-inspired dinner."
-focusKeyphrase: "spinach chicken enchiladas"
+description: "Chicken enchilada casserole loaded with spinach, black beans, corn, and cheese in enchilada sauce. Whole wheat tortillas baked until bubbly. Easy weeknight dinner."
+metaDescription: "Chicken enchilada recipe with spinach, black beans, and corn baked in enchilada sauce. Perfect weeknight casserole. Make it tonight."
+ogDescription: "Spinach and black bean chicken enchiladas baked with cheese and enchilada sauce. A satisfying, easy casserole."
+focusKeyphrase: "chicken enchilada recipe"
 date: 2026-02-03
 draft: false
 image: spinach-chicken-enchiladas.jpg
@@ -21,9 +21,18 @@ tags:
 - "comfort food"
 - "easy dinner"
 keywords:
+- "chicken enchilada recipe"
+- "chicken enchilada casserole"
+- "enchilada casserole"
+- "easy chicken enchilada recipe"
+- "enchilada casserole recipe"
+- "simple chicken enchilada recipe"
 - "chicken enchiladas"
-- "spinach enchiladas"
-- "mexican casserole"
+- "enchilada bake recipe"
+- "dinner recipes using chicken"
+- "easy chicken casserole dish"
+- "sour cream chicken enchiladas"
+- "bake enchiladas"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "380"
@@ -71,3 +80,92 @@ faq:
 - "q: How should leftovers be stored? a: Cover casserole with foil, fridge up to 3 days. Reheat covered to keep moisture but avoid drying or burning edges. Freeze in airtight container up to 2 months. Thaw overnight in fridge before warming. Avoid microwave overheating, use oven or stovetop for best texture."
 
 ---
+
+Spinach goes in first. Wilts down fast—maybe two minutes if your heat's actually up there. Then everything else follows. Rotisserie chicken works, poached works, whatever's easiest. This is the kind of recipe that doesn't care how you get there, just that you show up with the ingredients.
+
+## Why You'll Love This Chicken Enchilada Casserole
+
+Takes 47 minutes total. Prep is 25, baking's 22. Actual cooking time where you're standing there? Maybe five.
+Spinach and black beans hide in every bite—comfort food that doesn't feel like it's trying too hard.
+Cheese pulls apart when it's done right. Not rubbery. Actually melts.
+Works for weeknight dinner and also if someone's coming over and you need to seem like you did something.
+Leftovers taste better the next day. Not sure why enchiladas always do that.
+
+## What You Need for Chicken Enchiladas
+
+Two teaspoons oil—vegetable or avocado. Either works. Avocado oil doesn't smoke as fast.
+
+Five cups fresh spinach, chopped rough. Doesn't need to be perfect. Frozen works too, but squeeze it dry first or you'll end up with a wet mess.
+
+One can black beans. Drained. Rinsed. The canned ones are fine—don't bother cooking dry unless you like making work.
+
+Corn. One cup frozen. Thawed. Cold works but thawed mixes better.
+
+Three cups shredded chicken. Rotisserie's easiest. You could poach it if you want to feel virtuous. Doesn't matter.
+
+Half a cup cilantro, chopped. Skip it if you hate cilantro. Some people say it tastes like soap and they're not wrong.
+
+One tablespoon cumin. Not more. People always add more. Don't.
+
+Eight medium whole wheat tortillas. Corn if you're gluten-free, but watch them—they break easier when they're wet. Whole wheat holds up better.
+
+Three and three-quarter cups cheese. Mexican blend or sharp cheddar. Both work. Sharp's more flavor if you care about that.
+
+Two cups enchilada sauce. Homemade or store-bought. Smooth, not chunky. Chunky falls off the tortillas.
+
+Sour cream or Greek yogurt for the top. Not both. One or the other.
+
+## How to Make Chicken Enchilada Casserole
+
+Get the oven to 380 degrees. Spray a 9x13 baking dish lightly. Not heavy. Light. Oil puddles make the bottom uneven.
+
+Heat two teaspoons oil in a medium skillet over medium heat. Dump the spinach in. Stir fast for maybe two minutes until it goes from bright to dark green and soft. Don't sit there letting it cook down further—that's when it gets mushy and gray. Pull it out into a big bowl right when it's wilted.
+
+Add black beans, corn, shredded chicken, cilantro, and cumin to the spinach bowl. Then stir in three cups of cheese. Mix it. Don't overwork it or the filling gets tight and dense. Loose and chunky's better.
+
+Spread a thin layer of sauce on the bottom of the baking dish. This step saves you. I always skip it. Then the bottom sticks and doesn't come out clean. Just do it.
+
+## How to Roll and Assemble Chicken Enchiladas
+
+Lay one tortilla flat. Scoop about half to three-quarter cup filling in the middle—leave an inch on the edges or it spills out the sides when you roll. Roll it snug but don't stretch it. The ends should overlap just slightly so it holds together but not so tight it splits.
+
+Line them up seam-side down in the baking dish. Snug but not packed. Leave a little space so sauce can bubble around them.
+
+Pour the rest of the sauce over the top. Not pools. Just coat them. If the sauce is thick, use the back of a ladle and spread gently. Thick sauce pools make the bottoms soggy and the tops dry.
+
+Sprinkle the last quarter cup of cheese over everything. That's what gets brown and bubbly and looks good.
+
+## How to Bake and Serve Chicken Enchilada Casserole
+
+Oven goes in uncovered. 22 minutes. You'll hear sizzling around the edges pretty quick—that's when you know it's working. Sauce bubbles at the edges first. The top cheese will brown in spots. Tortilla edges crisp a little.
+
+Pull it out when the cheese is actually bubbling and brown, not just melted and pale. Three to five minutes cooling time after. Gives the inside time to firm up so they don't fall apart when you lift them out.
+
+Use a large thin spatula. Not a spoon. Not a fork. A spatula. Slide it underneath and lift straight up. They'll come out whole if you don't rush it.
+
+Top each one with a dollop of sour cream or Greek yogurt. Not a spread. A dollop. The cold cuts the richness and the tang balances heat.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chicken Enchiladas
+
+**Can I make these ahead?**
+Build the whole thing the night before. Cover it. Bake it straight from cold—add maybe three to four minutes to the time. Or bake it, cool it, reheat covered at 350 for ten. Both work.
+
+**What if I don't have enchilada sauce?**
+You could make it. Or don't. Store-bought's fine. Smooth's non-negotiable though. Chunky salsa doesn't work the same way.
+
+**Can I use flour tortillas instead of whole wheat?**
+Yeah. They're thinner, break easier, but they work. Just be careful rolling.
+
+**How do I know when the cheese is done?**
+When it bubbles at the edges and gets brown spots on top. Not just melted and flat. Actual bubbling. Takes about 22 minutes at 380.
+
+**Do I have to use spinach?**
+No. Zucchini works. Peppers work. Mushrooms work. The spinach just adds nutrition without changing the taste much, so people don't fight about it.
+
+**Can I freeze these?**
+Build them, freeze before baking, bake straight from frozen. Add maybe five to eight minutes. Or bake first, freeze, reheat covered at 350 for fifteen. The tortillas get softer the second way but everything else stays the same.
+
+**What about the soup versions I see?**
+That's different. This is a casserole. If you want soup you're making something else entirely.
