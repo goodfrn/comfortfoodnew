@@ -1,10 +1,10 @@
 ---
-title: "Lego Block Cake"
+title: "Lego Block Cake with Almond Extract"
 slug: "lego-block-cake"
-description: "Yielding 14 to 16 portions, this layered cake relies on classic all-purpose flour replaced partially by cake flour for a lighter crumb. Baking powder softened to baking soda, quick fixes for rise and texture. Vanilla switched to almond extract, bringing unexpected warmth. Butter swapped for half margarine, easier handling in humid kitchens. Steps shuffled; baking times nudged 35 to 48 minutes. Three rectangular pans shape the cake blocks. Frosting splits into three colors—red, blue, yellow—gel dyes for vibrant Lego tone. Circles cut, thicker strip left for stamping. Cake assembly mimics Lego bricks stacked at angles on board. Texture and timing cues stressed over exact minutes. Practical tips on ingredient swaps and frosting fixes included."
-metaDescription: "Lego Block Cake yields 14-16 servings; cake flour lightens crumb, almond extract swaps vanilla for warmth, gel colors bring vibrant Lego look with textured frosting."
-ogDescription: "Stack colorful Lego-inspired cake blocks with almond aroma, trimmed edges, and sturdy crumb; gel food coloring splits frosting into red, blue, yellow for playful style."
-focusKeyphrase: "Lego Block Cake"
+description: "Make a colorful Lego block cake with almond extract, butter, and cake flour. Three vibrant frosting layers in red, blue, and yellow create stacked brick designs for memorable celebrations."
+metaDescription: "Lego block cake recipe with almond extract and buttercream frosting. Layer cake made with butter, cake flour, and whole milk. Try it tonight."
+ogDescription: "Colorful layered cake with almond extract, vibrant buttercream, and Lego brick designs. Perfect for themed parties."
+focusKeyphrase: "Lego block cake"
 date: 2025-09-25
 draft: false
 image: lego-block-cake.jpg
@@ -21,9 +21,16 @@ tags:
 - "homemade"
 - "vanilla"
 keywords:
-- "Lego cake"
-- "colored frosting"
-- "cake flour substitute"
+- "Lego block cake"
+- "layered cake"
+- "almond cake"
+- "homemade layered cake"
+- "almond extract cake recipe"
+- "three layer cake"
+- "buttercream frosting cake"
+- "cake flour recipe"
+- "themed birthday cake"
+- "colorful layer cake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "540"
@@ -80,3 +87,54 @@ faq:
 - "q: Storing Lego blocks? a: Wrap tight, fridge not ideal—causes sweating. Room temp longer keeps fresh, chilled firmer but frost can crack. Quick chill before serving best trick."
 
 ---
+
+Trim the cakes flat, cut four rectangular blocks. One edge gets sliced thin—that's where the Lego studs come from. Round cookie cutter, sixteen circles, pressed onto the frosting like bumps. Three colors stacked at an angle. That's the whole thing.
+
+## Why You'll Love This Almond Cake
+
+Takes 45 minutes to prep if you don't overthink it. Bakes while you clean up. The almond extract gives it something vanilla doesn't—kind of warm, kind of deeper. Works for birthdays when you want homemade but don't want to stress about perfectly smooth frosting. Leftover almond cake tastes better the next day, honestly. Not sure why but it does.
+
+## What You Need for This Almond Extract Cake
+
+Flour's split—most all-purpose, some cake flour. Cake flour softens the texture. If you don't have it, just use all-purpose. Works either way, just a bit sturdier. Baking soda, not baking powder. Salt. Butter and margarine mixed together. More butter than margarine. Sugar. Eggs—big ones. Almond extract. That's the whole flavor thing. Whole milk. For the frosting: butter again, more almond extract, powdered sugar, gel food coloring. Red, blue, yellow. Gel beats liquid because liquid makes the frosting wet and soft.
+
+## How to Make a Homemade Layered Cake
+
+Heat the oven to 175°C. Grease three loaf pans—23 by 13 centimeters each. Whisk your dry stuff together first. All-purpose and cake flour, baking soda, salt. Set it aside. In a mixing bowl, beat butter and margarine with the sugar until it's pale and fluffy. Most of the graininess should be gone. Add eggs one at a time—wait for each one to fully blend in before the next. You'll see thick ribbons falling off the beaters. That's the signal it's working. Stir in the almond extract.
+
+Now the tricky part. Low speed. Add the dry ingredients and milk back and forth. Start with dry, then milk, then dry, then milk, then end with dry. Don't overmix. Stop as soon as you can't see streaks. The batter should be light. Pour it evenly into the three pans. You'll hear a slight settling sound. That's right. Bake 35 to 48 minutes. Stick a toothpick in. If crumbs are stuck, it needs longer. If it comes out clean, you're close. The top should be light golden. Touch it—should bounce back.
+
+## How to Get Almond Cake with Cake Flour Texture Right
+
+Cool the cakes 15 minutes in the pans. Then flip them onto racks and let them sit until they're completely cold. Don't rush this part. Trim the tops flat so they're actually flat. Cut each cake into a rectangle. Keep the edges neat but don't make yourself crazy trying to be perfect. Cut a strip about 1.5 centimeters thick from one edge of the rectangle. Use a 2.5 centimeter round cookie cutter and cut 16 circles from the strip. These become the Lego studs. Save the scraps. Good in ice cream or just eat them standing over the sink.
+
+## Three Layer Almond Cake with Margarine: Frosting & Assembly Tips
+
+Beat butter until it's creamy. Add the almond extract. Gradually add powdered sugar on low speed so you don't blow flour everywhere. Once it's combined, speed it up until it's smooth and spreadable. Divide into three bowls. Add gel coloring one drop at a time to each bowl. Red, blue, yellow. Mix in small increments. Colors should be vivid, not muddy or gray. Frost each cake block with a different color using an offset spatula. Work fast but don't obsess. Thickness should be even. Slight peaks are fine.
+
+Place two blocks side by side at an angle. Rest the third cake across where they meet. It should look like a Lego brick. A little off-perfect actually looks better than perfect. Pipe or spread frosting onto each of those 16 circles. Press them gently onto the cake blocks—two per side usually. They hold the whole thing together visually. Chill briefly if you want everything firmer. Serve near room temperature so the buttercream melts slowly on your tongue. Wrap it tight to store. Frosting cracking? Warm your spatula slightly and smooth it over.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Almond Cake
+
+**Why baking soda instead of baking powder?**
+Baking soda reacts faster. Gets the cake taller faster. Baking powder is slower. Both work but this one rises more aggressively.
+
+**Can I use vanilla extract instead of almond?**
+Yeah. You'll lose the depth but it's not a disaster. Almond's warmer. Vanilla's brighter. Different cakes.
+
+**What if my cake comes out dense?**
+Probably overmixed or margarine-heavy. Next time reduce the margarine by a few tablespoons or mix in sour cream. Adds moisture.
+
+**Do I have to use three pans?**
+No. Two pans work. Just bake longer. Maybe 50 minutes. Check with a toothpick. Dense cake means it's still wet inside.
+
+**Can I make this buttermilk almond cake with whole milk instead?**
+That's already what you're doing. Whole milk works fine. Different texture than buttermilk but not bad.
+
+**How do I keep the Lego studs from falling off?**
+Press them gently into the frosting before it sets. Don't jam them. Just firm enough to stay. Chill for 10 minutes and they'll hold.
+
+**Can I use liquid food coloring?**
+Not really. Liquid makes the frosting thin and sad. Gel is thicker. It doesn't water down the frosting.
