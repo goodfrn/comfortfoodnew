@@ -1,10 +1,10 @@
 ---
-title: "Sugar Pepper Bacon Blast"
+title: "Bacon Wrapped Dates with Maple Syrup"
 slug: "sugar-pepper-bacon-blast"
-description: "Crisp bacon strips coated in a lightly spicy, sweet rub then drizzled with maple syrup right out of the oven. Brown sugar swapped with Demerara for a more complex caramelized finish. Black pepper swapped for cracked white to brighten heat profile; cayenne cut slightly but swapped partly for smoked paprika to deepen smoky layers. Rubbed on one side only to retain contrasting textures crisp versus sticky sweet. Precision in timing replaced by visual cues: bubbling sugar edges, deep mahogany color that’s not burnt but close. Resting on rack to keep texture intentional; no paper towels to avoid sticky loss or tear. Maple syrup drizzle right off the heat to lock flavor and avoid sogginess. "
-metaDescription: "Sugar Pepper Bacon Blast bakes thick-cut bacon with Demerara sugar, cracked white pepper, smoked paprika, cayenne, finishing with a slow maple syrup drizzle."
-ogDescription: "Crisp bacon coated with spicy-sweet Demerara rub, baked to bubbling edges, then drizzled with pure maple syrup to lock crisp-sweet contrast."
-focusKeyphrase: "Sugar Pepper Bacon Blast"
+description: "Crispy bacon wrapped dates with Demerara sugar, smoked paprika, and cayenne pepper, finished with maple syrup drizzle. Complex, caramelized flavor in minutes."
+metaDescription: "Bacon wrapped dates recipe with Demerara sugar, smoked paprika, and maple syrup. Crispy, sweet, and smoky appetizer. Make it tonight."
+ogDescription: "Crispy bacon-wrapped dates with Demerara sugar, smoked paprika, and maple syrup. Sweet, smoky, and perfectly caramelized."
+focusKeyphrase: "bacon wrapped dates"
 date: 2026-01-08
 draft: false
 image: sugar-pepper-bacon-blast.jpg
@@ -21,9 +21,18 @@ tags:
 - "snack"
 - "spicy"
 keywords:
-- "Demerara sugar"
-- "cracked white pepper"
-- "smoked paprika"
+- "bacon wrapped dates"
+- "candied bacon recipe"
+- "rumaki"
+- "devils on horseback recipe"
+- "bacon appetizers"
+- "bacon wrapped appetizers"
+- "maple syrup bacon"
+- "smoked paprika appetizer"
+- "caramelized bacon recipe"
+- "easy bacon appetizers"
+- "bacon wrapped dates recipe"
+- "brown sugar bacon"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "220"
@@ -68,3 +77,59 @@ faq:
 - "q: How to store leftovers? a: Cool completely on rack then refrigerate in sealed container. Reheat gently to avoid soggy glaze. Avoid microwaving too long or it softens crust. Best reheated in oven or air fryer quick crisp fix."
 
 ---
+
+Preheat to 380. Line everything. Spray the rack. That's your setup — takes maybe three minutes if you don't overthink it.
+
+## Why You'll Love This Bacon Wrapped Dates Recipe
+
+Takes 50 minutes total and tastes like you spent an hour on it. The brown sugar bacon coating gets crunchy in a way that snaps, then melts into the fat — spicy from the cayenne and white pepper hitting at the same time. Maple syrup drizzled on top while it's still hot pools into this sticky glaze that hardens as it cools. Perfect appetizer for literally anything. You can make them ahead. Room temperature works just as well as warm, maybe better. One sheet pan. One wire rack. Cleanup isn't nothing, but it's fast.
+
+## What You Need for Candied Bacon Wrapped Dates
+
+Thick-cut bacon — the thin stuff falls apart before it gets crispy. Three and a half cups Demerara sugar. Not regular granulated. Demerara's coarser, doesn't dissolve completely, stays on the bacon as a crust. Cracked white pepper. Two tablespoons. The crack matters — powder gets lost in the glaze. Smoked paprika and cayenne pepper — a teaspoon each. The paprika adds that smoky thing without making it taste like a grill. Cayenne's the kick. Maple syrup for drizzling at the end. Not the fake stuff. Real maple does something different when it hits the heat. Nonstick cooking spray. Parchment paper or heavy-duty foil. You need both layers — foil catches the drips, parchment keeps the sugar from sticking to the foil.
+
+## How to Make Bacon Wrapped Dates
+
+Get your oven to 380 degrees. Hotter and you'll burn the sugar before the bacon cooks through. Colder and it just sits there sweating. Line a baking sheet with foil first, then parchment on top. The foil layer traps the heat and catches everything that drips. Spray a wire rack — and I mean actually spray it, don't half-ass this — with nonstick spray. The bacon sits on the rack. Elevated. This is the whole point. If you lay it flat on the pan, it steams instead of crisps.
+
+Mix your brown sugar with the cracked white pepper, smoked paprika, and cayenne in a bowl. Stir it until the spices are actually distributed. You'll smell it — sharp, warm, a little smoky. Lay the bacon strips out single layer on your sprayed rack. Space them out. They need air. Crowded bacon is sweaty bacon.
+
+## How to Get Bacon Wrapped Dates Crispy and Glazed
+
+This is where the brown sugar bacon coating happens. Sprinkle the sugar mix on one side of the bacon only. Not both sides. Just one. Don't dump it on thick — a thin, even coat. That's what gets you the crust. Slide it into the oven for 17 minutes, then rotate the pan. Rotation matters. Your oven's hotter on one side, guaranteed.
+
+Bake another 12 to 16 minutes. Watch the edges. You're looking for the brown sugar to start bubbling and turning this deep amber color. Not black. Not burnt. That specific dark honey color. Pull it out. The moment you see that, pull it out. It'll keep darkening a tiny bit as it cools.
+
+Still hot from the oven, drizzle maple syrup on the glazed side. Slowly. Let it pool. It shouldn't run off the bacon — just sit there and soak in slightly. Let it rest on the rack for 10 minutes. This matters. The glaze hardens. The maple sets. Skip this and you get a sticky, chewy mess when you try to move it.
+
+## Bacon Wrapped Dates Tips and Common Mistakes
+
+Don't use paper towels to drain this. I know the instinct. The bacon sticks to them, tears apart, dries unevenly. Just let it sit on the wire rack. The fat drips off the bottom. The glaze stays put.
+
+White pepper versus black — use white. Black gets bitter when it bakes. White stays sharp. Smoked paprika is not regular paprika. Regular doesn't add enough, tastes plain. The smoke is the whole thing.
+
+The bacon thickness matters. Standard bacon is too thin. It crisps too fast, burns before the sugar caramelizes. Thick-cut takes the heat. Takes the time. Comes out right.
+
+Maple syrup — don't skip it or use honey instead. Maple has a specific flavor that plays against the spicy, against the smoky. Honey's one-note here. Not worth it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Candied Bacon
+
+**Can I make these ahead?**
+Yeah, totally. Cook them fully. Let them cool completely. Store them in an airtight container. They're fine for a few days. Reheat for five minutes in a 300-degree oven if you want them warm again. Room temperature's actually better — the glaze stays crispy that way.
+
+**What if I don't have Demerara sugar?**
+Brown sugar works. Regular granulated doesn't — dissolves too much, doesn't form a crust. Demerara's the move. It's at every grocery store.
+
+**Can I make bacon wrapped smokies or little smokies wrapped in bacon instead?**
+Yeah, wrap the bacon around them instead of laying it flat. Everything else stays the same. Smokies cook faster though — check them at 12 minutes instead of 17. The brown sugar bacon coating'll still work. Different texture, not bad, just different.
+
+**How spicy is the cayenne?**
+Moderate. Not face-melting. The white pepper adds more of a sharp bite than actual heat. Cayenne gives you warmth. Both together feel spicy without being loud. You could add more cayenne if you like it hotter. I wouldn't go less.
+
+**Do I have to use a wire rack?**
+Technically no. But the bacon'll steam instead of crisp. You want the rack elevated so heat gets under it. If you don't have one, prop foil up under the foil layer somehow. Getting air underneath changes everything. The difference between crispy and chewy.
+
+**Can I use maple extract instead of real maple syrup?**
+Haven't tried it. Probably not the same thing. Extract's concentrated. Might taste artificial when it hits hot bacon. Real syrup's liquid — pools differently, reacts differently to heat. Not worth experimenting with, honestly.
