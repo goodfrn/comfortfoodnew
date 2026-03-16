@@ -1,10 +1,10 @@
 ---
-title: "Spiced Lentil Stew"
+title: "Red Lentil Soup with Cumin and Carrot"
 slug: "spiced-lentil-stew"
-description: "Hearty lentils with warming spices. Aromatic ingredients mingle, soft onions turning golden. Slow simmer coaxing flavors out, thickening naturally. Carrots add sweetness, counterbalance earthiness. Garlic infuses, cumin and coriander bring depth. Simple pantry staples transform here. Flexible with what’s on hand — swap lentils, adjust spice heat. Revel in sizzle sounds as oil warms, smell cloves and turmeric blooming. Texture matters: tender lentils but hold shape. Don’t rush mashing steps. Patience pays here, stirring to avoid sticking. Radical shortcut: pressure cooker, but watch timing—overcook turns mushy. Rustic, no-fuss, lunches or dinners built on intuition more than precise timing."
-metaDescription: "Spiced Lentil Stew simmered slowly with cumin and coriander. Tender lentils hold shape while onions caramelize. Rustic Indian-inspired warmth in each spoonful."
-ogDescription: "Slow simmer lentils with toasted spices, onions golden, texture tender but firm. Simple pantry staples, flexible swaps for hearty Indian-inspired stew."
-focusKeyphrase: "spiced lentil stew"
+description: "Red lentil soup with carrots, cumin, and coriander simmered in vegetable broth. Golden onions and garlic infuse warmth into this easy, comforting bowl."
+metaDescription: "Red lentil soup recipe with carrots, cumin, and turmeric. Hearty, aromatic, and ready in under 30 minutes. Make it tonight."
+ogDescription: "Creamy red lentil soup with carrots and warming spices like cumin and coriander. Comfort in a bowl."
+focusKeyphrase: "red lentil soup"
 date: 2026-01-31
 draft: false
 image: spiced-lentil-stew.jpg
@@ -21,9 +21,18 @@ tags:
 - "comfort food"
 - "easy dinner"
 keywords:
-- "lentils"
-- "toasted spices"
-- "comfort stew"
+- "red lentil soup"
+- "lentil soup"
+- "lentil soup recipes"
+- "carrot and red lentil soup"
+- "red lentil soup recipe"
+- "curried red lentils"
+- "easy lentil soup recipe"
+- "lentil soup with cumin"
+- "quick lentil soup recipe"
+- "vegetable lentil soup"
+- "turmeric lentil soup"
+- "homemade lentil soup"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -75,3 +84,100 @@ faq:
 - "q: How to store leftovers properly? a: Cool completely first no hot sealed container. Refrigerate 3 to 4 days best. Freeze in airtight box up to 3 months. Reheat gently stir mid warming add water or broth if thickened too much. Coconut milk swirl added fresh better than stored with stew to avoid separating or curdling during reheating."
 
 ---
+
+Heat the oil until it hisses. Onions go in first—get them soft and tan at the edges. Three cloves of garlic. Thirty seconds max. Spices next, and that smell hits immediately—cumin, coriander, turmeric, chili if you want heat. Toast them. Carrot gets tossed in. Then the red lentils.
+
+## Why You'll Love This Lentil Soup
+
+Comes together in 55 minutes total. Fifteen to prep, forty on the stove. Comfort food that actually fills you up without feeling heavy afterward.
+
+One pot. One cleanup. The whole thing happens in the same place you started.
+
+Tastes better the next day—something about sitting overnight makes it deeper, more itself. Freezes fine too.
+
+Works as dinner or lunch. Throw it in a thermos. Pair it with bread or rice or nothing at all.
+
+## Red Lentil Soup with Spice: What You Need
+
+Red lentils. Rinsed first—they come dusty. A cup and a quarter. The kind that break down completely, turning the broth creamy without any cream.
+
+Onion. Large one. Chopped. Gets sweet when it softens, which matters more than people think.
+
+Garlic. Three cloves. Minced. Not burnt—thirty seconds in the hot oil is the window.
+
+Carrot. One medium. Diced small so it softens at the same pace as the lentils. Not julienned. Not thin. Just diced.
+
+Olive oil. A tablespoon. That's enough. Ghee works too. Butter burns at this temperature.
+
+Ground cumin. Two teaspoons. Ground coriander. A teaspoon and a half. Turmeric. One teaspoon. Chili powder half a teaspoon if you like heat. All ground, not fresh. The dried stuff blooms in oil.
+
+Vegetable broth. Four cups. Not water. The broth carries the whole thing. Chicken works if you have it.
+
+Salt. Taste as you go. The broth's already salted, so go slow.
+
+Fresh cilantro for the end. A handful chopped. Coconut milk optional—half a cup if you want creaminess. Yogurt works too. Or nothing.
+
+## How to Make Lentil Soup: The Start
+
+Set a heavy pot on medium heat. Add the oil. Wait for the sizzle—a quiet one, not aggressive. That's your signal.
+
+Onion goes in. Stir it. Watch for the tan creeping into the edges. Takes maybe four or five minutes. Don't rush it. That color means sugar developing.
+
+Mince the garlic while you're waiting. When the onion looks right, add it. Thirty seconds. Maybe forty. You'll smell the shift from raw to cooked. That's when you stop.
+
+All the spices at once. Cumin, coriander, turmeric, chili. Stir. The whole pot fills with that spice smell instantly—cloves and heat and earth all at once. Maybe a minute. Just long enough to wake them up without burning anything.
+
+Carrot comes next. Toss it through the spices. Gets coated. You're building flavor here, not just adding ingredients.
+
+## How to Build Lentil Soup Depth: The Spiced Red Lentils Phase
+
+Red lentils in now. Stir so every lentil touches the spiced bottom. This is where they pick up all that flavor you just built. The whole pot goes from brown spice-smell to red-and-spice-smell. Pour in the broth and bring it to a boil. Full bubbles breaking the surface.
+
+Once it's boiling, drop the heat to a simmer. Low. Gentle. An occasional bubble, not constant rolling.
+
+Stir every seven to ten minutes. Scrape the bottom—lentils stick sometimes, and burnt bits taste worse than anything. Check around thirty-five minutes for doneness. The lentils should be soft but still holding shape. Mushy means you went too far.
+
+Salt slowly. The broth's already got salt in it. You'll taste it and know.
+
+If you want coconut milk, swirl it in now. Half a cup. Thickens it, makes it rich. Skip it if you're not feeling it. Yogurt's another option. Or just leave it as is.
+
+Let it sit for a few minutes off the heat. Gets thicker as it cools. Cilantro on top. Serve it with bread or rice or alone in a bowl.
+
+## Easy Lentil Soup Tips and Common Mistakes
+
+Don't skip the toast. The spices sit in raw oil and they stay one-dimensional. Heat them and they open up. Different soup.
+
+Stir often enough that nothing sticks to the bottom. But don't stir constantly. You want the carrot and lentils to soften, not break apart from being agitated.
+
+Red lentils break down fast. That's the point. If you use green or brown lentils thinking it's the same thing, the texture's wrong and the soup never gets that creamy broth.
+
+Salt at the end. The broth concentrated as it simmers, so early salt makes it too aggressive by the time you're eating it.
+
+Cold yogurt on top cuts the spice beautifully if it's too much for you. Doesn't change the recipe. Just softens it.
+
+Keeps five days in the fridge. Freezes for months. The spices don't fade—actually get stronger sitting around.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Lentil Soup Recipes
+
+**Can I use brown or green lentils instead of red lentils?**
+Not really. Red lentils have a different structure—they fall apart, making the broth creamy. Brown or green stay firm. Different soup entirely. Stick with red for this one.
+
+**How long does this lentil soup with red lentils take?**
+Fifteen minutes to chop everything. Forty minutes on the stove. Total fifty-five minutes start to finish.
+
+**Can I make this lentil soup recipe without the spices?**
+Technically. But that's not this soup anymore. The spices are what make it work. You could swap cumin for coriander or drop the chili, but stripping them all out defeats the purpose.
+
+**What's a good carrot and lentil soup substitute if I'm out of cilantro?**
+Nothing's exactly the same, but parsley works. Less bright. More green. Or just skip it and eat the soup plain—it's fine without garnish.
+
+**Does this curried lentil soup freeze well?**
+Yeah. Freezes for months. Thaws in the fridge overnight or straight on low heat. Texture stays the same.
+
+**Can I use chicken broth instead of vegetable broth for this lentil bean soup recipe?**
+Yeah. Works fine. Tastes a bit richer. Some people prefer it.
+
+**Does the coconut milk change this simple lentil soup recipe much?**
+Makes it creamier. Mellows the spice. Not necessary—plenty of people skip it. If you do add it, go light. Half a cup is enough.
