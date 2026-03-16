@@ -1,10 +1,10 @@
 ---
-title: "Twisted Parsley Spinach Pesto"
+title: "Fresh Basil Pesto Recipe with Spinach"
 slug: "twisted-parsley-spinach-pesto"
-description: "A lively herby pesto combining blanched spinach and fresh parsley, with roasted pecans swapped for toasted walnuts for deeper flavor. Garlic and olive oil bind it all, making a rich yet fresh sauce. Blanching spinach briefly keeps vibrant color and cuts grassiness. Pulsing in a food processor creates texture, not paste. Salt and pepper balance the earthiness. Perfect slapped on crunchy bread, or spooned over grilled fish or buckwheat pancakes. Nut choice can shift personality here – walnuts add warmth when pecans weren’t on hand. A late garlic addition to avoid bitterness, and oil added gradually for control. A bit of lemon zest or juice brightens it up when it feels too dense. Storage under a thin olive oil layer prevents oxidation. Watch for watery greens—it’ll dilute. Press before blitzing, always."
-metaDescription: "Twisted Parsley Spinach Pesto blends toasted walnuts with blanched spinach and parsley. Garlic and olive oil build texture, lemon zest brightens notes. Fresh, vibrant sauce."
-ogDescription: "Chunky green pesto with blanched spinach, parsley, toasted walnuts. Garlic kept minimal, olive oil added slow. Lemon zest cuts heaviness. Use on crostini, fish, or buckwheat pancakes."
-focusKeyphrase: "Parsley Spinach Pesto"
+description: "Fresh basil pesto combining blanched spinach, parsley, and toasted walnuts with garlic and olive oil. This homemade pesto sauce delivers vibrant flavor and creamy texture perfect for any dish."
+metaDescription: "Fresh basil pesto recipe made with blanched spinach, parsley, toasted walnuts, and garlic. Learn to make homemade pesto sauce that stays bright and fresh. Try it tonight."
+ogDescription: "Vibrant homemade pesto with spinach, parsley, walnuts, and garlic. Fresh and creamy in every spoonful."
+focusKeyphrase: "fresh basil pesto recipe"
 date: 2025-09-27
 draft: false
 image: twisted-parsley-spinach-pesto.jpg
@@ -21,9 +21,18 @@ tags:
 - "vegetarian"
 - "condiment"
 keywords:
+- "fresh basil pesto recipe"
+- "homemade pesto sauce"
 - "spinach pesto"
-- "parsley pesto"
-- "walnut pesto"
+- "spinach walnut pesto"
+- "pesto with spinach and walnuts"
+- "fresh basil pesto sauce recipe"
+- "homemade pesto"
+- "spinach pesto sauce recipe"
+- "fresh pesto recipe"
+- "basil and spinach pesto"
+- "pesto sauce recipe"
+- "easy homemade pesto"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "180"
@@ -61,3 +70,65 @@ faq:
 - "q: How to store leftover pesto? a: Refrigerate in sealed jar. Top with thin olive oil layer to block air. Keeps vibrant 2-3 days. Freeze in small containers for month(s). Defrost slowly, stir in fresh oil afterward. Avoid metal lids touching pesto to prevent discoloration."
 
 ---
+
+Boiling spinach changes everything. Most pesto recipes skip it—I did too, for years. Bitter leaves, gritty texture, the whole thing falls apart by tomorrow. Then I tried blanching. Twenty seconds in salted water and the color stays vivid, the flavor mellows out, and somehow it actually keeps. That's what makes this homemade pesto sauce recipe different.
+
+## Why You'll Love This Fresh Basil Pesto Sauce
+
+No cooking required after the spinach hits water—12 minutes from start to finish, really. Vegetarian and works on anything: crostini, fish, crepes, pasta, probably your breakfast if you're adventurous enough to try it. Keeps three days in the fridge, tastes the same or better on day two because the flavors actually marry. Walnuts instead of pine nuts (cheaper, easier to find, less bitter). The blanching step sounds fussy. It's not. One minute of work that fixes every problem people have with pesto using spinach.
+
+## What You Need for Homemade Pesto Sauce
+
+Fresh flat-leaf parsley—use the stems too, they're where the flavor actually is. Baby spinach leaves, about a handful and a quarter. Toasted walnuts, half a cup. Not raw walnuts. Toasted. The difference matters. Extra virgin olive oil, good enough to taste on its own. One small garlic clove, minced fine. Salt and black pepper. Optional: lemon zest or a squeeze of juice if you want to brighten it up at the end. That's it.
+
+## How to Make Fresh Basil Pesto Sauce
+
+Get a pot of salted water boiling hard. Drop the spinach in and swish it around—maybe 20 seconds, 25 at most. The moment it goes bright and limp, pull it out. Leave it longer and the color dulls, the leaves turn slimy and soft in the bad way.
+
+Dump it straight into ice water. This stops the cooking dead. Let it sit there a minute. Cold spinach is crisp spinach. Drain it and squeeze. Use your hands. Use a kitchen towel. Get serious about it. Excess water kills the texture.
+
+## How to Get Creamy Pesto Sauce Recipe Texture Right
+
+Food processor. Throw in the spinach, parsley (stems included), walnuts, and garlic. Pulse a few times. Don't grind it into submission—you want texture, not baby food.
+
+Turn the motor on and pour the olive oil in slowly. Watch it. The whole thing should look chunky but combined, like wet sand. Not oily soup. Not dry clumps. That middle zone.
+
+Stop. Scrape down the sides. Salt it. Black pepper. Pulse maybe twice more.
+
+Taste it. If it tastes flat or heavy—and spinach sometimes does—add a tiny pinch of lemon zest or a few drops of juice. Doesn't need much. Just enough to wake it up.
+
+## Fresh Basil Pesto Sauce Tips and Common Mistakes
+
+Don't skip the ice bath. People think they're saving time and end up with dull, mushy spinach. Not worth it.
+
+Moisture is the enemy. Squeeze that spinach harder than feels necessary. Then squeeze it again.
+
+Toasted walnuts only. Raw ones taste raw. Tastes like dirt almost. One batch with raw walnuts taught me that.
+
+Oil goes in slowly while the motor runs. If you dump it all in at once, the emulsion breaks and you get oily separation. Slower is faster.
+
+Store it with a thin layer of olive oil on top. Seals it from air. Keeps the color green and vivid instead of turning brownish-gray. Lasts three days easy, maybe four if you've been careful. After that it starts losing brightness.
+
+Use it on everything—crostini, spooned over pan-seared fish, crepes, pasta, on toast. The nuts give you crunch. The garlic gives you punch. Green and herbaceous and sharp all at once.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Pesto Sauce Recipe
+
+**Can you use regular spinach instead of baby spinach?**
+Works fine. Just chop it up before blanching. Bigger leaves take a few extra seconds to wilt but the same thing happens.
+
+**What if you don't have a food processor?**
+Mortar and pestle. Takes longer. Actually maybe gets better texture because you're working it by hand instead of pulsing—more control. Haven't done it in years but it definitely works.
+
+**Can you freeze this pesto sauce?**
+Yeah. Ice cube trays. Pop out, throw in a bag. Thaws in maybe ten minutes. Texture stays the same. Don't thaw it in the microwave though. Just doesn't work. Let it sit on the counter.
+
+**Why blanch the spinach if you're making a homemade pesto recipe anyway?**
+Bitterness. Raw spinach tastes sharp and rough. Blanching mellows it out so the parsley and garlic shine instead of fighting with it. Also the color. Raw spinach makes brownish pesto. Blanched makes vivid green pesto that actually stays that color.
+
+**Is this recipe for making pesto sauce vegetarian?**
+Yes. All of it. Vegetables, nuts, oil. That's the whole thing.
+
+**How long does fresh pesto sauce recipe last?**
+Three days in the fridge easily. Cover it or do the oil-on-top thing. After three days it starts tasting a bit stale, gets a little oxidized even with the oil. By day four it's probably fine but I wouldn't push it.
