@@ -1,10 +1,10 @@
 ---
-title: "Tofu Vegetable Ratatouille Remix"
+title: "Tofu Stir Fry with Bell Peppers & Zucchini"
 slug: "tofu-vegetable-ratatouille"
-description: "A vibrant vegan ratatouille with firm tofu cubes, assorted bell peppers, zucchini slices, and fresh herbs stewed gently with white wine and seasoned with chili flakes. Quick sauté makes peppers tender. Simmer combined veggies and tofu until flavors meld. Garnish with spring onions and parsley. Serve warm over couscous or grains. Dairy-free, gluten-free, nut-free, egg-free, plant-based."
-metaDescription: "Tofu Vegetable Ratatouille Remix is a vibrant vegan dish featuring assorted bell peppers, zucchini, herbs, and tofu in a flavorful stew."
-ogDescription: "Discover the bold flavors of Tofu Vegetable Ratatouille Remix. A quick, vibrant, vegan meal perfect for dinner or lunch."
-focusKeyphrase: "Tofu Vegetable Ratatouille"
+description: "Tofu stir fry loaded with red and yellow bell peppers, zucchini, and plum tomatoes simmered in white wine and olive oil. Quick, vibrant, and vegan."
+metaDescription: "Easy tofu stir fry recipe with bell peppers, zucchini, and tomatoes. Vegan, dairy-free, and ready in minutes. Make it tonight."
+ogDescription: "Vibrant tofu stir fry with bell peppers, zucchini, tomatoes, and fresh herbs. Quick vegan dinner for weeknights."
+focusKeyphrase: "tofu stir fry"
 date: 2025-07-20
 draft: false
 image: tofu-vegetable-ratatouille.jpg
@@ -21,9 +21,18 @@ tags:
 - "eggplant"
 - "mediterranean"
 keywords:
-- "healthy meal"
-- "vegan cooking"
-- "easy recipes"
+- "tofu stir fry"
+- "tofu stir fry recipe"
+- "stir fried tofu and vegetables"
+- "stir fry vegan recipe"
+- "tofu and veggies stir fry"
+- "vegan ratatouille"
+- "vegetable tofu stirfry"
+- "saute tofu"
+- "tofu recipe with vegetables"
+- "stir fry recipe vegetarian"
+- "fried tofu stir fry"
+- "wok fried tofu"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "280"
@@ -71,3 +80,110 @@ faq:
 - "q: Why did my dish turn mushy? a: Overcooked zucchini likely. Cook until just tender. Fresh ingredients add best flavor. Keep an eye on timing."
 
 ---
+
+Cut the tofu first—that's half the battle. Press it hard, get the water out, chunk it up rough. The peppers go in next, then you just let the pan do the work while everything softens and the flavors start talking to each other. Forty-five minutes total if you don't dawdle.
+
+## Why You'll Love This Fried Tofu Stir Fry
+
+Works cold the next day. Maybe even better that way, textures all settled in.
+Takes 60 minutes start to finish. Prep's the longest part—actually chopping things. The cooking? Thirty-five minutes and you're done.
+Vegan without tasting like you're eating virtue. Just tastes like it sat in olive oil and wine and thought about itself for a while.
+No meat, no dairy, no weird substitutes. Red peppers, onions, tofu, herbs. That's it.
+Mediterranean vibes but you're not flying anywhere. Flat-leaf parsley, fresh thyme, balsamic at the end. Feels fancy. Isn't.
+Leftover portions reheat fine. Might even get better when the flavors have time to settle in.
+
+## What You Need for Tofu Stir Fry with Vegetables
+
+Firm tofu. Not silken. Press it hard in a towel—the drier it is, the better it browns. Cut it into chunks that hold together.
+
+Two red bell peppers and two yellow ones. Cube them kind of rough. Size doesn't matter as much as you think.
+
+A large red onion, sliced thin. Red onion doesn't disappear like yellow onion does. Stays there.
+
+Five garlic cloves, minced fine. Maybe four if you're sensitive. Doesn't matter much.
+
+Olive oil—four tablespoons. Good stuff or cheap stuff, both work. The amount's what counts.
+
+One medium zucchini. Half-moons, thin. They cook down fast.
+
+Three plum tomatoes, chopped. Fresh. Canned works if that's what you have, but the taste is different. Less bright.
+
+Fifty milliliters of dry white wine. Not cooking wine. The kind you'd drink. If you don't have it, use water with a splash of vinegar.
+
+Green onions, fresh thyme, flat-leaf parsley. Not dried herbs. Dried tastes like paper.
+
+Crushed red pepper flakes—just a third of a teaspoon. Barely any. Adds a whisper, not a shout.
+
+Balsamic vinegar. Two teaspoons. That's the finish.
+
+Salt and black pepper. Taste as you go.
+
+## How to Make Fried Tofu Stir Fry
+
+Get the oil hot first—medium-high heat, let it sit for a minute. You'll know it's ready when it moves around the pan fast, doesn't stick.
+
+Throw in the peppers, the red onion, the garlic, the red pepper flakes. All at once. Let them go for seven to nine minutes. You're looking for soft, not brown. Stir once or twice. Season now—salt and pepper while they're still hot and can actually soak it in.
+
+Add the tofu. Be gentle. Fold it in more than you stir it. You want chunks, not crumbles. Add the chopped tomatoes and the white wine. The wine smells sharp at first, then it mellows. Cook this for about twelve minutes. Stir often but not constantly. The tomatoes break down, the liquid shrinks. That's when you know you're close.
+
+Green onions go in. Zucchini too. Sprinkle the thyme and parsley. Drizzle the balsamic. Mix it all together. Eight more minutes. The zucchini softens but shouldn't fall apart. That's the line.
+
+Taste it. Fix the salt and pepper. Probably needs more salt than you think.
+
+## How to Get Tofu Vegetable Stir Fry Crispy and Right
+
+The tofu won't get crispy in here—that's not what this is. It gets tender and picks up the flavor of everything around it. If you want crispy tofu, you pan-fry it first in a separate pan, then add it at the end. But that's a different dish.
+
+What you want is the vegetables soft but still present. Not mush. The trick is not crowding the pan. If it's too full, everything steams instead of cooking. Does it fit without piling high? Good. If not, work in batches.
+
+The wine matters more than you'd think. It's sharp at first, rounds out over time, makes the whole thing taste intentional instead of just like peppers and onions. Don't skip it.
+
+Heat stays medium-high the whole time. Not screaming hot. Hot enough that when you add something it sizzles for a second then quiets down. If it's hissing the whole time, lower it.
+
+Thyme and parsley go in at the end—fresh herbs lose everything if you cook them too long. Just long enough to warm through. That's all they need.
+
+## Tofu Stir Fry Tips and Common Mistakes
+
+Press your tofu. Like actually press it. Wrap it in a clean towel, put something heavy on top, leave it for ten minutes minimum. More water out means it absorbs flavor instead of just soaking up oil.
+
+Don't stir constantly. You're not making scrambled eggs. Stir every couple minutes, let the pan do work between stirs. That's how flavors build.
+
+Add the wine when you add the tomatoes, not before. You want it to reduce slowly into everything else, not just evaporate on its own.
+
+The balsamic goes at the very end, after you take it off heat. Add it to a hot pan and it breaks. Add it to a warm pan and it just sits there tasting like balsamic. Let the pan cool for ten seconds first.
+
+Fresh herbs. Always. Dried thyme tastes like dust compared to fresh. Dried parsley isn't parsley, it's green sawdust. Not worth the shelf space.
+
+Green onions can go in earlier if you like them softer. I add them late because they wilt fast and I like them to still have some snap.
+
+Size your vegetable cuts roughly the same so they cook at the same speed. Doesn't have to be perfect. Just in the ballpark.
+
+Tofu sticks to the pan sometimes. That's normal. Use a wooden spoon, scrape gently, keep moving. It comes loose.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Tofu Stir Fry
+
+**Can I use a wok instead of a regular pan?**
+Yeah. Woks are better actually—more surface, heat distributes different. But a large skillet works fine if that's what you have.
+
+**How do I prepare tofu for stir fry so it doesn't fall apart?**
+Press it hard first—that's the main thing. Cut it into chunks about an inch and a half across. Fold it in instead of stirring aggressively. It's tougher than you think once it's pressed.
+
+**What if I don't have white wine?**
+Water works. A tablespoon of vinegar mixed in helps with the sharpness the wine brings. Not the same, but it's close enough.
+
+**Can I make this ahead and reheat it?**
+Yeah. Refrigerate it in a container, reheat gently on the stove or microwave. Texture stays fine. Actually tastes better after a day because everything's had time to sit together.
+
+**Should I use firm or extra-firm tofu?**
+Firm. Extra-firm gets weird, kind of rubber-textured once you cook it. Regular firm is the sweet spot.
+
+**What vegetables can I swap out?**
+Any firm vegetable works. Eggplant, mushrooms, snap peas, broccoli. Stay away from watery stuff like summer squash early in the cooking—add it late like the zucchini. Cook times might change a couple minutes either way.
+
+**Do I need fresh thyme and parsley or can I use dried?**
+Fresh. Dried loses everything in here and tastes stale. If you only have dried, use half the amount and add it earlier so it has time to rehydrate. But really, fresh is worth the trip to the store.
+
+**How spicy is this with the red pepper flakes?**
+Not spicy. Just a whisper. If you like heat, triple the amount. If you want none, leave it out completely.
