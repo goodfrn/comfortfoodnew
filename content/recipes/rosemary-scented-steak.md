@@ -1,10 +1,10 @@
 ---
-title: "Rosemary Scented Steak"
+title: "Rosemary Scented Steak with Fleur de Sel"
 slug: "rosemary-scented-steak"
-description: "Thick sirloin steak grilled high heat. Herb bundles grilled briefly. Salted meat no oil or pepper. Rested after grilling. Rosemary fresh, tied into small bunches and charred briefly. Simple seasoning with fleur de sel. Balanced time shifts for slight doneness variation. Meat rubbed with herb before resting. Rustic, minimal ingredients present a bold beef flavor with fresh aromatic rosemary."
-metaDescription: "Rosemary Scented Steak combines bold beef with aromatic herbs. A fusion of French and Italian cooking, this dish is a must-try."
-ogDescription: "Discover Rosemary Scented Steak – a flavorful fusion of herbs and high-heat grilling for a mouthwatering dish experience."
-focusKeyphrase: "Rosemary Scented Steak"
+description: "Thick-cut T-bone steak grilled at high heat with fresh rosemary and thyme bundles. Seasoned simply with fleur de sel and olive oil for bold beef flavor."
+metaDescription: "Grilled steak recipe with fresh rosemary, thyme, and fleur de sel seasoning. High-heat T-bone steak for restaurant-quality results. Make it tonight."
+ogDescription: "Charred rosemary and thyme on thick T-bone steak with fleur de sel. Simple, bold French bistro-style grilling."
+focusKeyphrase: "rosemary scented steak"
 date: 2025-07-19
 draft: false
 image: rosemary-scented-steak.jpg
@@ -20,9 +20,16 @@ tags:
 - "beef"
 - "easy dinner"
 keywords:
-- "steak recipe"
-- "French-Italian fusion"
-- "grilling techniques"
+- "rosemary scented steak"
+- "grilled steak"
+- "t-bone steak high heat grill"
+- "charred rosemary thyme steak"
+- "grilled steak with herb bundles"
+- "sirloin steak fleur de sel"
+- "beef grilling"
+- "french bistro grilled steak"
+- "grilled sirloin with fresh herbs"
+- "rosemary steak dinner"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "310"
@@ -59,3 +66,79 @@ faq:
 - "q: What about leftovers? a: Store in airtight container. Refrigerate within two hours. Last for 3-4 days. Reheat gently to avoid drying out."
 
 ---
+
+Three centimeters of T-bone, room temperature, waiting. Seven minutes of prep. Sixteen minutes total on heat. That's it.
+
+## Why You'll Love This Rosemary Scented Steak
+
+Takes 23 minutes flat. No marinating, no fussing. Just salt, herbs, fire.
+The rosemary and thyme bundles get grilled at the very end — they char for 20 seconds and the leaves brighten up, then you rub them straight onto the hot meat. Flavor sticks. Doesn't need anything else.
+Looks restaurant-level. Tastes like a French bistro did the work.
+Actually easy. Sounds fancy. Genuinely quick weeknight dinner material.
+Cleanup is nothing. Grill stays clean, one plate, done.
+
+## What You Need for Grilled Steak with Herb Bundles
+
+T-bone steak. About 3 centimeters thick. Bring it to room temperature 20 minutes before you cook. Cold meat won't sear right.
+
+Fleur de sel. Not table salt. It's coarser, stays on the meat instead of dissolving into it. You get actual seasoning in every bite.
+
+Fresh rosemary branches and thyme sprigs. Eight rosemary, six thyme. Tie them into three small bundles — doesn't have to be perfect, just together enough to handle. Brush them with olive oil, sprinkle a tiny bit of salt. They're going on the grill too.
+
+Olive oil. Just enough to lightly coat the grill bars. That's the only oil the steak gets. Salt does the work here.
+
+## How to Make Charred Rosemary Thyme Steak
+
+Get the grill screaming hot. High heat. You want actual char, not just heat marks. Oil the grill bars lightly so nothing sticks.
+
+Tie your herb bundles while the grill heats. Rosemary and thyme together. Three small bundles. Oil them, salt them lightly, set them aside.
+
+Pat the steak dry. Season both sides with fleur de sel only. Nothing else. No pepper, no oil on the meat itself. The salt is the seasoning. The herbs are the flavor. Fire does the rest.
+
+Steak goes on the grill. Six minutes on the first side. Don't move it. Let it sit and develop that crust — that's where the taste happens. Flip. Another six minutes.
+
+Check for doneness however you like it. If you want it a touch more done, add a minute per side. Medium-rare usually works out around those timings.
+
+## How to Get Charred Rosemary Flavor Into Every Bite
+
+Last minute of cooking. Seriously, the last 60 seconds. Throw the herb bundles on the grill.
+
+They hit the hot grates and the leaves start to brighten — that's the signal. Twenty seconds, flip them, 20 more seconds other side. You're just barely toasting them, not burning them to nothing. Leaves should go from dull to almost glowing green.
+
+Pull the steak off. Put it on your plate. Lay two of the herb bundles underneath where it'll rest. That heat transfers, the meat soaks up the rosemary scent from below.
+
+Take the third bundle — the one that's still hot — and rub it directly across the top of the steak while it's still cooking on the plate. The heat releases the oils. Flavor transfers. This is where it gets good.
+
+## T-Bone Steak Tips and High Heat Grilling
+
+Room temperature matters. Take it out 20 minutes before the grill goes hot. Cold meat from the fridge won't cook evenly. You'll get a crust and a cold center.
+
+Fleur de sel only. No pepper before cooking. Pepper burns at high heat and tastes bitter. Add it after if you want it. The salt and herb oils are enough.
+
+Don't move the steak around. Sear both sides once each. Six minutes, flip, six minutes. Done. Every flip kills the crust.
+
+The herb bundles stay separate. They're a garnish and a flavor transfer, not a marinade. They go on last because fresh herbs burn fast. Those 20 seconds on each side is perfect — leaves brighten, oils release, then off.
+
+Resting matters even though it's just eight minutes. Loosely covered. The meat keeps cooking slightly and the juice redistributes. You won't lose all that salt and herb flavor into the plate.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Rosemary Scented Steak
+
+**Can I use dried rosemary instead of fresh?**
+Don't bother. Dried tastes like nothing when it hits heat that fast. Fresh branches work because the leaves release oil right when they're hot. Dried just — gets crispy and disappears.
+
+**What if I don't have fleur de sel?**
+Kosher salt works. Smaller grains mean it dissolves faster, but it still works. Table salt gets too salty too fast — use less if that's all you have.
+
+**How do I know when it's done?**
+Six minutes per side is medium-rare on a 3-centimeter steak. Depends on your grill and the outside temperature. Meat thermometer gets you 50–52°C inside if you like it that way. Or press it — it should give a little but bounce back mostly.
+
+**Can I cook this on a regular skillet instead of a grill?**
+Yeah, cast iron, super hot. You won't get the same char marks and the herb bundles won't work the same way — they need actual flame or high heat to brighten. Pan-searing works fine. Just different.
+
+**Why does the temperature need to be 20 minutes at room temp?**
+Cold meat from the center of the fridge won't cook through evenly. By the time the outside gets a crust, the inside's still cold. Room temp for 20 minutes means the heat penetrates better. Faster, more even cooking.
+
+**Do I have to rest it 8 minutes?**
+More or less. Five minutes minimum. Resting lets the fibers relax. You lose less juice when you cut. Eight is ideal. Ten won't hurt.
