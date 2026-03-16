@@ -1,10 +1,10 @@
 ---
-title: "Simplest Beef Lasagna"
+title: "Simplest Beef Lasagna with Ricotta"
 slug: "simplest-beef-lasagna"
-description: "Layers of browned beef simmered in tomato sauce mingled with water to keep it saucy. Uncooked noodles softened by baking steam with ricotta and mozzarella sprinkled in thoughtful portions. Covered tightly for even cooking. Baked until bubbling and tender. Rested well for slicing. Substitutions possible for ricotta with cottage cheese, or swap mozzarella with provolone if needed. Nonstick spray or a smear of olive oil stops noodles sticking. Watch for pasta softness by piercing late in bake – no soggy mush yet no crunch. Measures shifted slightly to tweak moisture and cheese balance. Familiar smells of simmering beef and oregano in sauce, golden cheese melting on top. Because no one likes dry bottom layers or uneven cook with layered pasta. Easy yet forgiving, especially if you tweak sauce thickness or cheese ratios. Keep foil tightly wrapped - no steam escape, no dry edges. Timed bake plus tactile poke with fork tells all."
-metaDescription: "Simplest Beef Lasagna layering browned beef and rich cheeses baked with no-boil noodles for tender slices; easy swaps and clear texture tips included"
-ogDescription: "Brown beef slow, layer sauce, cheese, noodles; bake covered 65 mins. Watch fork test—poke gently, no crunch. Let rest before slicing. Cheese combos matter."
-focusKeyphrase: "Beef Lasagna"
+description: "Easy beef lasagna layers browned ground beef, marinara sauce, and uncooked noodles with ricotta and mozzarella cheese. Baked until tender and bubbling for authentic comfort food."
+metaDescription: "Make beef lasagna with ground beef, marinara sauce, ricotta, and mozzarella cheese using no-boil noodles. Simple layered casserole baked until perfect. Try it tonight."
+ogDescription: "Browned ground beef, marinara sauce, ricotta, and mozzarella layered with uncooked noodles. Comfort food done simple."
+focusKeyphrase: "beef lasagna"
 date: 2025-10-23
 draft: false
 image: simplest-beef-lasagna.jpg
@@ -21,9 +21,16 @@ tags:
 - "italian"
 - "main dish"
 keywords:
-- "lasagna recipe"
-- "baked pasta"
-- "beef cheese layering"
+- "beef lasagna"
+- "no-boil beef lasagna"
+- "beef lasagna with ricotta and mozzarella"
+- "ground beef pasta"
+- "homemade beef lasagna with marinara sauce"
+- "comfort food lasagna"
+- "italian beef lasagna casserole"
+- "uncooked noodles beef lasagna"
+- "beef lasagna recipe"
+- "easy beef lasagna"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "435"
@@ -68,3 +75,90 @@ faq:
 - "q: How store leftovers? a: Cover tightly fridge up to 4 days. Reheat covered with splash water so pasta stays moist. Freeze in portions. Thaw in fridge overnight. Reheat slower oven or microwave with foil tent."
 
 ---
+
+Cut the noodles in half if they're too long. Brown the beef. Dump in sauce and water. Layer it. Bake. That's the whole thing.
+
+## Why You'll Love This Beef Lasagna
+
+Takes 90 minutes total — 25 minutes of actual work, then the oven does the rest.
+Tastes like you spent three hours on it. You didn't.
+No-boil noodles work, but regular ones cook right in the sauce — saves a step, saves a pot.
+Comfort food that fills the house. The kind people ask for again.
+Ricotta, mozzarella, provolone mixed in. Just enough cheese without it being *too much*.
+Leftovers are actually better the next day. Not a lie.
+
+## What You Need for Ground Beef Pasta Lasagna
+
+A pound of ground beef. Brown it first — that matters. Drain it well or blot it. Fat makes it greasy.
+
+Two and a quarter cups marinara sauce. Jarred works fine. Don't overthink it.
+
+Water. A quarter cup more than you'd think. Uncooked noodles soak it up. That's the whole trick right here.
+
+Lasagna noodles. Twelve pieces. No-boil if you want less thinking. Regular noodles work the same — they soften in the liquid.
+
+Ricotta. A pound and a half. Or cottage cheese. Or soft tofu if you're doing that. Spreads the same, tastes slightly different.
+
+Mozzarella and provolone. Cup and a half of mozzarella, half cup provolone. Mix them together. One cheese alone tastes flat.
+
+Oil or nonstick spray for the pan. Matters more than you'd think.
+
+## How to Make Homemade Beef Lasagna
+
+Set the oven to 430. Spray or oil the baking dish — 11 by 7 inches. Do it thoroughly. Corners especially.
+
+Heat a skillet over medium-high. Crumble the beef in. Don't stir constantly — let it sit for maybe two minutes, then break it up. Browns faster that way. Once it's done, drain the fat. Actually drain it. Or blot it with paper towels if you're being careful.
+
+Put the pan back on medium-low. Pour in the sauce and water. Stir it, scraping the bottom where the brown bits stick. Let it go for a minute or two. Not simmering hard — just warm enough to blend.
+
+## How to Layer Beef Lasagna With Ricotta and Mozzarella
+
+Spread about one-fifth of the sauce on the bottom of the pan. Thin layer. Just enough to coat it.
+
+Lay down noodles. Overlap them slightly but don't crowd them. They expand a little.
+
+Dollop half the ricotta across the noodles. Spread it with the back of a spoon — doesn't have to be perfect, just even-ish. Sprinkle one-third of the cheese mix (mozzarella and provolone together) over the ricotta.
+
+Pour one-quarter of the remaining sauce over the cheese.
+
+Another noodle layer. Same thing — slight overlap, not crowded.
+
+Rest of the ricotta. Spread it out. Half the remaining cheese on top.
+
+Noodles again. One-quarter of the sauce over this layer.
+
+Final noodle layer. Pour the last of the sauce on top. Sprinkle the remaining cheese evenly. Cover the whole thing.
+
+Seal the pan with foil. Crimp the edges down so steam doesn't escape everywhere.
+
+## No-Boil Beef Lasagna Baking and Finishing Tips
+
+Bake for 65 minutes. Around the 60-minute mark, poke the edge with a fork. Should go in with some resistance but not crunch. If it's still stiff, give it another 10 minutes uncovered.
+
+The foil matters. If you skip it or crimp it loose, the top dries out and the noodles get crunchy. Not in a good way.
+
+Don't cut it right away. Let it sit for 10 to 15 minutes. Uncovered. The cheese sets up, the sauce thickens, it doesn't fall apart on the plate.
+
+If it looks watery when you pull it out, that's normal. The water absorbed into the noodles. Once it rests it tightens up.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Beef Lasagna With Ricotta and Mozzarella
+
+**Can I use no-boil noodles instead of regular?**
+Yeah. They work the same. The water softens them just like boiling does. No difference in the end.
+
+**What if I don't have provolone?**
+Just use more mozzarella. Not as interesting, but it works fine.
+
+**How do I know when it's actually done?**
+Fork test at 60 minutes. Push it into a noodle edge near the side of the pan. Should bend, not snap. If it snaps, bake longer.
+
+**Can I make this ahead?**
+Assemble it the night before. Cover it. Bake it cold the next day — add 10 to 15 minutes to the time. Or freeze it unbaked. Bake from frozen, add 20 minutes.
+
+**Why does mine come out watery?**
+That's the noodles pulling water from the sauce. Totally normal. Let it rest — 10 minutes, minimum. The water gets reabsorbed. It firms up.
+
+**Can I substitute the ricotta?**
+Cottage cheese works. So does soft tofu. Texture's slightly different but close enough. Don't use cream cheese. Too thick, doesn't spread.
