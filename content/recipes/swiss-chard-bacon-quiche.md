@@ -1,10 +1,10 @@
 ---
-title: "Swiss Chard Bacon Quiche"
+title: "Quiche Lorraine Pie with Bacon & Swiss Chard"
 slug: "swiss-chard-bacon-quiche"
-description: "Savory quiche featuring swiss chard, bacon, and leeks in a flaky crust. Modified with rye flour and replace wine with apple cider. Includes garlic instead of onions for earthier flavor. Reduced water in dough, added cream to custard. Time adjusted for resting and baking. Serves 6-8."
-metaDescription: "Savory Swiss Chard Bacon Quiche recipe. Flaky rye crust with apple cider, garlic, creamy custard filling. Perfect for brunch or light dinner"
-ogDescription: "Rich Swiss Chard Bacon Quiche with rye crust and apple cider. Easy to make. Great for brunch or dinner gatherings. Flavor packed and satisfying"
-focusKeyphrase: "Swiss Chard Bacon Quiche"
+description: "Classic quiche lorraine with bacon, leeks, and swiss chard in a flaky rye crust. Made with eggs, cream, and apple cider for rich, savory flavor. Serves 6-8."
+metaDescription: "Quiche lorraine pie recipe featuring bacon, leeks, swiss chard, and eggs in a homemade rye crust. Try it tonight."
+ogDescription: "Savory quiche lorraine with bacon, leeks, swiss chard, and cream. Homemade rye crust. Perfect for brunch or dinner."
+focusKeyphrase: "quiche lorraine pie"
 date: 2025-07-21
 draft: false
 image: swiss-chard-bacon-quiche.jpg
@@ -19,9 +19,16 @@ tags:
 - "bacon"
 - "homemade"
 keywords:
-- "savory quiche"
-- "rye crust"
-- "brunch recipe"
+- "quiche lorraine pie"
+- "bacon and leek quiche"
+- "bacon & leek quiche"
+- "egg bacon pies"
+- "bacon quiche recipe"
+- "homemade quiche recipe"
+- "bacon and egg quiche"
+- "lorraine quiche"
+- "homemade quiche crust"
+- "quiche with homemade crust"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "370"
@@ -77,3 +84,75 @@ faq:
 - "q: How do I know when it's done? a: Look for a slight jiggle. Center should not be liquid. A light golden top also helps. Use a toothpick if unsure. Quiche firms up while cooling. Don’t rush slicing."
 
 ---
+
+Set the oven to 185°C before anything else. Rye crust, bacon crisp at the edges, chard that stays somehow green instead of turning into brown nothing. This is what quiche lorraine actually is.
+
+## Why You'll Love This Bacon and Egg Quiche
+
+Homemade crust that doesn't taste like cardboard. Rye flour does something different — nuttier, holds together without being heavy. Thick-cut bacon rendered right, so you get the fat in there doing the work. The chard and leek aren't an accident. They belong. Nobody expects the apple cider. Changes everything.
+
+Takes an hour and ten minutes total. Twenty minutes of prep if you're slow. Fifty in the oven and you're done. Weekend food that doesn't feel like you're working.
+
+Eat it warm. Eat it cold the next day — better cold, honestly. Works for lunch. Works for dinner. Works when you have eight people over and want them thinking you actually know how to cook.
+
+## What You Need for Homemade Quiche Lorraine
+
+Rye flour, not regular. The crust gets texture that matters. Cold butter — seriously cold, cubed before it warms up. Salt. Ice water, just enough so it holds but doesn't get sticky.
+
+Thick-cut bacon. Four slices. Lardons is the fancy word. Just means cut them into chunks. One large leek, white and light green parts, cleaned because they trap dirt. Swiss chard stems — about three quarters cup chopped. Apple cider. Then the chard leaves, maybe a cup and a half. Four medium eggs beaten loose. Half a cup of whole cream, not the fake stuff. Two cloves garlic minced. Salt and pepper.
+
+Swap the chard for spinach if you want. Comes out fine. Different texture. Less bitter. If you do it, skip the stems — spinach stems are garbage.
+
+## How to Make a Bacon and Egg Quiche with Rye Crust
+
+Get the crust going first because it needs forty minutes in the fridge and you're not waiting around. Food processor. Rye flour and a pinch of salt. Pulse a few times. Add the cold butter cubes. Pulse again until it looks like peas — rough, uneven, some bits bigger than others. That texture is the whole game. Pour the ice water in slowly while pulsing. Stop the second it comes together. Sticky means overworked. Keeps going and you get a hockey puck.
+
+Dust flour on the counter. Flip the dough out there. Shape it into a disc with your hands. Don't knead it like bread. Just flatten it out, an inch thick maybe. Dust the top. Roll it out thin enough to fit a nine-inch tart pan with an inch of sides. Press it in. Trim the edges if they hang over. Stick it in the fridge. Forty minutes minimum.
+
+While that's sitting, preheat to 185°C. Lower third of the oven. Temperature matters here.
+
+## How to Get a Quiche Lorraine Bacon and Egg Filling Right
+
+Medium skillet. Medium heat. Bacon goes in. Watch it. You want the fat translucent and the edges starting to crisp but not burnt. It keeps cooking after you pull it out. Pull it out early. Remove some of the fat if there's a pool of it. Leave about a tablespoon because that's flavor.
+
+Garlic and the sliced leek go in next. Four or five minutes until they're soft but not brown. You're looking for translucent leek, the layers giving when you press. Then the chard stems. Another five minutes. They go from raw and woody to actually tender. You can taste this difference.
+
+Apple cider goes in next. Deglaze. Scrape the brown bits up. Let it reduce. Most of it will evaporate — maybe three minutes. You'll hear it sizzle less and see it thicken. Then the chard leaves. They collapse immediately. Salt and pepper now. Cook it until the moisture from the leaves evaporates. Shouldn't take long. Pull the pan off heat. Let it cool while you do the eggs.
+
+Bowl. Four eggs beaten into cream. Season it. Tastes like it needs more salt than you think. Add it. Combine this with the bacon and chard mixture. Gentle. You're not trying to whip air in. Just make sure the eggs coat everything.
+
+Pull the crust out of the fridge. Pour the filling in. Smooth the top. Get it in the oven on that lower rack. Forty to forty-five minutes. You're looking for the custard set but still light on top. Jiggles a tiny bit in the very center if you shake the pan. That's done. Overbake it and the cream breaks. Comes out grainy.
+
+## Bacon and Quiche Recipe Tips and Common Mistakes
+
+The crust is rye so it's not going to brown deep golden like wheat would. It'll be more of a tan, almost a taupe. That's normal. Don't think you underbaked it.
+
+Chard stems take longer than leaves. Don't cook them the same amount of time or the leaves turn to soup. Stems first. Then leaves at the end. The apple cider is subtle. You won't taste apple — you taste depth. Without it tastes flat.
+
+Thick-cut bacon matters. Thin bacon renders into nothing. Thick-cut stays visible, stays textured. Leeks trap dirt between the layers. Cut them in half lengthwise first. Rinse between the layers. Don't skip this. Biting into sand in a quiche is the worst.
+
+Don't fill it too full. You need room for the custard to puff a little. Half an inch from the rim minimum. If you overfill it, the egg runs over the edges and gets stuck to the oven. Done it. Not fun.
+
+Cool it ten minutes before slicing or it falls apart. Not hot enough to steam yourself. Just enough to set up. Slice with a sharp knife. Wipe it between slices. Keeps the crust clean.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Bacon and Egg Quiche
+
+**Can I make this bacon quiche ahead?**
+Make it the morning of. Bake it. Let it cool. Stick it in the fridge. Eat it cold. Tastes better cold, actually — the flavors separate instead of blending together in that hot mess.
+
+**Can you use bacon and cheese in this quiche?**
+Yeah. Cheddar works. Gruyère works better. Half a cup grated, mixed into the egg before it goes in. Don't put it on top or it burns before the eggs set.
+
+**How do I know when the quiche is done?**
+Edges should be set solid. Center jiggles barely if you shake it. Insert a knife near the middle — it comes out mostly clean with a tiny bit of liquid. That liquid keeps cooking after you pull it out. Overcook it and you get scrambled eggs.
+
+**Can I use spinach instead of chard in this homemade quiche?**
+Yeah. Use maybe two cups of spinach instead of the chard and stems. Spinach gives less liquid so don't bother cooking it down first. Mix it in raw, let the heat do the work. Texture's different — softer, less bitter.
+
+**What's the deal with rye flour?**
+Nutty flavor. Denser than wheat. Stays crisp longer instead of absorbing moisture from the filling. If you hate rye, use regular flour. Crust'll be lighter, might get a bit soggy by day two.
+
+**Do I have to use apple cider?**
+Honestly, don't know why it works. Just does. Without it, flat. Something in the acidity wakes everything up. White wine does it too. Just the acidity. Use what you have.
