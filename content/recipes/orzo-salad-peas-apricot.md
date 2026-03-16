@@ -1,10 +1,10 @@
 ---
-title: "Orzo Salad Peas Apricot"
+title: "Orzo Salad with Peas, Apricots & Pistachios"
 slug: "orzo-salad-peas-apricot"
-description: "Orzo tossed with thawed peas, chopped dried apricots, toasted pistachios, and fresh scallions. Dressed in lemon juice, olive oil, and grainy mustard. Cook orzo till tender but not mushy; drain and cool off. The citrus cut through sweetness and nuts add crunch. A salad that feels light yet filling. Works best served cold but can stand room temp. A little zing and texture contrast, no cream or dairy. Substitute pecans or walnuts if needed. Swap lemon for lime for a sharper bite. The orzo must not overcook, or it loses its bite and looks clumpy. Plays well alongside grilled meats or sandwiches. Vegan, egg-free, no dairy, easy pantry staple."
-metaDescription: "Orzo salad with peas, apricot, toasted pistachios tossed in lime juice and grainy mustard dressing. Bright, textured, hold cold or room temp. Mediterranean vibe."
-ogDescription: "Orzo with thawed peas, diced apricot, pistachios; lime-mustard dressing brings zing with crunch. Let flavors rest room temp or chill briefly. Simple, textured salad ideas."
-focusKeyphrase: "orzo salad peas apricot"
+description: "Orzo salad tossed with thawed peas, dried apricots, toasted pistachios, and fresh scallions. Dressed in lime juice, olive oil, and Dijon mustard for a light, tangy vegetarian side."
+metaDescription: "Make this orzo salad with peas, apricots, and pistachios—a cold pasta dish with lime and Dijon dressing. Try it tonight."
+ogDescription: "Tender orzo with peas, dried apricots, and toasted pistachios in a bright lime vinaigrette. Vegan and make-ahead friendly."
+focusKeyphrase: "orzo salad with peas and apricots"
 date: 2025-08-19
 draft: false
 image: orzo-salad-peas-apricot.jpg
@@ -21,9 +21,16 @@ tags:
 - "vegetarian"
 - "easy"
 keywords:
-- "orzo salad"
-- "peas salad"
-- "apricot salad"
+- "orzo salad with peas and apricots"
+- "cold orzo salad with pistachios"
+- "orzo pasta salad"
+- "summer vegetarian salad"
+- "make-ahead pasta salad"
+- "orzo salad with thawed peas and nuts"
+- "orzo pasta with apricots and pistachios"
+- "vegetarian orzo salad with fresh scallions"
+- "vegan orzo salad"
+- "lemon orzo salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "320"
@@ -62,3 +69,91 @@ faq:
 - "q: Best way to store leftovers? a: Airtight container in fridge up to 2 days max. Bring to room temp before serving for flavors to bloom again. Toss gently after resting. If nuts dull, toast quick in pan to revive crunch."
 
 ---
+
+Orzo goes in while the water's still rolling. Stir it immediately—doesn't stick itself, but why risk it. Ten minutes max. Maybe seven if your pot runs hot. The second it tastes done but still has a tiny bit of bite, drain it. Cold water. Quick. Then spread it out on a plate and forget about it for a few minutes.
+
+## Why You'll Love This Orzo Salad with Peas and Apricots
+
+Takes 30 minutes total. Fifteen if you've got the peas thawed already.
+Works straight out of the bowl or chilled. Cold tastes even better. Not sure why but it does.
+Pistachios stay crunchy for hours. Apricots get chewier. Both work.
+Sits in the fridge fine for two days. Maybe three. Nuts soften by then but flavor gets deeper.
+Lime instead of lemon hits different. Brighter. The mustard's grainy so you actually feel it—not just taste it.
+
+## What You Need for Orzo Pasta Salad
+
+Orzo first. One cup. Less than you'd think. The grain stays firm that way instead of turning to mush.
+
+Extra virgin olive oil. Quarter cup. Not the cheap stuff. It's half the dressing.
+
+Fresh lime juice. Two tablespoons. Not bottled. Matters.
+
+Grainy mustard. One tablespoon. The graininess adds something. Smooth mustard doesn't work here.
+
+Frozen peas. Thawed. A cup and two-thirds. Thaw them first—frozen peas taste gritty in a salad.
+
+Toasted pistachios. Roughly chopped. A third of a cup. Already toasted. Don't bother toasting them yourself.
+
+Dried apricots. Diced small. A third of a cup. The smaller the dice, the better they distribute. They're sweet enough on their own.
+
+Scallions. Three of them. White and green parts both. Slice thin. They're the only fresh element.
+
+Salt and cracked black pepper.
+
+## How to Make Orzo Pasta Salad
+
+Large pot. Salted water. Get it boiling hard. Toss the orzo in. Stir right away so it doesn't weld itself to the bottom. The water bubbles up and looks like it's overflowing. It's not. Let it go.
+
+Taste after seven minutes. Should bend but snap back a little. Not soft all the way through. Drain it fast in a colander. Cold water—just a quick rinse to stop the cooking. Drain again. Drizzle a little olive oil on it and toss gently. No crushing. Spread it on a plate if you've got the space. Cools faster that way and doesn't clump into a paste.
+
+While that's happening, small bowl, whisk together the olive oil, lime juice, and mustard until it looks like one thing instead of three things sitting on top of each other. The mustard does most of the work holding it together. Taste it. Salt and pepper now. Not at the end. It needs to taste a bit sharp because the apricots and nuts will soften it once everything's mixed.
+
+## How to Get Orzo Salad with Pistachios Perfectly Balanced
+
+Cooled orzo goes into a big bowl. Thawed peas. Here's the thing—rough up a few of the peas by hand. Not all of them. Just a handful. Gets broken down in the mixing, gives texture that way. Add the pistachios. Add the apricots. Scatter the scallions on top.
+
+Fold everything together. Not aggressively. Just until you can't see separate piles anymore. The contrast matters—soft orzo against the crunch of nuts against the chew of apricots. That's the whole thing right there.
+
+Taste it. Actually taste it. Does it taste dry? Add more oil. Not dressing—just oil. Does it taste flat? More lime. Does it taste bland? Salt now. Go small. Apricots are already sweet and pistachios are earthy, so salt just brings those forward.
+
+Let it sit five to ten minutes at room temperature before serving. Flavors come together. Apricots soften slightly. It's better than eating it right away.
+
+Serve it warm if you just made it. Chilled if you made it ahead. Either works. The nuts stay crunchy either way if you eat it the same day. Overnight they soften but flavor deepens so it's not a loss, just different. Refrigerate it longer and the nuts go mushy. Not worth it after day two.
+
+## Orzo Salad Tips and Common Mistakes
+
+Orzo left hot and oiled clumps into a paste the second it cools. Spread it out. Takes three minutes longer but saves the whole thing.
+
+Peas still frozen when you mix them pull the whole salad cold too fast and they taste gritty. Thaw them completely. Leave them on the counter in a colander for fifteen minutes if you're in a hurry.
+
+Mustard too timid. You can taste it but barely. Add another teaspoon. Or pinch of smoked paprika for warmth. Not spice. Warmth.
+
+Apricots diced too big sit there like rocks. Small pieces distribute flavor through every bite.
+
+One time tried basil. Drowned everything else out. Don't do that.
+
+Dried cherries work instead of apricots if that's what you've got. Golden raisins work. But they're sweeter, so the balance shifts. Apricots have a slight tang that cuts through the richness of the nuts.
+
+Pistachios bring this subtle earthiness that almonds don't have. They're why this works. Don't skip them for something cheaper.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Orzo Salad with Peas and Apricots
+
+**Can I make this ahead?**
+Yes. Makes it better honestly. Mix it in the morning, eat it for dinner. Flavors come together. Nuts soften but not ruined. Two days max in the fridge. After that nuts go mushy and it's not great anymore.
+
+**What if I don't have pistachios?**
+Tried it with almonds. Flatter. Tried it with walnuts. Too bitter. Cashews work—softer texture. Sunflower seeds work if that's what you have. Different thing but not worse, just different.
+
+**Can I use lemon instead of lime?**
+Works. Lime's brighter. Lemon's more traditional. Not worth the argument. Use what you've got.
+
+**Why does my orzo always clump together?**
+Cooling hot. Spread it out on a plate the second it drains. Don't let it pile up. Two minutes of spreading prevents twenty minutes of picking apart clumps.
+
+**Should I chill it before serving?**
+Doesn't matter. Cold tastes better to some people. Room temperature tastes fresher to me. Make it, wait ten minutes for flavors to marry, eat it. If you're making it hours ahead, chill it. It'll be fine.
+
+**Can I add fresh herbs?**
+Mint works. Chop it fine, scatter it on top right before serving or it gets sad. Basil doesn't work here. Cilantro might. Haven't tried it.
