@@ -1,10 +1,10 @@
 ---
-title: "Maple-Glazed Pork Medallions"
+title: "Maple-Glazed Pork Medallions with Apple Cider"
 slug: "maple-glazed-pork"
-description: "Pork medallions quickly seared then glazed with a tangy maple and apple cider mixture. Substitutes chicken broth with vegetable broth, fécule de maïs swapped for arrowroot starch. Enhanced with fresh thyme. A quick midweek dinner solution, perfect when you crave that sweet-umami punch without fuss. Uses visual browning cues and gentle simmering to nail tenderness and glaze thickness. Simple, versatile, gluten-lactose-egg-free."
-metaDescription: "Maple-glazed pork medallions seared crisp, glazed with tangy maple and cider mix. Arrowroot starch thickens sauce clear; thyme adds earthiness. Quick 25-min meal."
-ogDescription: "Quick seared pork medallions glazed with maple, cider, and mustard. Arrowroot starch shines in a glossy sauce; thyme optional, adds depth. Midweek go-to for sharp-sweet flavors."
-focusKeyphrase: "maple-glazed pork medallions"
+description: "Tender pork medallions seared and glazed with maple syrup, apple cider vinegar, and Dijon mustard. Quick midweek dinner with fresh thyme and shallots. Gluten-free."
+metaDescription: "Maple glazed pork medallions with apple cider vinegar, Dijon mustard, and fresh thyme. Easy seared pork tenderloin dinner. Try it tonight."
+ogDescription: "Seared pork medallions in maple apple cider glaze with Dijon mustard and fresh thyme. Simple, elegant weeknight dinner."
+focusKeyphrase: "maple glazed pork medallions"
 date: 2025-08-18
 draft: false
 image: maple-glazed-pork.jpg
@@ -21,9 +21,16 @@ tags:
 - "comfort food"
 - "main dish"
 keywords:
+- "maple glazed pork medallions"
 - "pork medallions"
-- "maple glaze"
-- "quick pork dinner"
+- "pork tenderloin dinner"
+- "easy pork medallions"
+- "maple glazed pork"
+- "seared pork medallions with dijon mustard sauce"
+- "maple pork medallions with shallot and thyme"
+- "pork medallions with maple apple cider glaze"
+- "comfort food pork tenderloin"
+- "pork tenderloin with arrowroot starch glaze"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "280"
@@ -67,3 +74,78 @@ faq:
 - "q: How to store leftovers? a: Cool quickly, transfer to airtight container. Refrigerate up to 2 days safely. Reheat gently in pan with splash of broth or water to loosen glaze. Microwave OK but glaze texture changes, can thicken oddly. Freeze only if you plan quick rescues; glaze may separate but stirs back after warming. Avoid reheating glaze at high temp or it thins out again."
 
 ---
+
+Cut the tenderloin into coins. Pat them completely dry—moisture kills the sear, turns everything steamed instead of caramelized. This matters more than anything else.
+
+## Why You'll Love This Maple-Glazed Pork Medallions
+
+25 minutes total. Seriously. Prep the glaze while the pan heats.
+Works as a weeknight main that feels like you actually tried. Not complicated but tastes like it.
+The sauce. Maple and apple cider vinegar together. Not too sweet. Apple brings sharp, maple brings depth, mustard brings bite.
+Leftovers taste better the next day somehow. The glaze thickens more in the fridge, clings tighter to the meat.
+
+## What You Need for Easy Pork Medallions
+
+Pork tenderloin, about 400 grams. Trim the silver skin—that's the thin membrane running along the outside. Takes a minute with a sharp knife. Cut into medallions roughly the thickness of a quarter-inch. Pat dry. So dry. Towels work better than anything.
+
+Olive oil. Medium-high heat needs something that won't smoke. About 25 milliliters.
+
+The glaze hits different because of what's in it. Vegetable broth. Maple syrup—not pancake syrup, actual maple. Apple cider vinegar. Dijon mustard. Tomato paste. Arrowroot starch instead of cornstarch. Arrowroot keeps the sauce clear and glossy instead of opaque and goopy. Whisk it all together before you even start cooking. Starch lumps if you mix it in the hot pan.
+
+One small shallot chopped fine. Fresh thyme if you have it. Salt and pepper. That's everything.
+
+## How to Sear Maple-Glazed Pork Medallions
+
+Get the pan hot. Medium-high. Couple minutes. You're waiting for the oil to shimmer and smell like something. Don't skip this part—cold pan means no crust.
+
+Lay the medallions in. Half of them. Space them out. Crowding drops the temperature, ruins the whole plan. Listen. That sizzle matters more than any timer.
+
+Two minutes. Don't move them. Flip once. Another two minutes maybe. You're looking for that tan color, almost brown in spots. The meat springs back a little when you poke it but still feels soft inside. Transfer to a plate.
+
+Repeat with the rest. Add more oil if the pan looks dry. Just a splash.
+
+## How to Build the Seared Pork Tenderloin Sauce
+
+Heat down to medium now. Shallots go in. Stir for a minute, minute and a half. They soften, turn translucent, and the whole kitchen smells different. Stop before they brown. Brown tastes bitter.
+
+Pour the broth mixture in. Everything at once. Stir. The sauce bubbles up, thickens almost immediately because of the arrowroot. That's the point. It'll go from liquid to glossy in about 30 seconds.
+
+Thyme goes in if you're using it. Nestle the pork back into the pan. Low heat. Simmer for maybe three minutes. Turn the medallions once so they soak up flavor on both sides. The sauce should stick to the back of a spoon by now. Not runny. Coat-like.
+
+Taste it. Salt probably. Pepper definitely. Adjust and that's it.
+
+## Pork Medallions Tips and Common Mistakes
+
+Moisture is the enemy. Dry the pork aggressively. Air fryer would work here too, but the sauce needs the pan.
+
+Silver skin. Remove it. It doesn't cook soft, just chewy. Takes longer to trim than to cook the pork.
+
+Don't crowd the pan. Room to breathe matters. Two minutes searing time is approximate anyway—depends on thickness and your heat. Golden brown is the actual signal. Not time.
+
+The sauce thickens as it cools. So the pan version looks thinner than it'll be on the plate. Don't keep boiling it trying to get it thicker.
+
+Arrowroot is optional but worth it. Cornstarch works. Makes the sauce cloudy instead of clear. Neither's wrong.
+
+Leftovers reheat gentle. Medium heat, covered, maybe add a splash of broth so it doesn't tighten up too much.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Maple-Glazed Pork Medallions
+
+**Can I use a different cut of pork?**
+Pork chops work. Thicker ones, like an inch. Timing stays about the same. Pork loin works too, just slice it thinner so it cooks through. Tenderloin is expensive but reliable.
+
+**What if my sauce breaks or looks separated?**
+Probably got too hot or mixed the arrowroot in before the pan was ready. Next time whisk it smooth before anything goes in the pan. If it happens, strain it and start over. Not worth saving.
+
+**How do I know when the pork is done?**
+Medium doneness feels soft but springs back a little. Cut into one piece if you're unsure. Should be pale pink inside, not gray, not red. Meat keeps cooking for a minute after the pan, so pull it slightly before perfect.
+
+**Can I make the glaze ahead?**
+Yeah. Mix it the morning before. Sits fine in the fridge. Just whisk again before cooking. Separation's normal.
+
+**Does this work cold for leftovers?**
+It does. Sauce thickens more when cold, clings tight to the meat. Good with just a fork, straight from the fridge.
+
+**What sides work best?**
+Mashed sweet potatoes. Roasted root vegetables. Something starchy to catch the extra sauce. Rice. Polenta. Even just greens if you need lighter. The sauce is rich enough to stand alone though.
