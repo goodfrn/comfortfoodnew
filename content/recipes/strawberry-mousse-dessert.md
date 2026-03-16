@@ -1,10 +1,10 @@
 ---
-title: "Strawberry Mousse Dessert"
+title: "Strawberry Short Cake with Mousse"
 slug: "strawberry-mousse-dessert"
-description: "This dessert features a soft cake layer topped with a strawberry mousse. A layer of fresh strawberries enhances the flavors. The cake is light and fluffy while the mousse is creamy, rich, and fruity. A strawberry coulis adds a refreshing touch and ideal for sharing after a meal. Serve cold. Gather friends and family."
-metaDescription: "Discover the delightful Strawberry Mousse Dessert with fluffy cake, rich mousse, and strawberry coulis. Perfect for gatherings and special occasions."
-ogDescription: "Indulge in a creamy Strawberry Mousse Dessert. Fluffy cake base topped with rich mousse. Ideal for sharing with family and friends."
-focusKeyphrase: "Strawberry Mousse Dessert"
+description: "Strawberry short cake with soft butter cake, strawberry mousse, fresh strawberries, and homemade coulis. Light, fluffy layers with creamy richness make this dessert perfect for any occasion."
+metaDescription: "Make strawberry short cake with fluffy butter cake, fresh strawberries, and creamy mousse. This elegant dessert is easier than you think. Save this one."
+ogDescription: "Fluffy strawberry short cake layered with creamy mousse, fresh berries, and homemade coulis. Elegant and delicious."
+focusKeyphrase: "strawberry short cake"
 date: 2025-07-16
 draft: false
 image: strawberry-mousse-dessert.jpg
@@ -20,9 +20,16 @@ tags:
 - "cake"
 - "no bake"
 keywords:
+- "strawberry short cake"
 - "strawberry cake"
-- "dessert mousse"
-- "chilled dessert"
+- "shortcake"
+- "strawberry mousse"
+- "strawberry dessert"
+- "homemade strawberry cake"
+- "fresh strawberry recipe"
+- "layered strawberry cake"
+- "strawberry coulis"
+- "butter cake recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "350"
@@ -81,3 +88,81 @@ faq:
 - "q: What can I substitute for heavy cream? a: Consider using mascarpone or whipped coconut cream. Different texture but works. Be aware flavors change slightly. Whipped topping is another option. But won't be as rich."
 
 ---
+
+Gelatin blooms in cold water while you beat butter and sugar. Fifteen minutes in the oven and the base is done. Everything else waits. Cold.
+
+## Why You'll Love This Strawberry Shortcake
+
+No oven required after the cake part. Mousse comes together in one pot, mostly. The cheesecake texture without any cream cheese—just eggs and gelatin doing the work. Tastes better the next day, honestly. Fresh strawberries on top mean it actually feels light even though it's dense. One dessert that works for a crowd and also just for you on a Tuesday.
+
+## What You Need for Strawberry Shortcake
+
+Flour and baking powder for the base. Seventy-five grams of butter and fifty grams of sugar. One egg. That's the cake part.
+
+For the mousse, gelatin powder. Cold water—thirty milliliters exactly, that matters. Milk. Five egg yolks separated. Two hundred grams sugar. Fresh strawberries, five hundred grams. Lemon juice—not optional, it cuts through the sweetness. Heavy cream. Half a liter.
+
+Then strawberries again. Five hundred more. Sugar for the coulis. Fresh strawberries for the top.
+
+Skip the cream cheese. The mousse doesn't need it. Skip vanilla too. Strawberry's loud enough.
+
+## How to Make the Strawberry Shortcake Base
+
+Heat the oven to 180 Celsius. Grease a twenty-centimeter springform pan. Line the bottom with parchment paper so it comes out clean.
+
+Mix the flour and baking powder in a bowl. Set it aside.
+
+Beat the softened butter and sugar together until it's pale and loose. Not grainy anymore. Add the egg. Mix until you can't see streaks. Then add the dry stuff slowly. Stir until smooth.
+
+Pour it into the pan. Spread it flat. Bake for fifteen minutes. A toothpick should come out clean. Not wet, not cakey. Clean. Let it cool completely in the pan. Don't skip this. Cold cake holds the mousse better.
+
+## How to Make Strawberry Mousse
+
+Sprinkle gelatin over cold water. Wait five minutes. It blooms, gets spongy. Don't skip this step either.
+
+Heat the milk until it's steaming. In another bowl, whisk egg yolks with sugar. Just yolks. The whites go nowhere. Whisk until pale, maybe a minute. Slowly pour the hot milk in while whisking constantly. This tempers the yolks so they don't scramble.
+
+Pour everything back into the saucepan. Low heat. Stir until it coats the back of a spoon. You'll feel the thickening. Takes about five minutes, maybe six. Then add the bloomed gelatin. Stir until it dissolves completely. No lumps.
+
+Puree five hundred grams of strawberries with sixty milliliters of lemon juice. Blend until smooth. Combine it with the milk mixture. Let it cool to room temperature. This takes maybe ten minutes. Don't rush.
+
+Whip the heavy cream until soft peaks form. Not stiff. Soft. Fold it into the strawberry mixture gently. Three folds. Four folds. Stop when you can't see the white streaks anymore.
+
+Pour it over the cooled cake in the pan. Smooth the top. Cover with a plate so it doesn't dry out. Refrigerate overnight. Actually overnight. Not four hours. It needs the time.
+
+## Strawberry Shortcake Tips and Common Mistakes
+
+The gelatin blooms in cold water because hot water dissolves it too fast and it won't set. Cold water. Wait the five minutes. Doesn't seem long but it matters.
+
+Egg yolks. Separate them carefully. No whites, not even a tiny bit. Whites mess with the mousse texture.
+
+The lemon juice isn't for flavor really. It's for structure. Acid helps everything hold. Without it the mousse gets gluey somehow.
+
+Fold the cream in gently. You're not making it airy—you're incorporating it without deflating it. Fold from the bottom up. Three times. That's enough.
+
+The overnight chill isn't optional. The gelatin needs actual time to set. Six hours minimum. Overnight is better. Tastes better too—flavors meld.
+
+Unmold it by running a warm knife around the edges. The springform comes apart but you want the sides clean. Peel the parchment from the bottom carefully. It should come clean.
+
+Coulis goes on the plate first. Then the slice. Then fresh strawberries on top. Not mixed in. On top. Texture matters.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Strawberry Shortcake
+
+**Can you make this without gelatin?**
+Probably not if you want the mousse to hold. Gelatin is doing the work here. Cornstarch might work but it'd be gummy instead of light.
+
+**How long does it actually keep?**
+Three days in the fridge. The base gets softer after that. Coulis lasts longer. Eat it in two days to be safe.
+
+**Can you use thawed frozen strawberries?**
+Yeah. They're wetter. Puree them anyway, strain through a sieve if the mousse feels too loose. Fresh are less work.
+
+**What if the mousse doesn't set?**
+Gelatin didn't bloom properly. Cold water matters. Or the fridge wasn't cold enough. Make sure it's set before you unmold.
+
+**Is this basically a no bake cheesecake?**
+Kind of. There's baked cake at the bottom. The no bake cheesecake vibe is the mousse part—the unbaked part. No cream cheese though. Just eggs and gelatin making something creamy.
+
+**Can you use a different pan?**
+Springform works best because it releases cleanly. A regular cake pan works if you invert it carefully. Eight-inch round. Same depth.
