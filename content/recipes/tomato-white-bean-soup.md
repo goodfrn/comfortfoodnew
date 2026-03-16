@@ -1,10 +1,10 @@
 ---
-title: "Tomato White Bean Soup"
+title: "Cannellini Beans Soup Recipe"
 slug: "tomato-white-bean-soup"
-description: "A chunky, rustic, tomato-based soup with creamy white beans and a hint of spice. Sautéed shallots and diced celery join garlic to build depth. Cannellini beans swapped in for a smoother texture. Smoked paprika adds unexpected warmth, breaking the usual tomato-bean routine. The broth starts with vegetable stock but chicken stock works fine if you want extra body. Pureeing is optional but recommended for velvety consistency. Cook until carrots yield easily under a fork and aroma thickens the kitchen. No gluten, nuts, dairy, or eggs. Weeknight-friendly, forgiving soup with simple pantry staples."
-metaDescription: "Tomato White Bean Soup chunky, rustic French-inspired broth with smoked paprika warmth, tender shallots, celery, cannellini beans and vegetable or chicken broth combo."
-ogDescription: "Chunky, rustic Tomato White Bean Soup with smoked paprika warmth, tender shallots, celery crunch, creamy cannellini beans and rich broth. Velvety or chunky finish."
-focusKeyphrase: "Tomato White Bean Soup"
+description: "Rustic cannellini beans soup with crushed tomatoes, garlic, and smoked paprika. Creamy white beans in vegetable broth create a chunky, satisfying bowl ready in minutes."
+metaDescription: "Cannellini beans soup with tomatoes, garlic, and smoked paprika. Creamy white bean soup that's gluten-free and weeknight-friendly. Make it tonight."
+ogDescription: "Rustic white bean soup with cannellini beans, tomatoes, and smoked paprika for warmth and depth."
+focusKeyphrase: "cannellini beans"
 date: 2025-08-02
 draft: false
 image: tomato-white-bean-soup.jpg
@@ -21,9 +21,16 @@ tags:
 - "comfort food"
 - "one pot"
 keywords:
-- "vegetable broth"
-- "shallots and celery"
-- "pureed tomato soup"
+- "cannellini beans"
+- "white bean soup"
+- "cannellini bean recipes"
+- "bean soup beans"
+- "soups with beans recipes"
+- "white bean soup recipe"
+- "soup recipes using white beans"
+- "cannellini bean soup with ham"
+- "bean soup cannellini"
+- "cooking with cannellini beans"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "210"
@@ -65,3 +72,91 @@ faq:
 - "q: How to store leftovers? a: Cool quickly. Fridge up to 4 days. Reheat gently on stove, add broth to loosen if thickened. Freeze in airtight container good up to 3 months. Defrost slowly, stir before serving."
 
 ---
+
+Shallot and celery hit the hot oil first—that's when the whole thing actually starts. Not when you open the cans. Right here, in the pot, when the smell changes from raw to something that makes you hungry before you've even started cooking.
+
+## Why You'll Love This Cannellini Bean Soup
+
+One pot. Actually one pot. Everything goes in the same thing, nothing sits around waiting in a bowl.
+
+Tastes like you've been simmering it for hours when it's actually 45 minutes total. The smoked paprika does something. Not sure exactly what, but it works.
+
+Comfort food that doesn't pretend to be fancy. Just beans, tomatoes, the vegetables that matter. Cold night food.
+
+Works as lunch the next day and probably better. Freezes fine too—made a batch last month, forgot about it, found it two weeks later and it was still good.
+
+Vegetarian, naturally. Didn't even have to think about it.
+
+## What You Need for White Bean Soup
+
+Shallot instead of onion. Softer flavor, less aggressive. One works.
+
+Celery. Diced small. Gets tender and almost disappears into the soup, which is exactly what you want it to do.
+
+Three garlic cloves. Minced. Not sliced. Minced disappears into everything; slices sit there demanding attention.
+
+Olive oil. A tablespoon and a half. Just enough to get the aromatics going. Not drowning them.
+
+Crushed Italian tomatoes. The canned kind. A 796 milliliter can—that's the standard size. Whole tomatoes work too if you crush them yourself, but canned saves time.
+
+Cannellini beans. One can, drained and rinsed. Or dried if you've got four hours and patience. The canned ones work fine. Navy beans work if cannellini aren't around.
+
+Broth. Two cups. Vegetable or chicken. Don't use the salty stuff unless you like it too salty. The beans already have some sodium.
+
+Smoked paprika. A teaspoon. This is the thing that makes it taste like something. Regular paprika doesn't hit the same way.
+
+Salt and cracked black pepper.
+
+## How to Cook Cannellini Beans
+
+Get the pot hot—medium-high heat. Pour in the olive oil. Wait maybe thirty seconds for it to shimmer. Not smoking. Just shimmering. You'll see it move differently across the bottom of the pot.
+
+Shallot and celery go in now. Stir them around. Watch them. Five minutes and they should be soft enough that a fork goes through without resistance. They won't be brown. They shouldn't be brown. Brown means you turned up the heat or walked away. Don't walk away.
+
+Garlic and smoked paprika next. Keep stirring. One minute. Two minutes tops. The garlic will smell toasted and good. Stop before it smells burnt—that's the difference between good and ruined. Burnt garlic tastes like nothing good.
+
+Crushed tomatoes pour in. Then drain your beans into a colander, rinse them under cold water for a second, pour them in too. Broth goes in last. Stir it all around until everything's mixed. This takes maybe a minute.
+
+Turn the heat down so it's not violent. Medium. Maybe medium-low. Bubbles should pop steadily across the surface, not aggressively. Let it go for 18 to 20 minutes. The sauce will thicken slightly. The beans will soften more if they need softening—most canned ones are already soft enough.
+
+Taste it. Salt it now. Taste again. Pepper goes in. More salt if you need it. Beans add a subtle sweetness that balances the tomatoes, so you're looking for that point where nothing's too sharp or too dull. It takes tasting. There's no shortcut.
+
+## Cooking with Cannellini Beans — Tips and Texture
+
+The oil has to shimmer or the shallots steam instead of soften. Steamed shallots are bitter. This matters.
+
+Garlic burns faster than you think. It's the difference between one minute and two minutes sometimes. If you even think it might be burning, it's burning. Pull the pot off heat and keep stirring. The hot pot keeps cooking it for a few more seconds.
+
+Rinsing canned beans gets rid of the thick liquid they're packed in. That liquid makes the soup gluey if you don't rinse. Takes ten seconds. Do it.
+
+The smoked paprika is doing most of the heavy lifting flavor-wise. Don't skip it or use regular paprika instead. They're not the same thing at all.
+
+Simmer uncovered or the sauce never thickens. Covered means steam goes back into the pot and everything stays thin. You want it to reduce slightly, get more concentrated. Open pot. That's the whole thing.
+
+Immersion blender makes it smooth. Don't blend if you like chunks. Honestly, chunks are fine. The soup works both ways. If you do blend, go slow. You don't want it to be baby food. Just velvety. There's a point where you've blended enough—it's less time than you'd think.
+
+If it gets too thick, add more broth. If it's too thin, just let it sit on the heat a little longer. Both problems solve themselves.
+
+Dried cannellini beans take longer—soak them overnight, then cook them about 45 minutes before you even start this recipe. Canned saves time. Same result basically.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About White Bean Soup
+
+**Can I use dried cannellini beans instead of canned?**
+Yeah. Soak them overnight, boil them until they're soft—45 minutes maybe, depends on age—then drain and use them same as canned. Adds time but works fine.
+
+**What if I don't have smoked paprika?**
+Don't use regular paprika and call it close enough. They're different. If you truly don't have it, skip it and add a pinch of cumin instead. Not the same soup, but still good.
+
+**How long does it keep in the fridge?**
+Four days, five if you're lucky. Freezes for a couple months. Thaw it in the fridge overnight, reheat on the stove low and slow. Add broth if it's too thick after sitting.
+
+**Can I add kale or spinach?**
+Kale works. Throw it in during the last two minutes. Spinach wilts too fast, so if you use that, add it at the very end, off heat, and just stir it in. Wilts from the heat of the soup. Tuscan white bean soup basically, which is a real thing people make.
+
+**Does this freeze well?**
+Freezes great. The beans get softer and the flavors meld more, so honestly it might taste better frozen and thawed. Cool it down first, then into a container. Lasts about two months.
+
+**What broth should I use, chicken or vegetable?**
+Either works. Chicken adds a little depth, vegetable keeps it fully vegetarian. Makes almost no difference in the final taste. Use whatever you have.
