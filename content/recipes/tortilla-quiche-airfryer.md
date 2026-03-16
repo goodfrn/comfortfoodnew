@@ -1,10 +1,10 @@
 ---
-title: "Tortilla Quiche Airfryer"
+title: "Air Fryer Quiche with Bacon and Kale"
 slug: "tortilla-quiche-airfryer"
-description: "Quiche baked inside a soft wheat tortilla using an air fryer. Uses corn starch to hold custard, milk with eggs, diced cooked bacon instead of ham for a smoky twist. Spinach swapped for kale, peppers swapped for sun-dried tomatoes. Baked at medium-low heat till golden, slightly puffed and firm. A fast, no-crust quiche alternative. Crisp edges on tortilla hold filling, manageable size for 2 to 3 servings."
-metaDescription: "Tortilla Quiche Airfryer uses soft tortilla as crust, corn starch binds custard with eggs, bacon, kale and sun-dried tomatoes. Fast air fryer quiche, crisp edges. "
-ogDescription: "Quick air fryer quiche with tortilla crust, bacon, kale and sun-dried tomatoes. Corn starch stops rubbery custard. Crisp edges, golden puffed top, no dough fuss."
-focusKeyphrase: "Tortilla Quiche Airfryer"
+description: "Make a crustless quiche in your air fryer using a soft wheat tortilla, eggs, milk, bacon, and kale. Golden and crispy in minutes."
+metaDescription: "Crustless quiche recipe made in an air fryer with bacon, eggs, and kale. No crust needed. Make it tonight."
+ogDescription: "Air fryer quiche with bacon, kale, and sun-dried tomatoes on a soft tortilla. Fast, crispy, and delicious."
+focusKeyphrase: "crustless quiche recipe"
 date: 2025-09-28
 draft: false
 image: tortilla-quiche-airfryer.jpg
@@ -20,9 +20,18 @@ tags:
 - "bacon"
 - "eggs"
 keywords:
-- "quiche"
-- "air fryer"
-- "tortilla quiche"
+- "crustless quiche recipe"
+- "quiches"
+- "quiche recipes"
+- "air fryer quiche"
+- "no crust quiche"
+- "mini quiche recipe"
+- "bacon quiche"
+- "kale quiche"
+- "crustless quiche"
+- "quiche recipe easy"
+- "vegetable quiche"
+- "breakfast quiche"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -68,3 +77,80 @@ faq:
 - "q: How to store leftovers properly? a: Cover with foil or airtight container. Refrigerate up to 2 days best. Reheat in air fryer restores crisp edges; microwave soggifies tortilla crust. Leftovers solidify in fridge, bring to room temp first. Avoid freezing; texture loss likely with custard."
 
 ---
+
+Press the tortilla into the pan first — no folds, flat as you can get it. Butter helps. Then the eggs go in, just beaten with milk and that corn starch thing that keeps everything from turning rubbery. Bacon, cheese, kale, sun-dried tomatoes. Air fryer at 320°F for 20 minutes. That's it. Takes 15 minutes to throw together, 20 to cook, and you've got breakfast or lunch or whatever.
+
+## Why You'll Love This Air Fryer Quiche
+
+Crispy tortilla shell. Not soggy. The air fryer does that better than an oven.
+Bacon's already in there. No extra cooking step. Just comes out good.
+Done in 20 minutes flat. Prepping takes longer than cooking.
+Kale and tomatoes make it feel like you tried. You kind of did, but it's easy.
+Cold the next day? Works better cold, honestly. Not sure why. Just does.
+
+## What You Need for a Quiche Like This
+
+One soft wheat tortilla — 10 inches. That's your shell. Some people use pie crust. Tortilla's faster, crispier in the air fryer.
+Corn starch. A teaspoon and a quarter. Keeps the custard from getting all watery.
+Four eggs. Beat them. Real beat them, not a few sad whisks.
+Milk. A quarter cup plus a tablespoon. Whole milk. Not skim.
+Bacon. Two ounces. Already cooked, chopped up. Leftover bacon works. Raw bacon doesn't.
+Sharp cheddar. Half a cup shredded. Not mild. Not too mild anyway.
+Kale. Handful, stems out. Spinach works if you have it. Same thing almost.
+Sun-dried tomatoes. Rehydrated. If you use them straight from the jar in oil, they're fine. Just chop them.
+One scallion. Sliced thin.
+Salt. Pepper. The good kind.
+
+## How to Make an Air Fryer Quiche
+
+Butter the springform pan lightly. This is the difference between crispy and burnt crust. Matters more than people think.
+
+Press that tortilla in there. Base and sides. Try not to fold it — folds trap air, cook weird. A little unevenness is fine. Perfect is not the goal.
+
+In a bowl, whisk the corn starch into the milk first. No lumps. Lumps are bad. Whisk it until it looks smooth, then add the eggs and beat the hell out of them. The starch holds everything together and keeps the custard firm instead of all wet and custardy.
+
+Mix the bacon in. The cheese. The kale. Tomatoes. Scallion. Salt. Pepper. Generous. You're not being shy here.
+
+Pour it into the shell evenly. Tap the pan once on the counter. Just once. Releases air bubbles that'll cook weird and make holes.
+
+## How to Get Air Fryer Quiche Crispy and Perfect
+
+Set the air fryer to 320°F. Not 400. Lower. The tortilla burns if you go too hot. Trust it.
+
+Twenty minutes. Maybe 19 if your fryer runs hot. Watch the edges around the 15-minute mark. You want the top golden and puffed. The custard should set but not jiggle when you shake the pan — a little wiggle is okay. Edges pull back slightly from the pan when it's done.
+
+Pull it out. Let it sit five minutes. This is the part people skip and then their quiche falls apart when they cut it. Five minutes. Not one. Not two.
+
+Run a thin spatula around the edge. Loosen it. Then cut wedges. On a cutting board so it doesn't break.
+
+## Air Fryer Quiche Tips and Common Mistakes
+
+The tortilla is your crust. Butter it so it sticks and crisps. No butter, it steams instead of crisps, and you get soggy. Soggy is the whole problem people have with quiches.
+
+Don't skip the corn starch. People think it's weird. It's not. It keeps the custard from separating and weeping all over your plate. One and a quarter teaspoons. That's it.
+
+Overcooked means rubbery. Undercooked means it jiggles too much when you cut it. You're looking for just-set. Like — gentle shake, barely moves. That sweet spot.
+
+Reheating works in the air fryer. Three to five minutes at 300°F gets the edges crispy again. Not the microwave. Microwave makes it sad.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Quiche Recipes
+
+**Can I make this a mini quiche or smaller quiche instead?**
+You'd need to scale down everything proportionally. A mini quiche recipe works the same way — smaller tortilla, half the filling. Cook time drops though. Maybe 10 minutes instead of 20. Test it around minute 8.
+
+**What's the best quiche recipe if I want to make it vegetarian?**
+Skip the bacon. Add more vegetables. More sun-dried tomatoes. More kale. Or mushrooms. Or spinach. The eggs and cheese keep it rich enough that you don't notice the bacon's gone.
+
+**Can I use a no crust quiche pan instead of a tortilla?**
+Yeah. Pour the filling straight into a buttered springform. No tortilla means no crispy bottom, but it works. Cooks the same time.
+
+**How do I store leftover quiches?**
+Cover with foil. Fridge. Two days max. After that it tastes stale. Reheat at 300°F in the air fryer for 3-5 minutes.
+
+**Do I have to use sharp cheddar?**
+No. Gruyère works. Swiss. Feta if you want it tangy. Just not something too mild. Mild cheese disappears into eggs and nobody notices it was there.
+
+**Can I prep this spinach quiche recipe ahead of time?**
+The filling? Sure. Mix it the night before, keep it covered. Pour it in the morning. The tortilla shell should go in fresh though — it gets soggy if you press it and wait.
