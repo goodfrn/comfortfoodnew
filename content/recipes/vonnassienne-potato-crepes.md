@@ -1,10 +1,10 @@
 ---
-title: "Vonnassienne Potato Crêpes"
+title: "Latkes Recipe: Crispy Potato Pancakes"
 slug: "vonnassienne-potato-crepes"
-description: "Small potato pancakes made from mashed potatoes mixed with flour and eggs, cooked in butter until golden. Slightly thicker than regular crêpes, tender inside. Serve savory with smoked salmon or a dollop of sour cream. Variations include swapping milk for cream, flour for chickpea flour, or adding fresh herbs. Simple ingredients, quick mix, minimal fuss. Fry thin rounds in a non-stick pan. No resting needed. Edible bubbles signal when to flip. Crispy edges contrast soft middle. Makes about 25-30 small crêpes, perfect as starters or sides. Vegetarian friendly, nut-free, and adaptable."
-metaDescription: "Discover Vonnassienne Potato Crêpes a delightful blend of mashed potatoes, eggs, and flour, elevating comfort food to a savory starter"
-ogDescription: "Try Vonnassienne Potato Crêpes, a unique twist on pancakes. Perfectly crispy edges and soft centers, serve with smoked salmon or herbs"
-focusKeyphrase: "Vonnassienne Potato Crêpes"
+description: "Make golden latkes with mashed potatoes, flour, eggs, and milk. These crispy potato pancakes fry in clarified butter until tender inside with crispy edges. Serve with sour cream."
+metaDescription: "Latkes recipe using mashed potatoes, flour, eggs, and milk. Golden potato pancakes fried in clarified butter. Crispy outside, tender inside. Make it tonight."
+ogDescription: "Golden potato pancakes made with mashed potatoes, flour, and eggs. Fried in clarified butter until crispy. Serve warm."
+focusKeyphrase: "latkes"
 date: 2025-07-16
 draft: false
 image: vonnassienne-potato-crepes.jpg
@@ -21,9 +21,18 @@ tags:
 - "pancakes"
 - "homemade"
 keywords:
-- "crêpes recipe"
-- "vegetarian dish"
-- "French cuisine"
+- "latkes"
+- "jewish latkes"
+- "potato pancakes"
+- "mashed potato pancakes"
+- "potato cakes"
+- "latkes recipes"
+- "potato pancake recipes"
+- "hanukkah latkes"
+- "german potato pancakes"
+- "easy latke recipes"
+- "boxty"
+- "potato latkes"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "95"
@@ -69,3 +78,65 @@ faq:
 - "q: What if crêpes stick to the pan? a: Make sure pan's non-stick. Use clarified butter generously. Heating too high causes sticking too."
 
 ---
+
+Grab three pounds of potatoes. Or don't — two works fine. Mash them warm, mix with eggs and milk, hit it with flour and baking powder, and you've got something that tastes like a potato pancake but crisps up like a latke. 43 minutes total.
+
+## Why You'll Love This Potato Pancake Recipe
+
+Comes together in 18 minutes if you have leftover mashed potatoes sitting around. The baking powder does something — makes them puff slightly instead of staying flat and dense like traditional latkes. Works as breakfast. Works as a side dish. Works cold the next day, maybe better. No grating involved. No squeezing out water until your hands hurt. Just warm mashed potatoes, which you probably have, mixed with four ingredients. Clarified butter instead of oil means they don't taste greasy. The smoked paprika swap for salt catches people off guard — tastes like something but they can't place it.
+
+## What You Need for Mashed Potato Pancakes
+
+Start with 280 ml of mashed potatoes — warmed is important, don't ask why, it just mixes easier. 100 grams of unbleached all-purpose flour. Three milliliters of baking powder. That's the lift. Whole milk, 75 ml. Two medium eggs. Clarified butter for frying — not regular butter, clarified. The water burns first and ruins everything. Fresh chopped chives if you want them. Smoked paprika, just a pinch. That replaces salt. You could use salt instead. Works fine. But the paprika is better.
+
+## How to Make Potato Pancakes That Actually Work
+
+Warm your mashed potatoes first — slightly above room temperature. Not hot. Just warm enough that mixing doesn't feel like fighting cold clay. Crack two eggs into a bowl. Add the milk. Whisk it until it's combined but not frothy. Don't go crazy. Just mixed.
+
+Pour the warm mashed potatoes into the egg mixture. Stir until it's roughly smooth. Lumps are fine. Actually, lumps are good. They give it texture. Now sift the flour and baking powder over the top of everything. Fold it together gently. Thick batter. Spreadable. Not pourable.
+
+Stir in the chives if you're using them. The smoked paprika too. Just a pinch — it goes a long way.
+
+## How to Get Crispy Edges on Mashed Potato Pancakes
+
+Heat your non-stick skillet over medium-low. This is the part people mess up. Too hot and the outside burns while the inside stays doughy. Medium-low. Add a small knob of clarified butter and swirl it around to coat the pan.
+
+Drop batter in teaspoon-sized amounts — about 12 ml each. Space them out. They spread. Use the back of a spoon to flatten each one slightly to about 8 centimeters across. Not paper thin. Just flattened.
+
+Watch for bubbles on the surface. When they show up and the edges look set — 2 to 3 minutes — it's time. Flip with a thin spatula. Be careful. They're delicate right at this moment. Cook the other side 1 to 2 minutes until golden and cooked through. The bottom should brown before the inside dries out. That's the sweet spot.
+
+Stack the finished ones on a warm plate while you work through the rest. Replace the butter if it starts looking burned or dark. Just a tiny bit more.
+
+## Mashed Potato Pancakes Tips and Common Mistakes
+
+Temperature matters more than you'd think. Cold mashed potatoes won't blend properly and you end up with something grainy. Warm them first. Don't skip it.
+
+The ratio of batter to pan matters. Too thick and they never cook through. Too thin and they're just crepes. Spreadable but still thick — that's the target.
+
+Medium-low heat is not a suggestion. This is the thing that ruins most people's latkes and potato cakes. High heat gets you burned exteriors and raw middles. Slow and steady. Takes 25 minutes total for a batch.
+
+Leftovers reheat in a buttered pan over gentle heat. Not the microwave. Not the toaster. Pan. Two minutes each side and they come back crispy.
+
+Don't use regular butter for frying. It burns. The milk solids blacken and taste bitter. Clarified butter doesn't have milk solids. That's the whole point.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Potato Pancakes
+
+**Can I make these ahead?**
+Yeah. Cool them completely, wrap them in plastic or foil, stick them in the fridge. Three days, maybe four. Reheat gently in a buttered pan instead of nuking them.
+
+**What's the difference between latkes and these potato pancakes?**
+Traditional Jewish latkes use grated raw potato with onion, squeeze out the liquid, fry in oil. These use mashed potatoes with milk and eggs — closer to French crêpes or Irish boxty. Less work. Less mess. Different texture entirely.
+
+**Can I use sweet potato pancakes instead?**
+Not exactly. Sweet potatoes change everything. They're wetter. Different flavor. Probably works but I haven't tested it. Start with regular potatoes.
+
+**Do I need clarified butter?**
+Yes, actually. Regular butter burns at frying temperature and ruins the taste. Ghee works too. Oil works but tastes different.
+
+**What if my batter is too thick?**
+Add a splash more milk. Like a tablespoon. Stir it in. Should spread easier without falling apart when you flip.
+
+**Why smoked paprika instead of salt?**
+Flavor. Salt is fine if you want it. The paprika adds something. Tastes savory without tasting salty. Different approach to seasoning.
