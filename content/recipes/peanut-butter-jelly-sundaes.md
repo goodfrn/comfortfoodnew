@@ -1,10 +1,10 @@
 ---
-title: "Peanut Butter Jelly Sundaes"
+title: "Peanut Butter Jelly Sundaes with Berry Jam"
 slug: "peanut-butter-jelly-sundaes"
-description: "A no-bake frozen dessert mixing peanut butter cream with roasted berry jam and crunchy nuts. Dairy-based cream thickened with heat, chilled for texture. Vanilla frozen base under layers of roast-flavored fruit jam and nutty topping. Vegetarian, gluten free, no eggs, nut-free alternative available. Simple assembly. Sweet, rich, with varied textures. Familiar flavors spun fresh with heat technique for fluffy peanut butter lift. Chill times adjusted for max creaminess. Visual cues guide doneness and thickness. Multi-step layering creates balance between cold cream and warm roasted jam. Easy to switch peanut butter for seed butters or add toasted oat crumble for crunch variation."
-metaDescription: "Peanut Butter Jelly Sundaes layered with silky peanut butter cream, roasted berry jam, and crunchy nuts. Chilled, no-bake dessert with warm-cold contrast and texture."
-ogDescription: "Layer creamy peanut butter heat-thickened, tart roasted jam, and toasted nuts for crunch. Chill glassware, watch ribbons, chill cream long for rich lift."
-focusKeyphrase: "Peanut Butter Jelly Sundaes"
+description: "No-bake peanut butter jelly sundaes with vanilla ice cream, roasted berry jam, and toasted sunflower seeds. Creamy peanut butter layer chilled to perfection."
+metaDescription: "Make peanut butter jelly sundaes at home with vanilla ice cream, natural peanut butter cream, and roasted berry jam. Try it tonight."
+ogDescription: "Layers of creamy peanut butter, vanilla ice cream, and roasted berry jam topped with crunchy sunflower seeds. No baking required."
+focusKeyphrase: "peanut butter jelly sundaes"
 date: 2025-08-14
 draft: false
 image: peanut-butter-jelly-sundaes.jpg
@@ -21,9 +21,16 @@ tags:
 - "jam"
 - "vanilla"
 keywords:
-- "peanut butter"
-- "berry jam"
-- "frozen yogurt"
+- "peanut butter jelly sundaes"
+- "no bake peanut butter jam sundaes"
+- "peanut butter cream sundae recipe"
+- "frozen dessert recipes"
+- "vanilla ice cream with peanut butter and jam"
+- "peanut butter sundae with sunflower seeds"
+- "no bake dessert with roasted berry jam"
+- "peanut butter desserts"
+- "homemade peanut butter cream topping"
+- "dairy free peanut butter frozen dessert"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"
@@ -69,3 +76,100 @@ faq:
 - "q: How to store leftovers or prep ahead? a: Peanut cream lasts covered in fridge 2-3 days chilled. Keep jam separate if possible. Layered sundae best same day. Glasses can be chilled hours ahead but nuts last crunch best fresh. Do not freeze assembled dessert."
 
 ---
+
+Scoop vanilla into a glass. Jam on top. Peanut butter cream dripping over it all. That's the whole thing.
+
+## Why You'll Love This No Bake Peanut Butter Jelly Sundae
+
+Takes 15 minutes of actual work. Rest of the time it sits in the fridge doing its job.
+Tastes like something that took effort. Didn't.
+No bake. No oven. No stress. Just a saucepan and time.
+Cold glass gets the texture right—ice cream stays solid, jam stays jam, peanut butter cream stays creamy instead of melting into soup.
+Works with any jam you have. Blueberry, raspberry, strawberry. All of it works.
+Cleanup is basically nothing. One pan. One spoon. Done.
+
+## What You Need for Peanut Butter Cream Sundaes
+
+Almond milk or regular milk. About 280 ml. Not the sweetened kind—grab unsweetened if you can find it.
+
+Natural peanut butter. No sugar mixed in. The kind where you see oil on top sometimes. That's how you know it's real. 90 grams. About 6 tablespoons if you're scooping.
+
+Maple syrup or agave. 30 grams. Just enough to make it taste like something. Not a lot.
+
+Salt. A pinch. 1/8 teaspoon. Sounds small because it is.
+
+Vanilla frozen yogurt or coconut ice cream for the base. Cold matters. About 450 ml total—enough for four glasses.
+
+Roasted berry jam. Blueberry or raspberry hits different. 200 grams. The roasted kind has this deep caramel thing going on, but fresh jam works fine if that's what you have.
+
+Toasted sunflower seeds or crushed peanuts for the top. 30 grams. Dry-toast them yourself if you can. Takes two minutes. Changes everything.
+
+## How to Make Peanut Butter Cream for Sundaes
+
+Pour the milk, peanut butter, maple syrup, and salt into a small heavy saucepan. Medium-low heat. Not medium. Medium-low. This matters because peanut butter burns if you're not careful.
+
+Whisk constantly. Not lazy whisking. Actual whisking. Seven to ten minutes. Watch for the ribbons—when you lift the whisk, the mixture should hold a shape for a second before dropping back down. That's when you know it's getting there.
+
+It'll look like loose pudding. Coats the back of a spoon but still pourable. That's the goal. Not too thick, not too thin.
+
+Reduce heat even more if you see aggressive bubbles. Gentle simmer. Two more minutes of whisking so nothing sticks to the bottom and goes grainy.
+
+Pour it into a glass container while it's still warm. Let it cool at room temperature until it feels neutral on your wrist—not hot, not cold. Then cover it and stick it in the fridge.
+
+Three hours minimum. Overnight is better. The cold time is what actually thickens it. No gelatin, no starch. Just time.
+
+## How to Get the Layers Right in Your Sundae
+
+Grab four dessert glasses or bowls. Put them in the freezer for ten minutes. Cold glass keeps everything from turning into soup too fast.
+
+Scoop the frozen yogurt or ice cream into each glass. Make it even. Not piled.
+
+Jam goes next. Be generous. If you made the roasted kind a day ahead, even better—it gets this deep caramel thing going. Fresh jam is fine too. It's bright. Different. Still works.
+
+The peanut butter cream goes last. Dollop it. Spread it a little so you can see all three layers. That's the whole point—you want to taste each thing separately.
+
+Seeds or nuts on top. Make sure they're toasted. Raw ones taste like nothing. Toasted ones taste like summer and crunch and actually matter.
+
+Serve right away. Or keep it in the freezer for ten minutes max. Any longer and the layers start melding into one thing. You want separation.
+
+## Peanut Butter Sundae Tips and Common Mistakes
+
+If the peanut butter cream looks too stiff after it's been in the fridge, whisk it. Add a splash of milk. Warm it gently—like thirty seconds in a bowl over warm water. Just enough to loosen it back up. Don't heat it hot.
+
+Sunflower seed butter works if peanuts are an issue. Tastes slightly different. Better in some ways. Nuttier.
+
+Jam substitutions. Strawberry works. Mixed berry works. Apricot is interesting. Whatever you have.
+
+For extra crunch, make a crumb topping. Crushed oat cookies mixed with a teaspoon of melted coconut oil. Toast it lightly. Cool it before sprinkling. It stays crispy instead of going soft from the cold.
+
+Don't skip the toasting step for the seeds or nuts. Changes everything. Two minutes in a dry pan. That's it.
+
+Cold glasses matter more than you think. Warm glass lets everything melt too fast and it becomes one thick paste. Not good.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Peanut Butter Jelly Sundaes
+
+**How long does the peanut butter cream last in the fridge?**
+Four days, maybe five. Keeps fine covered. After that it starts getting stiff and weird. But honestly it's gone by then.
+
+**Can I make the peanut butter cream ahead?**
+Yeah. Make it the night before. Keeps everything simpler on the day you're actually assembling. Just whisk it a little when you're ready to use it if it's too thick.
+
+**What if my peanut butter cream broke or got grainy?**
+Happened. Means the heat was too high. Next time keep it lower. If it already happened, you can try whisking in a splash of milk while warming it gently. Sometimes works. Sometimes doesn't. Not the end of the world either way.
+
+**Does this work with regular peanut butter or just natural?**
+Natural is better. The sugar in regular peanut butter makes the whole thing sweeter than you want. If you only have regular, use a little less maple syrup and see how it tastes.
+
+**Can I use dairy-free ice cream instead of frozen yogurt?**
+Yeah. Coconut ice cream is actually great. Oat milk ice cream works too. Whatever you like.
+
+**How long does this no bake dessert take total?**
+Fifteen minutes to make the cream. Then you wait. Three hours minimum in the fridge. So realistically make it in the morning or the day before. Assembly takes five minutes flat.
+
+**What's the roasted berry jam and where do I find it?**
+It's jam that's been roasted or cooked longer so it gets dark and caramel-y. Some stores sell it already made. If not, just use regular jam and buy the roasted kind next time. Fresh jam tastes completely different but still good.
+
+**Can I skip the seeds or nuts?**
+You can. But don't. The crunch is what makes it feel fancy. Otherwise it's just ice cream and jam. Two minutes to toast them. Worth it.
