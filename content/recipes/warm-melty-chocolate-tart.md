@@ -1,10 +1,10 @@
 ---
-title: "Warm Melty Chocolate Tart"
+title: "Dark Chocolate Tart with Sea Salt"
 slug: "warm-melty-chocolate-tart"
-description: "Rich chocolate filling on a tender, lightly sweet crust. Uses dark chocolate 65% instead of 70%, with evaporated milk replacing cream. Brown sugar swapped to coconut sugar. Slightly thinner crust and shorter bake times. Finished with a sprinkle of sea salt and a touch of chili powder for a kick. Ready in about an hour and 20 minutes. Serves 8 in a rectangular tart pan. A simple dessert, fancy enough for guests but relaxed enough for a weeknight treat."
-metaDescription: "Warm Melty Chocolate Tart with tender crust, dark chocolate 65%, coconut sugar, evaporated milk, sea salt, and chili for subtle heat. Serves 8, 1h20m total."
-ogDescription: "Rectangular tart, tender crust, melty 65% dark chocolate filling. Coconut sugar, chili pop, sea salt sprinkle. Ready in about 80 minutes. Eight servings."
-focusKeyphrase: "Warm Melty Chocolate Tart"
+description: "Dark chocolate tart with 65% chocolate and evaporated milk filling on a yogurt crust. Topped with sea salt and chili powder for depth. Ready in 80 minutes."
+metaDescription: "Make this dark chocolate tart with 65% chocolate and evaporated milk filling. Simple yogurt crust, sea salt finish. Try it tonight."
+ogDescription: "Dark chocolate tart with evaporated milk and sea salt. Elegant enough for guests, easy enough for weeknights."
+focusKeyphrase: "dark chocolate tart"
 date: 2025-07-29
 draft: false
 image: warm-melty-chocolate-tart.jpg
@@ -21,9 +21,18 @@ tags:
 - "easy"
 - "spicy"
 keywords:
+- "dark chocolate tart"
 - "chocolate tart"
-- "coconut sugar dessert"
-- "evaporated milk chocolate"
+- "chocolate tart recipe"
+- "tart lemon"
+- "dark chocolate dessert"
+- "chocolate ganache tart"
+- "salted caramel tart"
+- "chocolate & raspberry tart"
+- "dark chocolate cheesecake"
+- "sweet tart recipes"
+- "mint tart recipes"
+- "caramel tart"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "310"
@@ -72,3 +81,117 @@ faq:
 - "q: How to store leftovers best? a: Wrap tight with plastic or foil, refrigerate. Avoid dryness; crust vulnerable. Reheat gently in low oven or microwave short bursts to soften filling without toughening crust. Leftovers won’t keep well room temp — crust gets stale fast. Freezing not recommended for texture loss."
 
 ---
+
+Set the oven low. Roll out the dough. Forty minutes from now you're eating chocolate that melts on your tongue with lemon brightness cutting through. The crust is butter — real butter, not shortening — and the filling is dark chocolate that doesn't pretend to be anything else. Simple. Works every time.
+
+## Why You'll Love This Chocolate Tart
+
+Takes an hour and twenty minutes total if you move at a normal pace. Thirty-five minutes is just the crust chilling — you're not actually doing anything. The chocolate tart itself bakes while you drink coffee.
+
+Dark chocolate. Not milk. The filling stays silky when it's warm, fudgy when it cools. One spoon works for the whole thing.
+
+Looks fancy. Tastes expensive. Neither is true. Five ingredients in the filling. That's it.
+
+Dessert that works for a crowd or just you on a Tuesday. Pairs with bitter coffee or vanilla ice cream. Cold the next day, maybe better that way.
+
+The tartlet chocolate you'd order at a café costs three times as much and tastes less interesting.
+
+## What You Need for This Dark Chocolate Tart
+
+Flour. Two kinds — all-purpose in both the crust and the filling. Doesn't matter what brand.
+
+Powdered sugar in the crust. Not regular sugar. The powder actually dissolves.
+
+Baking powder. Just a pinch. It makes the crust tender instead of tough.
+
+Salt. A pinch. Enhances the chocolate instead of tasting salty.
+
+Cold butter. Cubed. Straight from the fridge. This is what makes the crust flake. Room-temperature butter won't work the same way.
+
+Yogurt. Plain. The acid tenderizes the dough. Greek yogurt works too.
+
+Dark chocolate. Sixty-five percent cocoa. Not seventy, not fifty-eight. Sixty-five tastes like chocolate and doesn't get bitter. Chopped fine or chips — doesn't matter.
+
+Evaporated milk. The condensed kind, not sweetened. Creates the mousse texture. Coconut milk works but tastes different.
+
+Coconut sugar. Lighter than brown sugar, less molassy. You can swap regular sugar but the flavor shifts. The tartlet won't taste as rich.
+
+Eggs. Just two. They hold everything together and add airiness without making it cake-like.
+
+That's all. Fold the flour in gently at the end — overmix and you lose the texture.
+
+## How to Make a Dark Chocolate Tart
+
+Pulse the dry stuff. Flour, powdered sugar, baking powder, salt — all in the food processor. One pulse. Two pulses. Stop when it looks even.
+
+Cubed butter goes in. Keep pulsing. You want pea-sized lumps. Not fine crumbs. Not big chunks. Peas. Takes maybe thirty seconds.
+
+Yogurt drizzles in slowly while you pulse. The dough starts coming together — it'll look shaggy at first, then the bits will hold when you squeeze them. Stop before it's one smooth ball. Overmixing toughens the gluten. Pull it out when it's just barely holding.
+
+Press into a disc. Wrap it if you want — doesn't matter. This part's just to keep it from drying out while you move to the next step.
+
+Flour your work surface. Lightly. Roll the dough out to about sixteen by six inches. Thickness around three millimeters — not paper-thin, not thick like a cookie. Something in between.
+
+Fit it into the tart pan. Thirty-five by ten centimeters if you have that exact size. The removable bottom makes everything easier. Press it into the corners. Let the excess hang over the edge — you'll trim it.
+
+Trim the edges. Just a knife along the rim. Prick the base with a fork a bunch of times. This keeps it from puffing up weird in the oven.
+
+Chill it. Thirty-five minutes in the fridge. Cold dough holds its shape. If you skip this, the crust spreads instead of baking up with edges.
+
+Oven rack goes low — not the very bottom, but lower than middle. Heat to 210 degrees Celsius. That's around 410 Fahrenheit if you're using that scale. Let it come to temperature while you wait.
+
+Bake the crust alone. Twelve to seventeen minutes. You're looking for golden — not brown, not pale, that specific tan like old wood. It should feel firm when you press the edge. Cool it just enough that you can touch the pan without thinking about it.
+
+## How to Get This Dark Chocolate Tart Perfectly Set
+
+Chocolate and evaporated milk go together. Bain-marie is the fancy way — bowl over simmering water. Microwave is fine too. Thirty seconds. Stir. Thirty more. It should be melted and smooth and glossy.
+
+Off heat. Whisk in the coconut sugar. It doesn't dissolve completely — you're just mixing it in. The texture stays slightly granular. That's intentional.
+
+Two eggs go in next. Whisk hard. The chocolate gets lighter, fluffier. This takes a minute or so. You're incorporating air.
+
+Flour folds in gently. A spatula. Push from the bottom up, rotate the bowl, fold again. Three or four folds. Done. Don't stir it like you're making batter. Folding keeps the mousse light.
+
+Pour it into the crust. It'll look thin. Glossy. Almost like it won't set.
+
+Bake twelve to fifteen minutes. The edges should look set — they won't jiggle. The center will wobble when you move the pan. That wobble is the whole point. It firms up as it cools. If you bake until it's completely set in the oven, it'll be dry when you eat it.
+
+Pull it out. Let it sit for fifteen minutes on the counter. The carry-over heat keeps cooking the center gently. Don't skip this.
+
+## Dark Chocolate Brownie Tart Tips and Common Mistakes
+
+Sea salt on top if you want. A pinch. Optional. Chili powder works too — just a tiny amount. It brings out the chocolate somehow. Sounds weird. Try it once.
+
+Too soft in the center means you pulled it out early. That's the mistake most people make. The wobble is your friend. Trust it.
+
+Crust doesn't peel out of the pan cleanly? You didn't chill it long enough before baking. The dough spread instead of baking. Next time, leave it in the fridge the full thirty-five minutes.
+
+Crust tastes dry or tough? Overmixed the dough. You worked the gluten too hard. Mix less. Pulse less. Stop when you think you're done, then stop again.
+
+The filling broke — it looks grainy or separated? The chocolate got too hot or the eggs were too cold. Room-temperature eggs matter here. Let them sit out for twenty minutes before you use them.
+
+Serve it warm. Or room temperature. Or cold from the fridge the next day. All of those work. Cold it gets denser — almost brownie-like. Room temp it's silky. Warm it's mousse-ish. All three are good.
+
+Keeps three days in an airtight container. Probably longer but it doesn't last that long in my house.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate Tart
+
+**Can you make this as brownie mini tartlets instead of one big tart?**
+Yeah. Divide the dough into smaller tart pans. Crust bakes faster — maybe ten minutes instead of seventeen. Filling stays the same amount of time. Watch them closer because they finish quick.
+
+**What if you don't have evaporated milk for the chocolate tart recipe?**
+Regular milk works but it's thinner. The filling spreads more. Heavy cream works better if you have it — makes it richer. Coconut milk tastes different but holds the texture.
+
+**Does the dark chocolate brownie tart need to be served warm?**
+Doesn't need to be. I like it warm. You might like it cold. The texture changes — that's all. Warm is silky. Cold is firmer. Neither is wrong.
+
+**Why use yogurt in the crust?**
+Keeps it tender. The acid breaks down gluten so you don't have to be precious about mixing. Sour cream works. Regular milk doesn't.
+
+**Can you swap the coconut sugar in the chocolate ganache tart filling?**
+Brown sugar works. Regular sugar works. The tartlet chocolate tastes less complex — it's more straightforward sweet. Honey makes it sticky. Not worth it.
+
+**What's the chili powder actually for in a dark chocolate mousse situation?**
+No idea why it works. It just does. Makes the chocolate taste more like chocolate instead of just sugar and cocoa. Try a tiny pinch. You can always add more.
