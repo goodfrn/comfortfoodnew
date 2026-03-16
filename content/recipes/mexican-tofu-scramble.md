@@ -1,10 +1,10 @@
 ---
-title: "Mexican Tofu Scramble"
+title: "Mexican Tofu Scramble with Cilantro"
 slug: "mexican-tofu-scramble"
-description: "A savory tofu scramble with a Mexican twist, using firm tofu crumbled to mimic eggs. Aromatic sautéed onion, garlic, and serrano pepper build the base; spices like smoked paprika and ground coriander replace cumin for a different depth. Fresh tomato and green onions add brightness. Garnished with cilantro leaves, a dollop of crema mexicana (or sour cream substitute), and hot sauce. Easy veggie main that works for breakfast or dinner. Gluten, nut, egg free. Simple oil sauté technique highlights tofu texture and flavor. Invites quesadillas or tortillas on the side. Adaptable for heat preference and ingredient swaps."
-metaDescription: "Mexican Tofu Scramble with firm tofu, spices like smoked paprika and coriander, fresh tomato, cilantro, crema and chili sauce for heat and texture contrast."
-ogDescription: "Savory tofu scramble with serrano heat, smoky spices, fresh tomato bites, cilantro punch, and creamy cooling drizzle. Breakfast or dinner winner."
-focusKeyphrase: "Mexican tofu scramble"
+description: "Mexican tofu scramble with crispy firm tofu, serrano pepper, and smoked paprika. Topped with fresh cilantro, roma tomato, and crema mexicana for an easy vegan breakfast."
+metaDescription: "Mexican tofu scramble made with firm tofu, serrano pepper, smoked paprika, and fresh cilantro. Easy vegan breakfast ready in minutes. Try it tonight."
+ogDescription: "Crispy tofu scramble with serrano pepper, smoked paprika, cilantro, and roma tomato. Easy vegan Mexican breakfast."
+focusKeyphrase: "mexican tofu scramble"
 date: 2025-08-13
 draft: false
 image: mexican-tofu-scramble.jpg
@@ -21,9 +21,18 @@ tags:
 - "breakfast"
 - "easy"
 keywords:
+- "mexican tofu scramble"
 - "tofu scramble"
-- "Mexican tofu"
 - "vegan breakfast"
+- "easy vegan breakfast"
+- "tofu scramble with smoked paprika"
+- "crispy tofu scramble with cilantro and tomato"
+- "tofu scramble with serrano pepper and coriander"
+- "vegan mexican breakfast"
+- "crumbled tofu with roma tomato"
+- "tofu scramble recipe"
+- "egg-free breakfast"
+- "plant-based mexican breakfast"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "180"
@@ -71,3 +80,86 @@ faq:
 - "q: How to store leftovers? a: Refrigerate in airtight container up to 3 days. Reheat gently in pan, add tiny splash water if dry. Avoid microwave if possible; turns tofu rubbery. Freeze not ideal; texture changes. Eat fresh best for texture; leftovers soften quickly."
 
 ---
+
+Crush the tofu with your fingers. Irregular crumble, not mush. Room temperature tofu releases moisture better, so pull it out of the fridge a few minutes before.
+
+## Why You'll Love This Mexican Tofu Scramble
+
+Takes 30 minutes total — that's 15 prep, 15 cooking. Breakfast solved before you're even awake.
+Vegan, but nobody notices. Tastes like actual Mexican breakfast, not a substitution. The spices do the work.
+One skillet. One bowl for prepping. Cleanup isn't much.
+Works cold the next day if you somehow have leftovers. Usually you don't.
+
+## What You Need for Tofu Scramble with Smoked Paprika
+
+Firm tofu. Not silken. Not extra-firm if you can help it — that stuff's weird. A block that's roughly 500 grams.
+
+Shallot. One medium one, chopped fine. Garlic too — one clove. Serrano pepper for heat. Seeds in or out depending on how spicy you want it.
+
+Avocado oil. About 15 ml, a tablespoon. Olive oil burns at this temp. Don't bother.
+
+Ground coriander. Smoked paprika. Turmeric. Small amounts. The coriander matters more than people think. Cumin's the obvious choice — skip it here.
+
+Roma tomato. One large one, diced. Green onions, two of them. Cilantro, raw, a handful. Add this stuff last.
+
+Crema mexicana or vegan sour cream for serving. Chili sauce. Salt and pepper as you go.
+
+## How to Make Crispy Tofu Scramble with Cilantro and Tomato
+
+Press the tofu first if it's soaked in liquid. Wrap it in a kitchen towel, squeeze gently. Water's the enemy here.
+
+Crumble it by hand over a bowl. Use your fingers. You want rough chunks, not paste. Irregular sizes cook better — some pieces get crispy edges, some stay creamy inside.
+
+Heat the oil in a large non-stick skillet. Medium heat. Drop in the shallot, garlic, and serrano pepper. Stir often. The smell changes after 4 to 6 minutes — from sharp to sweet. That's when the shallots go translucent. Listen for a gentle sizzle. If it's crackling loud, turn it down.
+
+Add the tofu crumbles now. Pour in the coriander, paprika, turmeric. Salt and pepper. Stir. You're coating everything, coaxing the spices into the tofu.
+
+## How to Get Tofu Scramble with Serrano Pepper and Coriander Golden
+
+This is where it takes 10 to 12 minutes. Stir frequently. Scrape the bottom of the pan where it sticks. The moisture evaporates slowly — you'll smell it changing. Raw bean smell goes away. Roasted spice smell takes over. That's progress.
+
+The edges should dry out slightly. Not burned. Just less wet. A bit of browning's fine.
+
+Watch the color shift from pale to tan. Not urgent. Just happens if you're patient.
+
+Last minute — dump in the diced tomato and green onions. Don't cook them. Let the residual heat warm them up a little without turning them into mush. The tomato should still have some structure.
+
+Plate it. Cilantro on top — raw, chopped roughly. A dollop of crema or sour cream cools down the serrano heat. Drizzle chili sauce if you want brightness. Serve with warm corn tortillas or quesadillas on the side.
+
+## Tofu Scramble Tips and Common Mistakes
+
+Sticking happens. Lower the heat slightly, add a splash of water if you need to. Tiny steam action helps. Doesn't need much.
+
+Keep some chunks. The point isn't paste. Texture matters.
+
+Serrano too hot for you? Seed it. Cut it in half. Use half the amount. A poblano's milder if you want to swap it out completely. Skip the pepper entirely and it's still good — just less interesting.
+
+Firm tofu that's waterlogged? Press it longer. Kitchen towel, squeeze harder. A soggy scramble's nobody's idea of good breakfast.
+
+Don't cook the cilantro. Add it raw at the end or it goes bitter.
+
+Ground coriander swaps better than cumin here. Cumin overpowers if it's fresh. It just does.
+
+Chipotle powder works if you want smoke instead of fresh heat — but don't mix both spices or they fight each other.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Mexican Tofu Scramble
+
+**Can I use silken tofu instead of firm?**
+No. It falls apart. Firm's the only option.
+
+**How do I know when the tofu's actually done cooking?**
+Smell changes. You'll go from raw spice smell to roasted spice smell. The edges dry out a little. Takes about 10 to 12 minutes.
+
+**What if I don't have avocado oil?**
+Coconut oil works. Olive oil burns. Skip it.
+
+**Can I prep this the night before?**
+Press the tofu the night before. Chop everything else. Cook it fresh in the morning. Tastes better that way.
+
+**Is this actually vegan?**
+Yes. Skip the crema or use vegan sour cream. It is.
+
+**Why does the recipe say room temperature tofu?**
+Cold tofu holds onto water. Room temperature releases it. Moisture evaporates faster while cooking.
