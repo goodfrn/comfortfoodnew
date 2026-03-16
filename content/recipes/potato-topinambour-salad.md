@@ -1,10 +1,10 @@
 ---
-title: "Potato Topinambour Salad"
+title: "Potato Salad Recipes with Pecans & Lime"
 slug: "potato-topinambour-salad"
-description: "A hearty salad mixing small potatoes with Jerusalem artichokes for texture. Includes crisp cucumber and toasted walnuts for a nutty crunch. Dressed with a citrusy mayo vinaigrette spiked with herbs. Cook times adjusted slightly. Quantities of main veggies reduced by 30 percent. Two ingredients replaced: walnuts swapped for pecans, orange juice replaced by lime juice. A fresh twist with mint leaves added alongside thyme. Steps rearranged and cook times tweaked by ±5 minutes for best timing. Salt and pepper used for seasoning. Ready to serve immediately or as side with poultry or red meat."
-metaDescription: "Potato Topinambour Salad combines earthy potatoes and Jerusalem artichokes with fresh herbs and zesty dressing for a unique side dish."
-ogDescription: "Delicious Potato Topinambour Salad with crunchy pecans and a citrusy vinaigrette. Perfect side for meats or a light meal."
-focusKeyphrase: "Potato Topinambour Salad"
+description: "Discover potato salad recipes featuring small potatoes, Jerusalem artichokes, cucumber, and toasted pecans. Lime vinaigrette with fresh herbs brings bright flavor."
+metaDescription: "Potato salad recipes made with small potatoes, Jerusalem artichokes, cucumber, and toasted pecans. Fresh lime vinaigrette. Try it tonight."
+ogDescription: "Creamy potato salad with small potatoes, Jerusalem artichokes, cucumber, and toasted pecans tossed in a bright lime vinaigrette."
+focusKeyphrase: "potato salad recipes"
 date: 2025-07-21
 draft: false
 image: potato-topinambour-salad.jpg
@@ -21,9 +21,16 @@ tags:
 - "walnut"
 - "healthy"
 keywords:
-- "salad recipe"
-- "side dish"
-- "healthy salad"
+- "potato salad recipes"
+- "potato salad"
+- "easy potato salad recipe"
+- "homemade potato salad"
+- "simple potato salad recipe"
+- "potato salad dressing"
+- "best potato salad recipe"
+- "classic potato salad recipe"
+- "roasted vegetable salad"
+- "traditional potato salad recipe"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "250"
@@ -67,3 +74,63 @@ faq:
 - "q: Can I store leftovers? a: Yes, refrigerate. Use airtight container, but it’s best fresh. Expect a bit of sogginess after a night. Consume within 2 days for taste."
 
 ---
+
+Cut the potatoes in half. Jerusalem artichokes go in another pot — they cook the same time but taste nothing like potatoes, which is kind of the point. Cold water, salt, both hit the stove at once. Boil until soft but not falling apart. Takes maybe 20 minutes if you're moving. While that's happening, make the dressing. It's mayo, lime, herbs, and enough vinegar to keep everything from tasting like straight mayo. That's it.
+
+## Why You'll Love This Potato Salad Recipe
+
+Comes together in 35 minutes total and works for literally anything — lunch, sides, cold weeknight dinner. Jerusalem artichokes add something weird in the best way. Nobody expects them. The lime and fresh herbs make it taste expensive. Tastes better the next day, maybe even better. Not your grandmother's potato salad — different enough that people ask what's in it.
+
+## What You Need for This Potato Salad
+
+Small potatoes. Not the huge ones. They cook faster and you don't have to hack them into pieces. Jerusalem artichokes — the knobby ones that look kind of angry. Peel them or don't, doesn't matter much. Cucumber. Fresh. Seeded so it doesn't water everything down. Pecans, toasted. Raw pecans taste like nothing.
+
+The dressing is mayonnaise — 140 ml, that's the base. White wine vinegar, not white vinegar. Lime zest and lime juice. Fresh chives, mint, thyme. All chopped. Salt and pepper. That's everything.
+
+## How to Make This Potato Salad
+
+Potatoes go in cold water with a pinch of salt. Bring it to a boil. Let it simmer for 18 to 25 minutes, depending on how small your potatoes are. You want them soft all the way through but not falling apart when you touch them. Drain them when they're done. Set them aside — they can cool while you deal with everything else.
+
+Jerusalem artichokes get their own pot. Same thing. Cold water, salt, boil gently for about 18 to 25 minutes. They soften faster than they look like they will. Once they're tender, drain them. Let them cool a bit.
+
+## Building the Salad — Potato Salad That Actually Works
+
+Cut the potatoes into chunks. Don't make them tiny — about the size of a walnut. Jerusalem artichokes the same size. They should match.
+
+Whisk the mayo with white wine vinegar, lime zest, and lime juice in a big bowl. This is your base. Add the chives, mint, and thyme. Salt it. Pepper it. Taste it. Too sharp? More mayo. Not sharp enough? More vinegar. It should taste bright but not aggressive.
+
+Throw in the potatoes, artichokes, cucumber, and pecans. Toss everything until it's coated. Don't mash it. Just coat it. Some people serve this cold right away. Some people let it sit for a couple hours. Both work. The flavors settle a bit if it sits, but if you're hungry now, eat it now.
+
+## Potato Salad Tips and Common Mistakes
+
+Don't skip toasting the pecans. Raw ones dissolve into nothing. Toasted ones have actual texture.
+
+Jerusalem artichokes sound fancy but they're just knobby potatoes that taste like dirt in a good way. If you can't find them, use more regular potatoes and add a tablespoon of tahini to the dressing. Tastes different but works.
+
+The cucumber has to be seeded or it'll turn the whole thing watery by tomorrow. Split it lengthwise, scoop the seeds out, dice it, move on.
+
+Cold water start for both pots matters. Helps them cook evenly. Hot water and they'll blow out before the insides are done.
+
+Don't taste this right out of the pot. The flavors haven't woken up yet. Wait 10 minutes. Tastes completely different.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Potato Salad
+
+**Can I make this salad with sweet potato instead?**
+Sure. Sweet potato salad works but tastes totally different — sweeter, softer texture. Use the same ratio, same dressing, just know it's a different dish. Some people mix regular and sweet. Haven't tried it myself but seems fine.
+
+**How long does this potato salad keep?**
+Three days in the fridge, maybe four. After that the cucumber breaks down and everything gets sad. It's fine cold or at room temperature. Just cover it.
+
+**Can I use regular salad instead of Jerusalem artichokes?**
+You mean potatoes? Yeah, use all potatoes if you want. You'll lose the earthy thing they bring, but it's still a good potato salad. Add them 50/50 if you want to ease into it.
+
+**What if I don't have white wine vinegar?**
+Apple cider works. So does regular vinegar if you cut it down — too sharp otherwise. Not rice vinegar. Don't use that.
+
+**Can I add egg to this potato and salad recipe?**
+You could. Hard boil some eggs, chop them, toss them in at the end. People do it with olivier salad all the time. Changes the whole thing but if that's what you want, go for it.
+
+**Is this like German potato salad?**
+No. German potato salad uses hot broth, warm potatoes, bacon sometimes. This is cold. Different approach. If you want German style, don't make this.
