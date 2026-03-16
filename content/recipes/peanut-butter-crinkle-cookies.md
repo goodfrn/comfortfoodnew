@@ -1,10 +1,10 @@
 ---
-title: "Peanut Butter Crinkle Cookies"
+title: "Peanut Butter Crinkle Cookies with Cocoa"
 slug: "peanut-butter-crinkle-cookies"
-description: "Soft crinkle cookies with melty peanut butter cups inside. Cocoa and peanut butter marry, rolled in two sugars for texture and crackly tops. Chilled dough, gentle mixing, and visual cues guide baking times. Classic with a twist."
-metaDescription: "Peanut Butter Crinkle Cookies with gooey peanut butter cups inside, double sugar coating for crackled tops, chilled dough for better texture and easy handling."
-ogDescription: "Soft crinkle cookies filled with peanut butter cups, cocoa-rich base, rolled in sugars for crackly tops, chilled dough keeps shape and texture spot on."
-focusKeyphrase: "Peanut Butter Crinkle Cookies"
+description: "Soft peanut butter crinkle cookies loaded with miniature peanut butter cups and cocoa powder. Rolled in powdered and granulated sugar for crackly tops and chewy centers."
+metaDescription: "Peanut butter crinkle cookies stuffed with peanut butter cups and dusted in cocoa. Soft, chewy, and easy to make. Try it tonight."
+ogDescription: "Soft chocolate peanut butter crinkle cookies with melty peanut butter cups inside, rolled in sugar for crackly tops."
+focusKeyphrase: "peanut butter crinkle cookies"
 date: 2026-02-11
 draft: false
 image: peanut-butter-crinkle-cookies.jpg
@@ -21,9 +21,16 @@ tags:
 - "easy"
 - "homemade"
 keywords:
-- "peanut butter cookie recipe"
-- "crinkle cookies cocoa"
-- "crackled top cookies"
+- "peanut butter crinkle cookies"
+- "chocolate peanut butter cookies"
+- "peanut butter cup cookies"
+- "crinkle cookies"
+- "homemade peanut butter cookies"
+- "cocoa peanut butter cookies"
+- "soft peanut butter cookies"
+- "peanut butter cookies with powdered sugar"
+- "easy peanut butter cookie recipe"
+- "chewy crinkle cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "136"
@@ -79,3 +86,118 @@ faq:
 - "q: How best to store leftovers? a: Airtight containers room temp okay couple days. For longer, fridge extends freshness but doughs firm. Freeze baked cookies in sealed bags. Thaw at room temp before serving to restore chew."
 
 ---
+
+Three ingredients. Well, technically more. But peanut butter, butter, brown sugar — that's the point. Mix them, roll them in sugar until they crack on top, hide a peanut butter cup inside. Twelve minutes later they're done.
+
+## Why You'll Love These Peanut Butter Crinkle Cookies
+
+Homemade peanut butter cookies taste nothing like store stuff. The texture's actually chewy in the middle — not dense. Takes 20 minutes of your time, maybe 55 total if you count chilling.
+
+Easy doesn't mean boring. These have chocolate built in, so they're not just peanut butter — it's peanut butter and cocoa at the same time.
+
+The crinkle effect happens naturally. You don't have to do anything special. Just roll them in sugar and they crack on their own in the oven.
+
+Peanut butter cups melted inside. This part matters. You'll hit that soft cookie and suddenly there's this molten candy center. Different every bite.
+
+Cold dough makes better cookies. Firmer. Less spreading. The chilling step takes 25 to 35 minutes but you're not actively doing anything — just waiting.
+
+## What You Need for Chocolate Peanut Butter Crinkle Cookies
+
+Flour. One and three-quarter cups plus two tablespoons. Not less. Not guessing. A scale helps here but cups work fine.
+
+Unsweetened cocoa powder. A quarter cup. The dusty kind. Don't grab hot chocolate mix. Different thing entirely.
+
+Baking soda and salt. Half teaspoon each. These are small amounts but they matter — baking soda makes it rise slightly, salt makes everything taste more like itself.
+
+Creamy peanut butter. Half cup. The regular stuff from the jar. Almond butter works if you want something different but it tastes different. Expect that.
+
+Unsalted butter, softened. Half cup. Softened means it's been sitting out, not cold from the fridge. Cold butter and cold peanut butter won't mix right.
+
+Dark brown sugar. One cup, packed. Not light brown. The molasses in dark brown matters here.
+
+One egg. Large. Room temperature if you can manage it. Cold eggs resist mixing with fat.
+
+Vanilla extract. A teaspoon and a half. The real stuff.
+
+Granulated sugar and powdered sugar. Half cup of each. One goes in first when you roll them, the powdered sugar goes second. That combo makes the crackle.
+
+Fifteen miniature peanut butter cups, halved. Cut them in half. The halves fit better inside the dough ball. You could use full-size but the proportions get weird.
+
+## How to Make Homemade Peanut Butter Crinkle Cookies
+
+Sift the dry stuff first. Flour, cocoa, baking soda, salt. Into a medium bowl. The sifting breaks up cocoa clumps — it gets lumpy sitting in the container. A fine sieve matters more than you'd think. Takes two minutes. Worth it.
+
+Get your mixer going. Peanut butter and softened butter. Medium-high speed. One minute. They should look creamy, almost pale. Not fluffy yet — don't overbeat or you're adding air and these cookies don't want that. Scrape the sides once so everything gets incorporated.
+
+Brown sugar goes in next. Same speed. About a minute. You'll see the mixture thicken and the graininess from the sugar start to disappear. That's when you know it's mixed enough.
+
+Lower the speed to medium-low. Crack the egg in. Beat just until you don't see yolk streaks anymore. Thirty seconds, maybe. Overmixing here makes the dough tough and the cookies dense. Not the goal.
+
+Vanilla extract. Quick mix. Just blend it in. Takes less than a minute. You'll smell something happening at this point — the vanilla merges with everything else.
+
+Dry ingredients go in three separate times. Fold, don't beat. Gently. After each addition until it barely comes together. Overworking develops gluten and gluten makes hard cookies. The dough's sticky. That's fine. That's normal.
+
+Cover it. Plastic wrap. Into the fridge. Twenty-five to thirty-five minutes. The cold firms everything up, makes the dough easier to handle, stops it from spreading too much in the oven. That's where the crinkle texture comes from — cold dough that firms on top while the edges spread slightly.
+
+## How to Get Chocolate Peanut Butter Cookies with Perfect Crinkled Tops
+
+Oven to 345 degrees. Line two baking sheets with parchment. If you use foil instead, grease it. Foil without grease is how you end up scraping cookie shards off the bottom.
+
+Two bowls for sugar. Granulated sugar in one. Powdered sugar in another — or a quart-sized bag if you want less cleanup. Having them ready before you start rolling saves time.
+
+Pull the dough out. It should be firmer now, easier to work with. Tablespoon measure. Scoop it. Roll into a ball. Slightly flatten with your thumb.
+
+The peanut butter cup goes in the middle. Half a cup, remember. Press it in. Wrap the dough around it. Seal it completely or the chocolate leaks out during baking. Roll it again until smooth.
+
+First sugar coating is granulated. Roll the ball in it. Then powdered sugar. Roll in that next. The double coat creates the crackle and gives you texture contrast.
+
+Space them two inches apart. They don't spread like some cookies but they need room to breathe.
+
+Bake seven to twelve minutes. Your oven runs different than mine, so watch it. The cracking will appear on the surface — that's the sign. The edges will set but not brown. You want them to smell like peanut butter and chocolate happening together. When you get that smell, when the cracks open up, pull them out.
+
+Not brown. Brown means overdone. Too dark and the inside's already firm.
+
+Two to four minutes on the sheet. They're fragile when hot. Let them firm up slightly. Then to a cooling rack. The centers stay chewy when they cool all the way down — that's where the peanut butter cup melts into soft dough.
+
+## Peanut Butter Cup Crinkle Cookies Tips and Common Mistakes
+
+Softened butter matters. Not melted. Not cold. Soft enough that your finger leaves an indent when you push. That's the texture you need for mixing.
+
+Don't skip the sifting. Cocoa powder clumps and it's impossible to break up after it's mixed into fat. Sift first.
+
+The chilling step isn't optional. Cold dough behaves differently. It doesn't spread as much. The tops crinkle because the surface dries and cracks slightly while the inside's still soft. Room-temperature dough spreads flat.
+
+Mini peanut butter cups only. Regular cups are too big. The proportion's off and sometimes they stick out and burn. Halved mini cups are perfect.
+
+Powdered sugar sifts into everything. If you use a bowl instead of a bag, sift it into the bowl first. Unsifted powdered sugar clumps and doesn't coat evenly.
+
+Overmixing is the biggest mistake. Especially after the egg and the dry ingredients. Mix just until combined. When the dry stuff is barely incorporated and you still see small streaks of flour, stop. The cookies will be tender. That's what you want.
+
+Baking time varies. The 7 to 12 minute range is real. Smaller ovens, hotter ovens, darker pans — all of it changes the time. Your first batch might take 10 minutes. The next batch might take 8. Watch them. Don't use a timer as gospel.
+
+The edges set before the centers. That's intentional. You pull them when the edges are firm but the center still jiggles slightly when you shake the pan. They firm up completely on the cooling rack.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Peanut Butter Cookies
+
+**Can I use almond butter instead of peanut butter?**
+Yeah. Expect it to taste different though. Almond's more subtle. Less strong. It works but it's not the same cookie.
+
+**Why does my dough spread too much?**
+Didn't chill it long enough. The 25 to 35 minutes matters. Warm dough spreads. Cold dough doesn't. Next time give it the full time.
+
+**How long do they keep?**
+Maybe five days in an airtight container. They get slightly softer over time. That's fine. Day two is actually better — flavors settle.
+
+**Can I make the dough ahead?**
+Yes. Wrap it tight, refrigerate for a few days. Or freeze it for weeks. Thaw in the fridge before scooping.
+
+**What if I don't have mini peanut butter cups?**
+Cut regular cups in half. Not ideal but it works. Just watch them so the chocolate doesn't leak everywhere.
+
+**Do I have to use both sugars for coating?**
+The double coat makes the crinkle. Just powdered sugar alone doesn't crack the same way. Granulated first, powdered second — that combo's the whole point.
+
+**Why are mine cake-like instead of chewy?**
+Overbaked. Pull them earlier next time. The centers should wiggle in the pan when you take them out. They firm up after.
