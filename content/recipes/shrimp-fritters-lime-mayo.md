@@ -1,10 +1,10 @@
 ---
-title: "Shrimp Fritters Lime Mayo"
+title: "Crispy Shrimp Fritters with Lime Mayo"
 slug: "shrimp-fritters-lime-mayo"
-description: "Crunchy shrimp fritters mixed with scallions and garlic, fried golden. Lime mayonnaise zested and juiced for tang. Batter balanced with baking powder and spices, cayenne heat subtle. Onion garnish soaked in ice water for crispness. Oil at 180C for proper bubbling sizzle. Classic balance of texture, spice, and creamy cool dip. Tried swapping crevettes for crab once; texture changed but still good. Mayo twist with lime zest cuts mayonnaise heaviness. Frying requires care to avoid oil splatter; scoop size and oil heat key. Serve immediately; fritters soften fast. Simple ingredients but technique matters for crispness and flavor kick."
-metaDescription: "Shrimp Fritters Lime Mayo with crunchy bites, lime-zesty mayo, subtle heat, and fresh onion garnish. Fry crisp shells, layered spices, creamy cool dip awaits."
-ogDescription: "Crunchy shrimp bites fold in garlic and paprika. Lime mayo zests bright, fried crisp with onion crunch. Heat and texture balance in every bite."
-focusKeyphrase: "shrimp fritters lime mayo"
+description: "Crispy shrimp fritters loaded with garlic, scallions, and cayenne, served with zesty lime mayonnaise. Golden-fried appetizer that's crunchy outside, tender inside."
+metaDescription: "Make crispy shrimp fritters with fresh lime mayonnaise. Golden-fried with garlic, scallions, and cayenne heat. Easy appetizer recipe. Try it tonight."
+ogDescription: "Crispy shrimp fritters with garlic and scallions, served with tangy lime mayo. Golden, crunchy, and utterly addictive."
+focusKeyphrase: "shrimp fritters"
 date: 2025-09-03
 draft: false
 image: shrimp-fritters-lime-mayo.jpg
@@ -22,9 +22,13 @@ tags:
 - "seafood"
 keywords:
 - "shrimp fritters"
-- "lime mayo"
-- "crispy seafood"
-- "Caribbean snacks"
+- "crispy shrimp fritters with lime mayo"
+- "shrimp fritters with lime mayonnaise sauce"
+- "golden fried shrimp fritters with scallions"
+- "fried shrimp fritters cayenne and garlic"
+- "shrimp appetizer recipe"
+- "fried seafood appetizers"
+- "shrimp fritters lime mayo green onion garnish"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "280"
@@ -83,3 +87,79 @@ faq:
 - "q: Best storage for leftovers? a: Store fritters airtight. Fridge for 24 hours tops, crisp fades fast. Reheat on dry pan medium heat; regains crunch somewhat. Freezing not recommended—adds sogginess on thaw. Onion garnish best fresh, lime mayo keeps fridge a day, stir well before serving."
 
 ---
+
+Drop the batter in when the oil stops shimmering. Three to four minutes and they're golden. Drain them fast or they'll keep cooking on the paper towels.
+
+## Why You'll Love These Shrimp Fritters
+
+Crispy outside, shrimp inside. Takes 46 minutes total — 35 to prep, 11 in the oil.
+Works as an appetizer or a side. Seafood without the fuss.
+The lime mayo cuts through the fried richness. Not heavy. Actually bright.
+Green onions get soaked in ice water first. They stay crunchy. That crunch matters.
+Cayenne and garlic are already in the batter. No extra seasoning needed. Just dip and eat.
+
+## Golden Fried Shrimp Fritters — What You Need
+
+Mayo goes in the lime mayo first — 65 ml. Add the lime zest finely grated, then fresh lime juice. About 12 ml. Chill it.
+
+Green onions for garnish. Two of them. Slice thin, soak in ice water for 25 to 35 minutes. They'll crisp up. Drain them really well.
+
+The fritters batter is simple. 120 grams all purpose flour. Three milliliters baking powder. Salt. Four milliliters sweet paprika — keep a little extra for finishing. Half a milliliter cayenne. That's the heat.
+
+One egg, beaten lightly. Eighty milliliters cold water. Mix these in gradually or the batter gets weird.
+
+190 grams shrimp. Thawed. Chopped roughly — not fine, not whole. Two green onions chopped small. Two garlic cloves minced. These fold in last.
+
+Vegetable oil for frying. Need enough for five centimeters depth in your pan. That's maybe two to three cups depending on what you're using.
+
+## How to Make Fried Shrimp Fritters with Cayenne and Garlic
+
+Whisk the dry stuff first. Flour, baking powder, salt, paprika, cayenne in a bowl. Get the lumps out. Beats lumpy fritters every time.
+
+Beat the egg. Add it to the dry mix. Pour in the cold water slowly, stirring as you go. You want medium-thick. Too runny and they fall apart in the oil. Too stiff and they're dense. Medium is the spot.
+
+Fold in the chopped shrimp, green onions, garlic. Just fold. Don't over-stir or the batter gets tight and the fritters come out dense. Mix until you can't see the shrimp anymore. Stop.
+
+Heat your oil to 180 degrees Celsius. That's 350 Fahrenheit. Use a thermometer if you have one. Oil that's too cool soaks into the fritters. Oil that's too hot burns the outside before the inside cooks. Temperature matters here.
+
+## How to Get Shrimp Fritters Crispy and Golden
+
+Line a baking sheet with paper towels. You'll need somewhere to drain them.
+
+Grab a tablespoon or a 15 milliliter ice cream scoop. Drop the batter balls in a few at a time. Don't crowd the oil. Listen for the sizzle. If it's violent, dial back the heat. If it's quiet, bump it up.
+
+Fry for three to four minutes total. Flip halfway. They're done when they're golden and firm when you touch them. Slotted spoon gets them out. Drain on the paper towels. Let them rest five minutes. That residual heat softens the edges just slightly.
+
+Arrange them on a plate. Swirl lime mayo underneath. Pile those crispy green onions on top. Dust with paprika if you want the color.
+
+Serve right then. Leftovers lose the crunch. If you've got them cold, a quick reheat in a hot dry pan works. Don't microwave them. That kills everything.
+
+## Fried Shrimp Fritters Tips and Common Mistakes
+
+Batter too thin? Add flour. Slow. A little at a time. Watch it change. Too thick and you'll know.
+
+Oil temperature is the biggest thing. Cool oil makes them greasy and soggy. Hot oil burns the skin and leaves the inside raw. Get a thermometer. Five dollars. Worth it.
+
+Don't crowd the oil. Temperature drops when you overload it. Fritters stick together and steam instead of fry. Patience. Drop a few, wait for them to float and turn, fry, pull them out. Do it again.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Fried Seafood Appetizers
+
+**Can I make these ahead?**
+Batter keeps overnight in the fridge covered. Don't mix the shrimp in until you're ready to fry. Fritters themselves don't hold. They're crispy for maybe 20 minutes. After that they're just fried dough.
+
+**What if I don't have fresh lime?**
+Bottled lime juice works. It's sharper. Use a little less. You can adjust it after you taste.
+
+**Can I bake these instead of frying?**
+Not really. Baking gives you dense. Fried gives you crispy. Those are different things.
+
+**Should the green onion garnish be cooked?**
+No. Raw and soaked in ice water. That's the whole point. Crunch against soft fritter.
+
+**What other seafood works here?**
+Crab. Chopped firm white fish. Scallops if you chop them small. Shrimp is the standard for a reason — it doesn't fall apart.
+
+**How do I know when the oil is hot enough?**
+Thermometer. 180 Celsius. If you don't have one, drop a tiny piece of batter in. It should sizzle and float to the top in under a minute. If it sinks, oil's not ready.
