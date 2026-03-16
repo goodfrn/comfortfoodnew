@@ -1,10 +1,10 @@
 ---
-title: "Vegan Pistachio Lemon Biscotti"
+title: "Vegan Chocolate Chip Cookies Recipe"
 slug: "vegan-pistachio-biscotti"
-description: "Crisp twice-baked vegan biscotti dotted with roasted pistachios and zingy lemon zest. Uses oat coffee milk alternative swapped for almond milk to tweak flavor and texture. Slightly less sugar, a touch more flour to balance wet ingredients plus a pinch of baking soda for lift. The dough doesn't get sticky but keeps crumbly enough for clean slicing after first bake. Biscotti baked twice until golden, crunchy edges with warm citrus aroma. Adapted from a classic vegan biscotti, perfect for dunking in tea or black coffee. No eggs, dairy, or gluten additives here. Simple pantry staples, no fuss or frills."
-metaDescription: "Crunchy twice-baked vegan pistachio lemon biscotti with almond milk, zingy zest, and toasted nuts. Slightly less sugar, crumbly dough, baked till golden edges snap clean."
-ogDescription: "Twice-baked vegan biscotti with pistachios and fresh lemon zest. Crunch crunch, golden edges, almond milk swap, light sugar cut. Dunk or crumble, great texture, warm citrus punch."
-focusKeyphrase: "vegan pistachio lemon biscotti"
+description: "Crispy vegan chocolate chip cookies with pistachios and lemon zest. Made with almond milk, flour, and vegetable oil for an eggless treat that's perfect for dunking."
+metaDescription: "Vegan chocolate chip cookies with roasted pistachios and lemon zest. Made with almond milk and no eggs. Try it tonight."
+ogDescription: "Crispy vegan cookies loaded with pistachios and bright lemon zest. Eggless, dairy-free, and ready to bake."
+focusKeyphrase: "vegan chocolate chip cookies"
 date: 2025-09-28
 draft: false
 image: vegan-pistachio-biscotti.jpg
@@ -21,9 +21,17 @@ tags:
 - "cookies"
 - "easy"
 keywords:
-- "vegan biscotti"
+- "vegan chocolate chip cookies"
+- "eggless cookies oatmeal"
+- "vegan chocolate cookies"
+- "vegan cookie butter"
+- "plant based cookies"
+- "chocolate chip cookies egg free"
+- "vegan oatmeal cookies"
+- "vegan sugar cookies"
+- "vegan snickerdoodles"
 - "pistachio biscotti"
-- "lemon biscotti"
+- "no eggs cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "140"
@@ -64,3 +72,94 @@ faq:
 - "q: How to store biscotti for freshness? a: Airtight container room temp standard. Can freeze but texture shifts, thaw fully before crisping in low oven. Keep away from humidity or they'll soften fast. Older biscotti better dunkers but if stale, toast for revival. Avoid fridge storage; moist air ruins crunch."
 
 ---
+
+Lemon zest goes in first—sounds weird, but it's the whole point. Pistachios instead of chocolate chips. One bowl, hands in the dough, 25 minutes of prep then nearly an hour in the oven total but most of that's just waiting. Comes out crispy, almost biscotti-like. Dunks in coffee. Works cold the next day, maybe better.
+
+## Why You'll Love These Vegan Chocolate Chip Cookies
+
+They're not actually chocolate chip cookies. That's the thing. Pistachio instead. Brighter. The lemon hits you first, then the nut.
+
+One bowl. Literally everything goes into the same spot. Mix with your hands. No electric mixer fussing around.
+
+Vegan biscuits that don't taste like you're being virtuous about it. Just tastes good. Crispy all the way through.
+
+Takes just over an hour start to finish, most of it oven time where you do nothing. Prep's fast if you move. Twenty-five minutes, maybe thirty if you're slow.
+
+Keeps for days in a container. Gets hard, which is fine—that's when they're best for dunking. Cold coffee especially.
+
+## What You Need for Vegan Pistachio Lemon Cookies
+
+Flour. Regular all-purpose. Two hundred grams, which is about a cup and a third if you're measuring by eye.
+
+Sugar. Just granulated. Ninety grams. Not much—these aren't sweet cookies, not really.
+
+Baking powder and baking soda. Half a teaspoon and a quarter teaspoon respectively. The soda does most of the work.
+
+Pistachios. Roasted and shelled, seventy grams. That's roughly half a cup. Don't use the ones with the red coating—find the plain roasted ones. Flavor's cleaner that way.
+
+Almond milk with vanilla already in it. A hundred twenty-five milliliters, which is half a cup. Regular almond milk works. Oat milk too if that's what you have.
+
+Neutral oil. Vegetable, grapeseed, whatever doesn't taste like anything. Sixty milliliters. That's a quarter cup.
+
+Lemon zest. One lemon. Finely grated. The whole thing matters here—that's where the brightness comes from.
+
+## How to Make Vegan Pistachio Lemon Cookies
+
+Heat your oven to 175 degrees Celsius. That's 350 Fahrenheit. Middle rack. Line your tray with parchment or a silicone mat—either works.
+
+Dump the flour, sugar, baking powder, baking soda, and pistachios into a bowl. Just stir it together until the pistachios are spread throughout. Doesn't need to be perfectly even. Close enough works.
+
+Pour in the almond milk, oil, and lemon zest. Use your hands—dust them with a tiny bit of flour first so the dough doesn't stick to your fingers. Mix it by hand until it comes together. Should be firm but pliable. Not wet. Not dry either. There's a feel for it. If it's too wet, dust a bit more flour. But stop before you think you should. Overmixing makes them tough.
+
+## How to Get These Cookies Perfectly Crispy
+
+Grab your dough and shape it on the tray into one long rectangle. About 28 centimeters by 10. Don't fuss with the edges—rustic is the point. Just press it down so the thickness is even.
+
+Bake for 28 to 32 minutes. Watch for the top to go light golden. The edges pull away from the tray a little bit—that's the signal. Stick a toothpick in the middle. Should come out mostly clean. Not wet, but maybe one crumb hanging on.
+
+Let it cool on the tray for five minutes. Then move it to the counter for another ten. While you wait, grab a serrated bread knife. A dull one's actually better here.
+
+Slice it into pieces about one centimeter thick. Don't force it. Let the knife do the work or you'll get crumbles everywhere. Stand each slice up on the tray with the cut side down. Space them out a bit—they don't need room to spread, just need air around them.
+
+Back in the oven for the second bake. Fifteen to eighteen minutes. Flip them halfway through. Watch for the edges to go golden-brown. They should be dry and snap clean when you bite one. That's crispy.
+
+Cool them completely on a rack before you pack them away.
+
+## Vegan Pistachio Cookies Tips and Common Mistakes
+
+The second bake is what makes them crisp, not chewy. Don't skip it. Don't rush it either.
+
+Lemon zest matters. Not juice—zest. The oil in the skin is where the flavor actually is. Juice just makes things wet.
+
+If your first bake isn't golden by 32 minutes, your oven runs cold. Note that for next time. Mine goes five minutes over always. Not sure why.
+
+The dough should be firm when you shape it. If it's soft or sticky, add more flour—a tablespoon at a time. Better to be a bit dry than wet.
+
+Pistachios go rancid if you buy them too early. Check the date. Stale nuts make stale cookies and there's no fixing that.
+
+Don't overbake the second round or they'll taste bitter. Golden-brown means you're done. Dark brown means you went too far.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Vegan Cookie Recipes
+
+**Can you use regular chocolate chips instead of pistachios?**
+Yeah, but it's a different thing then. Goes from bright and almond-forward to sweet and expected. If you want vegan chocolate chip cookies, this works—just swap the pistachios for vegan chocolate chips and skip the lemon. Tastes fine either way.
+
+**Why is there no egg replacement in this recipe?**
+The baking soda and powder do the rising. The almond milk adds moisture without needing to replicate egg. Works. Some vegan cookie recipes are complicated. This one isn't.
+
+**How long do they actually keep?**
+Days. Four or five in an airtight container. They get harder as time goes on, which is when they're best for dunking. After a week they taste stale. Haven't tried freezing them.
+
+**Can you make a bigger batch?**
+Double everything. Exact same process. Might take a few minutes longer in each bake, but watch for color—that's your timer, not the clock.
+
+**What if your oven runs hot or cold?**
+Start checking at 25 minutes for the first bake instead of 28. Pull them earlier if they're dark. Later if they're pale. Temperature varies everywhere.
+
+**Why a serrated knife for slicing?**
+Sawing motion instead of pushing down. Crumbles less. A regular knife will shatter the edges.
+
+**Are these actually vegan?**
+Yeah. No butter, no eggs, no dairy anywhere. Even the chocolate chips if you swap them would be vegan ones. Works as-is for vegan shortbread without the lemon, too—just drop the zest.
