@@ -1,10 +1,10 @@
 ---
-title: "Tangy Citrus Sorbet Twist"
+title: "Homemade Sorbet with Lime & Grapefruit"
 slug: "tangy-citrus-sorbet"
-description: "A vibrant citrus sorbet made with lime and grapefruit juice instead of just lemon. Simple syrup infused with lime zest simmers until sugar dissolves fully, strained for purity, then blended with fresh citrus juices. Churned in an ice cream maker until scoopable, then frozen solid for that perfect icy snap. Dairy-free, vegan, gluten-free recipe with a hint of fresh mint leaves added during churning for an unexpected herbal brightness. Quick chill upfront ensures smooth texture, no gritty crystals. Keeps well in the freezer. Great summer refresher or palate cleanser alternative."
-metaDescription: "Tangy Citrus Sorbet Twist made with lime and grapefruit juice, infused with mint and simmered syrup for icy, scoopable vegan refreshment. Churn well, freeze fully."
-ogDescription: "Bright lime-grapefruit sorbet with mint oils released during churning. Sugar syrup chilled first to dodge icy crystals. Vegan, gluten-free, frozen chill with texture."
-focusKeyphrase: "citrus sorbet with lime and grapefruit"
+description: "Make homemade sorbet with fresh lime and pink grapefruit juice using an ice cream maker. This dairy-free recipe features lime zest, mint, and simple syrup for a smooth, refreshing treat."
+metaDescription: "Homemade sorbet recipe with lime and grapefruit juice made in an ice cream maker. Fresh mint, simple syrup, no dairy. Make it tonight."
+ogDescription: "Creamy lime and grapefruit sorbet made with fresh juice and mint. Churned smooth in an ice cream maker, dairy-free and refreshing."
+focusKeyphrase: "homemade sorbet"
 date: 2025-08-18
 draft: false
 image: tangy-citrus-sorbet.jpg
@@ -21,9 +21,15 @@ tags:
 - "vegan"
 - "no bake"
 keywords:
-- "citrus sorbet"
-- "lime sorbet"
-- "grapefruit sorbet"
+- "homemade sorbet"
+- "ice cream machine sorbet recipe"
+- "sorbet recipe ice cream maker"
+- "making sorbet with an ice cream maker"
+- "homemade sorbet ice cream maker"
+- "recipe for homemade sorbet"
+- "freezing lime juice"
+- "home made sorbet recipe"
+- "lemon juice freezer"
 breadcrumb: ["Home", "Recipes", "Frozen Treats"]
 nutrition: 
  calories: "160"
@@ -59,3 +65,75 @@ faq:
 - "q: How to store leftovers? a: Airtight container key. Freeze solid until serving time. Freeze-thaw cycles cause crystals. No seal means freezer burn. If softens too much, scrape and refreeze quickly. Frequent stirring restores some texture."
 
 ---
+
+Pour hot syrup through a sieve—no pulp, just clarity. That's the move that actually matters here.
+
+Fifteen minutes of prep, ten minutes of heat. Thirty minutes total before you're sitting with a bowl of something that tastes like summer decided to freeze itself solid. No bake. No stress. Just citrus, sugar, time, and an ice cream machine that does the actual work.
+
+## Why You'll Love This Homemade Sorbet Recipe
+
+Cold and bright without being icy and harsh. Mint doesn't scream at you—it's just there, sort of floating in the background. Takes 30 minutes hands-on and then the freezer does the heavy lifting. Vegan. Obviously. No dairy, no eggs, nothing complicated. Tastes better than store-bought because you actually know what's in it—lime zest and juice and mint and that's pretty much it. Works as a palate cleanser between courses, works as a summer dessert, works as the reason you're standing in front of the freezer at 11 p.m. on a Tuesday.
+
+## What You Need for Homemade Sorbet
+
+Water. 400 ml. That's it.
+
+Granulated sugar. 350 grams. White sugar works fine. Don't overthink it.
+
+Lime zest from three limes. Finely grated. The microplane does this right—teeth are sharp, goes fast. The zest matters more than you think. Oils are where the actual flavor lives.
+
+Fresh lime juice. 250 ml. Not from a bottle. Squeeze it yourself or don't bother. Bottled tastes thin. Real lime juice has weight.
+
+Pink grapefruit juice. 125 ml. Fresh if you can. Frozen concentrate works in a pinch. Adds that sweet-tart thing without tasting like a vitamin.
+
+Ten mint leaves. Finely chopped. Fresh mint only. Dried mint is basically paper.
+
+## How to Make Homemade Sorbet Recipe
+
+Start the water and sugar in a medium saucepan. Medium heat. You're not in a rush here—rushing burns the sugar at the edges and tastes weird. Stir it. Watch the sugar dissolve. Run your spoon along the bottom. Should be smooth, no grainy crunch. Takes maybe three or four minutes.
+
+Add the lime zest. Don't dump it. Swirl it in gently. This step is where the work happens. The heat pulls oils out of the zest. You're basically making a tiny essential oil bath. Let it sit there. Simmer for 8 to 12 minutes total from when you added the zest. Doesn't need to boil hard. Just bubble up like a kettle before it actually boils. You'll smell it—sharp and bright and almost sharp enough to feel it in your sinuses. That's the signal. That's done.
+
+Pour the whole thing through a fine mesh sieve into a bowl. Press the zest lightly. You want the oils and flavor, not the pulp sitting in your sorbet like a texture problem. The clarity matters. It sounds weird but it's true. Cloudy sorbet tastes rougher somehow.
+
+Add the lime juice and grapefruit juice to the syrup. Stir once. Cover the bowl with plastic wrap. Chill in the fridge. Minimum 90 minutes. The mixture has to be cold to touch before you churn it. This isn't a shortcut you take. Cold mixture churns into something creamy. Warm mixture churns into a slushy mess with ice crystals the size of—well, they're too big.
+
+## How to Get Homemade Sorbet Perfectly Textured
+
+Set the ice cream machine spinning. Get it cold. Get it moving. Add the chopped mint leaves as it starts freezing. Mint releases oils when it's cold and moving. Adds something subtle without the flavor screaming. Start with the cold syrup from the fridge. Pour it in slow. Let the machine work.
+
+Churn for 25 to 35 minutes. You're watching for thickness. It'll go from liquid to soft-serve consistency to sorbet. Listen for the motor. When it gets quieter, sort of straining a little, that's when the sorbet's actually solidifying. Dip a small spoon in. Should hold peaks. Not rock-hard. Not melting. That moment in between.
+
+Transfer to an airtight container. Freeze at least 4 hours. Overnight is better. The texture sets and firms up properly over time.
+
+To serve, pull it out of the freezer 5 minutes before. Let it soften just enough to scoop. It should go into the bowl soft but structured. Not melting into juice. Not a brick.
+
+## Ice Cream Maker Tips and Mistakes
+
+Don't skip the chilling step. Warm syrup and a cold machine don't play nice together. You end up with something between sorbet and a Slurpee. Not good.
+
+Mint goes in during churning, not before. If you mix it in before, it'll sink and clump. The movement of the machine spreads it through.
+
+No ice cream machine? Get a shallow metal pan—aluminum works best. Pour the mixture in. Freeze 45 minutes. Pull it out. Scrape it hard with a fork. Break up all the crystals. Freeze another 20 minutes. Scrape again. Do this twice more. Takes longer. Results in a chunkier texture. But it works. It's not the same as machine-made but it's better than frozen juice. Much better.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Sorbet Recipe and Ice Cream Maker
+
+**Can I make homemade sorbet without an ice cream maker?**
+Yeah. Shallow metal pan in the freezer. Scrape every 20 minutes with a fork for about an hour total. Texture's chunkier but it tastes right. Not as smooth but still works.
+
+**Does the ice cream machine sorbet recipe need fresh citrus juice or can I use bottled?**
+Bottled lime juice tastes thin. Bottled grapefruit juice tastes like concentrate—which it is. Fresh is worth it. You're making three scoops of sorbet, not feeding an army. Squeeze the fruit.
+
+**How long does homemade sorbet last in the freezer?**
+Three weeks, maybe four. The texture gets grainy after that. It doesn't go bad but it's not as good. Make it, eat it, stop overthinking it.
+
+**Can I use a different citrus for this sorbet recipe?**
+Lemon works. Tangerine works. Grapefruit solo is too sharp but works if you add sugar. The recipe's flexible but lime and grapefruit together is the move. They balance each other.
+
+**What if I don't have fresh mint?**
+Skip it. Seriously. Dried mint tastes like nothing and sadness. Better to have clean sorbet than sorbet with ghost flavor.
+
+**Why does my sorbet recipe come out icy instead of creamy?**
+Syrup went in warm. Ice cream maker was warm. Or you didn't churn long enough. Or both. Cold syrup plus patient churning equals creamy. Rush and it's ice.
