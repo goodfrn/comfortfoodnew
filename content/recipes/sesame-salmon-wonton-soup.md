@@ -1,10 +1,10 @@
 ---
-title: "Sesame Salmon Wonton Soup"
+title: "Sesame Salmon Wonton Soup Recipe"
 slug: "sesame-salmon-wonton-soup"
-description: "Wonton soup with lean ground pork and oyster sauce, simmered in a ginger-soy broth with snow peas. Salmon fillets coated in toasted black sesame seeds, pan-seared to golden. The broth is fragrant with garlic, red onion, and a hint of chili paste. Wontons are handmade, some frozen for later use. Garnished with fresh cilantro leaves. A balance of tender wontons, crisp vegetables, mild spicy heat, and nutty salmon crust."
-metaDescription: "Sesame Salmon Wonton Soup. Fragrant broth with ginger, salmon coated in black sesame, handmade wontons. A balanced Asian fusion dish."
-ogDescription: "Delicious Sesame Salmon Wonton Soup. Flavors of ginger, snow peas, and homemade wontons. Perfect for comfort or impressing guests."
-focusKeyphrase: "Sesame Salmon Wonton Soup"
+description: "Sesame salmon wonton soup combines handmade pork wontons in ginger-soy broth with pan-seared salmon crusted in black sesame seeds, snow peas, and fresh cilantro."
+metaDescription: "Make sesame salmon wonton soup with ground pork wontons, ginger-soy broth, and black sesame-crusted salmon fillets. Try it tonight."
+ogDescription: "Handmade pork wontons in fragrant ginger-soy broth with pan-seared black sesame salmon and crisp snow peas."
+focusKeyphrase: "sesame salmon wonton soup"
 date: 2025-07-23
 draft: false
 image: sesame-salmon-wonton-soup.jpg
@@ -21,9 +21,15 @@ tags:
 - "asian"
 - "easy dinner"
 keywords:
-- "soup"
-- "salmon"
-- "wontons"
+- "sesame salmon wonton soup"
+- "wonton soup"
+- "salmon wonton soup recipe"
+- "ginger soy broth wonton soup"
+- "pan-seared salmon with black sesame seeds"
+- "ground pork wonton soup with oyster sauce"
+- "asian salmon recipes"
+- "easy dinner sesame salmon"
+- "asian soup with salmon and mushrooms"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "370"
@@ -86,3 +92,105 @@ faq:
 - "q: How long does the soup last? a: Refrigerate leftovers for 2-3 days. Reheat gently. Avoid boiling, it affects wontons."
 
 ---
+
+Cut the mushrooms first. Three wontons per bowl, one piece of salmon on top, cilantro scattered—that's it. Forty-five minutes start to finish if you move. Sesame seeds blacken in the pan while the broth simmers. The soup tastes like something you'd order for thirty dollars, costs maybe eight.
+
+## Why You'll Love This Sesame Salmon Wonton Soup
+
+Easy dinner that doesn't feel like it. Salmon cooks in six minutes flat — skin gets crispy, flesh stays soft inside.
+
+Wontons can sit in the freezer for months. Make them once, eat them three times.
+
+Ginger soy broth that tastes like it's been going for hours. Isn't. Fifteen minutes total.
+
+Black sesame seeds give it visual depth. Tastes nutty, slightly bitter. Changes the whole thing.
+
+Works as meal prep. Broth stays good four days. Salmon reheats fine. Wontons too.
+
+## What You Need for Asian Salmon Wonton Soup
+
+Mushrooms — four medium ones, white, chopped rough in a processor. Turns the wontons earthy.
+
+Ground pork. A half pound. Not too lean or it dries out, but lean enough that you're not swimming in grease.
+
+Oyster sauce. Four teaspoons. Salty, umami, not fishy like you'd think. Nothing else tastes like it.
+
+Chili garlic sauce — sambal oelek works if that's what you have. Three quarters teaspoon in the wontons, another three quarters in the broth. Controls the heat.
+
+Wonton wrappers. Thirty-six of them. They thaw fast. Freeze the ones you don't cook.
+
+Salmon. Eleven ounces total, skin on or off, cut into four pieces. Black sesame seeds coat them right before they hit the pan.
+
+Red onion. One small one, sliced thin. Adds sweetness to the broth.
+
+Garlic and ginger. Three cloves minced, four teaspoons of fresh ginger grated. Both go in the oil first.
+
+Chicken stock. Four cups. Olive oil to heat everything. Soy sauce, toasted sesame oil — a tablespoon and a half each.
+
+Snow peas. A hundred grams sliced. They stay crisp-tender in the hot broth. Cilantro at the end — fresh leaves.
+
+Salt and pepper. You'll use both twice — once for the wontons, again for the broth.
+
+## How to Make Pan-Seared Salmon with Sesame Seeds
+
+Start with the wontons. Pulse the mushrooms in the processor until they're actually small, not chunked. Add the pork, oyster sauce, chili garlic sauce. Pulse again — just until it combines. Stop. Overmix and they get dense.
+
+Spoon filling onto wonton wrappers. Four teaspoons per wrapper. Wet the edges with water. Fold into a pouch. Pinch the corners tight so they seal. You're using twelve for soup. The rest go on parchment in a single layer, freeze until solid, then into a bag. Three months they'll last.
+
+Boil salted water. Get it actually boiling. Drop the wontons in. Four to six minutes. Watch them — when they float AND the wrapper turns tender, pull them out. Not mushy. Just cooked. Drain. Toss lightly with oil so they don't stick to each other.
+
+Now the broth. Heat olive oil in a saucepan over medium. Onion, garlic, ginger go in. Five to six minutes. Stir often. You want it soft and releasing the ginger smell.
+
+Pour the chicken stock in. Add soy sauce, sesame oil, chili sauce. Bring it to a simmer. Not a rolling boil — just barely moving.
+
+## How to Get Asian Salmon Recipes Crispy and Perfect
+
+Snow peas go in now. Four to five minutes. They should still have snap. Not falling apart.
+
+Taste the broth. Salt and pepper it until it tastes like something you'd actually eat. Not bland. Not overdone.
+
+While the broth's going, coat the salmon pieces. Press black sesame seeds onto each side — they stick to the moisture. Use all of them. The crust is the whole point.
+
+Non-stick skillet over medium-high heat. Salmon skin-side down if you've kept the skin. Three minutes. Don't move it around. Let it sit.
+
+Flip it. Another three minutes. The sesame seeds should be golden and nutty smelling. The flesh should be opaque all the way through. If it's still translucent in the middle, add thirty seconds.
+
+Season with salt and pepper. Pull it off heat.
+
+## Ground Pork Wonton Soup Tips and Common Mistakes
+
+Don't overmix the pork filling. It gets gluey. Pulse it just until you can't see streaks anymore.
+
+Seal the wontons tight. Loose edges mean they fall apart in the broth.
+
+Cook the wontons in separate water first, not in the soup. The starch clouds everything otherwise.
+
+If your salmon is thick, give it the full three minutes per side. Thinner pieces might need two and a half.
+
+Black sesame seeds char fast. Medium-high heat is right. Go higher and they burn.
+
+The broth should smell like ginger and garlic before the stock goes in. If it doesn't, you need more heat or more time.
+
+Don't skip the sesame oil at the end. It changes the flavor completely. But use the amount called for — more isn't better.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Sesame Salmon Wonton Soup
+
+**Can I make the wontons ahead?**
+Yes. Freeze them raw on parchment, then bag them. Cook straight from frozen — add a minute to the boiling time. They're good three months.
+
+**What if I don't have black sesame seeds?**
+White ones work. Looks different. Tastes pretty much the same, maybe slightly less nutty. Not worth hunting down if you don't have them.
+
+**How long does the broth keep?**
+Four days in the fridge. Freeze it without the salmon — up to three months. Don't freeze the cooked wontons in it or they get weird.
+
+**Can I use a different fish?**
+Probably. Trout works. Halibut. Anything firm that won't fall apart. Cod gets too flaky.
+
+**Do I have to serve it immediately?**
+Not totally. Broth and wontons hold fine. Salmon's best fresh but reheats okay. Cilantro goes on just before eating.
+
+**Should I use wild or farmed salmon?**
+Doesn't matter for this. Wild's leaner — might cook slightly faster. Either one works.
