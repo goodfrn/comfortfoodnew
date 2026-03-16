@@ -1,10 +1,10 @@
 ---
-title: "Veal Medallions With Fresh Tomatoes"
+title: "Basil Mozzarella Tomato with Veal"
 slug: "veal-medallions-tomatoes"
-description: "Tender veal medallions sizzle briefly for a pink center. Fresh asparagus roasted till just tender, mingled with halved baby potatoes. Sharp shallots simmer with garlic, white wine, and beef broth to a fragrant sauce. Bright basil and fresh red and yellow tomatoes layered for contrast. Simple, balanced, with a hint of citrus to brighten, and a touch of thyme for depth. No cream, no gluten, dairy or nuts involved."
-metaDescription: "Veal medallions seared pink, sharp shallot-garlic sauce with white wine and thyme. Roasted asparagus and halved baby potatoes mingle under layers of fresh red and yellow tomatoes."
-ogDescription: "Sear veal medallions pink; roast asparagus and potatoes. Layer fresh tomatoes with basil. Sharp shallot-garlic-white wine sauce lifts flavors. No cream or allergens here."
-focusKeyphrase: "veal medallions with fresh tomatoes"
+description: "Tender veal medallions paired with fresh basil, ripe tomatoes, and roasted asparagus. White wine sauce with garlic and shallots, finished with lemon zest and thyme for balanced, elegant flavor."
+metaDescription: "Basil mozzarella tomato dish featuring veal medallions, fresh basil, roasted asparagus, and a garlic white wine sauce. Make it tonight."
+ogDescription: "Tender veal medallions with fresh basil, ripe tomatoes, roasted asparagus, and a fragrant garlic white wine sauce."
+focusKeyphrase: "basil mozzarella tomato"
 date: 2025-08-15
 draft: false
 image: veal-medallions-tomatoes.jpg
@@ -21,8 +21,15 @@ tags:
 - "potato"
 - "main dish"
 keywords:
+- "basil mozzarella tomato"
 - "veal medallions"
-- "baby potatoes"
+- "fresh basil and tomato"
+- "roasted asparagus potatoes"
+- "basil tomato recipe"
+- "italian recipes with basil"
+- "tomato basil garlic"
+- "fresh mozzarella tomato"
+- "asparagus and potatoes"
 - "white wine sauce"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
@@ -86,3 +93,115 @@ faq:
 - "q: Can leftovers be stored? a: Yes but veggies separate from meat best. Medallions rest covered and chilled, reheat gently to avoid drying out. Sauce thickens in fridge; loosen with splash beef broth or water when reheating. Potatoes hold texture better boiled firmer, avoid mush on reheat by warming slow."
 
 ---
+
+Asparagus hits the pan while the veal's still raw on the counter. Twenty minutes total if you move right. This is the kind of plate where everything lands hot at the same time—tomato cool underneath, meat warm on top, sauce pooling around it all.
+
+## Why You'll Love This Veal and Asparagus Main Dish
+
+Forty minutes start to finish. Roasted asparagus and potato bake situation without feeling like you're just roasting things—it's a whole plate that looks like you planned it.
+
+Veal cooks fast. That's the point. Two minutes a side and you're done. No babysitting.
+
+Fresh basil and tomato hit different when the tomatoes sit out first. Room temperature. Not cold. Not hot. Something happens there.
+
+The sauce tastes like wine got smarter. Beef broth, shallots, lemon zest, thyme. One skillet. Tastes like it took longer than it did.
+
+Asparagus stays firm. Not mushy. Roasted just until it gives a little but still snaps.
+
+## What You Need for Basil Tomato and Mozzarella Veal
+
+Veal medallions from the tenderloin. Slice thin yourself or ask the butcher. They cook in two minutes. That's the whole thing.
+
+Asparagus. Trim the woody ends. Halve them. Green ones, small ones if you can find them—they stay tender without turning to mush.
+
+Shallots. Slice them thin. Not too thin. They need to stay soft but readable.
+
+Garlic. Three cloves minced. Not a lot. Just enough to know it's there.
+
+Extra virgin olive oil for drizzling. Three tablespoons for the sauce pan, one more for the asparagus sheet. Not the fancy stuff for cooking—that burns.
+
+Dry white wine. Sauvignon Blanc works. Not sweet. Half a cup. It reduces down and thickens.
+
+Beef broth. Low sodium if you can get it. The salt's yours to control.
+
+Baby Yukon gold potatoes. Boil them first until a fork barely goes through. Firm still. You'll warm them in sauce later.
+
+Red tomato slices and yellow tomato slices. Room temperature. Four of each. Thick slices.
+
+Fresh basil. Quarter cup chopped. Chop it last. The second it hits the plate.
+
+Fresh thyme. One tablespoon leaves. The tiny ones off the stems.
+
+Lemon. Just the zest. One lemon's worth.
+
+Salt. Pepper. The cracked kind. Taste as you go.
+
+## How to Make Basil Tomato and Mozzarella with Asparagus and Veal
+
+Set your oven to broil. Rack in the upper third.
+
+Lay the asparagus on a sheet. Drizzle with olive oil—one tablespoon—salt it, pepper it. In the oven. Watch it. Seven to eight minutes until it barely gives when you bend it. Flip it halfway through. That's important.
+
+While it roasts, heat two tablespoons of olive oil in a skillet. Medium heat. Add the shallots and garlic. Just watch them go soft and smell good. Three to four minutes. Don't let them brown. You want translucent.
+
+Pour the wine in. Turn the heat up a notch. Let it reduce. It'll smell sharp at first, then mellow out. When it's half what it was, you're done. Add the beef broth. Simmer three minutes. Stir in the lemon zest and thyme. Pour it all into a bowl. Set it aside.
+
+Same skillet. Dab it dry if it needs it. Add a splash more oil if the bottom's bare. Pat your veal medallions completely dry—moisture is the enemy. Season them hard. Salt. Pepper. Sear them. Two to three minutes per side. They'll brown fast. The center should still be pink. Veal toughens if you overcook it. Pull them out. Tent them with foil. They'll keep cooking under there.
+
+Pour the sauce back in. Scrape the bottom where the brown stuff stuck. That matters. Taste it. Fix the salt and pepper.
+
+Add the potatoes. Add the asparagus. Stir them around for two minutes until they're warm and coated in sauce. Don't smash them. They should still be firm.
+
+## How to Get Your Roasted Asparagus and Potato Bake Plated Right
+
+This is where it comes together.
+
+Lay your tomato slices on the plate. Red. Yellow. Red. Yellow. Sprinkle the fresh basil over them. Not a lot. Just scattered.
+
+Pile the asparagus and potatoes on top. Then the veal medallions. Then spoon that warm sauce all around and over everything. Not dumping it. Spooning it. Controlled.
+
+Serve it now. Don't wait. Hot plate. Veal gets tough if it sits.
+
+## Roasted Asparagus and Potato Tips and What Goes Wrong
+
+Crowd the pan with veal and you get steam instead of sear. Single layer. Work in batches if you have to.
+
+Asparagus on one layer on the sheet means it gets actual caramelization. Piled up and it steams. You want the roasted asparagus and potato texture—firm, slightly sweet, edges just catching color.
+
+Potatoes should be boiled till a fork barely sinks. Not mushy. When they hit that warm sauce later they soften a touch more. Plan for that.
+
+If the sauce breaks or gets too thin—which almost never happens but—whisk in cold butter off heat. Doesn't need cream. Butter does the job.
+
+White wine matters. Sauvignon Blanc, Chardonnay. Something dry. Sweet wine tastes wrong in a pan with beef broth.
+
+Veal cooks fast. Watch it. Two to three minutes a side. The second you see pink at the edges you're done. It'll carryover cook under the foil.
+
+Thyme and lemon zest do something together that tastes herbaceous and bright at the same time. Not a substitute situation. They're necessary.
+
+Fresh basil tomato and pasta recipes teach you that room temperature tomatoes stay juicy. Cook them and they fall apart. That's not what you want here.
+
+If you don't have asparagus—green beans work. Broccolini works. Same roast time, same idea.
+
+Shallots instead of onions because they disappear into the sauce instead of fighting it. They're sweeter. Softer.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Basil Tomato and Mozzarella Veal
+
+**Can I make this pasta recipe with basil and tomato mozzarella instead of veal?**
+The veal's the whole point. It cooks in two minutes. If you want to use chicken breast, pound it thin first, same sear time. Pork tenderloin works too. Fish doesn't. It falls apart.
+
+**How do I know when the asparagus is done roasting?**
+Bend it. It should give but not flop. Still has a snap to it. Seven to eight minutes usually. Your oven might be different. Start checking at six.
+
+**What if I don't have fresh basil?**
+Don't use dried. Dried basil tastes like nothing in this situation. Skip it. The plate still works without it—the tomato and lemon zest handle the brightness.
+
+**Can I prep this ahead for a dinner party?**
+Boil the potatoes. Roast the asparagus. Make the sauce. Everything sits fine for a few hours. Sear the veal when your guests arrive. It takes five minutes. That's the only thing you time at the stove.
+
+**Why room temperature tomatoes?**
+Cold tomatoes seize up when they hit a warm plate. Room temperature stays juicy and soft. You can slice them an hour ahead and they're fine.
+
+**The sauce tastes thin—what do I do?**
+Whisk in a tablespoon of cold butter off heat. Stir it in. It thickens and tastes richer. That's it. Don't boil it after or it breaks.
