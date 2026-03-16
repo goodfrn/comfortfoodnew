@@ -1,10 +1,10 @@
 ---
-title: "Tangy Pea Salad"
+title: "Chick Pea Salad with Greek Yogurt Dill"
 slug: "tangy-pea-salad"
-description: "A chilled pea salad with ham and zesty dill yogurt dressing. Uses frozen peas, swapped mayo for Greek yogurt to punch up tang and lighten texture. Onion replaced by scallions; fresher, milder bite. Ranch mix swapped for dill and garlic powder—more control and fewer additives. Peas thawed slowly, moisture drained well to avoid watery mess. Folding gently, not mashing. Peas cool, glossy, coated but not drowning. Textural contrast from ham, crunch from scallions. Chilling more than a quick 20 min amps flavors melding. Watch the sheen on peas to judge coating. Notes on holding, reheating, substitutions for dairy-free, and troubleshooting watery dressings included. Green pop, creamy tang, subtle ham salt. About 6 servings, 230 calories."
-metaDescription: "Tangy Pea Salad with ham, scallions, and a dill yogurt dressing. Frozen peas thawed right, no sog, crisp salty bites, chilled to meld flavors. About 6 servings."
-ogDescription: "Chilled pea salad tossed with Greek yogurt dill dressing, ham, scallions. Peas drained well for snap. Chill 20+ min to marry tang and salty chew."
-focusKeyphrase: "tangy pea salad"
+description: "Chick pea salad with frozen peas, diced ham, and creamy Greek yogurt dill dressing. Light, tangy, and ready to chill for a refreshing side dish."
+metaDescription: "Chick pea salad recipe using frozen peas, Greek yogurt dressing, ham, and fresh dill. Lightened with tangy yogurt instead of mayo. Make it tonight."
+ogDescription: "Creamy chick pea salad with Greek yogurt, ham, and dill. Fresh, tangy, and perfect for any meal."
+focusKeyphrase: "chick pea salad"
 date: 2026-01-31
 draft: false
 image: tangy-pea-salad.jpg
@@ -21,9 +21,16 @@ tags:
 - "easy"
 - "vegetarian"
 keywords:
+- "chick pea salad"
+- "pea salad recipe"
+- "green pea salad"
+- "ham salad recipe"
+- "greek yogurt dressing"
 - "pea salad"
-- "Greek yogurt salad"
-- "dill dressing"
+- "ham salad"
+- "greek yogurt salad dressing"
+- "salad recipe with ham"
+- "yogurt dressing salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "230"
@@ -64,3 +71,86 @@ faq:
 - "q: Substitutions for dairy-free? a: Use coconut cream or almond yogurt for tang. Ham swaps for smoked tempeh or toasted nuts for chew. Garlic powder, dill same. Adjust seasoning carefully as dairy-free bases differ in texture and tang strength."
 
 ---
+
+Frozen peas. Thaw them right and they snap. Dump them wet and the whole salad turns mushy before it even hits the table.
+
+## Why You'll Love This Easy Ham Salad
+
+Twenty minutes. No cooking. Just thaw, fold, chill.
+Works as a side for literally anything—picnics, potlucks, weeknight dinners, cold from the fridge the next day and somehow better.
+Greek yogurt does the heavy lifting. Tangy. Creamy. Way easier than mayo-based ham salad recipes and actually tastes fresher.
+Vegetarian swap works fine too—skip the ham, add toasted nuts or smokey tempeh. Flavor holds up either way.
+Healthy enough to not feel guilty about eating it. Not some sad diet thing. Just good.
+
+## What You Need for This Green Pea Salad Recipe
+
+Frozen peas. Thawed right, they stay firm. The bag kind, not canned.
+
+Greek yogurt. Plain. Full-fat if you can get it. Thick, tangy, holds everything together without feeling heavy.
+
+Dill. Dried. Fresh would be better probably, but dried works and you don't have to fuss with it.
+
+Garlic powder. Not garlic salt. Half a teaspoon, maybe a bit less. Overpowers fast.
+
+Lemon juice. Just enough to brighten the yogurt. Curdles it slightly—that's the point. Takes the edge off the tang.
+
+Ham. Cooked. Diced small. The salty chew balances the dressing. Smokey tempeh works if you're going vegetarian.
+
+Scallions. Thinly sliced. Three of them. They give crunch. Fresh. Don't skip them.
+
+Kosher salt and black pepper. Salt it now, adjust after the dressing sits.
+
+## How to Make Green Pea Salad
+
+Frozen peas go into a colander. Cold water. Slow. The goal is thawing without turning them into mush. Run your fingers through them a bit. Takes maybe three minutes.
+
+Shake the colander hard. Get the water out. Then spread them on paper towels on a baking sheet and let them sit. Press them gently if they're still damp. Moisture is the enemy here. Soggy peas kill everything.
+
+While they're drying, make the dressing. Greek yogurt goes in a bowl. Add dill, garlic powder, lemon juice, salt, and pepper. Stir until it's smooth. The lemon will curdle it slightly—that's right. It should look a little broken, not glossy.
+
+Taste it. Too much dill? Add less next time. Too sharp? More yogurt. Too bland? More salt. This part matters.
+
+## How to Get This Ham Salad Crispy and Fresh
+
+Once the peas look glossy but actually dry, fold them into the yogurt mixture. Not stirring frantically. Folding. You want each pea coated but loose, each one separate. That's where the snap comes from.
+
+Now add the ham and scallions. Fold again. Gently. No crushing. The ham brings salt and chew. The scallions bring fresh crunch.
+
+Cover it and put it in the fridge. Twenty-five minutes minimum. Don't skip this part. While it sits, the peas soak up the tang, the ham tempers the sharpness, the whole thing gets mellow. You'll smell it changing—from raw yogurt to something herbal and calm.
+
+## Ham Salad Tips and Common Mistakes
+
+Watery salad? Peas weren't dried right. Either they weren't on the towels long enough, or the dressing's too runny. Add a teaspoon of mayo or shredded cheese to thicken it next time. Works.
+
+Don't squeeze the peas with your hands trying to dry them. More bruising. More water gets released. Towels only.
+
+Dried scallions over fresh raw onion if you want cleaner crunch, less bite. Fresh is better texture-wise. Dried is easier, lasts longer in the fridge.
+
+The dressing will thicken up as it sits. That's normal. If it pools at the bottom after a day, just stir gently before serving.
+
+Leftovers hold 2 days easy. After that the peas get soft. Still edible, just different texture. Better to make it fresh if you can.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Greek Yogurt Salad Dressing
+
+**Can you use fresh dill instead of dried in this chick pea salad recipe?**
+Yeah. Use less—maybe a teaspoon, chopped fine. Fresh is stronger. Tastes brighter. Add it right before eating so it doesn't get slimy.
+
+**What's the best ham salad recipe swap if you don't eat meat?**
+Smokey tempeh, diced and toasted. Or walnuts, chopped and roasted. Or both. Vegetarian version works fine. Just watch the salt balance—tempeh and nuts already bring salt, so taste it first.
+
+**How long does this green pea salad keep?**
+Two days in the fridge easy. After that the peas get soft. It's still fine, just loses the snap. Make it fresh if you can.
+
+**Can you make this without Greek yogurt?**
+Coconut cream works if you're dairy-free. Tastes different—more tropical, less tangy. Regular mayo is the obvious swap but it's heavier. Hasn't tried it myself with sour cream. Probably works.
+
+**Why does the lemon juice curdle the yogurt?**
+Acid hits the protein and breaks it up. Looks wrong, tastes right. It's what you want. Just don't add too much or it gets grainy.
+
+**Is this actually a chick pea salad or a pea salad?**
+Peas. Frozen peas. Not chickpeas. Same name, different thing. Chickpeas would work probably but they're starchier, denser. Would change the whole texture. This is what it is.
+
+**Can you make a dressing for greek salad with this recipe?**
+No. This is the salad. You could thin the dressing with a bit of water and lemon juice if you wanted to pour it over greens instead, but it's built for the peas and ham. Do that and you're making something else.
