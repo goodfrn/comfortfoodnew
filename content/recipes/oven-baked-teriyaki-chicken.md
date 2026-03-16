@@ -1,10 +1,10 @@
 ---
-title: "Oven-Baked Teriyaki Chicken Rice"
+title: "Oven-Baked Teriyaki Chicken Rice with Broccoli"
 slug: "oven-baked-teriyaki-chicken"
-description: "Chicken thighs seasoned and browned in olive oil, then baked atop rice and vegetables absorbing savory broth. Teriyaki sauce thickened with cornstarch brings shiny glaze and just-right balance. Green onions and sesame seeds lift flavors at finish. Timing flexible with sensory checks; chicken juicy when internal temp hits 165°F or juices run clear. Butter enhances veggies' softness, and subtle carrot crunch remains. Simple pantry swaps like chicken breast or different greens add versatility. Avoid soggy rice by eyeballing broth absorption rather than strict timings. Sauce tweaks based on sweetness or tang preferred."
-metaDescription: "Oven-baked teriyaki chicken thighs crisped skin, rice soaked in savory broth, glossy sauce thickened with cornstarch, vibrant veggies finished with green onions and sesame seeds"
-ogDescription: "Brown chicken skin till crackling. Rice steams in broth under foil. Teriyaki sauce thick, shiny, tangy-sweet. Veggies crisp-tender with butter. Green onions finish bold notes"
-focusKeyphrase: "Oven-baked teriyaki chicken rice"
+description: "Oven-baked teriyaki chicken thighs with rice, broccoli, and carrots in savory chicken stock. Cornstarch-thickened teriyaki glaze creates a shiny coating. Perfect one-pot dinner ready in under an hour."
+metaDescription: "Oven-baked teriyaki chicken thighs baked atop rice with broccoli and carrots in chicken stock. Teriyaki glaze made with soy sauce and ginger. Try it tonight."
+ogDescription: "Chicken thighs baked with rice, broccoli, carrots, and teriyaki glaze. Easy one-pot dinner with soy sauce and sesame seeds."
+focusKeyphrase: "oven baked teriyaki chicken rice"
 date: 2026-01-29
 draft: false
 image: oven-baked-teriyaki-chicken.jpg
@@ -21,9 +21,16 @@ tags:
 - "one pot"
 - "easy dinner"
 keywords:
-- "teriyaki chicken"
-- "baked chicken rice"
-- "savory chicken thighs"
+- "oven baked teriyaki chicken rice"
+- "teriyaki chicken rice"
+- "one pot teriyaki chicken and rice"
+- "easy teriyaki chicken thighs"
+- "teriyaki chicken rice casserole"
+- "chicken thighs with broccoli and carrots"
+- "asian chicken with rice"
+- "one pot chicken dinner"
+- "sheet pan teriyaki chicken with vegetables"
+- "oven baked chicken rice with teriyaki glaze"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "430"
@@ -73,3 +80,90 @@ faq:
 - "q: How to store leftovers? a: Cover tightly in fridge. Reheat oven better than microwave—retains texture. Sauce holds well, can reheat in pan with small water splash. Separate sauce keeps rice from getting limp. Freeze portions okay but expect slight texture changes."
 
 ---
+
+Preheat to 345. Lower than you'd think, but that's the point — chicken stays juicy while rice drinks up the steam underneath. Forty-five minutes total. Hands-on maybe twelve. Rest of it just happens in the oven.
+
+## Why You'll Love This One Pot Teriyaki Chicken Dinner
+
+Tastes like you planned it. You didn't.
+One pan, one oven, done. That's it. No babysitting, no second burner going, no cleanup that makes you regret cooking.
+Chicken thighs stay ridiculously moist. Breast meat dries out sitting there. Thighs just don't.
+Rice soaks up everything — chicken fat, teriyaki glaze, the broth. Works cold the next day too. Probably better.
+Takes 45 minutes total. Mostly waiting. Twelve minutes of actual work.
+
+## What You Need for Oven-Baked Teriyaki Chicken Rice
+
+Four chicken thighs. Skin on, bone in. Seasoning is basic — garlic powder, ginger, onion powder, salt, pepper. Nothing complicated. Mix it in a bowl first, keeps your hands less messy.
+
+Oil and butter. Olive oil gets them browning. Butter for the vegetables after. Two tablespoons each.
+
+Half a cup of diced onion. Half a cup of carrots, thin slices — they cook faster that way. A cup of broccoli florets. Nothing fancy. Whatever's in the fridge works.
+
+Rice. One cup long grain white. Broccoli cooks in the same pan, same time, no extra steps.
+
+Chicken stock. A cup and a quarter. Low sodium. You season it yourself.
+
+The sauce is separate — soy sauce, mirin or dry sherry if you don't have mirin, brown sugar, rice vinegar. A clove of garlic minced, fresh ginger grated. Cornstarch mixed with cold water to thicken it at the end. Green onions sliced thin for topping. Toasted sesame seeds.
+
+## How to Make Oven-Baked Teriyaki Chicken with Rice
+
+Pat the chicken thighs completely dry. Moisture kills browning. Rub the spice mix all over — skin gets it, meat gets it, everywhere. Don't skip this step. Uneven seasoning reads as half-baked.
+
+Heat olive oil in a heavy skillet over medium. When it's shimmering — not smoking, just shimmering — skin side down goes the chicken. Listen for the sizzle. Steady, not angry. Brown it three minutes a side until the skin's deep golden. Not blackened. Black means bitter. If the heat's too high, lower it. Skin needs time to actually crisp.
+
+Pull the chicken out. Set it on a plate. The pan stays on the heat. All that brown stuck to the bottom — that's flavor. Don't wash it.
+
+Melt butter in that same pan. Let it coat the whole bottom. Onion, carrots, broccoli all go in. Salt lightly. Cook six to eight minutes, stirring sometimes. Watch for when it smells like something. That's when you know the vegetables are actually cooking, not just heating up. Carrots and broccoli should still snap a little. Soft isn't the goal here.
+
+Stir the rice in. Let it coat with the butter and sit for a minute. That slight toast changes everything — adds something nutty underneath.
+
+Pour the chicken stock in. No lid yet. Keep the burner on until it comes to a simmer. Then turn it off. Seriously. Off. You're about to let the oven do the work. If you keep the heat on, the broth reduces before the rice even gets there.
+
+Nestle the chicken thighs on top of the rice, skin side up. Cover tight with foil. Into the oven at 345.
+
+## How to Get the Chicken Skin Crispy
+
+Thirty-three to thirty-eight minutes. Don't peek. Every time you open it, steam escapes and the rice gets weird. When it's done, the rice will have absorbed basically all the liquid. The chicken hits 165 at the thickest part. Juices run clear when you poke it.
+
+The skin stays crispy because of the lower oven temp and the foil. Moisture gets trapped but doesn't boil the skin. It steams the rice and keeps the meat from drying, but the top stays exposed enough to stay crisp.
+
+While that's happening, make the sauce. Soy sauce, mirin, brown sugar, rice vinegar, minced garlic, fresh ginger all go in a small saucepan over medium. Bring it to a gentle simmer. Bubbling around the edges, not rolling. Whisk the cornstarch slurry — that's the cornstarch mixed with cold water — until it's totally smooth. Pour it in. The sauce thickens almost instantly. Remove from heat when it's glossy and coats the back of a spoon. If it's too thick, splash of water fixes it. If it breaks, you overcooked it. Don't overheat.
+
+## One Pot Teriyaki Chicken Rice Tips and Common Mistakes
+
+Don't skip drying the chicken. Wet skin won't brown. It'll steam and then you're eating boiled chicken with a rubbery exterior.
+
+Brown it properly. Two to three minutes per side. Rushing this means pale skin and less flavor in the whole dish.
+
+The cornstarch slurry matters. Lumps in the sauce are annoying. Mix it with cold water separately, then pour it slowly while whisking.
+
+Rice amount is exact. Too much liquid and it's mushy. Too little and it's crunchy. Trust the one and a quarter cups of stock. It works.
+
+If your oven runs hot, maybe pull it at thirty-three minutes instead of waiting. Every oven's different. Overcooked rice is impossible to fix.
+
+Leftovers reheat in a 325 oven for ten minutes, covered. Microwave makes rice into something sad. Don't do that.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Teriyaki Chicken Rice
+
+**Can I use chicken breast instead of thighs?**
+You can. It'll dry out. Thighs are forgiving — they've got fat, they stay moist even if you overbake it by five minutes. Breast meat doesn't have that mercy.
+
+**What if I don't have mirin?**
+Dry sherry works. So does a tablespoon of honey if you have nothing else. The sauce will taste slightly different but still good.
+
+**Can I make this without the vegetables?**
+Sure. Just rice and chicken. Defeats half the point though — you're missing the carrots and broccoli cooking in all that fat.
+
+**Do I have to cover it with foil?**
+If you don't, the rice dries out and the chicken skin gets too dark. Foil seals it. The steam finishes everything evenly.
+
+**How long does it keep?**
+Three days covered in the fridge. The sauce stays separate — pour it on fresh the next day instead of mixing it in. Keeps the rice texture better.
+
+**Can I make the sauce ahead?**
+Yes. Make it while everything's in the oven. It reheats easily — just warm it on the stove for a minute with a splash of water if it thickened too much sitting.
+
+**Is this actually one pot?**
+One skillet in the oven, one saucepan for sauce. If you're strict about it, it's technically two. Most people count it as one because the oven does the heavy lifting and you're not juggling three burners.
