@@ -1,10 +1,10 @@
 ---
-title: "Tagliatelles with Fennel and Crunch"
+title: "Tagliatelle with Fennel, Walnuts & Raisins"
 slug: "tagliatelles-with-fennel"
-description: "Pasta tossed with slightly crunchy fennel, raisins, and nutty crostini finished with parmesan crisp bits. Toasted walnuts replace one nut, toasted brioche chunks replace the usual bread. Touch of smoked paprika alongside chili flakes. White wine sharp, softened with slow cooking onions and garlic. Fennel seeds cracked but retained more bite. Quick roast crostini but softer than usual. Retains all freshness with aromatic fennel fronds scattered last minute for punch. Al dente pasta brought together with reserved starchy cooking water to form light sauce."
-metaDescription: "Make Tagliatelles with Fennel and Crunch. Discover layers of texture and flavor, a fresh take on pasta with fragrant herbs and crispy elements."
-ogDescription: "Enjoy Tagliatelles with Fennel and Crunch. A unique pasta dish combining fresh fennel, crunchy nuts, and smooth wine-infused sauce."
-focusKeyphrase: "Tagliatelles with Fennel and Crunch"
+description: "Tagliatelle pasta tossed with caramelized shallots, tender fennel, golden raisins, toasted walnuts, and crispy brioche. Fresh, aromatic, and naturally light."
+metaDescription: "Tagliatelle with fennel, walnuts, and raisins—soft caramelized onions, white wine sauce, and toasted brioche. Make it tonight."
+ogDescription: "Tender tagliatelle with caramelized onions, fennel, walnuts, raisins, and crispy brioche pieces. Fresh and aromatic."
+focusKeyphrase: "tagliatelle"
 date: 2025-07-19
 draft: false
 image: tagliatelles-with-fennel.jpg
@@ -21,9 +21,16 @@ tags:
 - "walnut"
 - "fennel"
 keywords:
-- "fennel"
 - "tagliatelle"
-- "crostini"
+- "fennel pasta"
+- "pasta with walnuts"
+- "caramelized onion pasta"
+- "tagliatelle recipes"
+- "pasta recipe tagliatelle"
+- "pasta with fennel bulb"
+- "fresh tagliatelle"
+- "onions pasta"
+- "tagliatelle dish"
 breadcrumb: ["Home", "Recipes", "Pasta and Noodles"]
 nutrition: 
  calories: "420"
@@ -68,3 +75,87 @@ faq:
 - "q: Can I make this in advance? a: Prepare components separate. Store pasta, sauce, and crostini each sealed. Combine when ready to serve. Keeps freshness, retains critical crunch."
 
 ---
+
+Toast the brioche first—that's where the crunch comes from. Fennel going soft and sweet in white wine. Then you toss it all with tagliatelle and suddenly it's not what you expected but somehow exactly right.
+
+## Why You'll Love This Tagliatelle Dish
+
+Takes 43 minutes total. Seriously that fast.
+
+Not a heavy pasta. The fennel stays bright even after cooking, kind of a fresh angle on what people normally do with tagliatelle. Walnuts give you texture without meat—vegetarian but doesn't taste like you're missing something.
+
+Cleanup isn't nothing. One skillet, one pot. Pan goes straight in the sink.
+
+Wine sauce reduces down so there's actual flavor happening, not just oil coating the noodles. Works cold the next day too, maybe better.
+
+## What You Need for Fennel and Walnut Tagliatelle
+
+Brioche pieces. Torn by hand. About 90 grams—that's a chunk of a brioche loaf. Walnuts go in there too. Fifty grams chopped. Not powdered. You want pieces.
+
+Parmesan. Fresh. One teaspoon mixed in, then more at the end when you plate it.
+
+Olive oil. Half for the crostini, half for the pan. Fifty milliliters each. Works out.
+
+Red shallots. Two small ones, sliced thin. Garlic—three cloves minced. They cook together till soft, not brown.
+
+Dry white wine. One forty milliliters. That's your sauce base. It reduces down hard.
+
+Fennel bulb. Slice it thin. Keep the fronds separate—those go on top. The seeds get crushed lightly. Golden raisins, smoked paprika, salt, pepper.
+
+Tagliatelle. Two hundred grams dried. Fresh pasta cooks faster but dried works fine here.
+
+## How to Make Fennel and Walnut Tagliatelle
+
+Start with the brioche. Three-fifty-five degrees. Center rack. Toss the torn pieces with walnuts, one teaspoon parmesan, twenty-five milliliters olive oil, salt, pepper—just whatever tastes right. Spread it on parchment. Into the oven for seven to nine minutes. It should go golden but not hard. Pull it out. Let it cool while everything else happens.
+
+Heat the remaining olive oil in a big skillet over medium. This is where you're gentle. Shallots and garlic go in. Three to four minutes. They should soften completely but not brown at all. If the heat's too high, turn it down. You'll know.
+
+Pour the white wine in. Just watch it. Four minutes and it'll reduce by half—you'll see the bubbles get slower and the liquid get thicker. That's when you know it's ready.
+
+Add the sliced fennel now. The raisins. The crushed fennel seeds. Smoked paprika. Stir it. Let it cook four to six minutes. The fennel softens but keeps a little snap to it. Season as you go.
+
+While that's happening, get salted water boiling for the pasta. Two hundred grams tagliatelle. Eight minutes. The moment it's al dente, scoop out a cup of pasta water before you drain it. That water matters more than you'd think.
+
+## How to Get Tagliatelle Crispy and the Sauce to Stick
+
+Drain the pasta. Back into the pot. Pour the fennel mixture in. Add the pasta water slowly—not all of it. Start with half. Stir over low heat for one to two minutes. The starch from the pasta water helps the sauce coat everything. It should look glossy, not wet. If it's too thick, add more water. If it's pooling, you used too much.
+
+Taste it. Salt and pepper. Adjust now because you won't get another chance.
+
+Plate the pasta. Scatter the brioche crostini on top—that's where all the crunch is. Sprinkle the chopped fennel fronds. Grate fresh parmesan over it. Serve immediately. The crostini gets soft if it sits too long.
+
+## Fennel and Walnut Tagliatelle Tips and Common Mistakes
+
+Don't skip toasting the brioche. The flavor changes completely when it browns. Raw brioche tastes like nothing. Toasted brioche tastes like something.
+
+The fennel slices need to be thin. Like, actually thin. Thick slices don't soften in time.
+
+Brown the shallots and you've already messed it up. Keep the heat moderate. The wine reduces fast enough on its own.
+
+Some people add cream. Don't bother. The pasta water does the work.
+
+Pasta water temperature matters too. If your pasta's been sitting in a colander for ten minutes getting cold, the sauce won't stick the same way. Work fast once the pasta drains.
+
+The reserved fennel fronds should be finely chopped. Big pieces are weird to bite into.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Tagliatelle Recipes
+
+**Can I make this tagliatelle pasta recipe with fresh tagliatelle instead of dried?**
+Yeah. It cooks faster—maybe five minutes instead of eight. Everything else stays the same. Fresh pasta's wetter, so you might need less pasta water. Start with half and go from there.
+
+**What if I can't find brioche for this fennel and walnut tagliatelle?**
+Bread that's got a little sweetness works. Croissants do. Panettone if you have it sitting around. Avoid dense bread—it won't crisp right. Challah works fine too.
+
+**Does the white wine matter for this tagliatelle dish?**
+It does. White wine's the whole sauce. Pinot Grigio works. Sauvignon Blanc works. Something dry. Don't use cooking wine from a bottle labeled cooking wine. That's vinegar at that point.
+
+**Can I make this tagliatelle recipes without walnuts?**
+Probably. Almonds would work. Pine nuts if you want to spend money. Hazelnuts too. The idea is something that toasts and adds crunch, so anything that does that stays on brand.
+
+**How long does the fennel and sausage pasta keep if I make extra?**
+Three days in the fridge in an airtight container. Doesn't freeze well—the fennel gets weird when it thaws. The crostini gets soft overnight, so keep it separate if you're saving it. Crisp the leftovers in a dry pan before serving.
+
+**Should I use smoked paprika or regular paprika for this pasta recipe?**
+Smoked. Regular tastes flat. The smoke gives it a little something extra that plays with the fennel. Not worth switching.
