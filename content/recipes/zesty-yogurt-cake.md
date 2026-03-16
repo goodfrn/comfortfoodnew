@@ -1,10 +1,10 @@
 ---
-title: "Zesty Yogurt Citrus Cake"
+title: "Yogurt Plum Cake with Lemon Glaze"
 slug: "zesty-yogurt-cake"
-description: "A lemon yogurt loaf with tweaks to balance tang and texture. Sour cream swapped for crème fraîche adds creaminess without heaviness. Flour mix shifted by 5 percent for lighter crumb. Oil replaced with melted butter—better flavor. Glaze uses warmed apricot jam with honey instead of marmalade for a subtler finish. Baking set to 340 degrees Fahrenheit; watch for golden crust and audible crackles. Cake should spring back under gentle press. Use toothpick at 58-70 minutes, foil tent if peak browns too fast. Cool before slicing to avoid crumble. Tips for batter lumps, substitutions, and glaze thickness included. A confident spin on the pound concept—dense yet tender, with real zing and a slick glaze made for slicing thick or thin."
-metaDescription: "Zesty Yogurt Citrus Cake—dense yet tender loaf with tangy lemon, buttery crumb, apricot-honey glaze. Moist texture, subtle citrus aroma, golden crackling crust."
-ogDescription: "Dense yogurt lemon loaf with buttery melt, apricot-honey glaze, crackling crust. Tang and texture balance, lumpy batter charm, cooling critical for clean slices."
-focusKeyphrase: "Zesty Yogurt Citrus Cake"
+description: "Tangy yogurt plum cake made with whole milk yogurt, crème fraîche, and lemon zest. Buttery crumb with apricot jam glaze. Dense yet tender."
+metaDescription: "Yogurt plum cake recipe with lemon zest, crème fraîche, and apricot jam glaze. Moist, tangy, and perfectly glazed. Make it tonight."
+ogDescription: "Tangy yogurt cake with lemon zest and apricot jam glaze. Moist crumb from whole milk yogurt and crème fraîche."
+focusKeyphrase: "yogurt plum cake"
 date: 2025-11-28
 draft: false
 image: zesty-yogurt-cake.jpg
@@ -21,9 +21,18 @@ tags:
 - "dessert"
 - "easy"
 keywords:
+- "yogurt plum cake"
 - "yogurt cake"
-- "lemon citrus loaf"
-- "butter glaze"
+- "lemon yogurt cake"
+- "yogurt cake recipe"
+- "glazed lemon cake"
+- "cake using yogurt"
+- "lemon and yogurt cake"
+- "french yogurt cake"
+- "cake made with yogurt"
+- "lemon drizzle cake with yogurt"
+- "yogurt cake with apricot"
+- "tangy yogurt cake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "310"
@@ -75,3 +84,87 @@ faq:
 - "q: Why use crème fraîche instead sour cream? a: Crème fraîche gives silkier texture, less heaviness. Holds better during baking; sour cream can break down crumb. Both tangy but crème fraîche smoother mouthfeel."
 
 ---
+
+Set the oven to 340. Butter the pan. Lemon zest goes in twice—once in the batter, once you taste it. Yogurt makes this dense and tender at the same time, which shouldn't work but does.
+
+## Why You'll Love This Lemon Yogurt Cake
+
+Takes 20 minutes to mix. An hour and ten minutes to bake. That's it.
+
+The crumb is tight. Not dry. Thick with yogurt and crème fraîche, bright from two lemons. Citrus without being sharp about it.
+
+Makes a weeknight dessert that doesn't need a reason. Works for breakfast too—nobody questions you.
+
+Glazed lemon cake that keeps for days. Freezes fine. Room temperature or cold, doesn't matter.
+
+## What You Need for Yogurt Cake Recipe Using Yogurt
+
+All-purpose flour. Two and a quarter cups. Packed down slightly or fluffed—measure either way, doesn't matter much.
+
+Baking powder and kosher salt mixed with the flour. A quarter teaspoon salt. One and an eighth teaspoons baking powder. That ratio holds.
+
+Plain yogurt. Whole milk. Not Greek. Crème fraîche is better than sour cream—tangier, smoother. But sour cream works.
+
+Sugar, eggs, butter. A cup of sugar. Three eggs. Half cup butter melted and cooled. The butter can't be hot or you'll cook the eggs.
+
+Lemon zest from two medium lemons. Finely grated. The extract is optional but add it. One teaspoon vanilla. One teaspoon lemon extract if you have it.
+
+For the glaze: apricot jam warmed. A tablespoon honey. Powdered sugar. Milk or water to thin it.
+
+## How to Make Cake Using Yogurt
+
+Preheat to 340. Butter a 9 by 5 bread pan or spray it. Sit the pan on a baking sheet—spills happen and this saves your oven.
+
+Whisk the flour with the baking powder and salt. Set it aside. Do this part now. Dry mix lifts more evenly.
+
+Room temperature ingredients matter here. Cold batter resists mixing. Grab the yogurt and crème fraîche ahead. Let the eggs sit out.
+
+In a mixer bowl or a regular bowl with a hand mixer, combine the yogurt, crème fraîche, sugar, and eggs. Beat about a minute until it's pale and slightly fluffy. Don't overdo it.
+
+Add the lemon zest and vanilla and lemon extract. Beat just to combine. Now drizzle the melted butter in slowly while the mixer runs. The fat coats the proteins and tenderizes the crumb.
+
+Fold in the flour gradually. The batter might look lumpy. That's normal—yogurt does that. Resist the urge to overmix or you'll end up with a tough cake.
+
+Pour it into the pan. Smooth the top with a spatula. Should fill most of the pan without overflowing.
+
+## How to Get Lemon Cake Made With Yogurt Golden and Set
+
+Bake on the middle rack. Around 58 to 70 minutes. Watch for the crust to crackle and the top to turn golden brown.
+
+Press the top lightly. If it springs back, you're close. Use the toothpick test in the thickest center. If it comes out wet, let it go longer.
+
+If the top threatens to burn before the inside is done, tent it loosely with foil. Keeps moisture in without messing with the oven temp.
+
+Cool it in the pan for 10 to 15 minutes. The cake shrinks slightly from the sides. Run a knife around the edges if it's stubborn. Tap the pan bottom gently.
+
+## Lemon Yogurt Cake Tips and Common Mistakes
+
+The glaze is important. Warm the apricot jam in a small saucepan on low heat. Stir in the honey. Off heat, whisk in powdered sugar gradually until it's thick enough to pour but not runny. Too thick? Add a splash of milk or water. Too thin? More sugar.
+
+Test the glaze on parchment before you commit to the cake—you'll see exactly how it drips.
+
+Pour it evenly over the cooled cake. Let it set before you slice. You can chill it a bit for cleaner cuts but room temperature slices cleaner than cold.
+
+Serve it at room temp or slightly chilled. The crumb is dense with pops of citrus. It keeps several days wrapped tightly. Freezes well as slices.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Yogurt and Lemon Cake
+
+**Can you use Greek yogurt instead of plain yogurt?**
+No. Greek yogurt is too thick. The cake needs the liquid from plain yogurt. It won't rise the same way.
+
+**Do you really need crème fraîche?**
+Sour cream works. It's less tangy, changes the flavor slightly, but the texture comes out fine. Haven't tried anything else.
+
+**What if the top cracks while baking?**
+That's normal with yogurt cakes. The glaze covers it.
+
+**How long does this cake made with yogurt actually keep?**
+Several days wrapped tight at room temperature. Longer in the fridge. Slices freeze for a month easy.
+
+**Can you make this as a sheet cake instead of a loaf?**
+Yeah. Adjust the bake time down—maybe 35 to 45 minutes in a 9 by 13. Check earlier.
+
+**Why lemon extract when you already have lemon zest?**
+The extract hits different. You don't need it. But if you want the citrus to punch through, it does that.
