@@ -1,10 +1,10 @@
 ---
-title: "Sole Potato Gratin"
+title: "Scalloped Potatoes with Sole and Swiss Chard"
 slug: "sole-potato-gratin"
-description: "A layered dish merging tender sliced potatoes with gently wilted leeks and Swiss chard, simmered in white wine and cream, baked to melting softness, topped with delicate sole fillets and fresh tarragon. Subtle nutmeg heat, salt-pepper balance, fresh green herbs. Replaces spinach with Swiss chard, replaces butter by olive oil to cut heaviness. Cooked in stages to coax potato softness without fish toughness. Wine reduced enough to avoid bitterness but keep aroma. Cream replaced by half-and-half for lighter richness, but still clingy sauce. A twist with tarragon adds anise-licorice perfume contrasting the mild sole. Timing based on potato tenderness and opaque fish flesh. Gourmand, restrained, thoughtful layers."
-metaDescription: "Sole Potato Gratin layered with tender potatoes, Swiss chard, white wine, half-and-half, topped with sole and fresh tarragon. French-inspired, balanced, earthy flavors."
-ogDescription: "Tender potatoes simmered in wine, cream, greens, topped with delicate sole fillets and fresh tarragon. Layers of texture, subtle nutmeg, no butter here."
-focusKeyphrase: "Sole Potato Gratin"
+description: "Layered scalloped potatoes with leeks, Swiss chard, and sole fillets baked in white wine and half-and-half cream. Tender Yukon Gold potatoes topped with fresh tarragon."
+metaDescription: "Scalloped potatoes recipe with leeks, Swiss chard, and delicate sole fillets in creamy white wine sauce. Try it tonight."
+ogDescription: "Elegant gratin of tender potatoes, leeks, Swiss chard, and sole fillets finished with fresh tarragon."
+focusKeyphrase: "scalloped potatoes and"
 date: 2025-08-05
 draft: false
 image: sole-potato-gratin.jpg
@@ -20,10 +20,18 @@ tags:
 - "main dish"
 - "easy dinner"
 keywords:
+- "scalloped potatoes and"
 - "potato gratin"
-- "sole fillets"
-- "Swiss chard"
-- "white wine cream sauce"
+- "potatoes au gratin"
+- "potato dauphinoise"
+- "gratin"
+- "leek and potato gratin"
+- "potato and cream bake"
+- "au gratin"
+- "potatoes dauphinoise"
+- "fish and potato gratin"
+- "creamy potato bake"
+- "sole fillet recipes"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -67,3 +75,86 @@ faq:
 - "q: Can I prep ahead? a: You can sweat leeks and chard stages day before, keep cool. Slice and soak potatoes in water to stop browning. Assemble before baking but fish best added just before final roast to avoid overcooking or texture loss."
 
 ---
+
+Cut the leeks thin. Really thin. Heat the oil low and watch them turn sweet—6, 7 minutes, maybe more. They won't brown. That's the point. The chard goes in next, wine hisses, everything collapses down into something soft and green and silky.
+
+## Why You'll Love This Scalloped Potatoes and Seafood Dish
+
+Sole on top of a potato gratin sounds fancy. Takes 25 minutes to prep, an hour in the oven, done. 
+Weeknight dinner that tastes like you planned it for three days.
+The potatoes stay creamy, never chalky. Fish cooks gently in the oven—no pan, no watching constantly, no burned edges.
+Leftovers work cold. Actually better cold.
+One dish. One oven. Cleanup isn't nothing, but it's contained.
+
+## What You Need for Potato Au Gratin with Sole
+
+Yukon Gold potatoes. Not russets. The texture matters—they hold their shape instead of turning to paste.
+
+Leeks sliced thin. The white and light green parts. Dark stuff gets tough. Olive oil—good stuff. You taste it here. Six cloves would be a lot garlic but leeks aren't garlic, they're sweeter, need time to soften.
+
+Swiss chard, stems off, leaves chopped loose. Kale works too but needs longer. White wine, dry. Whatever you'd drink. Half-and-half cream, not heavy cream. It's richer but not as heavy. Low sodium vegetable broth because salt comes later.
+
+Sole fillets, skin off. Any mild white fish holds here—flounder, halibut, even cod if sole's gone. About 750 grams, or 1 and a half pounds. Tarragon at the end. Dried tastes like nothing. Fresh changes everything. Nutmeg—freshly grated. The tiny bit you grate yourself, not shaker stuff. Salt. Black pepper.
+
+## How to Make Scalloped Potatoes and Seafood
+
+Heat the oven to 350. Get it there while you work.
+
+Leeks first. Slice them thin. Rinse hard because dirt hides between layers. Heat the oil slow in a wide pan. Not hot—low heat. Drop the leeks in and stir. They soften, turn translucent, smell sweet. Takes 6 or 7 minutes. You'll hear a faint sizzle. If it's loud, turn it down. The leeks should gloss with oil, not brown.
+
+In goes the chard. Pour the wine over it. It hisses. That's the wine evaporating off the heat. The leaves wilt down fast, almost immediately. Stir it. Keep the heat moderate. The wine concentrates, sharpens. After 5 minutes the chard's soft, velvety, not mushy. You smell the acidity of wine mixed with green things.
+
+Broth and cream go in next. Stir slow. Then fold the potato slices in gently, like you're not crushing anything. Every slice should get coated in cream. Nutmeg—pinch of it, freshly grated, right over the top. Salt. Pepper. Generous. The layers need seasoning all the way through, not just at the end.
+
+## How to Layer and Cook Potato Gratin with Fish
+
+Transfer everything to a casserole dish. Cover it tight with foil or a lid. Into the oven for 35 to 45 minutes.
+
+Watch for the potatoes. They should pierce with a fork but not fall apart. The sauce bubbles gently under the foil. You'll see tiny steam vents forming at the edges. If it looks dry halfway—and it might—add a splash more broth or cream. Potatoes need moisture or they tighten up.
+
+Pull the dish out. Uncover it carefully. Steam comes up hard. Lay the sole fillets on top. They should be pale, matte, firm. Season the fish itself with salt and pepper. That's all. No marinade, no oil. Fish flavors are delicate.
+
+Back to the oven, uncovered now. 20 minutes. Watch it. The fillets turn opaque, flake if you press them gently with a fork. Too long and they turn rubbery, bluish, wrong. The oven shouldn't be screaming hot or the outside cooks before the center gets warm.
+
+## Potato Au Gratin Tips and Doneness Cues
+
+The potatoes soften from the liquid, not from browning. Don't expect golden. You'll get pale, creamy, nothing dark about it.
+
+Nutmeg is subtle. You don't taste "nutmeg"—you taste the potato creaminess elevated somehow. It's weird and works.
+
+Fish timing is tight. Overcooked by 5 minutes and it's done. Underdone and it's mushy inside, translucent still. That opaque shift happens fast. Pay attention the last 5 minutes.
+
+Tarragon goes on after cooking. Fresh. Chopped fine. The anise thing it has—that bright kick—cuts through the richness. Not optional.
+
+The whole thing rests 5 minutes after it comes out. Not a long rest. Just enough so the layers settle. Juices redistribute. Then serve it while it's still steaming.
+
+If no sole, flounder works the same way. Halibut too. Anything mild and white and firm enough to hold shape on the potatoes. Dark fish changes the dish entirely—skip it.
+
+Swiss chard is the green here. Kale needs 2 extra minutes in the first step. Collard greens toughen faster, adjust down by a minute. Never use spinach—it disappears.
+
+Cream substitution—coconut milk, full fat, gives a different thing. Sweeter. Less traditional. It works but it's not the same dish anymore.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Potato Au Gratin and Seafood
+
+**Can I make the potato gratin ahead and add the fish later?**
+Yes. Cook the potatoes dauphinoise style part completely. Chill it. Then lay fish on top and roast 20 minutes before eating. Cold potatoes need maybe 5 extra minutes in the oven but it works fine.
+
+**What if the potatoes aren't soft after 45 minutes?**
+Slice them thinner next time. But usually—they soften. If not, cover again and add 10 more minutes. Some ovens run cool.
+
+**Do I need tarragon or can I skip it?**
+You need it. Dried won't work. Fresh tarragon. Non-negotiable. The whole dish tastes flat without it.
+
+**Can I use heavy cream instead of half-and-half?**
+It'll be richer, heavier. More like traditional potatoes au gratin. Half-and-half keeps it lighter. Both work. Heavy cream makes it more decadent though.
+
+**How do I tell if the sole is done?**
+White all the way through. Press it with a fork—flakes easily. Takes about 20 minutes at 350. If it's still translucent, not opaque, it needs more time. If it's dry and rubbery—overcooked.
+
+**Can I use frozen fish?**
+Thaw it completely first. Pat it dry. Skin still off. Otherwise it cooks the same way, same timing.
+
+**Does this keep as leftovers?**
+Cold, 3 days in the fridge. Reheats okay in a 300-degree oven covered for 20 minutes. Tastes better cold, honestly.
