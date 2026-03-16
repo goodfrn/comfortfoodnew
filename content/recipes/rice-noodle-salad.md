@@ -1,10 +1,10 @@
 ---
-title: "Rice Noodle Salad with Tahini"
+title: "Rice Noodle Salad with Tahini, Tofu & Mango"
 slug: "rice-noodle-salad"
-description: "Rice noodles tossed in a tangy tahini dressing mingled with marinated tofu, ripe mango, and creamy avocado. Soya sauce adds an umami punch to cubes of firm tofu given time to soak it all in. Black sesame seeds toast slightly, offering a nutty crunch atop vibrant coriander leaves. A splash of lime juice and a hint of sambal oelek kick the dressing into spicy gear. Noodles rinsed cold, texture firm but pliable, then cut for easy eating. Quick, fresh, no fuss, dairy-, nut-, and egg-free."
-metaDescription: "Rice Noodle Salad with Tahini brings chewy noodles tossed in spicy, tangy dressing with marinated tofu, ripe mango, creamy avocado, and toasted sesame crunch."
-ogDescription: "Noodles rinsed cold, tofu soaking up soy, tangy tahini dressing with lime and sambal, mango and avocado slices, black sesame crunch for texture punch. Quick prep, intense flavors."
-focusKeyphrase: "Rice Noodle Salad with Tahini"
+description: "Rice noodle salad with tahini dressing, marinated tofu, fresh mango, and avocado. Tangy lime juice and sambal oelek create a vibrant, spicy Asian noodle dish."
+metaDescription: "Rice noodle salad with tahini dressing, marinated tofu, mango, and avocado. Fresh, vibrant, and completely dairy-free. Make it tonight."
+ogDescription: "Vibrant rice noodle salad with tahini dressing, tofu, mango, and avocado. Fresh Asian flavors, dairy-free, ready to eat."
+focusKeyphrase: "rice noodle salad with tahini"
 date: 2025-09-26
 draft: false
 image: rice-noodle-salad.jpg
@@ -20,9 +20,14 @@ tags:
 - "asian"
 - "sesame"
 keywords:
-- "rice noodles"
-- "marinated tofu"
-- "tahini dressing"
+- "rice noodle salad with tahini"
+- "tofu salad"
+- "vegetarian asian noodles"
+- "vegetarian rice noodle salad"
+- "tahini noodle salad with tofu"
+- "rice noodles with mango avocado and tahini dressing"
+- "marinated tofu rice noodle salad with sesame"
+- "tahini dressed noodles with firm tofu and mango"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "380"
@@ -73,3 +78,73 @@ faq:
 - "q: How store leftovers? a: Keep noodles separate from tofu and dressing if possible. Noodles soak dressing fast and turn limp. Leftover tofu marinade lasts a few days refrigerated but discard if smells off. Noodles best same day but sealed fridge good for few hours."
 
 ---
+
+Tofu hits the soy sauce first — that's where the flavor starts, before anything else happens. Rice noodles take three minutes, maybe five if you're not watching. The tahini sauce pulls everything together, but it's the mango and avocado that make it actually sing. This rice noodle salad with tahini dressing isn't complicated. Just needs the right timing.
+
+## Why You'll Love This Vegetarian Rice Noodle Salad
+
+Comes together in 33 minutes total. Marinated tofu does most of the work while you prep everything else.
+Tahini dressing coats every strand — way better than oil, sticks around, tastes like it has something going on.
+Works cold. Tastes fine the next day if you keep the noodles and dressing separate.
+Actually filling. Tofu plus tahini plus mango means it's not just leaves and vinegar.
+One bowl. One sauce. Asian flavors without a bunch of different bottles everywhere.
+
+## What You Need for Marinated Tofu Rice Noodle Salad
+
+Medium-firm tofu. Press it first if it's sitting in water — soggy tofu ruins the whole thing. Cube it. About 280 grams. Low-sodium soy sauce. Fifty milliliters. That's your marinade base right there.
+
+Rice noodles. Two hundred grams, somewhere around there. They puff up when cooked.
+
+Tahini. Seventy milliliters. The whole sauce rests on this — creamy, nutty, holds everything together. Water. Seventy milliliters. Loosens the tahini or it's concrete. Fresh lime juice. Twenty-five milliliters. Not bottled. Not powdered. The juice from the actual lime. Fish sauce or vegan soy sauce substitute if you're skipping fish — twenty milliliters either way. Maple syrup. Twenty milliliters. Sweetness. Sambal oelek. Six milliliters. Heat. Just enough to prickle.
+
+Garlic. One small clove, minced fine. A firm ripe mango. Thinly sliced. Not mushy. Avocado. Same deal — firm, ripe, thin slices. Fresh coriander leaves. Twenty grams. Black sesame seeds, toasted. Ten milliliters.
+
+## How to Make Tahini Noodle Salad With Tofu
+
+Cube the tofu first. Get it into a shallow dish. Pour the soy sauce over. Toss gently — you're not trying to break it. Let it sit. Fifteen to twenty-five minutes while you do everything else. Watch it soak in the color. Matters more than you'd think. Dark tofu tastes like something. Pale tofu tastes like nothing.
+
+Boil salted water. Not wimpy water — actually boiling, really going at it. Drop the noodles in as the water bubbles hard. Don't walk away. Three to five minutes. You're aiming for chewy with a tiny bit of resistance — al dente. Not mushy. Drain them. Cool fast under cold running water. Two rinses minimum. Gets the starch off. Drain again. Use scissors to snip the noodles shorter — way easier to eat, no tangled mess hanging off your fork.
+
+## How to Get Tahini Dressed Noodles Properly Coated
+
+Bowl. Large one. Tahini goes in first. Whisk it with water until it loosens and gets creamy — this takes actual whisking, not just stirring once. Add the lime juice. Fish sauce or soy sauce substitute. Maple syrup. Sambal oelek. Minced garlic. Whisk hard. The dressing should be smooth. It should gloss when you lift the whisk. Too thick? Splash more water. Tiny splash. Taste it now. Lime acidity hitting? Fish sauce doing its thing? Sweetness there? Heat from the sambal? Fix whatever's off. This is the part where it either works or doesn't.
+
+Drop the noodles in. Use tongs or two forks — lift and fold the noodles through that dressing. Over and over. Everything's coated. No dry bits hiding in clumps. No streaks.
+
+## Rice Noodle Salad Tips and Mistakes
+
+Press the tofu before marinating if it's sitting in water. Five minutes under something heavy. Water ruins texture.
+
+You can pan-fry the tofu for crispy edges instead — medium heat, both sides until brown. Changes the whole thing, makes it richer. Worth trying.
+
+No fish sauce? Use soy sauce plus a splash of rice vinegar. Not the same but close enough.
+
+Mangos too soft and mushy? Use firm papaya or peaches. Same vibe, better texture holding up.
+
+Avocado ripeness is everything. Too soft and the whole salad falls apart. Too hard and it's waxy. Ripe but firm is the needle to thread.
+
+Toast the sesame seeds yourself. Two minutes in a dry pan. Burnt is bitter. Raw is bland. There's a window.
+
+Store it wrong and it gets mushy — noodles soak up the dressing over time. Keep the noodles and dressing separate if you're saving it. Toss together when you eat.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Tahini Rice Noodles With Tofu
+
+**Can I make this vegetarian rice noodle salad ahead of time?**
+Sort of. Prep everything separately — noodles in one container, dressing in another, toppings in a third. Store for maybe a day. Toss together right before eating. Dressing makes noodles soggy if they sit in it.
+
+**What if I don't have tofu?**
+Chickpeas work. Tempeh works better — marinate the same way. Haven't tried seitan. Probably fine.
+
+**Can I use white sesame seeds instead of black?**
+Sure. Tastes the same. Black just looks better on the plate.
+
+**How do I know if the noodles are cooked right?**
+Three to five minutes in boiling water. Bite one. Should have a slight chew, not gummy. Should have a tiny bit of resistance in the center.
+
+**Can I add more protein to this tahini noodle salad with mango and avocado?**
+Boiled egg. Grilled chicken if you want. The tofu's already enough though — tahini's got protein too.
+
+**What's the difference between tahini dressed noodles and regular sesame oil dressing?**
+Tahini coats better. Sticks. Sesame oil pools at the bottom. Tahini tastes richer, earthier. Different vibe entirely.
