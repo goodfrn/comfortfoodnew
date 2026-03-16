@@ -1,10 +1,10 @@
 ---
-title: "Zesty Corn Avocado Salad"
+title: "Mexican Corn Salad with Avocado"
 slug: "zesty-corn-avocado-salad"
-description: "Cut fresh corn off the cob then toss with ripe avocado, crumbly cheese replaced with cotija, crisp red onion, tangy crema swapped for sour cream, fresh cilantro, lime juice, salt, and smoky chipotle powder instead of chile powder. Chill to let flavors mingle but don’t lose the crunch. Toss again right before serving. A vibrant summer side; texture contrasts shine. Corn kernels firm with slight pop, avocado creamy but intact, cilantro biting with freshness. Simple but packed with punch and smoky depth from chipotle. Quick prep. No cook time, just fresh assembly and chill."
-metaDescription: "Zesty Corn Avocado Salad with fresh corn, cotija cheese, lime juice, chipotle powder, crisp onion, and cilantro. Fresh, smoky, creamy textures mingle in 20 minutes."
-ogDescription: "Fresh corn, creamy avocado, tangy cotija, smoky chipotle powder, sharp onion, bright lime juice. Toss gently, chill briefly, serve fresh crunch with bold flavors."
-focusKeyphrase: "Zesty Corn Avocado Salad"
+description: "Fresh corn and ripe avocado tossed with cotija cheese, red onion, cilantro, lime juice, and chipotle powder. A vibrant Mexican corn salad that's ready in minutes."
+metaDescription: "Mexican corn salad with fresh corn, creamy avocado, cotija cheese, and cilantro lime dressing. Quick, no-cook side dish. Make it tonight."
+ogDescription: "Fresh corn, avocado, cotija cheese, and cilantro lime flavors with smoky chipotle. A vibrant Mexican salad ready in minutes."
+focusKeyphrase: "mexican corn salad"
 date: 2025-11-13
 draft: false
 image: zesty-corn-avocado-salad.jpg
@@ -21,9 +21,18 @@ tags:
 - "mexican"
 - "easy"
 keywords:
-- "corn avocado salad"
+- "mexican corn salad"
+- "avocado salad"
+- "mexican street corn salad"
+- "cilantro lime salad dressing"
+- "elote salad"
+- "esquites recipe"
+- "street corn salad"
+- "mexican salads recipe"
+- "fresh corn salad"
 - "cotija cheese salad"
-- "chipotle powder salad"
+- "lime cilantro dressing"
+- "summer corn salad"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "140"
@@ -66,3 +75,61 @@ faq:
 - "q: Best way to store leftovers? a: Cover tightly, fridge only a few hours max–avocado browns and corn leaks water. Add fresh cilantro just before serving again. Re-toss to bring back texture. Avoid freezing salad; ruins avocado texture."
 
 ---
+
+Corn comes off the cob first. Avocado goes in whole chunks, not mashed. That's the whole thing right there.
+
+## Why You'll Love This Avocado Salad
+
+Twenty minutes. No cooking. Tastes immediately bright—lime and cilantro hitting first, then the smoky chipotle creeping in after. Corn stays crunchy. Avocado doesn't turn brown because you're eating it the same day you make it. Works as a side for grilled chicken, fish, literally anything with a little char on it. Or just eat it cold straight from the bowl with tortilla chips. Cotija cheese is salty enough that you don't need much else. Mexican street corn flavor without the mayo mess all over your hands.
+
+## What You Need for This Mexican Corn Salad
+
+Corn—five ears, fresh, husked. That's non-negotiable. Frozen thawed corn works in a pinch but it's softer, less snap. One large avocado. Ripe means it gives slightly when you press it. Not hard. Not mushy. One cup cotija cheese, crumbled. Not feta. Cotija's drier, saltier, stays distinct instead of melting into everything. Half a cup of red onion chopped fine but not minced. The bite matters. Sour cream, a third of a cup. Thin it with lime juice if it's too thick. Fresh cilantro chopped, a third of a cup. Stems removed. Salt, one teaspoon. Chipotle powder, one teaspoon. Lime juice, three tablespoons. Fresh. Squeeze it yourself.
+
+## How to Make This Mexican Corn Salad
+
+Hold the ear vertically over a bowl. Sharp knife, short controlled strokes. Slice the kernels off. Some juice releases—that's the good stuff, keep it. The corn sweet smell replaces the green husk smell. You want full kernels, not smashed pieces. Takes maybe five minutes if you're moving steady. All five ears done. Don't rush it.
+
+Peel the avocado. Cut it into half-inch chunks. Ripe means slightly soft when you press it, not mushy. Too ripe and it falls apart in the dressing. Cotija next. Crumble it with your fingers. Red onion chopped fine. Then fold everything together gently. Not stirring. Folding. The avocado breaks if you get rough about it.
+
+## How to Get the Texture Right in This Cilantro Lime Salad
+
+Dollop the sour cream in. If it's too thick, add a splash of lime juice or water so it coats everything without clumping. Chopped cilantro goes in now. Rock your knife through it so the pieces are small but the stems come off. Stems taste bitter. Squeeze the lime juice—that fresh, tart, green smell means it's good. Lime juice is brightness here. Too little and everything tastes flat. Three tablespoons usually does it. Salt now. Chipotle powder last. It's smoky with a burn that builds. Use less if you don't like heat.
+
+Toss gently like shaking a tambourine. Not violently. The point is everything mingling but staying separate—corn still firm, avocado chunks visible, cheese crumbles intact. You want that crunch and soft and creamy contrast. Refrigerate for maybe fifteen minutes. Flavors settle. Just don't leave it longer than that or the avocado discolors and everything goes watery. Stir once before serving.
+
+## Mexican Corn Salad Tips and Common Mistakes
+
+Overripe avocado kills it. Brown and mushy. Stays in the bowl after everything else gets eaten. Watch ripeness. If it's too soft when you cut it, use it right before serving, don't let it sit in the dressing.
+
+Too little lime juice makes the whole thing taste dull. Three tablespoons is the minimum. Squeeze fresh. Bottled lime juice tastes like nothing.
+
+Undercooked corn tastes raw and hard. Slice the kernels off clean. Listen for that sweet corn smell. If it doesn't smell sweet, it's not ready.
+
+Overmixing mashes the avocado and cheese into a paste. Fold, don't stir. Your fingers work better than a spoon here.
+
+Fresh corn is better than frozen but canned works if that's all you have. Don't use the liquid from canned. Drain it completely. Actually, roast it first on a dry skillet over medium-high heat for a minute or two until char spots show. Adds smoke. Listen for popping sounds. Avoid overcooking.
+
+One other thing—slice the corn kernels in thin layers. Maximizes the juice release and aroma. Thick clumps don't integrate as well with the lime and chipotle.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Avocado Salad
+
+**Can I make this ahead?**
+Not really. Twenty minutes before you eat it, max. Avocado browns fast once it's cut and sitting in lime. The sour cream starts breaking down after a while too. Everything gets soggy and separated.
+
+**What if I don't have cotija cheese?**
+It's not the same but queso fresco works. Feta's too soft and tangy. Cotija's crumbly and salty and stays distinct. Haven't tried cheddar. Probably doesn't work.
+
+**Can I use frozen corn?**
+Yeah. Thaw it completely. Drain the water. Texture's softer, less crunch, but it gets the job done. Fresh corn's better. Not even close.
+
+**How ripe should the avocado be?**
+Slightly soft. Press it gently. Should give under pressure but not mushy. If you're cutting it and the inside's brown—don't use it. If you cut it the day before, it'll turn brown sitting there. Cut it when you're ready to eat.
+
+**Should I serve it cold or room temperature?**
+Cold. Twenty minutes in the fridge lets flavors settle. But not cold like ice cold. Just cool. Room temperature works too if you're in a rush.
+
+**What's the heat level from the chipotle powder?**
+Smoky with a polite burn. One teaspoon is medium. Use less if you're sensitive. Use more if you like heat. Just start with less—you can always add more.
