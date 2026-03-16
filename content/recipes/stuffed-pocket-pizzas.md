@@ -1,10 +1,10 @@
 ---
-title: "Stuffed Pocket Pizzas"
+title: "Dough for Pizza with Smoked Provolone"
 slug: "stuffed-pocket-pizzas"
-description: "Dough with warm water, olive oil swapped for vegetable oil, honey cut by 1/3, flour reduced by 20%. Added smoked paprika for sauce twist. Replaced chorizo with spicy Italian sausage; swapped mozzarella for smoked provolone. Dough proofed slightly shorter. Sauce simmered 5 more minutes for thickness. Filling softened gently. Pockets sealed with milk then egg wash for a crispier crust. Baked till golden with bubbling cheese. Cool 15. Good frozen, reheat by oven heat-up. Total 1h10. Sixteen pockets, great for snacks or meal sets."
-metaDescription: "Stuffed Pocket Pizzas with spicy Italian sausage, smoked provolone, crispy edges. Dough proofed shorter, sauce thicker, baked golden, cool before bite."
-ogDescription: "Crispy pocket pizzas filled with smoky sausage, deep smoky paprika sauce, melted provolone. Egg wash seals edges; bake till golden and bubbly."
-focusKeyphrase: "Stuffed Pocket Pizzas"
+description: "Make pizza dough with warm water, vegetable oil, and honey. Filled with spicy Italian sausage, mushrooms, and smoked provolone cheese for authentic homemade pizza."
+metaDescription: "Easy pizza dough recipe with warm water, vegetable oil, and honey. Topped with spicy Italian sausage, mushrooms, and smoked provolone. Make it tonight."
+ogDescription: "Homemade pizza dough with spicy Italian sausage, mushrooms, and smoked provolone cheese. Ready in just over an hour."
+focusKeyphrase: "dough for pizza"
 date: 2025-08-07
 draft: false
 image: stuffed-pocket-pizzas.jpg
@@ -21,9 +21,16 @@ tags:
 - "easy dinner"
 - "party"
 keywords:
-- "pocket pizza"
-- "spicy Italian sausage"
-- "smoked paprika sauce"
+- "dough for pizza"
+- "easy pizza dough recipe"
+- "homemade pizza dough"
+- "pizza dough recipe"
+- "recipe pizza crust"
+- "simple pizza dough recipe"
+- "homemade pizza recipe"
+- "italian sausage pizza"
+- "best pizza dough recipe"
+- "easy pizza dough"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "280"
@@ -121,3 +128,121 @@ faq:
 - "q: How to store and reheat? a: Freeze fully cooled only. Wrap airtight, plastic and foil combo stops freezer burn. Oven reheat best 190C 15 mins; restores crisp. Microwave shrivels crust, soggy inside. Thaw overnight fridge for even heating, shortens bake time."
 
 ---
+
+Warm water, a bit of honey, and you've got dough rising in under an hour. These pizza pockets—filled with sausage sauce, roasted vegetables, smoked provolone—work for a weeknight dinner or a party where people actually eat what you make. Tried this first with store dough. Burned it. Made it from scratch instead and it held together, got crispy, tasted like something.
+
+## Why You'll Love This Easy Pizza Dough Recipe
+
+Takes 50 minutes to prep, 25 in the oven. One hour fifteen total. That's faster than ordering.
+
+Actually tastes like bread, not air pockets pretending to be food. The honey's barely there but it does something.
+
+Homemade pizza dough means you control the crust. Crispy or chewy. Thick or thin. Store versions don't let you do that.
+
+Makes 16 pockets. Party size. Easy dinner for four, leftovers for two more days if they don't disappear first.
+
+Sausage sauce hits different than plain tomato. Brown sugar, vinegar, smoked paprika—the sauce alone is why people ask for the recipe.
+
+Freezes solid. Reheats in 15 minutes. Cold pizza from these is actually good, which nobody expects.
+
+## What You Need for This Pizza Dough Recipe
+
+The dough side: 260 ml warm water—not hot, not cold, around body temperature. 15 ml vegetable oil. 10 ml honey, or honestly skip it if you've got none. 540 ml all-purpose flour, unbleached if you can get it but white works. 10 ml instant yeast. 2.5 ml salt, kosher.
+
+Sauce: 200 ml spicy Italian sausage, diced. The sausage matters more than the tomatoes do, so pick something you'd actually eat alone. Two garlic cloves. 30 ml tomato paste. 10 ml brown sugar. 5 ml red wine vinegar. One 398 ml can diced tomatoes. 2 ml smoked paprika. Salt and pepper.
+
+Filling vegetables: one onion, finely chopped. 92 g mushrooms, small diced—cremini works, button works, white works. Half a red bell pepper, deseeded and diced. 30 ml vegetable oil. 400 ml smoked provolone, shredded. One egg, beaten, plus milk for the wash.
+
+## How to Make Pizza Dough from Scratch
+
+Warm water goes in a bowl with the oil. Add honey. Stir a few seconds. Honey doesn't dissolve completely and that's fine.
+
+Large bowl or stand mixer—whisk the flour, yeast, salt together. Pour in the water mixture. Stir with a wooden spoon until it looks like shaggy, barely held-together pieces. Not smooth yet.
+
+Flour your counter. Turn the dough out. Knead for 4 minutes. It should go smooth and elastic. If it's sticking to your hands, dust a bit more flour on top. The goal is slightly tacky, not dry. Overflour kills the texture—makes the crust tough and dense.
+
+Oil a bowl lightly. Roll the dough ball around in it to coat. Cover with a damp towel. Set it somewhere warm—windowsill, top of the fridge, anywhere that's not cold.
+
+Watch it for 50 minutes. Maybe 55 if your kitchen runs cool. The dough roughly doubles. You'll see it rise up in the bowl. Punch it down gently once to keep the air pockets from collapsing completely.
+
+## How to Get This Pizza Dough Crispy and Perfectly Cooked
+
+While the dough rises, make the sauce. Medium-high heat in a pan. Dump in the diced sausage. Let it sit for 2 minutes until the edges crisp and brown. Stir it around. Add the garlic, cook 30 seconds until it smells strong but not burnt.
+
+Tomato paste goes in next. Stir constantly for 3 minutes—this step matters, paste burns if you don't pay attention. Add the smoked paprika here. Brown sugar, vinegar, let it bubble for 2 minutes. The sauce shouldn't look flat anymore.
+
+Pour in the canned tomatoes with all their juice. Raise the heat. Get it to a strong simmer—not a rolling boil, strong. Then turn it down to medium-low and let it sit uncovered for 15 minutes. Stir occasionally so the bottom doesn't scorch. The sauce gets thicker as water evaporates. By the end it smells smoky and slightly sweet, nothing like raw tomato sauce.
+
+Salt and pepper it. Taste it. Fix it.
+
+While that's happening, warm 30 ml oil in a skillet over medium. Throw in the chopped onion, mushrooms, and red pepper. Let them sweat gently for 6 or 7 minutes. They should soften but not brown. Season lightly with salt and pepper.
+
+Pour the cooked vegetables into the cooled sauce off heat. This keeps the cheese from melting into the sauce prematurely when you fill the pockets—watery filling makes the dough soggy.
+
+Preheat your oven to 205°C (400°F). Line baking sheets with parchment.
+
+Divide the risen dough into 16 equal balls. Keep them covered with the towel so the surface doesn't dry out while you work.
+
+Roll each ball into a circle roughly 14 cm across. Thickness is everything. Too thin and it tears when you fold. Too thick and you get dense pockets with raw dough in the middle. Aim for about 3 mm.
+
+Place 45 ml of filling in the center of each circle. Sprinkle 25 ml provolone over the filling. Not melted—just distributed.
+
+Brush half the border with milk. The other half gets beaten egg. Egg seals better and browns darker than milk alone.
+
+Fold the dough over and press the edges with your fingertips, hard. Use the fork edge to press a light pattern around the seal. This keeps it from opening in the oven.
+
+Brush the top with egg wash. This is what makes it golden and gives it gloss.
+
+Bake 20 to 25 minutes. Watch the crust color. When it's golden and puffed and you see cheese oozing or sizzling through the vents, it's done.
+
+Transfer to a rack. Cool at least 15 minutes. These things retain heat like a weapon. Bite one hot and you'll burn your mouth or get a soggy inside from the steam.
+
+## Pizza Dough Tips and Common Mistakes
+
+Water temperature matters. Aim for room temp, around 37°C (98°F). Hotter kills the yeast. Colder slows the rise drastically and the dough never rises.
+
+Dough that's slightly sticky but holds together means knead it more. Too dry makes the final crust tough. That's worse than slightly tacky.
+
+Don't let the dough rise longer than an hour. It gets slack and harder to shape. Overproof and you're fighting the dough instead of folding it.
+
+Sauce needs to thicken. Watery sauce soaks into the dough and ruins the crisp you worked for. Simmer the full 15 minutes.
+
+Filling works better made a day ahead. Flavors marry. Add the cheese on assembly, right before you fill—stops it from melting into the sauce and making everything greasy.
+
+Seal edges right away while the dough's still fresh. Let it dry a bit, then bake quickly. If you wait too long the dough sticks to everything and tears when you move it.
+
+Provolone melts differently than mozzarella. It's nuttier, more savory. If you swap to mozzarella add 20% more because it goes further. Mozzarella is blander—you'll need extra.
+
+Storage: freeze cooled pockets in an airtight container for up to a month. Reheat at 190°C (375°F) for about 15 minutes. Microwave makes the crust soggy. Don't bother.
+
+If you've got chorizo instead of spicy Italian sausage, use it. Different texture, less fat release, but it works.
+
+Vegetable oil instead of olive oil works fine if you want the filling flavors louder. Olive oil adds something.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Pizza Dough
+
+**Can I use all-purpose flour instead of unbleached?**
+Yeah. All-purpose works. Unbleached just has slightly better flavor and a cleaner color. Not a big difference.
+
+**How do I know when the dough has risen enough?**
+Poke it with a floured finger. If the indent springs back halfway, it's ready. If it springs all the way back, wait longer. If it stays, you've overproofed it. You'll learn the feel.
+
+**Can I make this dough the night before?**
+Put it in the fridge after the first rise. Fold it gently, cover it, go to bed. Next morning, let it come to room temperature before shaping. Cold dough is hard to work with.
+
+**What if I don't have instant yeast?**
+Active dry works. Add 25% more and give it extra time. Not worth swapping to fresh yeast—different animal entirely.
+
+**Do the pockets have to be sealed with egg wash?**
+No. Milk works alone but the crust won't brown as nicely. A fork seal holds fine by itself, the egg just makes it darker and shinier.
+
+**Can I bake these on a pizza stone instead of a sheet?**
+Haven't tried it on stone. Sheet pan works fine. Stone probably works too if it's hot enough. Just watch the bottom doesn't char.
+
+**How long do these keep in the fridge?**
+Two days max unrefrigerated, don't do it. Three to four days in the fridge. After that they start tasting weird. Freeze them instead.
+
+**What's the difference between making these and regular pizza?**
+These are hand pies. Filling sealed inside. Easier to eat without it falling apart. Regular pizza you top and slide. Different approach, same dough essentially.
