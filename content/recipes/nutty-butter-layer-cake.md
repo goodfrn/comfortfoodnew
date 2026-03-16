@@ -1,10 +1,10 @@
 ---
-title: "Nutty Butter Layer Cake"
+title: "Brown Butter Layer Cake with Coffee Mousse"
 slug: "nutty-butter-layer-cake"
-description: "Brown butter transforms the cake base, lending a deep toasted note. Cake pans prepped with shortening, parchment, and flour create layers with clean release. Gelatin and coffee liqueur give mousse a rich, slightly boozy complexity, folded with whipped cream for airiness. Alternate beating and folding keep textures distinct yet harmonized. Baking at a low temp ensures gentle rise and moist crumb. The buttercream frosting seals flavors and holds the assembled layers together. Timing cues rely on color, smell, and texture rather than clocks alone. Each element handled with purpose, few shortcuts. Twist in cake flour for lighter bite. Simple swaps easily accommodate pantry staples."
-metaDescription: "Nutty Butter Layer Cake uses browned butter and a careful flour mix for rich texture. Dark chocolate mousse folding, gelatin set, coffee liqueur depth. Low-temp bake moisture."
-ogDescription: "Brown butter deepens flavor in Nutty Butter Layer Cake. Mousse folded gently with gelatin, coffee liqueur hints. Low-temp bake yields moist, tender crumb. Texture cues rule timers."
-focusKeyphrase: "Nutty Butter Layer Cake"
+description: "Brown butter layer cake with gelatin-coffee mousse and whipped cream filling. Unsalted butter, eggs, and all-purpose flour create moist layers sealed with buttercream frosting."
+metaDescription: "Brown butter layer cake recipe with coffee liqueur mousse, whipped cream, and bittersweet chocolate. Made with unsalted butter and all-purpose flour. Make it tonight."
+ogDescription: "Rich brown butter layer cake layered with coffee mousse, whipped cream, and chocolate. Built with unsalted butter and gelatin for elegance."
+focusKeyphrase: "brown butter layer cake"
 date: 2025-12-10
 draft: false
 image: nutty-butter-layer-cake.jpg
@@ -19,9 +19,16 @@ tags:
 - "hazelnut"
 - "dessert"
 keywords:
-- "brown butter"
-- "gelatin mousse"
-- "cake flour substitute"
+- "brown butter layer cake"
+- "butter layer cake"
+- "coffee liqueur mousse cake"
+- "brown butter cake recipe"
+- "layered mousse cake"
+- "chocolate layer cake"
+- "coffee mousse filling"
+- "whipped cream cake"
+- "gelatin mousse cake"
+- "buttercream frosting cake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "450"
@@ -96,3 +103,102 @@ faq:
 - "q: How to store leftover cake? a: Wrap tight in plastic wrap or store in airtight container. Refrigerate to keep mousse firm and prevent buttercream softening. Bring to room temp before serving for best texture. Freeze slices wrapped well; thaw slow."
 
 ---
+
+Melt the butter slow. Watch the milk solids turn from white specks to actual brown, smell shifts to something nutty and deep. That's the whole thing—brown butter cake starts there, 12 minutes of paying attention instead of rushing it.
+
+## Why You'll Love This Brown Butter Hazelnut Cake
+
+Two layers, rich and tender. The brown butter gives it a depth that regular butter just doesn't have.
+Chocolate mousse filling—stable, glossy, spreads smooth. Gelatin keeps it from falling flat like regular whipped cream does.
+Takes an hour total, maybe a bit more if you're slow. Not a weekend project.
+Tastes better the next day. Flavors settle, mousse firms up properly.
+Uses coffee liqueur in the filling but tastes like sophisticated dessert, not boozy.
+
+## What You Need for Brown Butter Hazelnut Cake
+
+Two sticks unsalted butter. Melt it slow and brown it right. All-purpose flour—2 1/8 cups, or swap 2 cups cake flour plus 1/8 cup all-purpose if you want it more delicate. Baking powder and fine sea salt. Granulated sugar, 1 1/4 cups. Vanilla extract. Three whole eggs plus 2 yolks. Three-quarters cup whole milk. Shortening for the pans. Gelatin powder—1 tablespoon. Cold water. Heavy cream, 1 cup. Coffee liqueur, 2 tablespoons. More sugar for the mousse, 1/3 cup. Salt again, 1/8 teaspoon. Five ounces bittersweet chocolate, melted. Powdered sugar to dust on top.
+
+## How to Make Brown Butter Cake Layers
+
+Heat the oven to 320 degrees. Grease two 8-inch round pans with shortening. Line the bottoms with parchment and dust with flour—tap out what doesn't stick. This keeps the layers even, makes them release clean.
+
+Melt the butter slowly in a saucepan over low heat. Stir often. Watch those milk solids shift from white specks to golden brown. The smell changes—toasted nuts, something warm. About 12 minutes here but not exact. When the browned bits clump slightly and bubbles pop gentle on the surface, done. Don't let it burn dark. Scrape the butter plus every browned bit into a large heatproof bowl.
+
+Set that bowl in an ice water bath. Butter softens but firms up around the edges. Roughly 7 minutes. This step matters for the texture you get when you beat it later. Skip it and the volume doesn't build right.
+
+Whisk flour with baking powder and salt in a separate bowl. Measure precisely. Some people swap to 2 cups cake flour plus 1/8 cup all-purpose here—lighter crumb, more delicate. Works either way.
+
+Pull the butter from the ice bath. Scrape in all the solid bits clinging to the bowl. Beat it 4 minutes till pale and creamy. It lightens noticeably. Air gets trapped. Volume builds. Don't rush or skip this part.
+
+Add the sugar and vanilla. Beat on medium-high till fluffy, about 3 minutes. Then beat in the egg yolks one at a time, then the whole eggs. Mix well after each one. Should thicken smoothly, get shiny.
+
+Alternate adding dry ingredients and milk in 3 additions. Start with dry, end with dry. Stir gently with a spatula after each addition. Avoid overmixing but don't leave streaks.
+
+Divide batter evenly into the pans. Tap them on the counter to release bubbles.
+
+Bake on the middle rack 38 to 43 minutes. Rotate halfway through. Tops should go golden with a slight firm spring back when you touch them. Toothpick test—pull it out clean or mostly clean. Cool the cakes 18 minutes in the pans first. Then invert onto racks and peel the parchment after they're fully cool.
+
+## How to Get the Coffee Liqueur Mousse Filling Right
+
+Sprinkle gelatin over cold water. Let it hydrate 6 to 8 minutes till soft.
+
+Whip the cream till soft peaks form. Chill it briefly.
+
+Warm the coffee liqueur about 40 seconds in the microwave. Stir in the gelatin till fully dissolved. Scrape the bowl walls. Gelatin lumps will ruin the texture.
+
+Beat the egg yolks, sugar, and salt on high until pale and thick. 4 to 5 minutes. Stream in the coffee-gelatin liquid slowly while beating. Fold in the melted chocolate gently—rubber spatula, light strokes to combine.
+
+Fold the whipped cream in two additions. Light and deliberate. You're preserving airiness. Mousse should be thick and glossy, spreadable after chilling 30 to 45 minutes. Sometimes it softens at room temp if too firm. Don't microwave it. Patience.
+
+## Brown Butter Hazelnut Cake Tips and Assembly
+
+Place one cake layer on a platter. Spread mousse generously but evenly across it. No peaks needed. Dust the mousse surface lightly with powdered sugar—adds texture, balances the bittersweet.
+
+Top with the second layer. Press gently. Don't squish mousse out the sides.
+
+Rest the cake chilled minimum 1 hour. Flavors settle. Mousse firms. Serve closer to room temp so the frosting softens slightly.
+
+Watch the brown butter step closely. Too hot burns. Too cool and no browning happens. Smell and color are bigger markers than time. When browned bits clump and bubbles pop gently, you're done. The hazelnut layer cake gets its flavor there, nowhere else.
+
+Butter beating after chilling rounds out the texture. Straight from the pan it's too liquid. Volume won't build.
+
+Brown butter cake flour swap works better than all-purpose alone—more delicate crumb. If you can't find cake flour, 2 cups all-purpose plus 1/8 cup cornstarch gets close.
+
+Mousse gelatin is crucial. Skip it and the filling falls flat. Filter dissolved gelatin through fine mesh if you catch stray bits.
+
+No coffee liqueur? Cold brew concentrate works. Or skip it, add 1 teaspoon espresso powder dissolved in warm water.
+
+Rotate pans halfway. Uneven browning from oven hot spots ruins the cake. Better evenness, better results.
+
+Cool cakes in pans first to prevent collapse. Not so long they steam and get soggy inside.
+
+Temperature matters for frosting—too soft and it slides, too firm and it cracks. Beat to spreadable, not melting.
+
+Mousse can be made ahead 24 hours but cover it tightly. Bring to room temp before using.
+
+Sharp serrated knife. That's how you slice the layered hazelnut cake with mousse filling and get clean layers without smashing.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Brown Butter Hazelnut Cake
+
+**Can I make the brown butter cake layers the day before?**
+Yeah. Wrap them cool and tight. Stale actually helps—less likely to crumble when you spread the mousse.
+
+**What if the mousse breaks when I fold in the chocolate?**
+Too warm. Chocolate melts too hot and seizes the mousse. Let melted chocolate cool 5 minutes before folding. Or it was beaten too much before the chocolate went in.
+
+**The gelatin in my mousse tastes grainy. Why?**
+Didn't dissolve fully. Warm the liqueur more, stir longer. Or strain through fine mesh. Takes an extra minute.
+
+**Do I have to use coffee liqueur? Can I skip it?**
+Sure. Use espresso powder or cold brew concentrate instead. Or just water. Mousse works either way but tastes different—less sophisticated.
+
+**How long does the whole brown butter layer cake last?**
+Four days covered in the fridge. After that the mousse starts separating slightly. Freezes okay for 2 weeks but thaw in the fridge or frosting cracks.
+
+**Can I use salted butter instead of unsalted?**
+Not really. Changes the balance. Brown butter cake needs control over salt amount. Use unsalted.
+
+**What if my cake layer domes in the middle?**
+Oven temp off or you filled the pans too full. Next time fill them slightly less. Or the temperature was too high. Brown butter hazelnut cake prefers 320 degrees for even rise.
