@@ -1,9 +1,9 @@
 ---
-title: "Mustard-Crusted Lamb Shoulder"
+title: "Mustard-Crusted Lamb Shoulder with Root Vegetables"
 slug: "mustard-crusted-lamb"
-description: "Slow-cooked lamb shoulder, coated in robust mustard marinade, paired with a glossy maple-glazed root vegetable stew. Fresh herbs, gentle caramelization, and a sharp persillade finish the dish. Techniques focus on low & slow roasting, controlling moisture for texture, and layering flavors. Swapped celery-rave with turnip; replaced butter with olive oil for dairy-free twist. Timing shifts slightly to enhance tenderness and flavor melding. Use tactile cues over clocks for perfect doneness. A rustic, aromatic meal relying on patience, smell, and sight to nail the finish every time."
-metaDescription: "Mustard-crusted lamb shoulder slow-roasted low temp for hours with thyme mustard, glossy maple root veg, and fresh persillade topping. Rustic, tactile doneness cues."
-ogDescription: "Slow-roasted lamb shoulder coated with robust mustard plus maple-glazed root veg and fresh persillade. Low temp, long hours, sensory cues for texture, aroma, and crust."
+description: "Slow-roasted lamb shoulder crusted with whole grain mustard, served with maple-glazed carrots and turnips. Fresh thyme and garlic marinade creates tender, aromatic comfort food."
+metaDescription: "Mustard-crusted lamb shoulder recipe with slow-roasted carrots and turnips. Whole grain mustard marinade, fresh thyme, and maple glaze. Make it tonight."
+ogDescription: "Slow-roasted lamb shoulder with whole grain mustard crust, carrots, turnips, and fresh herb persillade. Tender comfort food."
 focusKeyphrase: "mustard-crusted lamb shoulder"
 date: 2025-08-04
 draft: false
@@ -21,9 +21,15 @@ tags:
 - "comfort food"
 - "main dish"
 keywords:
+- "mustard-crusted lamb shoulder"
 - "lamb shoulder recipe"
-- "slow cooking lamb"
-- "mustard marinade lamb"
+- "slow roasted lamb with carrots and turnips"
+- "whole grain mustard lamb marinade"
+- "roasted lamb comfort food"
+- "maple glazed root vegetable stew with lamb"
+- "herb crusted lamb shoulder with persillade"
+- "slow cooked lamb shoulder recipe"
+- "lamb shoulder with mustard crust"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "480"
@@ -93,3 +99,122 @@ faq:
 - "q: How to store leftovers? a: Cool quickly, store in airtight container. Keep lamb juices separate or with meat. Veggies reheat gently to avoid turning mushy. Use within 48 hours or freeze. Warm edges reheat unevenly; best to slice before storage. Flavors meld better next day but lose crust crunch."
 
 ---
+
+Eleven hours in a low oven. Lamb so tender it falls apart with a fork. The mustard crust gets this dark, almost mahogany finish that catches light. Had a two-kilo shoulder sitting in the fridge and decided to do it slow instead of fast. Changed everything.
+
+## Why You'll Love This Mustard-Crusted Lamb Shoulder
+
+Takes just over 12 hours total, but most of that's the oven doing the work. You're not standing there.
+Slow roasted lamb shoulder stays impossibly moist. The meat pulls apart. Honestly, use a fork if you want. A knife feels like overkill.
+Whole grain mustard marinade gets deep and savory—nothing acidic or sharp about it. Just works.
+Root vegetables cook down to this glazed, almost candied thing. Carrots and turnips taste nothing like boiled. Better the next day, weirdly.
+Comfort food that actually tastes like you spent time on it. The house smells incredible. That alone might be worth it.
+
+## What You Need for Slow Roasted Lamb Shoulder with Mustard Crust
+
+Lamb shoulder is the cut. Bone-in, around two kilos. Something about the bone changes the whole thing—broth, flavor, texture. Boneless works. Doesn't hit the same.
+
+Whole grain mustard. Not smooth. The texture matters. Seeds stay visible, add this subtle nuttiness that smooth mustard can't touch.
+
+Shallot and garlic for the marinade. French shallot if you can find it. Regular ones fine too. Minced garlic, finely chopped shallot. Size of the pieces affects how they distribute.
+
+Fresh thyme. Dried doesn't work here. The fresh leaves bring something brighter even after 11 hours in heat.
+
+Nantes carrots. Smaller ones. They cook even, stay tender without turning to mush. Regular carrots work—might cook faster, so watch them.
+
+Turnip adds this earthy, subtle bitterness that balances the maple syrup sweetness. Not a traditional root vegetable for this, but it holds shape better than you'd expect. Could skip it. Shouldn't.
+
+Dark maple syrup. Real stuff. Not the imitation. The difference shows in the glaze.
+
+Olive oil. Extra virgin for the marinade, regular for cooking. Don't use fancy olive oil for high heat browning. Wastes it.
+
+Parsley, minced small. Fresh flat-leaf. The persillade goes on at the end—bright, fresh, cuts through the richness. Changes the whole eating experience.
+
+## How to Make Slow Roasted Lamb Shoulder with Mustard Crust
+
+Heat your oven to 90 Celsius. That's low. 195 Fahrenheit if you're in America. Takes a second to adjust to that temperature. This is a patient dish.
+
+Season the lamb generously with salt and black pepper. Both sides. Get into any creases where bone meets meat. That crust needs seasoning from the inside out.
+
+Get a heavy skillet hot over medium-high heat. Add vegetable oil—just a tablespoon and a half—and wait until it shimmers. You'll see it move like liquid mercury across the pan. That's ready.
+
+Brown the lamb on all sides. Three to four minutes per face. You want deep golden-brown, almost dark in spots. This isn't a sear and flip situation. Let each side sit. The browning seals flavor in. Skip this and the meat stays gray inside the foil. Not terrible. Noticeably worse.
+
+Set the lamb aside while you make the marinade.
+
+Whisk together minced shallot, minced garlic, fresh thyme leaves, and whole grain mustard in a bowl. Add olive oil slowly, whisking as you go. It emulsifies—becomes glossy, cohesive. This takes a minute. Worth it. You're building something that'll coat meat for over eleven hours.
+
+Here's the thing: reserve about half this marinade in a separate bowl. Keep it cold. This becomes your finishing sauce. Fresh. Bright. A contrast to the slow-cooked depth of the lamb itself.
+
+The other half gets slathered all over the browned lamb. Get it into every corner, under the bone, on the sides. Don't be conservative.
+
+Wrap the lamb tightly in heavy-duty aluminum foil. This matters. Tight wrapping traps juices, creates a humid environment in the oven. That's what makes the meat fall apart. Seal the edges well. No gaps.
+
+Place the foil packet in a baking dish—something deep enough to catch any drips.
+
+Into the oven it goes. Eleven hours. Maybe twelve. There's no exact moment when it's done. Check it around the ten-hour mark. Pierce the thickest part with a fork. The meat should separate easily, almost resist coming back together. That's done.
+
+Last twenty minutes, unwrap the foil. This lets the mustard crust develop color and texture. The surface concentrates, gets darker, gains a slight chew. Open the foil, leave it open, finish it exposed.
+
+## How to Get the Vegetables Glazed and the Crust Perfect
+
+While the lamb's finishing its last stretch in the oven, start the vegetable ragout.
+
+Large heavy skillet. Medium heat. Combine carrots and turnip pieces—quarter-sized chunks of turnip, same scale as the carrots so everything cooks at the same rate. Add olive oil and dark maple syrup right in. Salt and pepper generously. Vegetables need seasoning now, not at the end.
+
+Add just enough water to barely cover the vegetables. You're not making soup. You want them swimming, but not drowning.
+
+Bring to a boil, then back it off to medium or medium-low. Let it simmer. This takes patience too. You're waiting for water to evaporate completely while the vegetables become tender.
+
+Stir occasionally. Maybe every three minutes. You're watching for the moment when liquid is gone and the vegetables start to caramelize slightly in the remaining syrup and oil. They get glossy. Almost lacquered. That's the texture you want.
+
+Taste one. It should be tender all the way through but still hold its shape. Not mushy. Not firm either. There's a moment. You'll know it.
+
+The mustard crust on the lamb—it darkens as it roasts exposed. That final twenty minutes is when it gets color and texture. Deep brown. Almost mahogany. The surface becomes slightly crusty, slightly chewy. The mustard seeds stay visible. That's the visual cue. That's done.
+
+## Slow Cooked Lamb Shoulder Tips and Common Mistakes
+
+Foil wrapping is non-negotiable. Open roasting means moisture escapes. Meat tightens. Becomes chewy instead of falling-apart tender. Use good foil. Heavy-duty actually seals better than regular.
+
+Don't skip the browning step. It's not about color—well, it is—but it's about flavor. Maillard reaction happens. Raw lamb tastes like raw lamb even after twelve hours of cooking. Browned lamb tastes like depth.
+
+Temperature matters. Ninety Celsius is slow. It's not 160 or 175. Low and long is the entire point. A faster oven ruins the texture. The meat dries out even wrapped. Trust low temperature.
+
+Vegetables shouldn't go in with the lamb. Different cook times. Cook them separately in the final stretch. The turnip especially—it softens fast. Wouldn't survive eleven hours.
+
+The reserved marinade is essential. It's the tangy thing that cuts through richness. The cooked-down mustard on the meat is savory and deep. The fresh marinade is bright. Together they make sense. One alone is missing something.
+
+Persillade looks like garnish. It's not. It changes how the dish tastes. Fresh parsley, raw garlic, minced onion—all at the end—creates contrast. Temperature contrast, texture contrast, flavor contrast. Don't skip it thinking it's decoration.
+
+Leftovers actually improve. Flavors marry overnight. Cold lamb shoulder is different—almost better some days. The jelly that sets around the meat is flavorful, not gelatinous-gross. Slice it cold or rewarm it gently.
+
+Don't wrap in regular plastic wrap if you're storing. It steams, breaks down, gets weird. Use foil or glass. Cold lamb wrapped in foil tastes fine for four days. Maybe five.
+
+The cooking time varies slightly. Bone size, meat distribution, individual ovens—they all shift it by thirty minutes either way. The fork test is your only reliable clock. Guess wrong and you'll know. Meat either falls apart or doesn't.
+
+Whole grain mustard matters. Smooth mustard spreads easier but tastes different. The grain adds texture and a subtle nutty quality that rounds out the savory. Worth the extra minute of whisking to get it to coat evenly.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Slow Roasted Lamb Shoulder with Mustard Crust
+
+**Can you make this in a slow cooker instead of the oven?**
+Technically yes. Different result though. Slow cooker lamb becomes more shredded, less structured. Liquid accumulates—you'd need to drain it. The mustard crust won't develop the same way. Works if that's what you're after. Not what this recipe is designed for.
+
+**What if the lamb isn't completely tender after eleven hours?**
+Give it another hour. Some shoulders are denser than others. The fork test is real. If it doesn't separate easily, it needs more time. Not much more usually. Just more.
+
+**Can you substitute the turnip?**
+Could use parsnip. Parsnip gets sweeter, almost candy-like. Celery root works too—more savory. Rutabaga's fine but earthier, might dominate. The turnip balance is specific. Substitutions shift the flavor balance. Fine if that's intentional.
+
+**Does the meat need to rest after coming out of the oven?**
+Not like a steak. It's been resting for eleven hours. Let it cool three or four minutes so you don't burn your mouth. That's it.
+
+**How much does this actually serve?**
+Two kilos of lamb shoulder, bone-in, feeds four people generously. Six if portions are modest. Depends on how much vegetable ragout you make and whether you're serving sides.
+
+**Can you make the mustard marinade ahead of time?**
+Yes. Mix it the day before. Keep it covered, cool. The flavors don't change noticeably. Actually helpful if you want to brown the lamb the night before, marinate overnight, then roast the next morning. Saves time in the actual cooking day.
+
+**What wine goes with this?**
+Something with tannin. Red wine. Bordeaux, Burgundy, even a good Côtes du Rhône. The tannins match the richness and the mustard. White wine feels wrong here. The persillade is bright enough. Doesn't need white wine brightness on top.
