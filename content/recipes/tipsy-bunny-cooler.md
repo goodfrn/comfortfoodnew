@@ -1,10 +1,10 @@
 ---
-title: "Tipsy Bunny Cooler"
+title: "Mojito Recipe with Raspberry Mixer"
 slug: "tipsy-bunny-cooler"
-description: "A quick shaken drink mixing lemonade with white rum and a tangy raspberry daiquiri mix now. Stirred differently than usual. Garnished with fresh fruit and a nostalgic candy bunny. Serves two with a punch and some fizz left behind. Calories around 200 each. Sweet but balanced thanks to the tartness lying underneath. Bright red meets pale yellow visually. Light but packs a kick. Perfect for an impromptu party or backyard chill. Easy to make but pay attention to the ice volume and shaking. The raspberry mixer replaces original strawberry for slight tart twist. Measures shifted for sturdier flavor balance."
-metaDescription: "Tipsy Bunny Cooler mixes lemonade white rum raspberry daiquiri mixer with fresh fruit garnishes and candy bunny for a tart, crisp refreshing sip. Serves two."
-ogDescription: "Bright red meets pale yellow in this shaken lemonade rum cocktail with raspberry tang, fresh lemon and raspberries, plus a cheeky candy bunny on top."
-focusKeyphrase: "Tipsy Bunny Cooler"
+description: "Make mojito cocktails with white rum, lemonade, and raspberry mixer. Fresh lemon and raspberries garnish this refreshing rum drink."
+metaDescription: "Mojito recipe using white rum, lemonade, and raspberry daiquiri mixer. Fresh lemon and raspberry garnish. Easy cocktail for two. Make it tonight."
+ogDescription: "Refreshing mojito cocktail with white rum, lemonade, raspberries, and lemon. Simple rum drink perfect for gatherings."
+focusKeyphrase: "mojito recipe"
 date: 2025-10-11
 draft: false
 image: tipsy-bunny-cooler.jpg
@@ -21,9 +21,18 @@ tags:
 - "raspberry"
 - "lemon"
 keywords:
-- "lemonade cocktail"
-- "white rum drink"
-- "shaken raspberry mix"
+- "mojito recipe"
+- "mojito cocktail recipe"
+- "mojito drink recipe"
+- "rum cocktails"
+- "daiquiri recipe"
+- "white rum for mojitos"
+- "rum drinks"
+- "cocktails using rum"
+- "rum punch recipe"
+- "strawberry daiquiri recipe"
+- "mai tai recipe"
+- "dark and stormy drink"
 breadcrumb: ["Home", "Recipes", "Cocktails and Alcoholic Drinks"]
 nutrition: 
  calories: "205"
@@ -60,3 +69,81 @@ faq:
 - "q: How to store leftovers? a: Refrigerate tightly covered ideally in sealed container. Stir gently before reuse. Avoid smashed ice or dissolved mixer in storage. Best fresh but up to a few hours chilled fine. Candy bunny not re-garnishable."
 
 ---
+
+Shake it 35 seconds. Listen for the pitch change — that's when you know it's right. This mojito cocktail recipe works because everything's already in balance, and the raspberry daiquiri mixer does half the work for you.
+
+## Why You'll Love This Mojito Cocktail Recipe
+
+Takes three minutes. Actually three. Not "three if you're fast" — legitimately done in 180 seconds.
+
+The raspberry twist hits different than plain rum drinks. Sweetness without tasting like a daiquiri, tartness without being sharp. Dark and stormy this isn't — it's bright, it tastes like summer, it works cold.
+
+No fresh mint to muddle. No complicated technique. Shake and pour.
+
+PEEPS on the rim is weird. Might sound gimmicky. But the candy melts slow into the ice, adds this sticky-sweet thing at the end that actually works. Don't use it if it's hot outside — just won't work.
+
+Lemon and raspberries float around doing their job. The raspberries burst between your teeth. Lemon wedges give you that sour snap mid-sip.
+
+## What You Need for a Mojito Drink Recipe
+
+White rum for mojitos is the backbone — four ounces, nothing fancy. Bacardi works. So does whatever's open.
+
+Lemonade. One cup. Fresh or not, doesn't matter much. The raspberry daiquiri mixer is carrying the flavor anyway.
+
+Raspberry daiquiri mixer does the heavy lifting. Two ounces. It's sweet, it's tart, it's already balanced so you don't have to be. Don't overthink the brand.
+
+Ice cubes. Not crushed. Not tiny. Regular ice. Seventy-five percent of each glass.
+
+Lemon slices for inside the drink — thin enough that they don't take up the whole glass. Raspberries scattered on top, maybe three or four per drink. They're more garnish than ingredient, but they matter.
+
+Two PEEPS bunny candies per drink if you're doing the rim thing. Perch them. They'll stay until someone bites.
+
+## How to Make a Mojito Cocktail Recipe
+
+Grab a cocktail shaker or a large jar with a lid that actually closes tight. Pour in the lemonade first — one full cup. Add the white rum. Four ounces. Then the raspberry daiquiri mixer. Two ounces. Lid on. Tight.
+
+Shake hard. Thirty-five seconds. You'll hear it. The liquid starts thick and sloppy — that's air still in there. Keep going. Around fifteen seconds it gets quieter, smoother, almost musical. That's the sound of everything mixing. Don't stop at twenty. Go the full thirty-five.
+
+Listen for the pitch change. That moment when it sounds like one thing instead of three separate liquids. That's done.
+
+## How to Get a Mojito Drink Perfect Every Time
+
+Fill each glass about three-quarters with fresh ice cubes. Not crushed ice — it waters things down. Not tiny cubes either. They melt too fast and the drink gets watery by the second sip. Regular ice cubes. The kind that come in bags.
+
+Pour the shaken mix over the ice. Eight ounces per glass, split evenly. Watch the color — you should see pink streaming down the sides as it hits the ice. That's the raspberry showing up.
+
+The drink should be cold enough that the glass fogs up on the outside. If it's not, your ice wasn't cold enough or you didn't shake it long enough.
+
+## Mojito Cocktail Tips and Common Mistakes
+
+Don't use crushed ice. Seriously. It breaks down, waters everything down, tastes diluted after two minutes.
+
+The PEEPS candy will melt if it's hot outside or if you're in direct sun. It becomes a sticky mess. If your kitchen's warm, skip it. The drink works without it. The drink also works fine if you forget the raspberries or the lemon slice. It's not precious.
+
+Shake the full thirty-five seconds. Not thirty. Not forty. Thirty-five. The difference between sloppy and smooth is real and it's in those last few seconds.
+
+You could add more rum if you want it stronger. Two extra ounces and it's a different drink entirely. Stronger, warmer, less refreshing. Fine if that's what you're after.
+
+Make these in batches if you're doing a crowd. One shaker batch feeds four drinks easy. Don't try to shake five drinks' worth at once — the shaker gets too full and you can't shake it hard enough.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Mojito Cocktail Recipe
+
+**Can you make this mojito drink recipe without the raspberry daiquiri mixer?**
+Not really the same drink. You'd have to add lime juice and sugar to make it work, and then you're making a regular mojito, not this one. The mixer is doing the job.
+
+**What rum works best for mojitos in this recipe?**
+White rum. That's it. Bacardi, Captain Morgan, whatever's cheap and clear. Dark and stormy cocktail uses dark rum — this doesn't. Light rum stays invisible, lets the raspberry come through.
+
+**How long does this mojito cocktail recipe stay cold?**
+Maybe ten minutes before the ice melts enough to dilute it. Drink it fast. Sip it while the raspberries are still firm.
+
+**Can you make this mojito ingredients mix ahead of time?**
+The shaken part, yeah. Shake it, refrigerate it. Pour over fresh ice when you're ready. Don't pre-pour over ice — the ice melts and ruins it.
+
+**Is this a cuba libre or something else?**
+Nope. Cuba libre is rum and cola. This is rum, lemonade, and raspberry. Totally different thing.
+
+**Why does the PEEPS bunny stay on the rim?**
+It doesn't stay forever. It melts slow into the drink and adds sweetness as you go. It's not supposed to stay perched the whole time. You bite it off or it falls in. Either way works.
