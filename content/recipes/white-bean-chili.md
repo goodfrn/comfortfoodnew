@@ -1,10 +1,10 @@
 ---
-title: "White Bean Chili Twist"
+title: "White Chicken Chili with Green Chiles"
 slug: "white-bean-chili"
-description: "White beans stew up creamy with chicken, green chilies, and jalapeño heat. Onion and garlic softened in olive oil start the aroma wave. Instead of plain water, use low-sodium veggie broth for a richer base. Chicken broth balances smoothness, plus celery salt adds unexpected depth. All simmered until colors darken, flavors marry, textures meld. Quick, hearty, with avocado and sour cream cooling the spice. A midweek rescue or weekend unwind with plenty of protein and fiber, easy swaps when pantry or hunger call. This chili trusts the senses: onions going translucent, garlic fragrant but not burnt, chicken warmed through but still tender."
-metaDescription: "White Bean Chili Twist cooks creamy chicken, green chilis, jalapeño heat, vegeta-ble broth base. Savory, hearty, topped with avocado and sour cream. Protein-packed meal."
-ogDescription: "Creamy chicken and white beans meld with green chilis and jalapeños. Savory veggie broth, slow simmered, topped with cool avocado and sour cream for balance."
-focusKeyphrase: "White Bean Chili"
+description: "Creamy white chicken chili simmers with white beans, green chiles, jalapeños, and chicken broth. Garlic and onion sautéed in olive oil create aromatic depth. Tender, protein-packed comfort food."
+metaDescription: "White chicken chili recipe with white beans, green chiles, and jalapeños simmered in chicken broth. Easy, creamy, and satisfying. Make it tonight."
+ogDescription: "Creamy white chicken chili with white beans, green chiles, and jalapeños. Garlic, onion, and chicken broth deliver comfort in a bowl."
+focusKeyphrase: "white chicken chili"
 date: 2025-10-11
 draft: false
 image: white-bean-chili.jpg
@@ -21,9 +21,18 @@ tags:
 - "easy dinner"
 - "comfort food"
 keywords:
-- "white beans"
-- "chicken chili"
-- "green chilis"
+- "white chicken chili"
+- "white chicken chili recipe"
+- "chicken chili recipe"
+- "white bean chicken chili"
+- "white chili recipe"
+- "slow cooker white chicken chili"
+- "white bean soup"
+- "chicken and white bean chili"
+- "crock pot chili"
+- "chili with white beans and chicken"
+- "easy chicken chili"
+- "green chiles chicken recipe"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "280"
@@ -69,3 +78,73 @@ faq:
 - "q: How store leftovers? a: Cool quick, fridge airtight up to 4 days. Reheat slowly with bit broth or water to loosen thickened chili. Freeze in portioned containers, thaw overnight. Thickens in fridge; don’t add salt on reheat without tasting first."
 
 ---
+
+Heat the olive oil. Onion goes in first—diced, medium size. Three cloves of garlic. Two jalapeños, seeds out unless you like actual heat. Stir until the onion stops being hard, maybe 5 minutes. Watch the garlic. Burned garlic is the whole thing ruined.
+
+## Why You'll Love This White Chicken Chili
+
+Thirty-three minutes total. Prep is basically six minutes of knife work.
+Comfort food that doesn't feel heavy. The white beans do something—they're creamy but not thick, you know?
+Freezes well. Tastes better the next day, honestly. Maybe even three days after.
+One pot. One pot and you're done except for bowls. Sour cream, avocado, cilantro—that's the fun part. Not the cleanup.
+Easy dinner that actually tastes like you tried. Jalapeños and fresh cilantro make people think you know what you're doing.
+
+## What You Need for White Chicken Chili
+
+Olive oil. Two tablespoons. That's it—you're not deep frying.
+One medium yellow onion, diced. Not red. Yellow softens better and doesn't fight the white beans.
+Three cloves of garlic, minced. Or four if you like garlic. I do.
+Two small jalapeños. Seeds out first unless you actually want your mouth on fire. The green chilis come canned—one 4-ounce can, drained.
+Vegetable broth and chicken broth. One cup of vegetable, one cup of chicken. Plus one cup of water. The water matters—broth alone gets too salty tasting.
+Two and a half cups of cooked chicken. Shredded works. Chopped works. Rotisserie chicken from the store works best because you're not cooking it twice.
+Two cans of white beans. Drained. Rinsed. Don't skip the rinsing—the liquid they come in is weird.
+Salt. Half a teaspoon black pepper. An eighth teaspoon of celery salt. That last one sounds weird. It's not. Trust it.
+Toppings: sour cream, avocado slices, cilantro. Fresh cilantro. Not the dried jar stuff.
+
+## How to Make White Chicken Chili
+
+Get a large pot—actually large, not medium. Medium won't hold everything without looking like a mess.
+Heat the olive oil over medium. Throw in the diced onion and the minced garlic at the same time. Stir them around. They need about 5 minutes until the onion goes soft and the edges get translucent. The garlic should smell sharp and good by now, not burned. If it smells burned, start over. It'll taste burned. There's no fix for burned garlic.
+
+Now the jalapeños. Minced up. Stir them in for maybe a minute—just long enough to smell that bright hot smell. They release something into the oil that matters.
+Pour in the canned green chilis. The whole can, drained. Add the vegetable broth. Stir it around. Add your cooked chicken next. Stir gently. You're not mashing it into paste. Just making sure it's warm and mixed in.
+Now the chicken broth and the water. Pour both in. Stir until it looks like chili and not like random things floating in broth. The liquid should cover most of it.
+
+## How to Get the Flavor Right in White Chicken Chili
+
+White beans go in last. Two cans, drained and rinsed. Fold them in gently—too much stirring and they start falling apart and turning to mush.
+Sprinkle in the salt, black pepper, and celery salt. All at once. Stir it so the salt isn't just sitting on top in one spot.
+Turn up the heat until it boils. You'll see bubbles actually moving the surface around. Then turn it down. Low heat. Uncovered. Let it sit there for—the recipe says 25 to 30 minutes, which is true. Mine takes closer to 30. Maybe yours takes 25. Depends on your stove.
+While it's simmering, check it every 5 minutes or so. The liquid should stay pretty liquidy. Add water if it's reducing too fast—you want broth, not a thick paste. The beans should stay fluffy, not turn to mush. The chicken should be there but not shredded into nothing. After 25 minutes, taste it. Salt good? Pepper balanced? Celery salt doing its thing? If it tastes flat, add a bit more salt. Not much. Just a pinch.
+
+## White Chicken Chili Tips and Common Mistakes
+
+Don't skip rinsing the canned beans. The liquid in the can is starchy and weird and it makes the whole thing taste off.
+The jalapeños—seeds out unless you want heat that lasts. That's not judgment. Some people like that. I don't.
+Cook the onion and garlic long enough. They're the base of everything. If they're not soft, the whole chili tastes sharp and raw.
+Sour cream goes on top. Cold. It cools down the heat and adds creaminess. Avocado same way—sliced, on top. Cilantro last. Fresh. A real handful, basically.
+If you want vegetarian: swap the chicken for firm tofu, cubed, or just add another can of white beans. The vegetable broth is already in there, so the umami stays fine.
+Don't overcrowd the pot while it simmers. Let it breathe. If you keep stirring, you'll break down the beans and they'll get mushy. Let it go.
+Freezes great. Put it in a container, leave an inch of space at the top, freeze flat. Thaws in the fridge overnight. Reheats in a pot on low, stirring occasionally so it doesn't stick.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About White Chicken Chili
+
+**Can I make white chicken chili in a slow cooker or crockpot?**
+Yeah. Sauté the onion and garlic in a pot first for 5 minutes—don't skip that. Then dump it all in the slow cooker with the rest: chicken, both broths, water, beans, jalapeños, green chilis, salt, pepper, celery salt. Low for 4 hours or high for 2. Just watch it doesn't dry out. The slow cooker reduces liquid more, so you might need to add another half cup of water halfway through.
+
+**What if I don't have celery salt?**
+Regular salt works. You'll lose something small—celery salt has this subtle vegetal thing that sits in the background. But the chili is still good without it. Just use a bit more regular salt if it tastes flat.
+
+**Can I use canned chicken instead of rotisserie?**
+Yeah. Drained, from the can. It'll be drier but it works. Rotisserie is better because it's already got flavor and moisture. Canned chicken is fine if that's what you have.
+
+**How long does white chicken chili keep?**
+Three days in the fridge, covered. Freezes for a month, easy. Thaw in the fridge overnight. Don't leave it sitting out for more than an hour after it cools down—bacteria, you know.
+
+**What if I want it thicker?**
+Let it simmer longer. 30 minutes instead of 25. The liquid reduces and it gets thicker. Or skip the extra water entirely, use just one cup instead of one cup plus one cup. Makes it less soupy.
+
+**Can I add corn or other vegetables?**
+Corn works. A cup of frozen corn, added in the last 5 minutes. Bell peppers too—diced, added when you add the jalapeños. Zucchini gets mushy so don't. Tomatoes change the whole thing so if you want that it's not white chili anymore, it's regular chili.
