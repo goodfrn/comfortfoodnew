@@ -1,10 +1,10 @@
 ---
-title: "Spiced Chili Rice"
+title: "Jeera Rice Recipe: Cumin Basmati Rice"
 slug: "spiced-chili-rice"
-description: "A simple spiced rice dish blending butter, chili powder, and basmati rice, cooked in water until tender and fluffy. Adjusted with paprika and cumin for a smoky edge instead of plain chili powder and butter. Slightly less rice, more liquid for a softer texture. Gliding between medium and low heat to avoid burning and ensure even cooking."
-metaDescription: "Spiced Chili Rice a fragrant fusion dish with smoky paprika and cumin. Simple pantry ingredients make a fluffy, flavorful side or base."
-ogDescription: "Try Spiced Chili Rice for a rich, smoky side dish. Basmati rice with paprika and cumin delivers flavor without fuss."
-focusKeyphrase: "Spiced Chili Rice"
+description: "Learn to make jeera rice with basmati, cumin, and smoked paprika. This aromatic spiced rice dish delivers fluffy, tender grains with a smoky edge."
+metaDescription: "Jeera rice made easy with basmati, ground cumin, and smoked paprika. This aromatic spiced rice cooks perfectly every time. Try it tonight."
+ogDescription: "Aromatic jeera rice with basmati, cumin, and paprika. Fluffy, fragrant, and perfectly spiced."
+focusKeyphrase: "jeera rice"
 date: 2025-07-19
 draft: false
 image: spiced-chili-rice.jpg
@@ -21,9 +21,16 @@ tags:
 - "side dish"
 - "easy"
 keywords:
-- "basmati rice"
-- "vegetarian rice dish"
-- "smoky flavor"
+- "jeera rice"
+- "spicy rice"
+- "rice with cumin"
+- "cumin seed rice"
+- "jeera pulao"
+- "basmati pilaf"
+- "easy spiced rice recipe"
+- "indian rice pilaf"
+- "basmati cumin rice"
+- "basmati rice pilaf recipe"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "210"
@@ -60,3 +67,75 @@ faq:
 - "q: How to store leftovers? a: Place in airtight container. Refrigerate for three to four days. Reheat thoroughly before eating."
 
 ---
+
+Heat the margarine over medium until it's actually melted—not just sitting there. Dump in the basmati rice with the paprika and cumin all at once. Stir fast for 90 seconds. This is the part that matters. The spices coat every grain and the whole thing smells like it knows what it's doing.
+
+## Why You'll Love This Spicy Rice
+
+Takes 32 minutes start to finish. No babysitting.
+One pot. That's your cleanup. Just rinse it.
+Works as a side with literally anything—chicken, fish, nothing at all. Cold the next day tastes maybe better than hot.
+Smoked paprika makes it taste spicier than it actually is without heat kicking your teeth in.
+The rice comes out separate. Each grain. Not mushy clumped stuff.
+
+## What You Need for Jeera Rice
+
+Basmati rice. Not long grain. Not jasmine. Basmati breaks differently and comes out fluffy when you do it right. One and a half cups, about 300 grams.
+
+Margarine. Unsalted. A tablespoon and a half melted first—that's your fat to coat the rice before the water goes in. Butter works if you have it. Oil works too. Margarine's just what works easiest here.
+
+Smoked paprika. The 2 teaspoons. This is what gives it the color and the "spicy" feeling even though it's not actually hot. Regular paprika doesn't do the same thing.
+
+Ground cumin—jeera—a full teaspoon. This is the rice's whole personality. Not negotiable.
+
+Water. 3 and a third cups. Has to be measured or it doesn't work.
+
+## How to Make Spicy Rice
+
+Medium heat. Get your pan going. Drop the margarine in and let it melt all the way—takes maybe a minute. You want it actually hot, not warm.
+
+Measure out your 300 grams of basmati. Add it to the hot margarine along with both spices at the exact same time. This matters. Stir constantly for 90 seconds. Not 60. Not 120. Around 90. You're looking for the rice to go from white to slightly tan and the whole thing to smell like toasted spice—that specific smell where you know the cumin is actually working. Some grains start sticking to the pan. That's right. That's the point.
+
+Pour the 800 milliliters of water in all at once. It'll hiss. Good sign. Stir it once to break up any clumps. Bring it to a hard boil—rolling boil, actually boiling, not just steaming around the edges.
+
+## Making Jeera Rice with Cumin Perfectly
+
+The second it's boiling hard, lower the heat way down. Gentle simmer. Like barely moving. This is when you put the lid on tight and do not open it. Not once. Not to peek. Not to check. The rice steams inside and it only works if you leave it alone.
+
+Set a timer for 18 minutes. When it goes off, turn the heat off. Leave the lid on. Set another timer for 7 minutes. This is steam time. The water that's left gets absorbed and the rice relaxes. After 7 minutes it's actually done.
+
+Lift the lid. It'll be hot—steam everywhere. Fork the rice gently. Each grain should separate. If it's clumpy it means your heat was too high or you peeked. Next time keep the lid sealed.
+
+## Jeera Rice Tips and Common Mistakes
+
+Don't stir after the water goes in. That releases starch and makes it stick together. Once the lid is on, it's done.
+
+The measuring matters more than usual here. Too much water and it gets mushy. Too little and the bottom burns while the top stays hard. Use a liquid measuring cup, not a rice cup guessing thing.
+
+Smoked paprika's important because regular paprika tastes like nothing—the smoke is what you actually taste. Can't find smoked paprika? Regular paprika works in a pinch. It just tastes like rice with spice instead of rice with personality.
+
+If your rice comes out in clumps it's either too much water or you opened the lid. The lid thing is the real culprit usually.
+
+Leftover jeera rice goes in the fridge for 3 days easy. Cold it's almost better—the spices have more time to settle in.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Making Jeera Rice
+
+**Can you make this rice recipe with saffron instead?**
+Haven't tried saffron. Smoked paprika's way cheaper and does the job. If you have saffron sitting around, use less—like a pinch—because it's strong. Could work.
+
+**What spices pair with this rice if I want it spicier?**
+The smoked paprika and cumin are already the whole thing. You want hotter? Add a pinch of cayenne pepper to the pan when you add the spices. Just a tiny amount. Or don't. The recipe works as is.
+
+**Can you use margarine in rice, or should it be butter?**
+Margarine works fine here. That's the whole point. Butter's greasier. Oil works too. Whatever fat you have.
+
+**Is basmati rice the only option for this spicy rice dish?**
+Basmati's what you want. Long grain gets mushy. Short grain gets clumpy. Basmati stays separate. That's why.
+
+**How do you know when the jeera cumin rice is done cooking?**
+After 18 minutes the water disappears completely. That's how you know. Then 7 more minutes with the heat off and the lid on. That's it. Lift the lid and it's done.
+
+**What should you serve with rice and cumin as a side dish?**
+Literally anything. Chicken. Fish. Curry. Stew. Roasted vegetables. Honestly it works with nothing too. People eat it by itself sometimes.
