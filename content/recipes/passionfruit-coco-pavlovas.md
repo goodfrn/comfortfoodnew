@@ -1,10 +1,10 @@
 ---
-title: "Passionfruit Coco Pavlovas"
+title: "Passionfruit Coconut Pavlovas with Basil Cream"
 slug: "passionfruit-coco-pavlovas"
-description: "Meringue nests with passionfruit crémeux, infused basil cream, fresh pineapple, toasted coconut, zesty lime, and mascarpone. An airy dessert balancing tartness and sweetness without gluten or nuts. Basil adds an herbaceous note, weaving through creamy and crunchy textures. Baking low and slow, then drying crucial for crisp shells and tender centers. Passionfruit creates a velvety custard that sets just right with gentle heat and butter. Pineapple for freshness, lime zest wakes it all up. Toasted coconut flakes add that tropical crunch. A bright-tasting, tactile plate, playful and refined, great for vegetarian menus, allergy-aware crowds. Technique matters: gentle folding, patience during baking, and good timing on whipping and cooling."
-metaDescription: "Passionfruit Coco Pavlovas—airy meringue nests with tangy crémeux, basil cream, pineapple bits, and toasted coconut. Low and slow baking pays off."
-ogDescription: "Airy pavlova nests filled with passionfruit crémeux, whipped basil cream, pineapple, toasted coconut. Baking slow, drying long, layers fresh tropical punch."
-focusKeyphrase: "passionfruit pavlova"
+description: "Crispy meringue nests topped with passionfruit crémeux, basil-infused cream, fresh pineapple, toasted coconut, and mascarpone. A gluten-free dessert with bright citrus and herbaceous notes."
+metaDescription: "Make passionfruit coconut pavlovas with meringue nests, passionfruit crémeux, basil cream, pineapple, and toasted coconut. Gluten-free and elegant. Try it tonight."
+ogDescription: "Crispy meringue pavlovas with passionfruit crémeux, basil cream, pineapple, and toasted coconut. Elegant gluten-free dessert."
+focusKeyphrase: "passionfruit coconut pavlovas"
 date: 2025-09-26
 draft: false
 image: passionfruit-coco-pavlovas.jpg
@@ -21,9 +21,16 @@ tags:
 - "mascarpone"
 - "gluten free"
 keywords:
-- "passionfruit"
-- "pavlova"
-- "basil cream"
+- "passionfruit coconut pavlovas"
+- "meringue desserts"
+- "pavlova recipes"
+- "passionfruit cremeux with basil cream"
+- "gluten free meringue pavlova with lime"
+- "coconut meringue nests recipe"
+- "mascarpone pavlova with toasted coconut"
+- "gluten free desserts"
+- "meringue nests passionfruit"
+- "basil infused cream dessert"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "280"
@@ -89,3 +96,69 @@ faq:
 - "q: Can passionfruit juice be replaced? a: Mango or guava purees plus lime juice works. Keeps acidity, vibrant flavor. Adjust sugar down slightly if fruit sweeter. Watch crémeux texture; pulpy fruit may need fine straining."
 
 ---
+
+Oven goes to 90°C and just kind of sits there for over two hours. You're not really baking. You're drying. And while that's happening, you're making the other three components because nothing happens at the same time with this one.
+
+## Why You'll Love This Passionfruit Coco Pavlova
+
+Gluten free without tasting like it. Honestly, the meringue doesn't know the difference and neither will anyone else. No bake element—the cream infuses overnight, crémeux sets in the fridge, you just build it the day of. Feels fancy. Tastes like you spent way more time than you actually did. Stores okay for a few hours but honestly it's best eaten soon after assembly because the meringue starts pulling moisture. Kind of the deal with pavlovas. Basil in cream throws people off in the best way. Everyone asks what the flavor is.
+
+## What You Need for Coconut Meringue Nests
+
+Egg whites. Three of them, room temperature. Cold ones won't whip right. Caster sugar—not granulated. Finer crystals dissolve cleaner into the meringue. Corn starch. Small amount. Stabilizes everything. Fresh lime juice does the acidity work. About a teaspoon and a half. Passionfruit juice. Strained. Seeds mess with the texture. Unsalted butter, cold. Diced. Matters that it's cold. Mascarpone cheese. Not ricotta, not cream cheese. Mascarpone. Fresh basil leaves, chopped fine. Not dried. Whipping cream, 35 percent fat, chilled hard. Pineapple, diced small. Lime zest. Toasted coconut flakes. The finishing touch. Small basil leaves for garnish. Everything else is just foundation.
+
+## How to Make Meringue Pavlova With Passionfruit
+
+Start the basil cream first. Chilled cream, chopped basil, covered bowl, into the fridge for at least 7 hours. Overnight is better. The basil needs time to release flavor without going bitter or brown. You can't rush this one.
+
+Set your oven to 90°C, fan off or very low. Mid-level rack. Line a baking sheet with silicone mat or parchment—nonstick is non-negotiable if you want clean meringues. Stir corn starch with lime juice until smooth. No lumps. The starch stabilizes the meringue, mimics what acid does.
+
+Beat egg whites on medium speed until foamy. Not stiff yet. Just breaking down. Start adding sugar in thin streams while you gradually push the mixer to high speed. Keep going. Watch the shine appear. Watch it get glossy. Stop when firm peaks form but the mix still looks moist, not dry and separated. If it gets grainy-looking, you've gone too far. Fold the corn starch mixture in gently—use a spatula, fold don't stir, protect the air. Deflate it and the whole thing falls apart.
+
+Scoop eight 75-ml dollops onto the sheet, spaced out. Press a small well in the center of each one with the back of a spoon. This is where the crémeux goes later. The meringue should feel stable when you touch it but still kind of yielding inside.
+
+Bake for 2 hours 10 minutes. They'll look dry on top, peel off the mat easily. Then turn the oven off, crack the door open with a wooden spoon, leave them in there for another 2 hours at least. The cool-down dries them fully. Humidity kills crispness. If cracks form, that's just what happens when meringue dries fast. It's fine. Rustic.
+
+## How to Get Passionfruit Cremeux Perfect
+
+Off heat, whisk egg yolks with fine sugar until completely smooth. No grain, no texture. Add passionfruit juice and cold butter cubes. Stir it all together. Now put it on low heat. Stir constantly, scrape the pan edges, don't let anything stick. When it bubbles lightly and coats the back of a spoon, stop. Don't overcook. The yolks scramble if you push it. You want thick but still pourable.
+
+Run it through a fine sieve into a clean bowl. Cling film pressed right onto the surface stops a skin forming. Cool to room temperature—takes maybe 30 minutes. Then refrigerate at least 50 minutes until it's set but still tender, not stiff.
+
+## Passionfruit Coco Pavlova Tips and Common Mistakes
+
+Egg whites have to be room temperature or they won't whip to proper volume. Cold eggs are stubborn. Beat the sugar in slowly or it won't dissolve fully and you'll taste grit. Folding the corn starch has to be gentle—rough folding deflates everything.
+
+No passionfruit? Mango puree works. Add extra lime juice for acidity. If meringues weep—that's the sticky liquid that pools—it's either cold egg whites or sugar added too fast. Next time, room temp eggs, slow sugar addition.
+
+Basil cream. Don't infuse longer than overnight or bitterness shows up. Bruised basil tastes bad. Handle it carefully. Butter in the crémeux needs to be cold cubed pieces so it distributes evenly. Warm butter separates. Don't rush the cooling either. Warm crémeux makes the meringue soggy immediately.
+
+Assemble close to serving. Mascarpone gets whipped with sugar until smooth but not runny. Strain the basil cream through fine mesh to pull out the leaves. Whip it to soft peaks—still pliable, not stiff. Use a piping bag with a star tip to pipe around the meringue edges. Fill the center well with chilled crémeux. Pile on the diced pineapple. Sprinkle lime zest and toasted coconut. Small basil leaves on top. Serve within a few hours. The meringue absorbs moisture and goes soft.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Gluten Free Meringue Pavlova With Passionfruit
+
+**Can I make this pavlova ahead?**
+The meringues themselves keep for days in an airtight container. The basil cream infuses overnight anyway. Crémeux makes the day before. Assembly happens same day. Don't assemble until an hour or two before serving or the meringue gets soggy.
+
+**What if I don't have passionfruit juice?**
+Mango puree, strained. Add lime juice to get acidity back. The flavor changes but it works. Haven't tried passion fruit concentrate. Probably too intense.
+
+**Why does the oven stay so low for so long?**
+Meringues need to dry, not bake. High heat and they brown or crack badly. Slow and low firms them up while keeping the inside set but tender. The long time in the cooling oven finishes the drying without any heat shock.
+
+**Does the basil flavor get strong?**
+Seven hours gives you herbal without aggressive. Overnight is more noticeable. More than 12 hours and it can turn bitter. Fresh basil, not bruised. Bruised releases too much chlorophyll and tastes wrong.
+
+**Can I use a stand mixer for the meringue?**
+Yeah. Start on medium, increase to high once it gets foamy. Watch for firm peaks. Same rules apply. The speed doesn't matter as much as not overbeating.
+
+**How do I know the crémeux is set enough?**
+It should coat a spoon and drip slowly. When it's cold it firms more. If you pull a spoon through and it holds for a second before flowing back, it's ready.
+
+**What's the coconut for besides flavor?**
+Texture. Sweetness. The toasted ones have better flavor than raw. They're also what people bite into and remember. The crunch against soft meringue is the whole point.
+
+**Is this actually gluten free?**
+Yes. Meringue is eggs and sugar. Crémeux is yolks, sugar, juice, butter. Basil cream is cream. Garnish is fruit and coconut. Nothing has gluten unless your toasted coconut was processed somewhere weird. Check the label to be sure.
