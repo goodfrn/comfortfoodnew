@@ -1,10 +1,10 @@
 ---
-title: "Tofu Veggie Stir-Fry Remix"
+title: "Sauteed Vegetables with Tofu and Almonds"
 slug: "tofu-veggie-stir-fry"
-description: "Firm tofu cut into chunks. Broccoli florets chopped small. Thin carrot slices. Shiitake mushrooms, trimmed and sliced. Cashew nuts toasted, no salt. Mix of vegetable broth, tamari, oyster sauce alternative, and cornstarch for thickening. Stir-fry in peanut oil, finish with toasted sesame oil. Quick simmer to keep veggies crisp-tender. Serve over brown rice or rice noodles."
-metaDescription: "Tofu Veggie Stir-Fry Remix with broccolini, parsnips, oyster mushrooms, and toasted almonds in a savory tamari mushroom sauce. Crisp-tender, fast, layered flavors."
-ogDescription: "Sear tofu in avocado oil. Stir-fry broccolini, parsnips, mushrooms. Quick sauce simmers thick, veggies snap. Toasted almonds, sesame oil finish. Serve over rice or noodles."
-focusKeyphrase: "Tofu Veggie Stir-Fry"
+description: "Sauteed vegetables with crispy tofu, broccolini, parsnips, and oyster mushrooms in a savory tamari sauce. Topped with roasted almonds for crunch and served over rice."
+metaDescription: "Sauteed vegetables recipe with tofu, broccolini, parsnips, and oyster mushrooms in tamari sauce. Quick, healthy, and delicious. Make it tonight."
+ogDescription: "Crispy tofu with broccolini, parsnips, and mushrooms sauteed in tamari sauce. Topped with roasted almonds."
+focusKeyphrase: "sauteed vegetables"
 date: 2025-07-25
 draft: false
 image: tofu-veggie-stir-fry.jpg
@@ -21,9 +21,16 @@ tags:
 - "mushroom"
 - "broccoli"
 keywords:
-- "tofu stir-fry"
-- "vegetable stir-fry"
-- "Asian tofu recipe"
+- "sauteed vegetables"
+- "tofu stir fry"
+- "vegetable stir fry"
+- "tofu stir fry recipe"
+- "asian tofu recipes"
+- "stir fried tofu with vegetables"
+- "sauteed veggie recipe"
+- "chinese vegetable recipes"
+- "wok fried tofu"
+- "vegetable stir fry recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -66,3 +73,53 @@ faq:
 - "q: Best way to store leftovers? a: Cool quickly, store airtight in fridge up to 3 days. Reheat gently in skillet or microwave low power. Sauce thickens when cold, add splash water or broth to loosen. Freeze possible but tofu may change texture. Thaw well before reheating."
 
 ---
+
+Heat the wok. Brown the tofu first—salt and pepper it now, not after. The vegetables go in next, everything gets tossed around for maybe 7 minutes until things start going soft but aren't totally limp yet. Sauce thickens. Done in 45 minutes flat, most of which is just chopping stuff.
+
+## Why You'll Love This Vegetable Stir Fry
+
+Tastes nothing like takeout in the bad way. Actually tastes like something went into it. The tofu gets brown and crispy on the outside, still solid inside. Works for vegetarian dinners or feeding someone who eats meat and doesn't care either way. You're eating mushroom and sesame and things that actually matter, not cornstarch and sugar pretending to be food. Takes 20 minutes of actual cooking. Prep's a bit longer but it's just cutting stuff. Cold the next day, maybe better—the flavors sit together overnight. One wok. Clean it while you eat.
+
+## What You Need for a Vegetable Stir Fry
+
+Firm tofu. Not silken. Dice it into cubes maybe half an inch thick. Gets brown instead of falling apart. Vegetable broth—use the stuff in a box, doesn't matter. Tamari sauce. Not soy. Tamari's got no wheat. Mushroom sauce adds something the other two don't. Tapioca starch. Thickens without tasting like flour. Broccolini. Broccoli works but broccolini's smaller, cooks faster, looks better. Parsnips thinly sliced—they go sweet if you don't watch them, but in a way that works here. Oyster mushrooms because they stay firm-ish instead of turning into rubber. Roasted almonds unsalted. Toast them if they're not already. Avocado oil because it doesn't smoke at high heat. Toasted sesame oil at the end—cold, not heated, or it goes bitter. Salt and pepper. Taste as you go.
+
+## How to Cook Tofu for a Vegetable Stir Fry
+
+Mix the broth, tamari, and mushroom sauce with the tapioca starch in a small bowl. Just whisk it till the starch breaks up. Set it aside. You'll need it in a minute.
+
+Get the wok hot. Actually hot. It should feel like it's pulling the air in when you hold your hand near it. Pour in the avocado oil. Swirl it around. Add the tofu cubes. Don't move them for maybe 2 minutes. Let them sit. They brown on the bottom, then you flip them, brown the other side. Season with salt and pepper now while they're cooking, not before. The salt sticks better when there's heat.
+
+Once the tofu's got color on most sides, push it to the edge of the wok. Throw in the broccolini, parsnips, and oyster mushrooms. Stir everything together. The heat stays high. Keep moving it around, maybe 7 minutes total. The vegetables soften a tiny bit but they shouldn't go limp. You want them to snap a little when you bite them.
+
+## How to Get a Vegetable Stir Fry Thickened and Right
+
+Drizzle in the toasted sesame oil. Right now. Not later. Then pour the sauce mix into the wok. Stir constantly. The sauce'll go from cloudy to clear as it heats. That's when it's working. Bring it up to a boil, maybe a minute. Then lower the heat to medium-low. Let it sit there, stirring every 15 seconds or so, for about 8 minutes. The sauce thickens. The vegetables stay crisp-tender. That's the balance.
+
+Taste it. Adjust salt if it needs it. Pepper too. The mushroom sauce carries a lot of flavor already, so go easy.
+
+## Tofu Stir Fry Tips and What Goes Wrong
+
+Don't crowd the wok. Sounds obvious. People do it anyway. Too much stuff and the heat drops and you're steaming instead of frying. Work in batches if you have to. The brown crust won't form if the pan's packed. Tofu needs to be firm or it falls apart mid-stir. Silken tofu is dessert. Not this. High heat the whole way until you pour the sauce in. Then you drop it because the sauce isn't supposed to boil hard, it's supposed to thicken slow. The vegetables will keep cooking after the sauce thickens, so pull it off heat when it looks just barely firm. It keeps going. Forgot to press the tofu? Dab it dry with paper towels before it goes in the wok. Water keeps it from browning. Sesame oil at the end is not negotiable. Cooked sesame oil tastes like nothing. The smell changes completely. Use it cold or not at all.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Tofu Stir Fry
+
+**Can I use frozen tofu?**
+Nope. Or technically yes but it'll fall apart. The water expands when it freezes. Squeeze it as hard as you can after thawing and it's still not firm enough. Fresh tofu, firm block, pressed dry. That's the move.
+
+**What if I don't have mushroom sauce?**
+Use more tamari. Or add a tablespoon of soy sauce instead if you eat wheat. Not quite the same but close enough. Haven't tried miso. Probably works but it's a different flavor.
+
+**Can I add tofu to stir fry vegetables without the sauce getting thick?**
+Yeah. Skip the tapioca starch. Just heat the broth and tamari and pour it over. It won't coat everything but the flavor's still there. Takes less time too. Maybe 20 minutes total.
+
+**How long does leftover vegetable stir fry with tofu keep?**
+Three days in the fridge. The sauce sets up and holds everything together. Reheats fine in the wok. Low heat. Add a splash of water or broth or it'll stick.
+
+**Do I have to use broccolini?**
+Broccoli works. Bok choy works. Green beans, snap peas, whatever. Harder vegetables take longer—add them first. Softer ones go in with the broccolini timing. The point is not overcooked. Crisp-tender.
+
+**Can I make this vegan without the tofu?**
+Use more mushrooms. Or beans. Chickpeas get weirdly good in a stir fry. Press them dry, brown them first like the tofu. Everything else stays the same.
