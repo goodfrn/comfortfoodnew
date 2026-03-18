@@ -167,7 +167,7 @@
           {{ $content := .Content }}
           {{ $content = $content | replaceRE "(<h2[^>]*>.*?</h2>)" "|||SPLIT|||$1|||AD|||" }}
           {{ $parts := split $content "|||SPLIT|||" }}
-          {{ $ads := slice "301254" "310453" "310459" "310461" "310463" "310464" "310465" }}
+          {{ $ads := slice "310453" "310459" "301254" "310461" "310463" "310464" "310465" }}
           {{ range $i, $part := $parts }}
             {{ $cleaned := $part | replaceRE "\\|\\|\\|AD\\|\\|\\|" "" }}
             {{ if strings.Contains $part "|||AD|||" }}
