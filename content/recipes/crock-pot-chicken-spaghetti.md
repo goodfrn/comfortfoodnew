@@ -89,7 +89,7 @@ I also didn't drain my pasta well enough once and the extra water thinned out th
 
 The undrained tomatoes are important — don't drain them. That liquid helps thin the cheese mixture just enough so it's not like fondue.
 
-<recipe-card>
+{{< recipe-card >}}
 
 ## Serving This Thing
 
