@@ -29,13 +29,16 @@
   {{/* 🎯 IMAGE ORIGINALE POUR PINTEREST */}}
   {{ if .Params.image }}
     {{ $filename := .Params.image | replaceRE "\\.[^.]+$" "" }}
-    <meta property="og:image" content="https://images.comfortfood.uk/original/{{ $filename }}.webp">
-    <meta property="og:image:width" content="896">
-    <meta property="og:image:height" content="1344">
     {{ if .Params.pinterest_image }}
+      <meta property="og:image" content="https://images.comfortfood.uk/pinterestimage/{{ .Params.slug }}.webp">
+      <meta property="og:image:width" content="600">
+      <meta property="og:image:height" content="900">
       <meta name="pinterest:media" content="https://images.comfortfood.uk/pinterestimage/{{ .Params.slug }}.webp">
       <link rel="image_src" href="https://images.comfortfood.uk/pinterestimage/{{ .Params.slug }}.webp">
     {{ else }}
+      <meta property="og:image" content="https://images.comfortfood.uk/original/{{ $filename }}.webp">
+      <meta property="og:image:width" content="896">
+      <meta property="og:image:height" content="1344">
       <meta name="pinterest:media" content="https://images.comfortfood.uk/original/{{ $filename }}.webp">
       <link rel="image_src" href="https://images.comfortfood.uk/original/{{ $filename }}.webp">
     {{ end }}
