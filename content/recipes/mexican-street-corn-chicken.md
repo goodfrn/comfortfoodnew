@@ -8,6 +8,7 @@ focusKeyphrase: "Mexican street corn chicken rice bowls"
 date: 2026-03-19
 draft: false
 image: mexican-street-corn-chicken.jpg
+pinterest_image: true
 author: "Emma"
 prepTime: PT60M
 cookTime: PT10M
