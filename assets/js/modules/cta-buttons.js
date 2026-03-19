@@ -113,33 +113,6 @@ export function initCTAButtons() {
     });
   }
   
-  // BOUTON INSTAGRAM
-  const instagramButton = document.getElementById('instagramButton');
-  if (instagramButton) {
-    console.log('Instagram button trouvé');
-    instagramButton.addEventListener('click', function(e) {
-      e.preventDefault();
-      console.log('Instagram clicked');
-      
-      // Copier le lien pour Instagram
-      if (navigator.clipboard) {
-        navigator.clipboard.writeText(window.location.href).then(() => {
-          showToast('Lien copié pour Instagram !');
-        }).catch(() => {
-          fallbackCopyLink('Lien copié pour Instagram !');
-        });
-      } else {
-        fallbackCopyLink('Lien copié pour Instagram !');
-      }
-      
-      // Fermer le menu
-      if (shareMenu) {
-        shareMenu.classList.add('opacity-0');
-        shareMenu.classList.add('invisible');
-      }
-    });
-  }
-  
   // BOUTON COPIER LIEN
   const copyLinkButton = document.getElementById('copyLinkButton');
   if (copyLinkButton) {
