@@ -1,19 +1,20 @@
 {{ $page := .Page }}
 {{ if $page.Params.pinterest_image }}
-<div class="not-prose mb-8 rounded-2xl overflow-hidden shadow-lg max-w-sm mx-auto leading-none relative group">
+<div class="not-prose mb-8 rounded-2xl overflow-hidden shadow-lg max-w-sm mx-auto leading-none relative group" style="display:block; font-size:0; line-height:0;">
   <img src="https://images.comfortfood.uk/pinterestimage/{{ $page.Params.slug }}.webp"
        alt="{{ $page.Title }}"
        class="w-full block object-cover"
        loading="lazy"
        width="600"
-       height="900">
+       height="900"
+       style="display:block; margin:0; padding:0;">
   <a href="https://pinterest.com/pin/create/button/?url={{ $page.Permalink | urlize }}&media=https://images.comfortfood.uk/pinterestimage/{{ $page.Params.slug }}.webp&description={{ $page.Title | urlize }}"
      data-pin-do="buttonPin"
      data-pin-media="https://images.comfortfood.uk/pinterestimage/{{ $page.Params.slug }}.webp"
      data-pin-description="{{ $page.Title }}"
      target="_blank"
      class="absolute top-3 right-3 opacity-0 group-hover:opacity-100 transition-opacity duration-200">
-    <img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_round_red_32.png" alt="Save to Pinterest">
+    <img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_round_red_64.png" alt="Save to Pinterest" style="display:block;">
   </a>
 </div>
 {{ end }}
