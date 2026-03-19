@@ -6,12 +6,8 @@
        class="w-full h-full block object-cover"
        loading="lazy"
        width="600"
-       height="900"
-       style="display:block; margin:0; padding:0;">
+       height="900">
   <a href="https://pinterest.com/pin/create/button/?url={{ $page.Permalink | urlize }}&media=https://images.comfortfood.uk/pinterestimage/{{ $page.Params.slug }}.webp&description={{ $page.Title | urlize }}"
-     data-pin-do="buttonPin"
-     data-pin-media="https://images.comfortfood.uk/pinterestimage/{{ $page.Params.slug }}.webp"
-     data-pin-description="{{ $page.Title }}"
      target="_blank"
      class="absolute top-3 right-3">
     <img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_round_red_64.png" alt="Save to Pinterest" style="display:block;">
