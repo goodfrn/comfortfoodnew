@@ -3,19 +3,9 @@
 {{ $mediaUrl := printf "https://images.comfortfood.uk/pinterestimage/%s.webp" $page.Params.slug }}
 
 <div class="not-prose mb-8" style="max-width: 736px; margin: 0 auto;">
-  <div style="position: relative; display: inline-block; width: 100%;">
-    <img src="{{ $mediaUrl }}"
-         alt="{{ $page.Title }}"
-         class="block rounded-2xl shadow-lg w-full"
-         loading="lazy">
-    <a data-pin-do="buttonPin"
-       data-pin-url="{{ $page.Permalink }}"
-       data-pin-media="{{ $mediaUrl }}"
-       data-pin-description="{{ $page.Title }}"
-       href="https://www.pinterest.com/pin/create/button/"
-       style="position: absolute; top: 12px; right: 12px; z-index: 10;">
-      <img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_round_red_64.png" />
-    </a>
-  </div>
+  <img src="{{ $mediaUrl }}"
+       alt="{{ $page.Title }}"
+       class="block rounded-2xl shadow-lg w-full"
+       loading="lazy">
 </div>
 {{ end }}
