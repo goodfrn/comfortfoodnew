@@ -73,6 +73,7 @@ Whisk together mayo, sour cream and ranch dressing mix in a bowl until it's smoo
 
 Slice your green onions thin. Cook your bacon until it's crisp and crumble it up. I did mine in the oven on a sheet pan because I hate standing over a skillet and getting splattered, but do whatever works. Once the potatoes are cool, dump everything into a large bowl — potatoes, dressing, green onions bacon — and toss it gently. You want the dressing to coat everything without smashing the potatoes. The bacon smells so good when it hits the creamy dressing, it's honestly the best part.
 
+{{< pinterest-image >}}
 {{<recipe-card>}}
 
 ## Serving This Thing
