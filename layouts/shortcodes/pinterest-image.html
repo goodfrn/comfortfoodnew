@@ -1,0 +1,11 @@
+{{ $page := .Page }}
+{{ if $page.Params.pinterest_image }}
+<div class="mb-8 rounded-2xl overflow-hidden shadow-lg max-w-sm mx-auto">
+  <img src="https://images.comfortfood.uk/pinterestimage/{{ $page.Params.slug }}.webp"
+       alt="{{ $page.Title }}"
+       class="w-full h-auto object-cover"
+       loading="lazy"
+       width="600"
+       height="900">
+</div>
+{{ end }}
