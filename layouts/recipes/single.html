@@ -174,7 +174,14 @@
               {{ $adIndex := mod $i (len $ads) }}
               {{ $adId := index $ads $adIndex }}
               {{ $cleaned | safeHTML }}
-              <div class="hb-ad-inpage"><div class="hb-ad-inner"><div class="hbagency_cls hbagency_space_{{ $adId }}"></div></div></div>
+              <div class="hb-ad-inpage">
+                <div class="hb-ad-inner">
+                  <div
+                    class="hbagency_cls hbagency_space_{{ $adId }}"
+                    id="hbagency_space_{{ $adId }}">
+                  </div>
+                </div>
+              </div>
             {{ else }}
               {{ $cleaned | safeHTML }}
             {{ end }}
