@@ -1,6 +1,6 @@
 {{ $page := .Page }}
 {{ if $page.Params.pinterest_image }}
-<div class="not-prose mb-8" style="position: relative; width: 100%;">
+<div class="not-prose mb-8" style="position: relative; max-width: 736px; margin: 0 auto;">
   <img src="https://images.comfortfood.uk/pinterestimage/{{ $page.Params.slug }}.webp"
        alt="{{ $page.Title }}"
        class="block rounded-2xl shadow-lg w-full"
