@@ -170,10 +170,6 @@
         <!-- BODY MARKDOWN LIBRE (introduction, whyLoveThis, paragraphes custom, shortcodes ingredients/instructions, recipe-card, faq) -->
         <div class="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-gray-900 prose-p:text-gray-700 prose-p:leading-relaxed prose-li:text-gray-700">
           {{ $content := .Content }}
-          {{ if .Params.pinterest_image }}
-            {{ $pinterestImg := printf "<div class=\"mb-8 rounded-2xl overflow-hidden shadow-lg max-w-sm mx-auto\"><img src=\"https://images.comfortfood.uk/pinterestimage/%s.webp\" alt=\"%s\" class=\"w-full h-auto object-cover\" loading=\"lazy\" width=\"600\" height=\"900\"></div>" .Params.slug .Title }}
-            {{ $content = $content | replaceRE `(\{\{<\s*recipe-card[^>]*>\}\})` (printf "%s$1" $pinterestImg) }}
-          {{ end }}
           {{ $content = $content | replaceRE "(<h2[^>]*>.*?</h2>)" "|||SPLIT|||$1|||AD|||" }}
           {{ $parts := split $content "|||SPLIT|||" }}
           {{ $ads := slice "310453" "310459" "301254" "310461" "310463" "310464" "310465" }}
