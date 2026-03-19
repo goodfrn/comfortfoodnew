@@ -58,12 +58,9 @@
       <!-- Colonne gauche : Image + Byline -->
       <div>
         {{ with .Params.image }}
-          <div class="rounded-2xl shadow-lg relative" style="aspect-ratio: 3/2;">
-            <div class="rounded-2xl overflow-hidden w-full h-full">
-              {{ partial "recipe-image.html" (dict "image" . "title" $.Title "loading" "eager" "fetchpriority" "high") }}
-            </div>
+          <div class="rounded-2xl shadow-lg overflow-hidden relative group" style="aspect-ratio: 3/2;">
+            {{ partial "recipe-image.html" (dict "image" . "title" $.Title "loading" "eager" "fetchpriority" "high") }}
             <a href="https://pinterest.com/pin/create/button/?url={{ $.Permalink | urlize }}&description={{ $.Title | urlize }}"
-               data-pin-do="buttonPin"
                target="_blank"
                class="absolute top-3 right-3">
               <img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_round_red_64.png" alt="Save to Pinterest" style="display:block;">
