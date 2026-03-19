@@ -78,6 +78,7 @@ Wild rice takes longer to cook than regular rice so plan ahead or use the pre-co
 
 Finally, drizzle the creamy sauce over each bowl just before serving. The contrasting textures and vibrant tastes come alive here. You've got the chewy rice, the tender chicken, the crispy-edged corn and the creamy sauce all happening at once.
 
+{{< pinterest-image >}}
 {{<recipe-card>}}
 
 ## Serving and What Goes With It
