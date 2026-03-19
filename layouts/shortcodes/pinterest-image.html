@@ -1,9 +1,9 @@
 {{ $page := .Page }}
 {{ if $page.Params.pinterest_image }}
-<div class="not-prose mb-8" style="position: relative; display: inline-block;">
+<div class="not-prose mb-8" style="position: relative; width: 100%;">
   <img src="https://images.comfortfood.uk/pinterestimage/{{ $page.Params.slug }}.webp"
        alt="{{ $page.Title }}"
-       class="block rounded-2xl shadow-lg"
+       class="block rounded-2xl shadow-lg w-full"
        loading="lazy">
   <a href="https://pinterest.com/pin/create/button/?url={{ $page.Permalink | urlize }}&media=https://images.comfortfood.uk/pinterestimage/{{ $page.Params.slug }}.webp&description={{ $page.Title | urlize }}"
      target="_blank"
