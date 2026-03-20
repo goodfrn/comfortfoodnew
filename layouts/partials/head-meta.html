@@ -38,32 +38,6 @@
 {{ if eq .Section "recipes" }}
   {{ partial "recipe-jsonld.html" . }}
 {{ end }}
-<!-- Google Analytics DIFFÉRÉ -->
-{{ if .Site.Params.analytics.ga4 }}
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-// Fonction pour charger GA4
-function loadGA4() {
-  var script = document.createElement('script');
-  script.async = true;
-  script.src = 'https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.analytics.ga4 }}';
-  document.head.appendChild(script);
-  
-  script.onload = function() {
-    gtag('js', new Date());
-    gtag('config', '{{ .Site.Params.analytics.ga4 }}');
-  };
-}
-// Charger GA4 après le LCP (1,5 secondes)
-if (document.readyState === 'complete') {
-  setTimeout(loadGA4, 1500);
-} else {
-  window.addEventListener('load', function() {
-    setTimeout(loadGA4, 1500);
-  });
-}
-</script>
-{{ end }}
+
 
 
