@@ -69,7 +69,7 @@
       <!-- Colonne gauche : Image + Byline -->
       <div>
         {{ with .Params.image }}
-          <div class="rounded-2xl shadow-lg relative group" style="aspect-ratio: 3/2;">
+          <div class="rounded-2xl shadow-lg overflow-hidden relative group" style="aspect-ratio: 3/2;">
             {{ partial "recipe-image.html" (dict "image" . "title" $.Title "loading" "eager" "fetchpriority" "high") }}
           </div>
         {{ end }}
