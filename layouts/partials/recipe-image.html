@@ -4,5 +4,6 @@
 
 <img src="https://images.comfortfood.uk/display/{{ $filename }}.webp" 
      alt="{{ .title }}" 
+     class="w-full h-full object-cover"
      loading="{{ $loading }}"
      {{ if $fetchpriority }}fetchpriority="{{ $fetchpriority }}"{{ end }}>
