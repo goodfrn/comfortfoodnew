@@ -171,28 +171,7 @@
 
         <!-- BODY MARKDOWN LIBRE (introduction, whyLoveThis, paragraphes custom, shortcodes ingredients/instructions, recipe-card, faq) -->
         <div class="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-gray-900 prose-p:text-gray-700 prose-p:leading-relaxed prose-li:text-gray-700">
-          {{ $content := .Content }}
-          {{ $content = $content | replaceRE "(<h2[^>]*>.*?</h2>)" "|||SPLIT|||$1|||AD|||" }}
-          {{ $parts := split $content "|||SPLIT|||" }}
-          {{ $ads := slice "310453" "310459" "301254" "310461" "310463" "310464" "310465" }}
-          {{ range $i, $part := $parts }}
-            {{ $cleaned := $part | replaceRE "\\|\\|\\|AD\\|\\|\\|" "" }}
-            {{ if strings.Contains $part "|||AD|||" }}
-              {{ $adIndex := mod $i (len $ads) }}
-              {{ $adId := index $ads $adIndex }}
-              {{ $cleaned | safeHTML }}
-              <div class="hb-ad-inpage">
-                <div class="hb-ad-inner">
-                  <div
-                    class="hbagency_cls hbagency_space_{{ $adId }}"
-                    id="hbagency_space_{{ $adId }}">
-                  </div>
-                </div>
-              </div>
-            {{ else }}
-              {{ $cleaned | safeHTML }}
-            {{ end }}
-          {{ end }}
+          {{ .Content | safeHTML }}
         </div>
         {{ partial "related-wide-scroll-random.html" . }}
         {{ partial "comments.html" . }}
