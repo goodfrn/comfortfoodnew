@@ -87,6 +87,7 @@ Preheat your grill to medium-high. Oil those grates really well with vegetable o
 
 Put the skewers on the grill and listen for the sizzle. Turn them every 3 to 4 minutes so all sides get some char. I basted with the leftover marinade once halfway through but not more than that because too much makes them soggy and they won't crisp up. The whole grilling part takes about 20 minutes. You're looking for some blackened spots and edges that are starting to color and get a little crispy.
 
+{{< pinterest-image >}}
 {{<recipe-card>}}
 
 ## What To Serve These With
