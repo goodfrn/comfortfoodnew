@@ -74,6 +74,7 @@ Set your skillet or pan under a hot broiler and do not walk away. 5 minutes is a
 
 Fresh cilantro sliced jalapeños and sour cream go on after you pull the nachos from the broiler. The contrast between hot melted cheese and cold sour cream is half the reason I make these. Cilantro adds a green freshness that cuts through all the richness and jalapeños give you that vinegar bite if you're using pickled ones. Don't skip the toppings or it's just hot pork and cheese on chips which is fine but not as interesting.
 
+{{< pinterest-image >}}
 {{<recipe-card>}}
 
 ## Serving and Variations
