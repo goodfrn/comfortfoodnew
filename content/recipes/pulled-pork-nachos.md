@@ -27,10 +27,10 @@ keywords:
 - "kettle chips"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
- calories: "Approximate value not provided"
- fatContent: "Approximate value not provided"
- carbohydrateContent: "Approximate value not provided"
- proteinContent: "Approximate value not provided"
+ calories: "520"
+ fatContent: "32g"
+ carbohydrateContent: "28g"
+ proteinContent: "30g"
 ingredients:
 - "kettle cooked potato chips"
 - "BBQ pulled pork"
