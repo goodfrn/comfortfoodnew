@@ -92,6 +92,7 @@ Taste it now and add more salt and pepper if you need to. I always need more sal
 
 Dish it out and put fresh basil on top for garnish. The basil adds this peppery brightness that cuts through all the cream cheese richness. I ate mine straight from the casserole dish the first night because I was tired and didn't want to clean an extra plate.
 
+{{< pinterest-image >}}
 {{<recipe-card>}}
 
 ## Serving This and What Goes With It
