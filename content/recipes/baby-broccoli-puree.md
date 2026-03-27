@@ -112,6 +112,19 @@ If it smells sulfurous or tastes bitter, you boiled it too long or used water th
 If it thickens up in the fridge, stir in boiled water or vegetable broth. Not milk. Keep it vegan and dairy free in case the baby's sensitive.
 Baby won't touch it? Mix it with unsweetened apple puree or carrot puree. Subtle flavor. Makes it less boring.
 
+## How to Reheat Baby Broccoli Purée
+
+Reheating baby broccoli purée the right way keeps nutrients intact and avoids hot spots that can burn little mouths. 
+Whether you reheat broccoli purée in the microwave, stovetop, or warm water bath — method matters for babies.
+
+**Warm water bath — best method.** Spoon the purée into a small bowl and place it in a larger bowl of hot water. Stir every 30 seconds. Takes 2 to 3 minutes. No hot spots, no nutrient loss.
+
+**Broccoli in microwave — fastest method.** Transfer purée to a microwave-safe bowl. Heat in 15-second bursts, stirring between each. Never heat more than 30 to 45 seconds total. Always test temperature on your wrist before serving — should feel lukewarm, not hot.
+
+**Stovetop — for larger portions.** Low heat, small saucepan, stir constantly. Add a splash of water or broth if it thickens. Takes 3 to 4 minutes.
+
+Never reheat twice. Once reheated, serve immediately and discard leftovers. Reheat only the portion you need — leave the rest cold in the fridge.
+
 {{< recipe-card >}}
 
 ## Frequently Asked Questions About Baby Broccoli Puree
