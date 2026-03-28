@@ -91,6 +91,7 @@ Stir in the chopped cilantro and sliced green onions last, folding them through 
 
 The contrast between the warm spiced sauce and the fresh herbs is what makes this pumpkin chicken curry work.
 
+{{< pinterest-image >}}
 {{<recipe-card>}}
 
 ## Serving and What to Put It On
