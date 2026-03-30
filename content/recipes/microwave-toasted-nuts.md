@@ -110,6 +110,8 @@ Cool completely. Or eat them warm. They're actually crunchier once they're cool,
 
 The smoked paprika does all the work here. Without it, they're just toasted nuts. With it — tastes like you bought them fancy.
 
+These quick toasted pecans are honestly the easiest homemade nut snack I make. No oven, no pan — just microwave pecans and hazelnuts with roasted nuts with smoked paprika and you're done in under 10 minutes.
+
 Don't skip the salt. Or do. But it brings out the nut flavor. Makes them taste nuttier somehow.
 
 The timing matters but not in the way you think. It's not about hitting exactly 2 minutes 20 seconds — it's about watching them. Every microwave is different. Some run hot. Some run cold. The first time you make these, stay in the kitchen and watch through the window. You'll know what done looks like in your specific microwave. Then next time you can time it.
