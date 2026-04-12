@@ -27,10 +27,10 @@ keywords:
 - "baked pasta with sausage"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
- calories: "Approximate calorie count depends on sausage and cheese amounts"
- fatContent: "Varies based on ingredients"
- carbohydrateContent: "Varies with pasta quantity"
- proteinContent: "Dependent on sausage and cheese amount"
+ calories: ""
+ fatContent: ""
+ carbohydrateContent: ""
+ proteinContent: ""
 ingredients:
 - "Sausage, amount as desired"
 - "Cheese"
