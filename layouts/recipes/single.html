@@ -173,10 +173,19 @@
         <div class="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-gray-900 prose-p:text-gray-700 prose-p:leading-relaxed prose-li:text-gray-700">
           {{ .Content | safeHTML }}
         </div>
+        <script>
+          document.addEventListener("DOMContentLoaded", function() {
+            var headings = document.querySelectorAll(".prose h2");
+            if (headings.length > 0) {
+              var ad = document.createElement("div");
+              ad.className = "hb-ad-inpage";
+              ad.innerHTML = '<div class="hb-ad-inner"><div class="hbagency_cls hbagency_space_301254"></div></div>';
+              headings[0].parentNode.insertBefore(ad, headings[0].nextSibling);
+            }
+          });
+        </script>
         {{ partial "related-wide-scroll-random.html" . }}
         {{ partial "comments.html" . }}
-
-      </div>
 
       <!-- Sidebar inchangée -->
       <aside class="space-y-6 w-full">
