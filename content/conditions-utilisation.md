@@ -40,7 +40,7 @@ All original content including recipe formulations, cooking methods, photography
 
 ## Communication
 
-**Contact:** goodfrn792@gmail.com  
+**Contact:** emma@comfortfood.uk 
 **Response Time:** We aim to respond to inquiries within 72 hours during business days.
 
 ## Terms Modification Policy
