@@ -8,7 +8,7 @@ layout: "legal/mentions-legales"
 
 **Website:** Comfort Food (comfortfood.uk)  
 **Publisher:** Emma  
-**Email:** goodfrn792@gmail.com  
+**Email:** emma@comfortfood.uk 
 **Status:** Personal website
 
 ## Hosting
@@ -38,7 +38,7 @@ We collect only essential data required for website functionality including news
 
 ## Contact
 
-**Email:** goodfrn792@gmail.com  
+**Email:** emma@comfortfood.uk  
 **Response Time:** Within 72 hours during business days  
 
 ---
