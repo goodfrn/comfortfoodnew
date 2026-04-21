@@ -7,7 +7,7 @@ layout: "legal/politique-confidentialite"
 ## Data Controller Information
 
 **Data Controller:** Emma (Comfort Food)  
-**Contact Email:** goodfrn792@gmail.com  
+**Contact Email:** emma@comfortfood.uk  
 **Jurisdiction:** United Kingdom  
 
 ## Information We Collect
@@ -46,7 +46,7 @@ We never sell, rent or share your email address with third parties.
 
 ## Contact
 
-For privacy concerns: goodfrn792@gmail.com
+For privacy concerns: emma@comfortfood.uk
 
 ---
 
