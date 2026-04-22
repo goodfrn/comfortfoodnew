@@ -173,7 +173,7 @@
         {{ $inlineCapture := partial "email-capture-inline.html" . }}
 
         {{/* 1) Inject après recipe card */}}
-        {{ $content = replace $content "<!-- recipe-card-end -->" (print "<!-- recipe-card-end -->" $inlineCapture) 1 }}
+        {{ $content = replace $content `<div id="recipe-card-end-marker"></div>` (print `<div id="recipe-card-end-marker"></div>` $inlineCapture) 1 }}
 
         {{/* 2) Split pour injecter avant 4e h2 */}}
         {{ $parts := split $content "<h2" }}
