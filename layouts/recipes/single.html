@@ -165,13 +165,30 @@
 
     <!-- CORPS : colonne principale + sidebar -->
     <div class="grid lg:grid-cols-[2fr_1fr] gap-6 sm:gap-8 lg:gap-12 items-start">
-
       <!-- Colonne principale -->
       <div class="w-full min-w-0">
 
         <!-- BODY MARKDOWN LIBRE (introduction, whyLoveThis, paragraphes custom, shortcodes ingredients/instructions, recipe-card, faq) -->
+        {{ $content := .Content }}
+        {{ $inlineCapture := partial "email-capture-inline.html" . }}
+
+        {{/* 1) Inject après recipe card */}}
+        {{ $content = replace $content "<!-- recipe-card-end -->" (print "<!-- recipe-card-end -->" $inlineCapture) 1 }}
+
+        {{/* 2) Split pour injecter avant 4e h2 */}}
+        {{ $parts := split $content "<h2" }}
+
         <div class="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-gray-900 prose-p:text-gray-700 prose-p:leading-relaxed prose-li:text-gray-700">
-          {{ .Content | safeHTML }}
+          {{ range $i, $part := $parts }}
+            {{ if eq $i 0 }}
+              {{ $part | safeHTML }}
+            {{ else }}
+              {{ if eq $i 4 }}
+                {{ $inlineCapture }}
+              {{ end }}
+              {{ print "<h2" $part | safeHTML }}
+            {{ end }}
+          {{ end }}
         </div>
         <script>
           document.addEventListener("DOMContentLoaded", function() {
