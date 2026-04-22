@@ -1,0 +1,144 @@
+{{/* 
+  partials/email-capture-inline.html
+  Inline email capture at the bottom of recipe pages
+  
+  USAGE:
+  1. Save this file at: themes/[YOUR-THEME]/layouts/partials/email-capture-inline.html
+  2. Add in single.html BEFORE {{ partial "related-wide-scroll-random.html" . }}:
+     {{ partial "email-capture-inline.html" . }}
+  3. Replace YOUR_MAILERLITE_FORM_ID below with your actual MailerLite form ID
+*/}}
+
+<section class="email-capture-inline" style="margin: 48px 0;">
+  <div class="email-capture-wrapper">
+    <div class="email-capture-image">
+      <div class="email-capture-badge">FREE GIFT</div>
+      <div class="email-capture-visual">🍗</div>
+    </div>
+    
+    <div class="email-capture-text">
+      <h2 class="email-capture-title">
+        Loved this recipe? Get 4 more like it — free.
+      </h2>
+      <p class="email-capture-subtitle">
+        Join the Comfort Food newsletter and I'll send you my 5 favorite air fryer chicken recipes 
+        right now. The Stuffed Chicken Breast alone is worth the signup.
+      </p>
+      
+      <ul class="email-capture-benefits">
+        <li>✓ 5 premium air fryer recipes (PDF)</li>
+        <li>✓ One new recipe every week by email</li>
+        <li>✓ Exclusive reader discount on my ebook</li>
+      </ul>
+      
+      <!-- MailerLite embedded form - REPLACE YOUR_MAILERLITE_FORM_ID -->
+      <div class="ml-embedded" data-form="YOUR_MAILERLITE_FORM_ID"></div>
+      
+      <p class="email-capture-privacy">
+        No spam, ever. Unsubscribe anytime. I respect your inbox.
+      </p>
+    </div>
+  </div>
+</section>
+
+<style>
+  .email-capture-inline {
+    background: linear-gradient(135deg, #FFF8F0 0%, #FFE4CC 100%);
+    border-radius: 16px;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid rgba(194, 65, 12, 0.15);
+  }
+  
+  .email-capture-wrapper {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    gap: 0;
+    align-items: stretch;
+  }
+  
+  .email-capture-image {
+    background: linear-gradient(135deg, var(--primary, #C2410C) 0%, #9A3311 100%);
+    padding: 32px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+  }
+  
+  .email-capture-badge {
+    background: white;
+    color: var(--primary, #C2410C);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    padding: 6px 14px;
+    border-radius: 20px;
+    margin-bottom: 16px;
+  }
+  
+  .email-capture-visual {
+    font-size: 80px;
+    line-height: 1;
+  }
+  
+  .email-capture-text {
+    padding: 32px 32px;
+  }
+  
+  .email-capture-title {
+    font-family: var(--font-serif, Georgia, serif);
+    font-size: 26px;
+    line-height: 1.2;
+    color: #1a1a1a;
+    margin: 0 0 12px 0;
+    font-weight: 700;
+  }
+  
+  .email-capture-subtitle {
+    font-size: 15px;
+    color: #555;
+    line-height: 1.5;
+    margin: 0 0 16px 0;
+  }
+  
+  .email-capture-benefits {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 20px 0;
+  }
+  
+  .email-capture-benefits li {
+    font-size: 14px;
+    color: #333;
+    padding: 4px 0;
+    font-family: Georgia, serif;
+  }
+  
+  .email-capture-privacy {
+    font-size: 12px;
+    color: #888;
+    margin: 12px 0 0 0;
+    font-style: italic;
+  }
+  
+  @media (max-width: 640px) {
+    .email-capture-wrapper {
+      grid-template-columns: 1fr;
+    }
+    .email-capture-image {
+      padding: 24px 20px;
+    }
+    .email-capture-visual {
+      font-size: 60px;
+    }
+    .email-capture-text {
+      padding: 24px 20px;
+    }
+    .email-capture-title {
+      font-size: 22px;
+    }
+  }
+</style>
