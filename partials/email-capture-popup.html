@@ -1,0 +1,265 @@
+{{/* 
+  partials/email-capture-popup.html
+  Exit-intent + scroll-based popup for email capture via MailerLite
+  
+  USAGE:
+  1. Save this file at: themes/[YOUR-THEME]/layouts/partials/email-capture-popup.html
+  2. Add before </body> in baseof.html: {{ partial "email-capture-popup.html" . }}
+  3. Replace YOUR_MAILERLITE_FORM_ID below with your actual MailerLite form ID
+*/}}
+
+<!-- Email Capture Popup -->
+<div id="emailPopup" class="email-popup-overlay" style="display: none;" role="dialog" aria-labelledby="popupTitle" aria-modal="true">
+  <div class="email-popup-container">
+    <button class="email-popup-close" aria-label="Close popup" onclick="closeEmailPopup()">×</button>
+    
+    <div class="email-popup-content">
+      <div class="email-popup-badge">FREE GIFT</div>
+      
+      <h2 id="popupTitle" class="email-popup-title">
+        Get 5 Foolproof Air Fryer Chicken Recipes
+      </h2>
+      
+      <p class="email-popup-subtitle">
+        The ones I make every week. Crispy, juicy, and done in under 30 minutes.
+      </p>
+      
+      <ul class="email-popup-benefits">
+        <li>✓ Stuffed Chicken Breast (the restaurant-level one)</li>
+        <li>✓ Chicken Parmesan (Italian grandmother approved)</li>
+        <li>✓ Crispy Chicken Sandwich (beats fast food)</li>
+        <li>✓ Chicken Meatballs (freezer-friendly)</li>
+        <li>✓ Orange Chicken (better than takeout)</li>
+      </ul>
+      
+      <!-- MailerLite embedded form - REPLACE YOUR_MAILERLITE_FORM_ID -->
+      <div class="ml-embedded" data-form="YOUR_MAILERLITE_FORM_ID"></div>
+      
+      <p class="email-popup-privacy">
+        No spam, ever. Unsubscribe anytime.
+      </p>
+    </div>
+  </div>
+</div>
+
+<style>
+  .email-popup-overlay {
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0, 0, 0, 0.65);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    animation: popupFadeIn 0.3s ease;
+  }
+  
+  @keyframes popupFadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  
+  .email-popup-container {
+    background: #fff;
+    border-radius: 16px;
+    max-width: 500px;
+    width: 100%;
+    position: relative;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    animation: popupSlideUp 0.4s ease;
+    max-height: 90vh;
+    overflow-y: auto;
+  }
+  
+  @keyframes popupSlideUp {
+    from { transform: translateY(30px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+  }
+  
+  .email-popup-close {
+    position: absolute;
+    top: 12px;
+    right: 16px;
+    background: none;
+    border: none;
+    font-size: 32px;
+    color: #888;
+    cursor: pointer;
+    padding: 0;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    line-height: 1;
+    transition: all 0.2s;
+  }
+  
+  .email-popup-close:hover {
+    background: #f5f5f5;
+    color: #333;
+  }
+  
+  .email-popup-content {
+    padding: 40px 32px 28px 32px;
+    text-align: center;
+  }
+  
+  .email-popup-badge {
+    display: inline-block;
+    background: var(--primary, #C2410C);
+    color: white;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    padding: 6px 14px;
+    border-radius: 20px;
+    margin-bottom: 16px;
+  }
+  
+  .email-popup-title {
+    font-family: var(--font-serif, Georgia, serif);
+    font-size: 28px;
+    line-height: 1.2;
+    color: #1a1a1a;
+    margin: 0 0 12px 0;
+    font-weight: 700;
+  }
+  
+  .email-popup-subtitle {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.5;
+    margin: 0 0 24px 0;
+  }
+  
+  .email-popup-benefits {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 24px 0;
+    text-align: left;
+    background: #FFF8F0;
+    border-radius: 10px;
+    padding: 16px 20px;
+  }
+  
+  .email-popup-benefits li {
+    font-size: 14px;
+    color: #333;
+    padding: 6px 0;
+    font-family: Georgia, serif;
+  }
+  
+  .email-popup-privacy {
+    font-size: 12px;
+    color: #888;
+    margin: 16px 0 0 0;
+    font-style: italic;
+  }
+  
+  @media (max-width: 480px) {
+    .email-popup-content {
+      padding: 32px 20px 20px 20px;
+    }
+    .email-popup-title {
+      font-size: 22px;
+    }
+    .email-popup-subtitle {
+      font-size: 14px;
+    }
+  }
+  
+  /* Prevent body scroll when popup is open */
+  body.popup-open {
+    overflow: hidden;
+  }
+</style>
+
+<script>
+(function() {
+  var POPUP_KEY = 'comfortfood_popup_seen';
+  var POPUP_SUBSCRIBED_KEY = 'comfortfood_subscribed';
+  var SCROLL_TRIGGER_PERCENT = 50; // Trigger at 50% scroll
+  var popupShown = false;
+  
+  // Don't show if user already saw it in last 7 days, or is subscribed
+  function shouldShowPopup() {
+    if (popupShown) return false;
+    if (localStorage.getItem(POPUP_SUBSCRIBED_KEY)) return false;
+    
+    var lastSeen = localStorage.getItem(POPUP_KEY);
+    if (lastSeen) {
+      var daysSince = (Date.now() - parseInt(lastSeen)) / (1000 * 60 * 60 * 24);
+      if (daysSince < 7) return false;
+    }
+    return true;
+  }
+  
+  function showPopup() {
+    if (!shouldShowPopup()) return;
+    popupShown = true;
+    localStorage.setItem(POPUP_KEY, Date.now().toString());
+    document.getElementById('emailPopup').style.display = 'flex';
+    document.body.classList.add('popup-open');
+  }
+  
+  window.closeEmailPopup = function() {
+    document.getElementById('emailPopup').style.display = 'none';
+    document.body.classList.remove('popup-open');
+  };
+  
+  // Close on overlay click
+  document.addEventListener('DOMContentLoaded', function() {
+    var overlay = document.getElementById('emailPopup');
+    if (overlay) {
+      overlay.addEventListener('click', function(e) {
+        if (e.target === overlay) closeEmailPopup();
+      });
+    }
+    
+    // TRIGGER 1: Scroll to 50% of page
+    var scrollTriggered = false;
+    window.addEventListener('scroll', function() {
+      if (scrollTriggered || !shouldShowPopup()) return;
+      var scrollPercent = (window.scrollY / (document.body.scrollHeight - window.innerHeight)) * 100;
+      if (scrollPercent >= SCROLL_TRIGGER_PERCENT) {
+        scrollTriggered = true;
+        showPopup();
+      }
+    });
+    
+    // TRIGGER 2: Exit-intent (mouse leaves top of page)
+    var exitTriggered = false;
+    document.addEventListener('mouseleave', function(e) {
+      if (exitTriggered || !shouldShowPopup()) return;
+      if (e.clientY <= 0) {
+        exitTriggered = true;
+        showPopup();
+      }
+    });
+    
+    // TRIGGER 3: Close on ESC key
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') closeEmailPopup();
+    });
+  });
+  
+  // Mark as subscribed when form is submitted (MailerLite callback)
+  window.addEventListener('message', function(e) {
+    if (e.data && e.data.type === 'mailerlite-form-submitted') {
+      localStorage.setItem(POPUP_SUBSCRIBED_KEY, Date.now().toString());
+    }
+  });
+})();
+</script>
+
+<!-- MailerLite Universal Script -->
+<script>
+(function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+.push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+(window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+ml('account', 'YOUR_MAILERLITE_ACCOUNT_ID');
+</script>
