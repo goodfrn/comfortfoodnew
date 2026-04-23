@@ -69,17 +69,17 @@
       
       <div class="ebook-problems">
         <div class="ebook-problem">
-          <span class="ebook-problem-icon">😤</span>
+          <span class="ebook-problem-number">01</span>
           <h3>Your chicken comes out dry</h3>
           <p>You follow the recipe. You set the timer. It's still chewy and flavorless.</p>
         </div>
         <div class="ebook-problem">
-          <span class="ebook-problem-icon">🔥</span>
+          <span class="ebook-problem-number">02</span>
           <h3>The breading falls off</h3>
           <p>You spent 20 minutes coating it and half of it's stuck to the basket.</p>
         </div>
         <div class="ebook-problem">
-          <span class="ebook-problem-icon">⏰</span>
+          <span class="ebook-problem-number">03</span>
           <h3>It's 6pm and you have nothing</h3>
           <p>You're staring into the fridge. The kids are asking. Takeout wins again.</p>
         </div>
@@ -167,7 +167,7 @@
             "The 3-ingredient crispy formula"
             "Temperature chart by cut"
           )
-          "gumroadUrl" "https://kasri3.gumroad.com/l/core"
+          "gumroadUrl" "https://comfortfood.gumroad.com/l/core"
           "pages" "83"
         ) }}
         
@@ -186,7 +186,7 @@
             "Ingredient substitutions guide"
             "Complete troubleshooting guide (6 problems, exact fixes)"
           )
-          "gumroadUrl" "https://kasri3.gumroad.com/l/complete"
+          "gumroadUrl" "https://comfortfood.gumroad.com/l/complete"
           "pages" "97"
           "isHighlighted" true
         ) }}
@@ -196,22 +196,23 @@
           "title" "Air Fryer Chicken System"
           "edition" "VIP"
           "price" "$47"
-          "description" "For my biggest fans. Everything above plus exclusive perks you won't get anywhere else."
+          "badge" "BEST VALUE"
+          "description" "The Forever Pass. Everything in COMPLETE + every future ebook I write, FREE, for life."
           "features" (slice
-            "Everything in COMPLETE"
-            "50% off all future ebook releases"
-            "3 monthly bonus PDFs (15 exclusive recipes)"
-            "Direct email access to Emma"
-            "Private VIP newsletter"
+            "Everything in COMPLETE (97 pages)"
+            "<strong>+ Every future ebook, automatically delivered</strong>"
+            "Air Fryer Breakfast (coming Summer 2026)"
+            "Comfort Food Casseroles (coming Fall 2026)"
+            "Quick Weeknight Dinners (coming Winter 2026)"
+            "That's $100+ of future ebooks — included"
           )
-          "gumroadUrl" "https://kasri3.gumroad.com/l/vip"
+          "gumroadUrl" "https://comfortfood.gumroad.com/l/vip"
           "pages" "100"
         ) }}
         
       </div>
       
       <div class="ebook-guarantee">
-        <div class="ebook-guarantee-icon">🛡️</div>
         <div class="ebook-guarantee-text">
           <strong>30-day money-back guarantee.</strong>
           Try any edition. If you don't love it, email me and I'll refund you. No questions asked.
@@ -484,10 +485,15 @@
     border: 1px solid rgba(255,255,255,0.1);
   }
   
-  .ebook-problem-icon {
-    font-size: 48px;
+  .ebook-problem-number {
+    font-family: Georgia, serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: var(--primary, #C2410C);
     display: block;
-    margin-bottom: 16px;
+    margin-bottom: 12px;
+    opacity: 0.6;
+    letter-spacing: 1px;
   }
   
   .ebook-problem h3 {
@@ -589,11 +595,6 @@
     gap: 20px;
     max-width: 720px;
     margin: 32px auto 0 auto;
-  }
-  
-  .ebook-guarantee-icon {
-    font-size: 40px;
-    flex-shrink: 0;
   }
   
   .ebook-guarantee-text {
