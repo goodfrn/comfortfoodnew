@@ -1,370 +1,131 @@
 {{/* 
   partials/email-capture-inline.html
-  v4 — TRUE SPOTLIGHT with scroll lock
+  v5 — CLEAN & COMPACT
   
-  When form enters viewport at 60%:
-  1. Scroll is temporarily locked (2.5s)
-  2. Page behind blurs and darkens
-  3. Form is elevated above the overlay with strong shadow
-  4. After 2.5s, scroll unlocks and everything returns to normal
-  5. If user clicks/focuses form, releases immediately
-  6. Disabled on mobile
+  No effects. No lag. No scroll lock.
+  Just a tight, premium-looking form that converts.
 */}}
 
-<section class="ec-inline-wrapper" id="emailCaptureWrapper">
-  <div class="ec-inline" id="emailCaptureInline">
-    <div class="ec-glow"></div>
-    
-    <div class="ec-content">
-      <div class="ec-badge">FREE · 5 RECIPES</div>
-      
-      <h2 class="ec-title">
-        Stop ruining your air fryer chicken.
-      </h2>
-      
-      <p class="ec-subtitle">
-        I spent 3 years making dry, rubbery, sad chicken before I figured this out.<br>
-        These 5 recipes changed everything. I'm giving them to you — free.
-      </p>
-      
-      <ul class="ec-benefits">
-        <li><strong>Stuffed Chicken Breast</strong> — the restaurant-level one</li>
-        <li><strong>Chicken Parmesan</strong> — 25 min · Italian grandmother approved</li>
-        <li><strong>Crispy Chicken Sandwich</strong> — beats Popeyes (no kidding)</li>
-        <li><strong>Chicken Meatballs</strong> — freezer-friendly · kid-approved</li>
-        <li><strong>Orange Chicken</strong> — better than takeout, I promise</li>
-      </ul>
-      
-      <div class="ml-embedded" data-form="J4whou"></div>
-      
-      <p class="ec-privacy">
-        No spam. Unsubscribe in 1 click. Your email stays with me.
-      </p>
-    </div>
+<aside class="ec-box">
+  <div class="ec-left">
+    <div class="ec-badge">FREE</div>
+    <div class="ec-tag">5 Bonus Recipes</div>
   </div>
-</section>
-
-<!-- Overlay that blurs the background (applied to a separate layer, not body) -->
-<div class="ec-overlay" id="emailCaptureOverlay"></div>
+  
+  <div class="ec-right">
+    <h3 class="ec-title">
+      Stop ruining your air fryer chicken.
+    </h3>
+    
+    <p class="ec-sub">
+      I spent 3 years making sad, rubbery chicken before I figured this out. 
+      Get the 5 recipes that changed everything — free.
+    </p>
+    
+    <div class="ml-embedded" data-form="J4whou"></div>
+  </div>
+</aside>
 
 <style>
-  /* Wrapper is a normal block in the page flow */
-  .ec-inline-wrapper {
-    margin: 48px auto;
+  .ec-box {
+    margin: 40px auto;
     max-width: 640px;
-    min-height: 1px;
+    background: #fff;
+    border: 1px solid rgba(194, 65, 12, 0.2);
+    border-left: 4px solid var(--primary, #C2410C);
+    border-radius: 8px;
+    padding: 28px 32px;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 24px;
+    align-items: start;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
   }
   
-  /* The form itself */
-  .ec-inline {
-    background: white;
-    border-radius: 16px;
-    padding: 40px 36px 32px 36px;
-    position: relative;
-    border: 1px solid rgba(194, 65, 12, 0.15);
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
-    transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
-  }
-  
-  /* Glow layer behind the form */
-  .ec-glow {
-    position: absolute;
-    top: -6px;
-    left: -6px;
-    right: -6px;
-    bottom: -6px;
-    border-radius: 22px;
-    opacity: 0;
-    transition: opacity 0.5s ease;
-    pointer-events: none;
-    background: radial-gradient(ellipse at center, 
-      rgba(194, 65, 12, 0.4) 0%, 
-      rgba(194, 65, 12, 0.15) 40%, 
-      rgba(194, 65, 12, 0) 70%);
-  }
-  
-  /* ============ ACTIVE SPOTLIGHT STATE ============ */
-  /* When active: the form is elevated above the overlay */
-  .ec-inline.spotlight-active {
-    position: relative;
-    z-index: 10000; /* ABOVE the overlay */
-    transform: scale(1.03);
-    box-shadow: 
-      0 25px 70px rgba(0, 0, 0, 0.35),
-      0 0 0 2px rgba(194, 65, 12, 0.4),
-      0 0 100px rgba(194, 65, 12, 0.3);
-  }
-  
-  .ec-inline.spotlight-active .ec-glow {
-    opacity: 1;
-    animation: glowPulse 2s ease infinite;
-  }
-  
-  @keyframes glowPulse {
-    0%, 100% { opacity: 0.6; transform: scale(1); }
-    50% { opacity: 1; transform: scale(1.05); }
-  }
-  
-  /* ============ OVERLAY (fixed, covers entire viewport) ============ */
-  .ec-overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: rgba(0, 0, 0, 0);
-    backdrop-filter: blur(0px);
-    -webkit-backdrop-filter: blur(0px);
-    pointer-events: none;
-    z-index: 9999; /* BELOW the form when active */
-    opacity: 0;
-    transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
-  }
-  
-  .ec-overlay.active {
-    background: rgba(0, 0, 0, 0.6);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-    opacity: 1;
-    pointer-events: auto; /* Blocks interaction with the page behind */
-  }
-  
-  /* ============ PREVENT SCROLL DURING SPOTLIGHT ============ */
-  body.spotlight-locked {
-    overflow: hidden;
-    /* Compensate for scrollbar disappearance to avoid layout shift */
-    padding-right: var(--scrollbar-width, 0px);
-  }
-  
-  /* ============ CONTENT STYLING ============ */
-  .ec-content {
-    position: relative;
-    z-index: 2;
+  .ec-left {
+    flex-shrink: 0;
+    border-right: 1px solid #eee;
+    padding-right: 24px;
     text-align: center;
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
   }
   
   .ec-badge {
-    display: inline-block;
     background: var(--primary, #C2410C);
     color: white;
     font-size: 11px;
     font-weight: 700;
     letter-spacing: 2px;
-    padding: 6px 14px;
-    border-radius: 20px;
-    margin-bottom: 20px;
+    padding: 6px 12px;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    display: inline-block;
+  }
+  
+  .ec-tag {
+    font-family: var(--font-serif, Georgia, serif);
+    font-size: 14px;
+    color: #666;
+    font-style: italic;
+    white-space: nowrap;
+  }
+  
+  .ec-right {
+    min-width: 0;
   }
   
   .ec-title {
     font-family: var(--font-serif, Georgia, serif);
-    font-size: 32px;
-    line-height: 1.15;
+    font-size: 22px;
+    line-height: 1.2;
     color: #1a1a1a;
-    margin: 0 0 16px 0;
+    margin: 0 0 8px 0;
     font-weight: 800;
     letter-spacing: -0.01em;
   }
   
-  .ec-subtitle {
-    font-size: 15px;
-    color: #444;
-    line-height: 1.6;
-    margin: 0 auto 24px auto;
-    max-width: 500px;
-    font-family: Georgia, serif;
-    font-style: italic;
-  }
-  
-  .ec-benefits {
-    list-style: none;
-    padding: 0;
-    margin: 0 auto 24px auto;
-    text-align: left;
-    max-width: 460px;
-  }
-  
-  .ec-benefits li {
+  .ec-sub {
     font-size: 14px;
-    color: #333;
-    padding: 6px 0 6px 24px;
-    position: relative;
+    color: #555;
+    line-height: 1.5;
+    margin: 0 0 16px 0;
     font-family: Georgia, serif;
-    line-height: 1.4;
   }
   
-  .ec-benefits li::before {
-    content: "✓";
-    position: absolute;
-    left: 0;
-    color: var(--primary, #C2410C);
-    font-weight: 700;
-    font-size: 14px;
-  }
-  
-  .ec-benefits strong {
-    color: #1a1a1a;
-    font-weight: 700;
-  }
-  
-  .ec-privacy {
-    font-size: 12px;
-    color: #888;
-    margin: 16px 0 0 0;
-  }
-  
-  /* ============ MOBILE: Disable spotlight, keep design ============ */
-  @media (max-width: 768px) {
-    .ec-inline-wrapper {
+  /* Mobile: stack vertically */
+  @media (max-width: 640px) {
+    .ec-box {
       margin: 32px 16px;
+      padding: 24px 20px;
+      grid-template-columns: 1fr;
+      gap: 16px;
+      border-left-width: 3px;
     }
     
-    .ec-inline {
-      padding: 32px 20px 24px 20px;
+    .ec-left {
+      border-right: none;
+      border-bottom: 1px solid #eee;
+      padding-right: 0;
+      padding-bottom: 16px;
+      flex-direction: row;
+      gap: 12px;
+      align-items: center;
+      justify-content: flex-start;
+    }
+    
+    .ec-badge {
+      margin-bottom: 0;
     }
     
     .ec-title {
-      font-size: 24px;
+      font-size: 20px;
     }
     
-    .ec-subtitle {
-      font-size: 14px;
-    }
-    
-    .ec-benefits li {
+    .ec-sub {
       font-size: 13px;
-    }
-    
-    /* Disable spotlight on mobile */
-    .ec-inline.spotlight-active {
-      transform: none;
-      z-index: auto;
-      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
-    }
-    
-    .ec-overlay.active {
-      background: rgba(0, 0, 0, 0);
-      backdrop-filter: blur(0px);
-      -webkit-backdrop-filter: blur(0px);
-      pointer-events: none;
-    }
-    
-    body.spotlight-locked {
-      overflow: auto;
-      padding-right: 0;
-    }
-  }
-  
-  /* ============ REDUCED MOTION (accessibility) ============ */
-  @media (prefers-reduced-motion: reduce) {
-    .ec-inline,
-    .ec-overlay,
-    .ec-glow {
-      transition: none;
-      animation: none;
     }
   }
 </style>
-
-<script>
-(function() {
-  var SPOTLIGHT_DURATION = 2500; // 2.5 seconds
-  
-  document.addEventListener('DOMContentLoaded', function() {
-    var form = document.getElementById('emailCaptureInline');
-    var overlay = document.getElementById('emailCaptureOverlay');
-    if (!form || !overlay) return;
-    
-    // Disable on mobile
-    var isMobile = window.matchMedia('(max-width: 768px)').matches;
-    if (isMobile) return;
-    
-    // Don't trigger if user is already subscribed
-    if (localStorage.getItem('comfortfood_subscribed')) return;
-    
-    var triggered = false;
-    var spotlightTimeout = null;
-    var savedScrollY = 0;
-    
-    // Measure scrollbar width to prevent layout shift when we lock scroll
-    function getScrollbarWidth() {
-      return window.innerWidth - document.documentElement.clientWidth;
-    }
-    
-    function activateSpotlight() {
-      if (triggered) return;
-      triggered = true;
-      
-      // Lock scroll position
-      savedScrollY = window.scrollY;
-      var scrollbarWidth = getScrollbarWidth();
-      document.documentElement.style.setProperty('--scrollbar-width', scrollbarWidth + 'px');
-      
-      // Activate spotlight
-      form.classList.add('spotlight-active');
-      overlay.classList.add('active');
-      
-      // Lock scroll after a tiny delay so scroll-into-view finishes
-      setTimeout(function() {
-        document.body.classList.add('spotlight-locked');
-      }, 50);
-      
-      // Auto-release after duration
-      spotlightTimeout = setTimeout(function() {
-        releaseSpotlight();
-      }, SPOTLIGHT_DURATION);
-      
-      // Release on interaction with form
-      var formInputs = form.querySelectorAll('input, button, textarea');
-      formInputs.forEach(function(input) {
-        input.addEventListener('focus', releaseSpotlight, { once: true });
-      });
-      
-      // Release on click outside form (on overlay)
-      overlay.addEventListener('click', releaseSpotlight, { once: true });
-      
-      // Release on ESC key
-      document.addEventListener('keydown', handleEscape);
-    }
-    
-    function handleEscape(e) {
-      if (e.key === 'Escape') releaseSpotlight();
-    }
-    
-    function releaseSpotlight() {
-      if (spotlightTimeout) {
-        clearTimeout(spotlightTimeout);
-        spotlightTimeout = null;
-      }
-      form.classList.remove('spotlight-active');
-      overlay.classList.remove('active');
-      document.body.classList.remove('spotlight-locked');
-      document.removeEventListener('keydown', handleEscape);
-    }
-    
-    // Use IntersectionObserver to detect when form enters viewport
-    if ('IntersectionObserver' in window) {
-      var observer = new IntersectionObserver(function(entries) {
-        entries.forEach(function(entry) {
-          // Trigger when form is 60% visible
-          if (entry.isIntersecting && entry.intersectionRatio >= 0.6 && !triggered) {
-            activateSpotlight();
-          }
-        });
-      }, {
-        threshold: [0, 0.3, 0.6, 0.9],
-        rootMargin: '0px'
-      });
-      
-      observer.observe(form);
-    }
-    
-    // Mark as subscribed when form is submitted (MailerLite callback)
-    window.addEventListener('message', function(e) {
-      if (e.data && e.data.type === 'mailerlite-form-submitted') {
-        localStorage.setItem('comfortfood_subscribed', Date.now().toString());
-        if (triggered) releaseSpotlight();
-      }
-    });
-  });
-})();
-</script>
