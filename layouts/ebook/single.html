@@ -1,0 +1,726 @@
+{{/*
+  layouts/ebook/single.html
+  OR layouts/ebook/list.html (depending on if you use it as a single page or section)
+  
+  Landing page for the ebook with 3 pricing tiers
+  
+  Use it as single page: place this at layouts/ebook/single.html
+  Then create content/ebook.md with front matter
+  
+  OR use as section: place at layouts/ebook/list.html
+  Then create content/ebook/_index.md
+*/}}
+
+{{ define "main" }}
+{{ $config := .Site.Data.config }}
+
+<!-- Mark body for CSS targeting (hides sticky banner on this page) -->
+<script>document.body.classList.add('page-ebook');</script>
+
+<div class="ebook-landing">
+
+  <!-- ============ HERO SECTION ============ -->
+  <section class="ebook-hero">
+    <div class="ebook-hero-content">
+      <div class="ebook-hero-badge">NEW · LAUNCH PRICING</div>
+      
+      <h1 class="ebook-hero-title">
+        The 30-Day<br>
+        <span class="ebook-hero-title-accent">Air Fryer Chicken</span><br>
+        System
+      </h1>
+      
+      <p class="ebook-hero-subtitle">
+        15 foolproof recipes. Zero guesswork. Crispy weeknight dinners in 30 minutes or less.
+      </p>
+      
+      <div class="ebook-hero-stats">
+        <div class="ebook-hero-stat">
+          <div class="ebook-hero-stat-number">15</div>
+          <div class="ebook-hero-stat-label">Recipes</div>
+        </div>
+        <div class="ebook-hero-stat">
+          <div class="ebook-hero-stat-number">96</div>
+          <div class="ebook-hero-stat-label">Pages</div>
+        </div>
+        <div class="ebook-hero-stat">
+          <div class="ebook-hero-stat-number">30<span>min</span></div>
+          <div class="ebook-hero-stat-label">Or less</div>
+        </div>
+        <div class="ebook-hero-stat">
+          <div class="ebook-hero-stat-number">∞</div>
+          <div class="ebook-hero-stat-label">Crispy</div>
+        </div>
+      </div>
+      
+      <a href="#pricing" class="ebook-hero-cta">
+        Choose your edition
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <path d="M12 5v14M19 12l-7 7-7-7"/>
+        </svg>
+      </a>
+    </div>
+  </section>
+
+  <!-- ============ PROBLEM / PROMISE SECTION ============ -->
+  <section class="ebook-section ebook-section-dark">
+    <div class="ebook-section-inner">
+      <h2 class="ebook-section-title">Sound familiar?</h2>
+      
+      <div class="ebook-problems">
+        <div class="ebook-problem">
+          <span class="ebook-problem-icon">😤</span>
+          <h3>Your chicken comes out dry</h3>
+          <p>You follow the recipe. You set the timer. It's still chewy and flavorless.</p>
+        </div>
+        <div class="ebook-problem">
+          <span class="ebook-problem-icon">🔥</span>
+          <h3>The breading falls off</h3>
+          <p>You spent 20 minutes coating it and half of it's stuck to the basket.</p>
+        </div>
+        <div class="ebook-problem">
+          <span class="ebook-problem-icon">⏰</span>
+          <h3>It's 6pm and you have nothing</h3>
+          <p>You're staring into the fridge. The kids are asking. Takeout wins again.</p>
+        </div>
+      </div>
+      
+      <div class="ebook-promise">
+        <h2>This ebook fixes all of that.</h2>
+        <p>Every recipe has been tested dozens of times in my own kitchen. Every one includes troubleshooting for what typically goes wrong. Every single dinner is on the table in 30 minutes.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ WHAT'S INSIDE SECTION ============ -->
+  <section class="ebook-section">
+    <div class="ebook-section-inner">
+      <div class="ebook-section-label">WHAT'S INSIDE</div>
+      <h2 class="ebook-section-title">The complete system</h2>
+      
+      <div class="ebook-features-grid">
+        <div class="ebook-feature">
+          <div class="ebook-feature-number">01</div>
+          <h3>15 foolproof recipes</h3>
+          <p>Wings, tenders, thighs, fajitas, fried chicken — organized by time (15-min family favorites, weeknight heroes, weekend showstoppers).</p>
+        </div>
+        <div class="ebook-feature">
+          <div class="ebook-feature-number">02</div>
+          <h3>The 5 fundamentals chapter</h3>
+          <p>The 5 mistakes everyone makes, the 3-ingredient crispy formula, and the complete temperature chart by cut.</p>
+        </div>
+        <div class="ebook-feature">
+          <div class="ebook-feature-number">03</div>
+          <h3>7-day meal plan</h3>
+          <p>A full week of dinners planned out with paired sides. No more 6pm fridge-staring. (COMPLETE & VIP)</p>
+        </div>
+        <div class="ebook-feature">
+          <div class="ebook-feature-number">04</div>
+          <h3>Complete shopping list</h3>
+          <p>Print it, bring it to the store, get everything for the week in one trip. (COMPLETE & VIP)</p>
+        </div>
+        <div class="ebook-feature">
+          <div class="ebook-feature-number">05</div>
+          <h3>5 homemade spice blends</h3>
+          <p>Stop paying $6 for blends that are 80% salt. Make them at home in 2 minutes. (COMPLETE & VIP)</p>
+        </div>
+        <div class="ebook-feature">
+          <div class="ebook-feature-number">06</div>
+          <h3>15 leftover transformations</h3>
+          <p>Every recipe leftover has a second-day life. Zero waste, 15 ideas. (COMPLETE & VIP)</p>
+        </div>
+        <div class="ebook-feature">
+          <div class="ebook-feature-number">07</div>
+          <h3>Troubleshooting guide</h3>
+          <p>Every problem you'll ever have (dry chicken, soggy coating, burning sauce) with the exact fix. (COMPLETE & VIP)</p>
+        </div>
+        <div class="ebook-feature">
+          <div class="ebook-feature-number">08</div>
+          <h3>VIP benefits</h3>
+          <p>Priority access to future releases, monthly bonus PDFs, direct email support from me. (VIP only)</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ PRICING SECTION ============ -->
+  <section id="pricing" class="ebook-section ebook-section-alt">
+    <div class="ebook-section-inner">
+      <div class="ebook-section-label">CHOOSE YOUR EDITION</div>
+      <h2 class="ebook-section-title">Pick the one that fits your kitchen</h2>
+      <p class="ebook-section-subtitle">
+        All versions include the 15 recipes. COMPLETE adds everything you need to make this a true system. VIP adds lifetime access to my best work.
+      </p>
+      
+      <div class="ebook-pricing-grid">
+        
+        <!-- CORE -->
+        {{ partial "ebook-card.html" (dict
+          "title" "Air Fryer Chicken System"
+          "edition" "CORE"
+          "price" "$17"
+          "description" "The starter edition. All 15 recipes plus the fundamentals chapter. Perfect if you just want the recipes."
+          "features" (slice 
+            "15 foolproof chicken recipes"
+            "Chapter 1 — Air Fryer Fundamentals"
+            "The 5 mistakes everyone makes"
+            "The 3-ingredient crispy formula"
+            "Temperature chart by cut"
+          )
+          "gumroadUrl" "https://comfortfood.gumroad.com/l/core"
+          "pages" "83"
+        ) }}
+        
+        <!-- COMPLETE (highlighted) -->
+        {{ partial "ebook-card.html" (dict
+          "title" "Air Fryer Chicken System"
+          "edition" "COMPLETE"
+          "price" "$27"
+          "badge" "BESTSELLER"
+          "description" "The full experience. Everything in CORE plus the bonus section and complete troubleshooting guide."
+          "features" (slice
+            "Everything in CORE"
+            "7-day meal plan with shopping list"
+            "5 homemade spice blends"
+            "15 leftover chicken transformations"
+            "Ingredient substitutions guide"
+            "Complete troubleshooting guide (6 problems, exact fixes)"
+          )
+          "gumroadUrl" "https://comfortfood.gumroad.com/l/complete"
+          "pages" "97"
+          "isHighlighted" true
+        ) }}
+        
+        <!-- VIP -->
+        {{ partial "ebook-card.html" (dict
+          "title" "Air Fryer Chicken System"
+          "edition" "VIP"
+          "price" "$47"
+          "description" "For my biggest fans. Everything above plus exclusive perks you won't get anywhere else."
+          "features" (slice
+            "Everything in COMPLETE"
+            "50% off all future ebook releases"
+            "3 monthly bonus PDFs (15 exclusive recipes)"
+            "Direct email access to Emma"
+            "Private VIP newsletter"
+          )
+          "gumroadUrl" "https://comfortfood.gumroad.com/l/vip"
+          "pages" "100"
+        ) }}
+        
+      </div>
+      
+      <div class="ebook-guarantee">
+        <div class="ebook-guarantee-icon">🛡️</div>
+        <div class="ebook-guarantee-text">
+          <strong>30-day money-back guarantee.</strong>
+          Try any edition. If you don't love it, email me and I'll refund you. No questions asked.
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FAQ SECTION ============ -->
+  <section class="ebook-section">
+    <div class="ebook-section-inner ebook-faq-inner">
+      <div class="ebook-section-label">QUESTIONS</div>
+      <h2 class="ebook-section-title">You probably want to know</h2>
+      
+      <div class="ebook-faq">
+        <details class="ebook-faq-item">
+          <summary>Does this work with my air fryer brand?</summary>
+          <p>Yes. I give you target temperatures and approximate times. Every air fryer runs slightly differently, so I include a troubleshooting guide that helps you dial in YOUR specific machine. Whether you have a Ninja, Cosori, Instant Pot, or store brand — these recipes work.</p>
+        </details>
+        
+        <details class="ebook-faq-item">
+          <summary>What format is the ebook?</summary>
+          <p>PDF. Works on any device (phone, tablet, computer). You can also print it if you prefer paper in the kitchen. Instant download after purchase.</p>
+        </details>
+        
+        <details class="ebook-faq-item">
+          <summary>How is this different from free recipes on your blog?</summary>
+          <p>My blog has individual recipes. The ebook is a <em>system</em>. The 3-ingredient crispy formula, the troubleshooting chapter, the meal plan, the spice blends — none of that is on the blog. Plus recipe quotes, pro tips, and variations you won't find anywhere else.</p>
+        </details>
+        
+        <details class="ebook-faq-item">
+          <summary>Do I need special equipment?</summary>
+          <p>Just an air fryer (any brand, 3.5 quarts or larger recommended) and basic pantry ingredients. I use a meat thermometer — it's not required but highly recommended. Every ingredient is from a regular grocery store.</p>
+        </details>
+        
+        <details class="ebook-faq-item">
+          <summary>Can I share this with my family?</summary>
+          <p>Absolutely. You bought it — print a copy, send it to your mom, cook with your partner. What you can't do is sell it or distribute it publicly. Standard personal-use license.</p>
+        </details>
+        
+        <details class="ebook-faq-item">
+          <summary>Which edition should I get?</summary>
+          <p><strong>CORE ($17)</strong> if you just want the recipes. <strong>COMPLETE ($27)</strong> if you want the full system — this is what 80% of people buy. <strong>VIP ($47)</strong> if you'll be buying my future ebooks too (the 50% off code pays for itself in one release).</p>
+        </details>
+        
+        <details class="ebook-faq-item">
+          <summary>Refund policy?</summary>
+          <p>30 days, no questions asked. Email emma@comfortfood.uk and I'll process your refund personally. I want you to love this book — if it's not for you, I want you to get your money back.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+  
+  <!-- ============ FINAL CTA ============ -->
+  <section class="ebook-section ebook-section-final">
+    <div class="ebook-section-inner ebook-final-cta">
+      <h2>Stop ruining dinner.<br>Start making it.</h2>
+      <p>The next time you stand in front of your air fryer, you'll know exactly what to do.</p>
+      <a href="#pricing" class="ebook-hero-cta">
+        Get the ebook
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <path d="M5 12h14M12 5l7 7-7 7"/>
+        </svg>
+      </a>
+      <p class="ebook-final-signature">— Emma</p>
+    </div>
+  </section>
+
+</div>
+
+<style>
+  /* ============ LANDING STYLES ============ */
+  
+  .ebook-landing {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* HERO */
+  .ebook-hero {
+    background: linear-gradient(135deg, #FFF8F0 0%, #FFE4CC 50%, #FFF8F0 100%);
+    padding: 80px 20px 100px 20px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .ebook-hero::before {
+    content: "";
+    position: absolute;
+    top: -100px;
+    right: -100px;
+    width: 400px;
+    height: 400px;
+    background: radial-gradient(circle, rgba(194, 65, 12, 0.08) 0%, transparent 70%);
+    border-radius: 50%;
+  }
+  
+  .ebook-hero-content {
+    max-width: 720px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .ebook-hero-badge {
+    display: inline-block;
+    background: var(--primary, #C2410C);
+    color: white;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    padding: 8px 18px;
+    border-radius: 20px;
+    margin-bottom: 24px;
+  }
+  
+  .ebook-hero-title {
+    font-family: var(--font-serif, Georgia, serif);
+    font-size: clamp(42px, 8vw, 72px);
+    line-height: 1.05;
+    color: #1a1a1a;
+    margin: 0 0 24px 0;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+  }
+  
+  .ebook-hero-title-accent {
+    color: var(--primary, #C2410C);
+  }
+  
+  .ebook-hero-subtitle {
+    font-size: clamp(18px, 2.5vw, 22px);
+    color: #555;
+    line-height: 1.5;
+    margin: 0 auto 40px auto;
+    max-width: 580px;
+    font-family: Georgia, serif;
+    font-style: italic;
+  }
+  
+  .ebook-hero-stats {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    margin-bottom: 48px;
+    flex-wrap: wrap;
+  }
+  
+  .ebook-hero-stat {
+    text-align: center;
+  }
+  
+  .ebook-hero-stat-number {
+    font-family: Georgia, serif;
+    font-size: 48px;
+    font-weight: 700;
+    color: var(--primary, #C2410C);
+    line-height: 1;
+  }
+  
+  .ebook-hero-stat-number span {
+    font-size: 20px;
+    color: #888;
+    font-weight: 400;
+  }
+  
+  .ebook-hero-stat-label {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #888;
+    text-transform: uppercase;
+    margin-top: 4px;
+  }
+  
+  .ebook-hero-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: var(--primary, #C2410C);
+    color: white !important;
+    padding: 18px 36px;
+    border-radius: 50px;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 18px;
+    transition: all 0.2s;
+    box-shadow: 0 6px 20px rgba(194, 65, 12, 0.25);
+  }
+  
+  .ebook-hero-cta:hover {
+    background: #9A3311;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(194, 65, 12, 0.35);
+  }
+  
+  /* GENERIC SECTIONS */
+  .ebook-section {
+    padding: 80px 20px;
+    background: white;
+  }
+  
+  .ebook-section-dark {
+    background: #1a1a1a;
+    color: white;
+  }
+  
+  .ebook-section-alt {
+    background: #FFF8F0;
+  }
+  
+  .ebook-section-final {
+    background: linear-gradient(135deg, var(--primary, #C2410C) 0%, #9A3311 100%);
+    color: white;
+    text-align: center;
+  }
+  
+  .ebook-section-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .ebook-section-label {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    color: var(--primary, #C2410C);
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 12px;
+  }
+  
+  .ebook-section-dark .ebook-section-label {
+    color: #FFB27A;
+  }
+  
+  .ebook-section-title {
+    font-family: var(--font-serif, Georgia, serif);
+    font-size: clamp(32px, 5vw, 48px);
+    text-align: center;
+    line-height: 1.1;
+    margin: 0 0 20px 0;
+    font-weight: 700;
+  }
+  
+  .ebook-section-subtitle {
+    text-align: center;
+    font-size: 18px;
+    color: #666;
+    max-width: 640px;
+    margin: 0 auto 48px auto;
+    line-height: 1.6;
+  }
+  
+  /* PROBLEMS */
+  .ebook-problems {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 24px;
+    margin: 48px 0;
+  }
+  
+  .ebook-problem {
+    background: rgba(255,255,255,0.05);
+    padding: 32px 24px;
+    border-radius: 16px;
+    text-align: center;
+    border: 1px solid rgba(255,255,255,0.1);
+  }
+  
+  .ebook-problem-icon {
+    font-size: 48px;
+    display: block;
+    margin-bottom: 16px;
+  }
+  
+  .ebook-problem h3 {
+    font-family: Georgia, serif;
+    font-size: 20px;
+    margin: 0 0 12px 0;
+    color: white;
+  }
+  
+  .ebook-problem p {
+    color: #bbb;
+    line-height: 1.5;
+    font-size: 15px;
+    margin: 0;
+  }
+  
+  .ebook-promise {
+    text-align: center;
+    padding: 48px 24px 0 24px;
+    max-width: 640px;
+    margin: 0 auto;
+  }
+  
+  .ebook-promise h2 {
+    font-family: Georgia, serif;
+    font-size: 32px;
+    margin: 0 0 16px 0;
+    color: white;
+  }
+  
+  .ebook-promise p {
+    color: #ccc;
+    font-size: 17px;
+    line-height: 1.6;
+    margin: 0;
+  }
+  
+  /* FEATURES GRID */
+  .ebook-features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 32px;
+    margin-top: 48px;
+  }
+  
+  .ebook-feature {
+    padding: 32px 24px;
+    border-radius: 16px;
+    background: #FFF8F0;
+    border: 1px solid rgba(194, 65, 12, 0.1);
+    transition: all 0.3s;
+  }
+  
+  .ebook-feature:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(194, 65, 12, 0.1);
+  }
+  
+  .ebook-feature-number {
+    font-family: Georgia, serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: var(--primary, #C2410C);
+    opacity: 0.4;
+    margin-bottom: 12px;
+    line-height: 1;
+  }
+  
+  .ebook-feature h3 {
+    font-family: Georgia, serif;
+    font-size: 20px;
+    margin: 0 0 12px 0;
+    color: #1a1a1a;
+  }
+  
+  .ebook-feature p {
+    color: #555;
+    line-height: 1.5;
+    font-size: 15px;
+    margin: 0;
+  }
+  
+  /* PRICING GRID */
+  .ebook-pricing-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 32px;
+    margin: 48px 0 32px 0;
+    align-items: stretch;
+  }
+  
+  .ebook-guarantee {
+    background: white;
+    border: 2px solid var(--primary, #C2410C);
+    border-radius: 16px;
+    padding: 24px 32px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    max-width: 720px;
+    margin: 32px auto 0 auto;
+  }
+  
+  .ebook-guarantee-icon {
+    font-size: 40px;
+    flex-shrink: 0;
+  }
+  
+  .ebook-guarantee-text {
+    font-size: 15px;
+    color: #333;
+    line-height: 1.5;
+  }
+  
+  .ebook-guarantee-text strong {
+    color: var(--primary, #C2410C);
+    display: block;
+    margin-bottom: 4px;
+    font-family: Georgia, serif;
+    font-size: 17px;
+  }
+  
+  /* FAQ */
+  .ebook-faq-inner {
+    max-width: 800px;
+  }
+  
+  .ebook-faq {
+    margin-top: 48px;
+  }
+  
+  .ebook-faq-item {
+    background: #FFF8F0;
+    border-radius: 12px;
+    margin-bottom: 12px;
+    overflow: hidden;
+    border: 1px solid rgba(194, 65, 12, 0.1);
+  }
+  
+  .ebook-faq-item summary {
+    padding: 20px 24px;
+    font-family: Georgia, serif;
+    font-size: 17px;
+    font-weight: 700;
+    color: #1a1a1a;
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .ebook-faq-item summary::-webkit-details-marker {
+    display: none;
+  }
+  
+  .ebook-faq-item summary::after {
+    content: "+";
+    font-size: 24px;
+    color: var(--primary, #C2410C);
+    font-weight: 300;
+    transition: transform 0.2s;
+    flex-shrink: 0;
+    margin-left: 16px;
+  }
+  
+  .ebook-faq-item[open] summary::after {
+    transform: rotate(45deg);
+  }
+  
+  .ebook-faq-item p {
+    padding: 0 24px 20px 24px;
+    margin: 0;
+    color: #555;
+    line-height: 1.6;
+    font-size: 15px;
+  }
+  
+  /* FINAL CTA */
+  .ebook-final-cta {
+    text-align: center;
+    padding: 40px 0;
+  }
+  
+  .ebook-final-cta h2 {
+    font-family: Georgia, serif;
+    font-size: clamp(32px, 5vw, 56px);
+    color: white;
+    margin: 0 0 16px 0;
+    line-height: 1.1;
+  }
+  
+  .ebook-final-cta p {
+    font-size: 20px;
+    color: rgba(255,255,255,0.9);
+    margin: 0 0 32px 0;
+    font-family: Georgia, serif;
+    font-style: italic;
+  }
+  
+  .ebook-section-final .ebook-hero-cta {
+    background: white;
+    color: var(--primary, #C2410C) !important;
+  }
+  
+  .ebook-section-final .ebook-hero-cta:hover {
+    background: #FFF8F0;
+  }
+  
+  .ebook-final-signature {
+    margin-top: 32px !important;
+    font-style: italic;
+    opacity: 0.9;
+  }
+  
+  @media (max-width: 640px) {
+    .ebook-hero {
+      padding: 60px 16px 80px 16px;
+    }
+    .ebook-hero-stats {
+      gap: 20px;
+    }
+    .ebook-hero-stat-number {
+      font-size: 36px;
+    }
+    .ebook-section {
+      padding: 60px 16px;
+    }
+    .ebook-guarantee {
+      flex-direction: column;
+      text-align: center;
+    }
+  }
+</style>
+
+{{ end }}
