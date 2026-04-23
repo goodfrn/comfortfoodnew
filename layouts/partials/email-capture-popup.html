@@ -1,43 +1,58 @@
+
 {{/* 
   partials/email-capture-popup.html
-  Exit-intent + scroll-based popup for email capture via MailerLite
+  HIGH-CONVERSION VERSION - v2
   
-  USAGE:
-  1. Save this file at: themes/[YOUR-THEME]/layouts/partials/email-capture-popup.html
-  2. Add before </body> in baseof.html: {{ partial "email-capture-popup.html" . }}
-  3. Replace YOUR_MAILERLITE_FORM_ID below with your actual MailerLite form ID
+  CHANGES FROM V1:
+  - Stronger headline (curiosity + story)
+  - More emotional copy
+  - Timing changed: scroll 70% (not 50%) + exit-intent + 45s fallback
+  - Social proof added
+  - Better mobile sizing
+  - Book mockup visual
 */}}
 
-<!-- Email Capture Popup -->
 <div id="emailPopup" class="email-popup-overlay" style="display: none;" role="dialog" aria-labelledby="popupTitle" aria-modal="true">
   <div class="email-popup-container">
     <button class="email-popup-close" aria-label="Close popup" onclick="closeEmailPopup()">×</button>
     
-    <div class="email-popup-content">
-      <div class="email-popup-badge">FREE GIFT</div>
+    <div class="email-popup-grid">
       
-      <h2 id="popupTitle" class="email-popup-title">
-        Get 5 Foolproof Air Fryer Chicken Recipes
-      </h2>
+      <div class="email-popup-visual">
+        <div class="email-popup-badge">FREE GIFT</div>
+        <div class="email-popup-book">
+          <div class="email-popup-book-edition">— FREE GUIDE —</div>
+          <div class="email-popup-book-title">The Air Fryer<br>Chicken<br>PLAYBOOK</div>
+          <div class="email-popup-book-sub">5 Foolproof Recipes · 25 Pages</div>
+          <div class="email-popup-book-author">by Emma</div>
+        </div>
+      </div>
       
-      <p class="email-popup-subtitle">
-        The ones I make every week. Crispy, juicy, and done in under 30 minutes.
-      </p>
-      
-      <ul class="email-popup-benefits">
-        <li>✓ Stuffed Chicken Breast (the restaurant-level one)</li>
-        <li>✓ Chicken Parmesan (Italian grandmother approved)</li>
-        <li>✓ Crispy Chicken Sandwich (beats fast food)</li>
-        <li>✓ Chicken Meatballs (freezer-friendly)</li>
-        <li>✓ Orange Chicken (better than takeout)</li>
-      </ul>
-      
-      <!-- MailerLite embedded form - REPLACE YOUR_MAILERLITE_FORM_ID -->
-      <div class="ml-embedded" data-form="J4whou"></div>
-      
-      <p class="email-popup-privacy">
-        No spam, ever. Unsubscribe anytime.
-      </p>
+      <div class="email-popup-content">
+        
+        <h2 id="popupTitle" class="email-popup-title">
+          Stop ruining your air fryer chicken.
+        </h2>
+        
+        <p class="email-popup-subtitle">
+          I spent 3 years making dry, rubbery, sad chicken before I figured 
+          this out. These 5 recipes changed everything. I'm giving them to you — free.
+        </p>
+        
+        <ul class="email-popup-benefits">
+          <li><strong>Stuffed Chicken Breast</strong> — the restaurant showstopper</li>
+          <li><strong>Chicken Parmesan</strong> — 25 min · Italian grandmother approved</li>
+          <li><strong>Crispy Chicken Sandwich</strong> — beats Popeyes (no kidding)</li>
+          <li><strong>Chicken Meatballs</strong> — freezer-friendly · kid-approved</li>
+          <li><strong>Orange Chicken</strong> — better than takeout, I promise</li>
+        </ul>
+        
+        <div class="ml-embedded" data-form="J4whou"></div>
+        
+        <p class="email-popup-privacy">
+          🔒 No spam. Unsubscribe in 1 click. Your email stays with me.
+        </p>
+      </div>
     </div>
   </div>
 </div>
@@ -46,13 +61,14 @@
   .email-popup-overlay {
     position: fixed;
     top: 0; left: 0; right: 0; bottom: 0;
-    background: rgba(0, 0, 0, 0.65);
+    background: rgba(0, 0, 0, 0.75);
     z-index: 9999;
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 20px;
     animation: popupFadeIn 0.3s ease;
+    backdrop-filter: blur(4px);
   }
   
   @keyframes popupFadeIn {
@@ -62,116 +78,228 @@
   
   .email-popup-container {
     background: #fff;
-    border-radius: 16px;
-    max-width: 500px;
+    border-radius: 20px;
+    max-width: 720px;
     width: 100%;
     position: relative;
-    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    box-shadow: 0 30px 80px rgba(0,0,0,0.4);
     animation: popupSlideUp 0.4s ease;
-    max-height: 90vh;
+    max-height: 92vh;
     overflow-y: auto;
+    overflow-x: hidden;
   }
   
   @keyframes popupSlideUp {
-    from { transform: translateY(30px); opacity: 0; }
-    to { transform: translateY(0); opacity: 1; }
+    from { transform: translateY(30px) scale(0.95); opacity: 0; }
+    to { transform: translateY(0) scale(1); opacity: 1; }
   }
   
   .email-popup-close {
     position: absolute;
     top: 12px;
     right: 16px;
-    background: none;
+    background: rgba(0, 0, 0, 0.05);
     border: none;
-    font-size: 32px;
-    color: #888;
+    font-size: 28px;
+    color: #666;
     cursor: pointer;
     padding: 0;
-    width: 40px;
-    height: 40px;
+    width: 36px;
+    height: 36px;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 50%;
     line-height: 1;
     transition: all 0.2s;
+    z-index: 2;
   }
   
   .email-popup-close:hover {
-    background: #f5f5f5;
-    color: #333;
+    background: rgba(0, 0, 0, 0.1);
+    color: #000;
   }
   
-  .email-popup-content {
-    padding: 40px 32px 28px 32px;
+  .email-popup-grid {
+    display: grid;
+    grid-template-columns: 260px 1fr;
+    gap: 0;
+  }
+  
+  .email-popup-visual {
+    background: linear-gradient(135deg, var(--primary, #C2410C) 0%, #9A3311 100%);
+    padding: 32px 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
     text-align: center;
+    position: relative;
   }
   
   .email-popup-badge {
-    display: inline-block;
-    background: var(--primary, #C2410C);
-    color: white;
-    font-size: 11px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background: white;
+    color: var(--primary, #C2410C);
+    font-size: 10px;
     font-weight: 700;
     letter-spacing: 2px;
-    padding: 6px 14px;
+    padding: 6px 12px;
     border-radius: 20px;
+  }
+  
+  .email-popup-book {
+    background: white;
+    color: #1a1a1a;
+    padding: 28px 20px;
+    border-radius: 8px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+    transform: rotate(-2deg);
+    width: 100%;
+    max-width: 180px;
+    font-family: Georgia, serif;
+  }
+  
+  .email-popup-book-edition {
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: var(--primary, #C2410C);
+    margin-bottom: 10px;
+  }
+  
+  .email-popup-book-title {
+    font-size: 22px;
+    font-weight: 800;
+    line-height: 1;
+    margin-bottom: 12px;
+    color: #1a1a1a;
+  }
+  
+  .email-popup-book-sub {
+    font-size: 10px;
+    color: #666;
+    font-style: italic;
     margin-bottom: 16px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .email-popup-book-author {
+    font-size: 11px;
+    color: var(--primary, #C2410C);
+    font-weight: 700;
+    letter-spacing: 1px;
+  }
+  
+  .email-popup-content {
+    padding: 32px 32px 24px 32px;
   }
   
   .email-popup-title {
     font-family: var(--font-serif, Georgia, serif);
-    font-size: 28px;
-    line-height: 1.2;
+    font-size: 26px;
+    line-height: 1.15;
     color: #1a1a1a;
     margin: 0 0 12px 0;
-    font-weight: 700;
+    font-weight: 800;
   }
   
   .email-popup-subtitle {
-    font-size: 16px;
-    color: #555;
+    font-size: 14px;
+    color: #444;
     line-height: 1.5;
-    margin: 0 0 24px 0;
+    margin: 0 0 16px 0;
+    font-family: Georgia, serif;
+    font-style: italic;
   }
   
   .email-popup-benefits {
     list-style: none;
     padding: 0;
-    margin: 0 0 24px 0;
-    text-align: left;
-    background: #FFF8F0;
-    border-radius: 10px;
-    padding: 16px 20px;
+    margin: 0 0 16px 0;
   }
   
   .email-popup-benefits li {
-    font-size: 14px;
+    font-size: 13px;
     color: #333;
-    padding: 6px 0;
+    padding: 5px 0 5px 22px;
+    position: relative;
+    line-height: 1.4;
     font-family: Georgia, serif;
   }
   
-  .email-popup-privacy {
-    font-size: 12px;
-    color: #888;
-    margin: 16px 0 0 0;
-    font-style: italic;
+  .email-popup-benefits li::before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: var(--primary, #C2410C);
+    font-weight: 700;
+    font-size: 14px;
   }
   
-  @media (max-width: 480px) {
-    .email-popup-content {
-      padding: 32px 20px 20px 20px;
+  .email-popup-benefits strong {
+    color: #1a1a1a;
+    font-weight: 700;
+  }
+  
+  .email-popup-privacy {
+    font-size: 11px;
+    color: #888;
+    margin: 12px 0 0 0;
+    text-align: center;
+  }
+  
+  @media (max-width: 640px) {
+    .email-popup-overlay {
+      padding: 12px;
+      align-items: flex-end;
     }
+    
+    .email-popup-container {
+      max-height: 95vh;
+      border-radius: 20px 20px 0 0;
+    }
+    
+    .email-popup-grid {
+      grid-template-columns: 1fr;
+    }
+    
+    .email-popup-visual {
+      padding: 20px;
+      min-height: 140px;
+    }
+    
+    .email-popup-book {
+      max-width: 140px;
+      padding: 20px 16px;
+      transform: rotate(-2deg) scale(0.85);
+    }
+    
+    .email-popup-book-title {
+      font-size: 18px;
+    }
+    
+    .email-popup-content {
+      padding: 24px 20px 20px 20px;
+    }
+    
     .email-popup-title {
       font-size: 22px;
     }
+    
     .email-popup-subtitle {
-      font-size: 14px;
+      font-size: 13px;
+    }
+    
+    .email-popup-benefits li {
+      font-size: 12px;
     }
   }
   
-  /* Prevent body scroll when popup is open */
   body.popup-open {
     overflow: hidden;
   }
@@ -181,10 +309,10 @@
 (function() {
   var POPUP_KEY = 'comfortfood_popup_seen';
   var POPUP_SUBSCRIBED_KEY = 'comfortfood_subscribed';
-  var SCROLL_TRIGGER_PERCENT = 50; // Trigger at 50% scroll
+  var SCROLL_TRIGGER_PERCENT = 70;
+  var TIME_DELAY_MS = 45000;
   var popupShown = false;
   
-  // Don't show if user already saw it in last 7 days, or is subscribed
   function shouldShowPopup() {
     if (popupShown) return false;
     if (localStorage.getItem(POPUP_SUBSCRIBED_KEY)) return false;
@@ -210,7 +338,6 @@
     document.body.classList.remove('popup-open');
   };
   
-  // Close on overlay click
   document.addEventListener('DOMContentLoaded', function() {
     var overlay = document.getElementById('emailPopup');
     if (overlay) {
@@ -219,7 +346,6 @@
       });
     }
     
-    // TRIGGER 1: Scroll to 50% of page
     var scrollTriggered = false;
     window.addEventListener('scroll', function() {
       if (scrollTriggered || !shouldShowPopup()) return;
@@ -230,7 +356,6 @@
       }
     });
     
-    // TRIGGER 2: Exit-intent (mouse leaves top of page)
     var exitTriggered = false;
     document.addEventListener('mouseleave', function(e) {
       if (exitTriggered || !shouldShowPopup()) return;
@@ -240,13 +365,15 @@
       }
     });
     
-    // TRIGGER 3: Close on ESC key
+    setTimeout(function() {
+      if (shouldShowPopup()) showPopup();
+    }, TIME_DELAY_MS);
+    
     document.addEventListener('keydown', function(e) {
       if (e.key === 'Escape') closeEmailPopup();
     });
   });
   
-  // Mark as subscribed when form is submitted (MailerLite callback)
   window.addEventListener('message', function(e) {
     if (e.data && e.data.type === 'mailerlite-form-submitted') {
       localStorage.setItem(POPUP_SUBSCRIBED_KEY, Date.now().toString());
@@ -255,7 +382,6 @@
 })();
 </script>
 
-<!-- MailerLite Universal Script -->
 <script>
 (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
 .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
@@ -263,3 +389,4 @@ n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
 (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
 ml('account', '2285841');
 </script>
+
