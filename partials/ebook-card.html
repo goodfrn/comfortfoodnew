@@ -1,0 +1,309 @@
+{{/* 
+  partials/ebook-card.html
+  Card component for ebook versions — styled like recipe cards
+  
+  Pass in a dict:
+  {{ partial "ebook-card.html" (dict 
+      "title" "The 30-Day Air Fryer Chicken System"
+      "edition" "COMPLETE"
+      "price" "$27"
+      "originalPrice" "$37"
+      "badge" "BESTSELLER"
+      "description" "Everything in CORE plus..."
+      "features" (slice "15 foolproof recipes" "7-day meal plan" "...")
+      "gumroadUrl" "https://comfortfood.gumroad.com/l/complete"
+      "image" "/images/ebook-complete-cover.jpg"
+      "pages" "96"
+      "isHighlighted" true
+  ) }}
+*/}}
+
+{{ $ctx := . }}
+{{ $isHighlighted := .isHighlighted | default false }}
+{{ $badge := .badge | default "" }}
+
+<div class="ebook-card {{ if $isHighlighted }}ebook-card-highlighted{{ end }}">
+  
+  <!-- Badge (BESTSELLER, NEW, etc) -->
+  {{ with $badge }}
+    <div class="ebook-card-badge">{{ . }}</div>
+  {{ end }}
+  
+  <!-- Image / Cover -->
+  <div class="ebook-card-image">
+    {{ with $ctx.image }}
+      <img src="{{ . }}" alt="{{ $ctx.title }}" loading="lazy">
+    {{ else }}
+      <div class="ebook-card-placeholder">
+        <span class="ebook-card-edition-label">{{ $ctx.edition }}</span>
+        <span class="ebook-card-title-placeholder">AIR FRYER CHICKEN SYSTEM</span>
+      </div>
+    {{ end }}
+  </div>
+  
+  <!-- Content -->
+  <div class="ebook-card-content">
+    
+    <!-- Edition label -->
+    <div class="ebook-card-edition">— {{ $ctx.edition }} EDITION —</div>
+    
+    <!-- Title -->
+    <h3 class="ebook-card-title">{{ $ctx.title }}</h3>
+    
+    <!-- Price -->
+    <div class="ebook-card-price-wrapper">
+      {{ with $ctx.originalPrice }}
+        <span class="ebook-card-original-price">{{ . }}</span>
+      {{ end }}
+      <span class="ebook-card-price">{{ $ctx.price }}</span>
+    </div>
+    
+    <!-- Description -->
+    {{ with $ctx.description }}
+      <p class="ebook-card-description">{{ . }}</p>
+    {{ end }}
+    
+    <!-- Features -->
+    {{ with $ctx.features }}
+      <ul class="ebook-card-features">
+        {{ range . }}
+          <li>{{ . | safeHTML }}</li>
+        {{ end }}
+      </ul>
+    {{ end }}
+    
+    <!-- Meta info -->
+    {{ with $ctx.pages }}
+      <div class="ebook-card-meta">
+        <span>📖 {{ . }} pages</span>
+        <span>·</span>
+        <span>PDF</span>
+        <span>·</span>
+        <span>Instant download</span>
+      </div>
+    {{ end }}
+    
+    <!-- CTA Button -->
+    <a href="{{ $ctx.gumroadUrl }}" class="ebook-card-cta" target="_blank" rel="noopener">
+      Get the {{ $ctx.edition }} Edition
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <path d="M5 12h14M12 5l7 7-7 7"/>
+      </svg>
+    </a>
+    
+    <!-- Secure payment note -->
+    <div class="ebook-card-secure">
+      🔒 Secure payment via Gumroad · 30-day money back
+    </div>
+  </div>
+</div>
+
+<style>
+  .ebook-card {
+    background: white;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+    transition: all 0.3s ease;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    border: 2px solid transparent;
+  }
+  
+  .ebook-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  }
+  
+  .ebook-card-highlighted {
+    border-color: var(--primary, #C2410C);
+    box-shadow: 0 4px 20px rgba(194, 65, 12, 0.15);
+    transform: scale(1.02);
+  }
+  
+  .ebook-card-highlighted:hover {
+    transform: scale(1.02) translateY(-4px);
+  }
+  
+  .ebook-card-badge {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    background: var(--primary, #C2410C);
+    color: white;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    padding: 6px 12px;
+    border-radius: 20px;
+    z-index: 2;
+  }
+  
+  .ebook-card-image {
+    aspect-ratio: 4/3;
+    overflow: hidden;
+    background: linear-gradient(135deg, #FFF8F0 0%, #FFE4CC 100%);
+  }
+  
+  .ebook-card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  
+  .ebook-card-placeholder {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, var(--primary, #C2410C) 0%, #9A3311 100%);
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .ebook-card-edition-label {
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    margin-bottom: 8px;
+    opacity: 0.9;
+  }
+  
+  .ebook-card-title-placeholder {
+    font-family: Georgia, serif;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 1.2;
+  }
+  
+  .ebook-card-content {
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+  }
+  
+  .ebook-card-edition {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: var(--primary, #C2410C);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+  }
+  
+  .ebook-card-title {
+    font-family: var(--font-serif, Georgia, serif);
+    font-size: 22px;
+    line-height: 1.2;
+    color: #1a1a1a;
+    margin: 0 0 16px 0;
+    font-weight: 700;
+  }
+  
+  .ebook-card-price-wrapper {
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  
+  .ebook-card-original-price {
+    font-size: 18px;
+    color: #888;
+    text-decoration: line-through;
+    font-family: Georgia, serif;
+  }
+  
+  .ebook-card-price {
+    font-size: 32px;
+    font-weight: 700;
+    color: var(--primary, #C2410C);
+    font-family: Georgia, serif;
+  }
+  
+  .ebook-card-description {
+    font-size: 14px;
+    color: #555;
+    line-height: 1.5;
+    margin: 0 0 16px 0;
+  }
+  
+  .ebook-card-features {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 20px 0;
+    flex-grow: 1;
+  }
+  
+  .ebook-card-features li {
+    font-size: 14px;
+    color: #333;
+    padding: 6px 0 6px 24px;
+    position: relative;
+    font-family: Georgia, serif;
+  }
+  
+  .ebook-card-features li::before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: var(--primary, #C2410C);
+    font-weight: 700;
+  }
+  
+  .ebook-card-meta {
+    font-size: 12px;
+    color: #888;
+    margin-bottom: 16px;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  
+  .ebook-card-cta {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    background: var(--primary, #C2410C);
+    color: white !important;
+    padding: 14px 24px;
+    border-radius: 10px;
+    font-weight: 700;
+    text-decoration: none;
+    transition: all 0.2s;
+    font-size: 15px;
+    text-align: center;
+  }
+  
+  .ebook-card-cta:hover {
+    background: #9A3311;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(194, 65, 12, 0.3);
+  }
+  
+  .ebook-card-secure {
+    font-size: 11px;
+    color: #888;
+    text-align: center;
+    margin-top: 12px;
+    font-style: italic;
+  }
+  
+  @media (max-width: 640px) {
+    .ebook-card-highlighted {
+      transform: none;
+    }
+    .ebook-card-highlighted:hover {
+      transform: translateY(-4px);
+    }
+  }
+</style>
