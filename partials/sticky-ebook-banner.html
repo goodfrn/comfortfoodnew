@@ -1,0 +1,260 @@
+{{/* 
+  partials/sticky-ebook-banner.html
+  Sticky bottom banner that appears after 30% scroll
+  Promotes the ebook across all site pages
+  
+  USAGE:
+  1. Save at: themes/YOUR-THEME/layouts/partials/sticky-ebook-banner.html
+  2. Add before </body> in baseof.html (AFTER the email popup):
+     {{ partial "sticky-ebook-banner.html" . }}
+*/}}
+
+<div id="stickyEbookBanner" class="sticky-ebook-banner" style="display: none;">
+  <div class="sticky-ebook-banner-inner">
+    
+    <!-- Close button -->
+    <button class="sticky-ebook-close" onclick="closeStickyBanner()" aria-label="Close banner">×</button>
+    
+    <!-- Left: Image/Icon -->
+    <div class="sticky-ebook-visual">
+      <span class="sticky-ebook-icon">🍗</span>
+    </div>
+    
+    <!-- Middle: Text -->
+    <div class="sticky-ebook-text">
+      <div class="sticky-ebook-tagline">NEW · The 30-Day Air Fryer Chicken System</div>
+      <div class="sticky-ebook-headline">
+        <strong>15 recipes</strong> · <strong>7-day meal plan</strong> · <strong>troubleshooting guide</strong>
+      </div>
+    </div>
+    
+    <!-- Right: CTA -->
+    <a href="/ebook/" class="sticky-ebook-cta">
+      <span class="sticky-ebook-cta-text">Get the Ebook</span>
+      <span class="sticky-ebook-cta-price">From $17</span>
+    </a>
+  </div>
+</div>
+
+<style>
+  .sticky-ebook-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: white;
+    border-top: 3px solid var(--primary, #C2410C);
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.12);
+    z-index: 998;
+    animation: slideUpBanner 0.4s ease;
+  }
+  
+  @keyframes slideUpBanner {
+    from { transform: translateY(100%); }
+    to { transform: translateY(0); }
+  }
+  
+  .sticky-ebook-banner-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 12px 20px 12px 16px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    position: relative;
+  }
+  
+  .sticky-ebook-close {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    background: transparent;
+    border: none;
+    font-size: 22px;
+    color: #888;
+    cursor: pointer;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    padding: 0;
+    border-radius: 50%;
+    transition: all 0.2s;
+  }
+  
+  .sticky-ebook-close:hover {
+    background: #f5f5f5;
+    color: #333;
+  }
+  
+  .sticky-ebook-visual {
+    background: linear-gradient(135deg, var(--primary, #C2410C) 0%, #9A3311 100%);
+    width: 56px;
+    height: 56px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  
+  .sticky-ebook-icon {
+    font-size: 32px;
+  }
+  
+  .sticky-ebook-text {
+    flex-grow: 1;
+    min-width: 0;
+  }
+  
+  .sticky-ebook-tagline {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    color: var(--primary, #C2410C);
+    margin-bottom: 4px;
+    text-transform: uppercase;
+  }
+  
+  .sticky-ebook-headline {
+    font-size: 14px;
+    color: #333;
+    line-height: 1.3;
+    font-family: Georgia, serif;
+  }
+  
+  .sticky-ebook-headline strong {
+    color: #1a1a1a;
+  }
+  
+  .sticky-ebook-cta {
+    background: var(--primary, #C2410C);
+    color: white !important;
+    padding: 12px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    transition: all 0.2s;
+    flex-shrink: 0;
+    min-width: 120px;
+  }
+  
+  .sticky-ebook-cta:hover {
+    background: #9A3311;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(194, 65, 12, 0.3);
+  }
+  
+  .sticky-ebook-cta-text {
+    font-size: 15px;
+    line-height: 1.1;
+  }
+  
+  .sticky-ebook-cta-price {
+    font-size: 11px;
+    opacity: 0.9;
+    font-weight: 500;
+  }
+  
+  /* Mobile */
+  @media (max-width: 640px) {
+    .sticky-ebook-banner-inner {
+      padding: 10px 12px 10px 12px;
+      gap: 10px;
+    }
+    .sticky-ebook-visual {
+      width: 44px;
+      height: 44px;
+    }
+    .sticky-ebook-icon {
+      font-size: 24px;
+    }
+    .sticky-ebook-tagline {
+      font-size: 10px;
+    }
+    .sticky-ebook-headline {
+      font-size: 12px;
+    }
+    .sticky-ebook-cta {
+      padding: 10px 14px;
+      min-width: 100px;
+    }
+    .sticky-ebook-cta-text {
+      font-size: 13px;
+    }
+    .sticky-ebook-cta-price {
+      font-size: 10px;
+    }
+    .sticky-ebook-close {
+      top: 2px;
+      right: 2px;
+      width: 28px;
+      height: 28px;
+      font-size: 18px;
+    }
+  }
+  
+  /* Don't show on /ebook/ or /shop/ page itself */
+  body.page-ebook .sticky-ebook-banner,
+  body.page-shop .sticky-ebook-banner {
+    display: none !important;
+  }
+</style>
+
+<script>
+(function() {
+  var CLOSED_KEY = 'comfortfood_sticky_banner_closed';
+  var SCROLL_TRIGGER_PERCENT = 30;
+  var shown = false;
+  
+  // Don't show if user closed it recently (within 3 days)
+  function shouldShow() {
+    if (shown) return false;
+    
+    // Skip on ebook/shop pages
+    if (document.body.classList.contains('page-ebook')) return false;
+    if (document.body.classList.contains('page-shop')) return false;
+    
+    // Skip if user is already on /ebook/ or /shop/ page
+    if (window.location.pathname.startsWith('/ebook')) return false;
+    if (window.location.pathname.startsWith('/shop')) return false;
+    
+    var closedAt = localStorage.getItem(CLOSED_KEY);
+    if (closedAt) {
+      var daysSince = (Date.now() - parseInt(closedAt)) / (1000 * 60 * 60 * 24);
+      if (daysSince < 3) return false;
+    }
+    return true;
+  }
+  
+  window.closeStickyBanner = function() {
+    var banner = document.getElementById('stickyEbookBanner');
+    if (banner) {
+      banner.style.animation = 'slideUpBanner 0.3s ease reverse';
+      setTimeout(function() {
+        banner.style.display = 'none';
+      }, 300);
+    }
+    localStorage.setItem(CLOSED_KEY, Date.now().toString());
+  };
+  
+  document.addEventListener('DOMContentLoaded', function() {
+    if (!shouldShow()) return;
+    
+    window.addEventListener('scroll', function() {
+      if (shown) return;
+      var scrollPercent = (window.scrollY / (document.body.scrollHeight - window.innerHeight)) * 100;
+      if (scrollPercent >= SCROLL_TRIGGER_PERCENT) {
+        shown = true;
+        document.getElementById('stickyEbookBanner').style.display = 'block';
+      }
+    });
+  });
+})();
+</script>
