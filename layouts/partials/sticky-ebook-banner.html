@@ -39,18 +39,18 @@
 <style>
   .sticky-ebook-banner {
     position: fixed;
-    bottom: 0;
+    top: 0;
     left: 0;
     right: 0;
     background: white;
     border-top: 3px solid var(--primary, #C2410C);
-    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
     z-index: 998;
-    animation: slideUpBanner 0.4s ease;
+    animation: slideDownBanner 0.4s ease;
   }
   
-  @keyframes slideUpBanner {
-    from { transform: translateY(100%); }
+  @keyframes slideDownBanner {
+    from { transform: translateY(-100%); }
     to { transform: translateY(0); }
   }
   
@@ -236,7 +236,7 @@
   window.closeStickyBanner = function() {
     var banner = document.getElementById('stickyEbookBanner');
     if (banner) {
-      banner.style.animation = 'slideUpBanner 0.3s ease reverse';
+      banner.style.animation = 'slideDownBanner 0.3s ease reverse';
       setTimeout(function() {
         banner.style.display = 'none';
       }, 300);
