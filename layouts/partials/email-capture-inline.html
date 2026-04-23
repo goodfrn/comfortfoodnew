@@ -1,144 +1,311 @@
 {{/* 
   partials/email-capture-inline.html
-  Inline email capture at the bottom of recipe pages
+  v3 — AGGRESSIVE COPY + SCROLL SPOTLIGHT
   
-  USAGE:
-  1. Save this file at: themes/[YOUR-THEME]/layouts/partials/email-capture-inline.html
-  2. Add in single.html BEFORE {{ partial "related-wide-scroll-random.html" . }}:
-     {{ partial "email-capture-inline.html" . }}
-  3. Replace YOUR_MAILERLITE_FORM_ID below with your actual MailerLite form ID
+  Same emotional punch as the popup.
+  Spotlight effect when scrolling into view.
 */}}
 
-<section class="email-capture-inline" style="margin: 48px 0;">
-  <div class="email-capture-wrapper">
-    <div class="email-capture-image">
-      <div class="email-capture-badge">FREE GIFT</div>
-      <div class="email-capture-visual">🍗</div>
-    </div>
+<section class="email-capture-inline" id="emailCaptureInline">
+  <div class="email-capture-glow"></div>
+  
+  <div class="email-capture-content">
+    <div class="email-capture-badge">FREE · 5 RECIPES</div>
     
-    <div class="email-capture-text">
-      <h2 class="email-capture-title">
-        Loved this recipe? Get 4 more like it — free.
-      </h2>
-      <p class="email-capture-subtitle">
-        Join the Comfort Food newsletter and I'll send you my 5 favorite air fryer chicken recipes 
-        right now. The Stuffed Chicken Breast alone is worth the signup.
-      </p>
-      
-      <ul class="email-capture-benefits">
-        <li>✓ 5 premium air fryer recipes (PDF)</li>
-        <li>✓ One new recipe every week by email</li>
-        <li>✓ Exclusive reader discount on my ebook</li>
-      </ul>
-      
-      <!-- MailerLite embedded form - REPLACE YOUR_MAILERLITE_FORM_ID -->
-      <div class="ml-embedded" data-form="J4whou"></div>
-      
-      <p class="email-capture-privacy">
-        No spam, ever. Unsubscribe anytime. I respect your inbox.
-      </p>
-    </div>
+    <h2 class="email-capture-title">
+      Stop ruining your air fryer chicken.
+    </h2>
+    
+    <p class="email-capture-subtitle">
+      I spent 3 years making dry, rubbery, sad chicken before I figured this out.<br>
+      These 5 recipes changed everything. I'm giving them to you — free.
+    </p>
+    
+    <ul class="email-capture-benefits">
+      <li><strong>Stuffed Chicken Breast</strong> — the restaurant-level one</li>
+      <li><strong>Chicken Parmesan</strong> — 25 min · Italian grandmother approved</li>
+      <li><strong>Crispy Chicken Sandwich</strong> — beats Popeyes (no kidding)</li>
+      <li><strong>Chicken Meatballs</strong> — freezer-friendly · kid-approved</li>
+      <li><strong>Orange Chicken</strong> — better than takeout, I promise</li>
+    </ul>
+    
+    <div class="ml-embedded" data-form="J4whou"></div>
+    
+    <p class="email-capture-privacy">
+      🔒 No spam. Unsubscribe in 1 click. Your email stays with me.
+    </p>
   </div>
 </section>
 
+<!-- Overlay that dims/blurs the rest of the page -->
+<div class="email-capture-overlay" id="emailCaptureOverlay"></div>
+
 <style>
   .email-capture-inline {
-    background: linear-gradient(135deg, #FFF8F0 0%, #FFE4CC 100%);
+    margin: 48px auto;
+    max-width: 640px;
+    background: white;
     border-radius: 16px;
-    padding: 0;
-    overflow: hidden;
+    padding: 40px 36px 32px 36px;
+    position: relative;
     border: 1px solid rgba(194, 65, 12, 0.15);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    z-index: 1;
   }
   
-  .email-capture-wrapper {
-    display: grid;
-    grid-template-columns: 200px 1fr;
-    gap: 0;
-    align-items: stretch;
+  .email-capture-glow {
+    position: absolute;
+    top: -4px;
+    left: -4px;
+    right: -4px;
+    bottom: -4px;
+    border-radius: 20px;
+    background: linear-gradient(135deg, 
+      rgba(194, 65, 12, 0) 0%, 
+      rgba(194, 65, 12, 0) 50%, 
+      rgba(194, 65, 12, 0) 100%);
+    opacity: 0;
+    transition: all 0.5s ease;
+    pointer-events: none;
+    z-index: -1;
   }
   
-  .email-capture-image {
-    background: linear-gradient(135deg, var(--primary, #C2410C) 0%, #9A3311 100%);
-    padding: 32px 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    color: white;
+  .email-capture-inline.spotlight-active {
+    transform: scale(1.02);
+    box-shadow: 
+      0 20px 60px rgba(194, 65, 12, 0.2),
+      0 0 0 1px rgba(194, 65, 12, 0.3),
+      0 0 80px rgba(194, 65, 12, 0.15);
+    z-index: 999;
+  }
+  
+  .email-capture-inline.spotlight-active .email-capture-glow {
+    opacity: 1;
+    background: linear-gradient(135deg, 
+      rgba(194, 65, 12, 0.3) 0%, 
+      rgba(255, 176, 122, 0.3) 50%, 
+      rgba(194, 65, 12, 0.3) 100%);
+    animation: glowPulse 2s ease infinite;
+  }
+  
+  @keyframes glowPulse {
+    0%, 100% { opacity: 0.5; }
+    50% { opacity: 1; }
+  }
+  
+  .email-capture-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0);
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    pointer-events: none;
+    z-index: 998;
+    transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    opacity: 0;
+  }
+  
+  .email-capture-overlay.active {
+    background: rgba(0, 0, 0, 0.55);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    opacity: 1;
+  }
+  
+  .email-capture-content {
+    position: relative;
+    z-index: 2;
     text-align: center;
   }
   
   .email-capture-badge {
-    background: white;
-    color: var(--primary, #C2410C);
+    display: inline-block;
+    background: var(--primary, #C2410C);
+    color: white;
     font-size: 11px;
     font-weight: 700;
     letter-spacing: 2px;
     padding: 6px 14px;
     border-radius: 20px;
-    margin-bottom: 16px;
-  }
-  
-  .email-capture-visual {
-    font-size: 80px;
-    line-height: 1;
-  }
-  
-  .email-capture-text {
-    padding: 32px 32px;
+    margin-bottom: 20px;
   }
   
   .email-capture-title {
     font-family: var(--font-serif, Georgia, serif);
-    font-size: 26px;
-    line-height: 1.2;
+    font-size: 32px;
+    line-height: 1.15;
     color: #1a1a1a;
-    margin: 0 0 12px 0;
-    font-weight: 700;
+    margin: 0 0 16px 0;
+    font-weight: 800;
+    letter-spacing: -0.01em;
   }
   
   .email-capture-subtitle {
     font-size: 15px;
-    color: #555;
-    line-height: 1.5;
-    margin: 0 0 16px 0;
+    color: #444;
+    line-height: 1.6;
+    margin: 0 auto 24px auto;
+    max-width: 500px;
+    font-family: Georgia, serif;
+    font-style: italic;
   }
   
   .email-capture-benefits {
     list-style: none;
     padding: 0;
-    margin: 0 0 20px 0;
+    margin: 0 auto 24px auto;
+    text-align: left;
+    max-width: 460px;
   }
   
   .email-capture-benefits li {
     font-size: 14px;
     color: #333;
-    padding: 4px 0;
+    padding: 6px 0 6px 24px;
+    position: relative;
     font-family: Georgia, serif;
+    line-height: 1.4;
+  }
+  
+  .email-capture-benefits li::before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: var(--primary, #C2410C);
+    font-weight: 700;
+    font-size: 14px;
+  }
+  
+  .email-capture-benefits strong {
+    color: #1a1a1a;
+    font-weight: 700;
   }
   
   .email-capture-privacy {
     font-size: 12px;
     color: #888;
-    margin: 12px 0 0 0;
-    font-style: italic;
+    margin: 16px 0 0 0;
   }
   
   @media (max-width: 640px) {
-    .email-capture-wrapper {
-      grid-template-columns: 1fr;
+    .email-capture-inline {
+      margin: 32px 16px;
+      padding: 32px 20px 24px 20px;
     }
-    .email-capture-image {
-      padding: 24px 20px;
-    }
-    .email-capture-visual {
-      font-size: 60px;
-    }
-    .email-capture-text {
-      padding: 24px 20px;
-    }
+    
     .email-capture-title {
-      font-size: 22px;
+      font-size: 24px;
+    }
+    
+    .email-capture-subtitle {
+      font-size: 14px;
+    }
+    
+    .email-capture-benefits li {
+      font-size: 13px;
+    }
+    
+    .email-capture-inline.spotlight-active {
+      transform: none;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    }
+    
+    .email-capture-overlay.active {
+      background: rgba(0, 0, 0, 0);
+      backdrop-filter: blur(0px);
+      -webkit-backdrop-filter: blur(0px);
+    }
+  }
+  
+  @media (prefers-reduced-motion: reduce) {
+    .email-capture-inline,
+    .email-capture-overlay,
+    .email-capture-glow {
+      transition: none;
+      animation: none;
     }
   }
 </style>
+
+<script>
+(function() {
+  var SPOTLIGHT_DURATION = 2500;
+  
+  document.addEventListener('DOMContentLoaded', function() {
+    var form = document.getElementById('emailCaptureInline');
+    var overlay = document.getElementById('emailCaptureOverlay');
+    if (!form || !overlay) return;
+    
+    var isMobile = window.matchMedia('(max-width: 640px)').matches;
+    if (isMobile) return;
+    
+    if (localStorage.getItem('comfortfood_subscribed')) return;
+    
+    var triggered = false;
+    var spotlightTimeout = null;
+    
+    function activateSpotlight() {
+      if (triggered) return;
+      triggered = true;
+      
+      form.classList.add('spotlight-active');
+      overlay.classList.add('active');
+      
+      spotlightTimeout = setTimeout(function() {
+        releaseSpotlight();
+      }, SPOTLIGHT_DURATION);
+      
+      var formInputs = form.querySelectorAll('input, button');
+      formInputs.forEach(function(input) {
+        input.addEventListener('focus', releaseSpotlight, { once: true });
+        input.addEventListener('click', releaseSpotlight, { once: true });
+      });
+    }
+    
+    function releaseSpotlight() {
+      if (spotlightTimeout) {
+        clearTimeout(spotlightTimeout);
+        spotlightTimeout = null;
+      }
+      form.classList.remove('spotlight-active');
+      overlay.classList.remove('active');
+    }
+    
+    if ('IntersectionObserver' in window) {
+      var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting && entry.intersectionRatio >= 0.6 && !triggered) {
+            activateSpotlight();
+          }
+          else if (!entry.isIntersecting && form.classList.contains('spotlight-active')) {
+            releaseSpotlight();
+          }
+        });
+      }, {
+        threshold: [0, 0.6, 1],
+        rootMargin: '0px'
+      });
+      
+      observer.observe(form);
+    }
+    
+    var lastScrollY = window.scrollY;
+    var scrollReleaseHandler = function() {
+      if (!triggered) return;
+      var delta = Math.abs(window.scrollY - lastScrollY);
+      if (delta > 100) releaseSpotlight();
+    };
+    window.addEventListener('scroll', scrollReleaseHandler, { passive: true });
+    
+    window.addEventListener('message', function(e) {
+      if (e.data && e.data.type === 'mailerlite-form-submitted') {
+        localStorage.setItem('comfortfood_subscribed', Date.now().toString());
+      }
+    });
+  });
+})();
+</script>
