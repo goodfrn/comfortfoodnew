@@ -4,12 +4,23 @@
   <link rel="preconnect" href="https://images.comfortfood.uk">
   <link rel="dns-prefetch" href="https://images.comfortfood.uk">
   <meta charset="UTF-8">  
-  <meta name="google-adsense-account" content="ca-pub-2544647998947125">
+  
+  {{/* ============ DETECT SALES PAGES (no ads, no distractions) ============ */}}
+  {{ $isSalesPage := false }}
+  {{ if or (hasPrefix .RelPermalink "/ebook") (hasPrefix .RelPermalink "/shop") }}
+    {{ $isSalesPage = true }}
+  {{ end }}
+  
+  {{/* Only load AdSense on non-sales pages */}}
+  {{ if not $isSalesPage }}
+    <meta name="google-adsense-account" content="ca-pub-2544647998947125">
+  {{ end }}
+  
   <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Favicon -->
+  <!-- Favicon -->
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -55,27 +66,33 @@
   {{ else }}
     <link rel="stylesheet" href="{{ $css.RelPermalink }}">
   {{ end }}
-  <script async 
-    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2544647998947125"
-    crossorigin="anonymous">
-  </script>
   
-  <script data-grow-initializer="">
-  !(function(){
-  window.growMe||((window.growMe=function(e){window.growMe._.push(e);}),
-  (window.growMe._=[]));
-  var e=document.createElement("script");
-  (e.type="text/javascript"),
-  (e.src="https://faves.grow.me/main.js"),
-  (e.defer=!0),
-  e.setAttribute("data-grow-faves-site-id","U2l0ZTphZjQ2OWIyZC03Y2I0LTQ1NWItODQyZi0wOTg1NGRiNWQ2ZTQ=");
-  var t=document.getElementsByTagName("script")[0];
-  t.parentNode.insertBefore(e,t);
-  })();
-  </script>
-  <script src="https://d3u598arehftfk.cloudfront.net/prebid_hb_38407_37645.js" async> </script>
+  {{/* ============ ADSENSE + AD NETWORKS — only on non-sales pages ============ */}}
+  {{ if not $isSalesPage }}
+    <script async 
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2544647998947125"
+      crossorigin="anonymous">
+    </script>
+    
+    <script data-grow-initializer="">
+    !(function(){
+    window.growMe||((window.growMe=function(e){window.growMe._.push(e);}),
+    (window.growMe._=[]));
+    var e=document.createElement("script");
+    (e.type="text/javascript"),
+    (e.src="https://faves.grow.me/main.js"),
+    (e.defer=!0),
+    e.setAttribute("data-grow-faves-site-id","U2l0ZTphZjQ2OWIyZC03Y2I0LTQ1NWItODQyZi0wOTg1NGRiNWQ2ZTQ=");
+    var t=document.getElementsByTagName("script")[0];
+    t.parentNode.insertBefore(e,t);
+    })();
+    </script>
+    
+    <script src="https://d3u598arehftfk.cloudfront.net/prebid_hb_38407_37645.js" async></script>
+  {{ end }}
+  
 </head>
-<body class="flex flex-col min-h-screen leading-relaxed antialiased">
+<body class="flex flex-col min-h-screen leading-relaxed antialiased{{ if $isSalesPage }} page-sales{{ end }}{{ if hasPrefix .RelPermalink "/ebook" }} page-ebook{{ end }}{{ if hasPrefix .RelPermalink "/shop" }} page-shop{{ end }}">
 
   {{/* ---------- Google Analytics - Placé juste après <body> ---------- */}}
   {{ partial "analytics.html" . }}
@@ -119,20 +136,28 @@
       <script src="{{ $mainJS.RelPermalink }}" defer></script>
     {{ end }}
   {{ end }}
-  <div id='HB_Footer_Close_hbagency_space_301250'>
-    <div id='HB_CLOSE_hbagency_space_301250'></div>
-    <div id='HB_OUTER_hbagency_space_301250'>
-      <div id='hbagency_space_301250'></div>
+  
+  {{/* ============ MEDIAVINE AD SLOTS — only on non-sales pages ============ */}}
+  {{ if not $isSalesPage }}
+    <div id='HB_Footer_Close_hbagency_space_301250'>
+      <div id='HB_CLOSE_hbagency_space_301250'></div>
+      <div id='HB_OUTER_hbagency_space_301250'>
+        <div id='hbagency_space_301250'></div>
+      </div>
     </div>
-  </div>
-  <div id='HB_Footer_Close_hbagency_space_301251'>
-    <div id='HB_CLOSE_hbagency_space_301251'></div>
-    <div id='HB_OUTER_hbagency_space_301251'>
-      <div id='hbagency_space_301251'></div>
+    <div id='HB_Footer_Close_hbagency_space_301251'>
+      <div id='HB_CLOSE_hbagency_space_301251'></div>
+      <div id='HB_OUTER_hbagency_space_301251'>
+        <div id='hbagency_space_301251'></div>
+      </div>
     </div>
-  </div>
-  {{ partial "email-capture-popup.html" . }}
-  {{ partial "sticky-ebook-banner.html" . }}
-
+  {{ end }}
+  
+  {{/* ============ POPUP + STICKY BANNER — only on non-sales pages ============ */}}
+  {{ if not $isSalesPage }}
+    {{ partial "email-capture-popup.html" . }}
+    {{ partial "sticky-ebook-banner.html" . }}
+  {{ end }}
+  
 </body>
 </html>
