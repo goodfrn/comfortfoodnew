@@ -1,238 +1,334 @@
 {{/* 
   partials/sticky-ebook-banner.html
-   Thin announcement bar with SMART mobile behavior:
-  - Desktop: always visible
-  - Mobile: hides when scrolling down, reappears when scrolling up
-  - Hidden on /ebook/ page
+  A/B/C/D/E TEST — 5 announcement bar variants
+  
+  - Random assignment on first visit (20% each)
+  - Sticky: same user sees same variant on return (for 7 days)
+  - Each CTA click tagged with ?bar=A/B/C/D/E for GA4 tracking
+  - Automatic GA4 event tracking (impressions + clicks)
+  
+  GA4 TRACKING:
+  View results in GA4: Reports → Events → announcement_bar_click / announcement_bar_view
+  Or: Explore → Free form → Dimensions: "bar_variant" / Metrics: event count
 */}}
- 
-<div class="ebook-announcement-bar" id="ebookAnnouncementBar">
-  <a href="/ebook/" class="ebook-announcement-link">
-    <span class="ebook-announcement-text">
-      <strong class="desktop-only">NEW EBOOK:</strong>
-      <span class="desktop-text">15 foolproof air fryer chicken recipes</span>
-      <span class="mobile-text">Get 15 air fryer chicken recipes</span>
-    </span>
-    <span class="ebook-announcement-cta">
-      <span class="cta-text-desktop">Get it now</span>
-      <span class="cta-text-mobile">$17</span>
-      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-        <path d="M5 12h14M12 5l7 7-7 7"/>
-      </svg>
-    </span>
-  </a>
+
+<div id="barWrapper" style="display: none;">
+  
+  <!-- VARIANT A: Urgent Countdown -->
+  <div class="ebook-bar bar-a" data-variant="A">
+    <a href="/ebook/?bar=A" class="bar-link" onclick="trackBarClick('A')">
+      <span class="bar-a-badge">LAUNCH WEEK</span>
+      <span class="bar-a-text">Get 30% off my new Air Fryer Chicken ebook — ends in 47 hours</span>
+      <span class="bar-a-cta">Claim code →</span>
+    </a>
+  </div>
+  
+  <!-- VARIANT B: Editorial Classy -->
+  <div class="ebook-bar bar-b" data-variant="B">
+    <a href="/ebook/?bar=B" class="bar-link" onclick="trackBarClick('B')">
+      <span class="bar-b-prefix">New from Emma —</span>
+      <span class="bar-b-text">The 30-Day Air Fryer Chicken System</span>
+      <span class="bar-b-cta">Read more →</span>
+    </a>
+  </div>
+  
+  <!-- VARIANT C: Bold Orange -->
+  <div class="ebook-bar bar-c" data-variant="C">
+    <a href="/ebook/?bar=C" class="bar-link" onclick="trackBarClick('C')">
+      <span class="bar-c-text">Stop ruining your chicken.</span>
+      <span class="bar-c-sub">Get my 15 foolproof recipes →</span>
+      <span class="bar-c-price">$17</span>
+    </a>
+  </div>
+  
+  <!-- VARIANT D: Magazine Split -->
+  <div class="ebook-bar bar-d" data-variant="D">
+    <a href="/ebook/?bar=D" class="bar-link bar-d-link" onclick="trackBarClick('D')">
+      <div class="bar-d-left">
+        <span class="bar-d-badge">NEW</span>
+        <span class="bar-d-title">The Playbook</span>
+      </div>
+      <div class="bar-d-right">
+        <span class="bar-d-text">15 air fryer chicken recipes · 30 min or less</span>
+        <span class="bar-d-cta">Get the ebook →</span>
+      </div>
+    </a>
+  </div>
+  
+  <!-- VARIANT E: Warm Personal -->
+  <div class="ebook-bar bar-e" data-variant="E">
+    <a href="/ebook/?bar=E" class="bar-link" onclick="trackBarClick('E')">
+      <div class="bar-e-avatar">E</div>
+      <span class="bar-e-quote">"I made you a little book."</span>
+      <span class="bar-e-signature">— Emma</span>
+      <span class="bar-e-cta">Get it free</span>
+    </a>
+  </div>
+  
 </div>
- 
+
 <style>
-  .ebook-announcement-bar {
+  .ebook-bar {
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
-    height: 44px;
-    background: linear-gradient(135deg, var(--primary, #C2410C) 0%, #9A3311 100%);
-    color: white;
     z-index: 1000;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+  
+  .bar-link {
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease;
-  }
-  
-  .ebook-announcement-bar.hidden {
-    transform: translateY(-100%);
-  }
-  
-  .ebook-announcement-link {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    color: white !important;
+    gap: 14px;
     text-decoration: none !important;
-    padding: 0 20px;
     height: 100%;
-    transition: opacity 0.2s;
+    padding: 0 20px;
+    transition: opacity 0.15s;
+  }
+  
+  .bar-link:hover { opacity: 0.92; }
+  
+  /* VARIANT A: Urgent Countdown */
+  .bar-a { background: #0A0A0A; height: 44px; }
+  .bar-a .bar-link { color: white !important; font-family: var(--font-sans, system-ui); }
+  .bar-a-badge {
+    background: #DC2626; color: white;
+    font-size: 10px; font-weight: 700; letter-spacing: 2px;
+    padding: 4px 10px; border-radius: 3px;
+  }
+  .bar-a-text { font-size: 14px; }
+  .bar-a-cta {
+    background: #DC2626; color: white;
+    font-size: 13px; font-weight: 700;
+    padding: 6px 14px; border-radius: 6px;
+    letter-spacing: 0.3px;
+  }
+  
+  /* VARIANT B: Editorial Classy */
+  .bar-b {
+    background: #FAF6F0;
+    height: 48px;
+    border-top: 2px solid #C2410C;
+    border-bottom: 2px solid #C2410C;
+  }
+  .bar-b .bar-link { color: #1a1a1a !important; font-family: Georgia, serif; gap: 18px; }
+  .bar-b-prefix { font-size: 14px; font-style: italic; color: #5F5E5A; }
+  .bar-b-text { font-size: 15px; font-weight: 700; }
+  .bar-b-cta {
+    font-size: 13px; color: #C2410C; font-weight: 700;
+    text-decoration: underline; text-underline-offset: 3px;
+  }
+  
+  /* VARIANT C: Bold Orange */
+  .bar-c { background: #C2410C; height: 48px; }
+  .bar-c .bar-link { color: white !important; font-family: var(--font-sans, system-ui); gap: 12px; }
+  .bar-c-text { font-size: 14px; font-weight: 700; }
+  .bar-c-sub { font-size: 14px; opacity: 0.9; }
+  .bar-c-price {
+    background: white; color: #C2410C;
+    font-size: 13px; font-weight: 700;
+    padding: 5px 12px; border-radius: 6px;
+  }
+  
+  /* VARIANT D: Magazine Split */
+  .bar-d { height: 52px; }
+  .bar-d-link { padding: 0; }
+  .bar-d-left {
+    background: #1a1a1a; color: white;
+    flex: 0 0 auto;
+    padding: 0 20px; height: 100%;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .bar-d-badge {
+    background: #C2410C; color: white;
+    font-size: 10px; font-weight: 700; letter-spacing: 2px;
+    padding: 4px 10px; border-radius: 3px;
+  }
+  .bar-d-title {
     font-family: Georgia, serif;
-    max-width: 100%;
+    font-size: 15px; font-style: italic;
+  }
+  .bar-d-right {
+    background: #FAF6F0; color: #1a1a1a;
+    flex: 1; padding: 0 20px; height: 100%;
+    display: flex; align-items: center; justify-content: space-between; gap: 16px;
+  }
+  .bar-d-text { font-family: Georgia, serif; font-size: 15px; }
+  .bar-d-cta {
+    font-size: 13px; font-weight: 700; color: #1a1a1a;
+    border-bottom: 1px solid #1a1a1a;
+    padding-bottom: 1px;
   }
   
-  .ebook-announcement-link:hover {
-    opacity: 0.92;
-  }
-  
-  .ebook-announcement-icon {
-    font-size: 20px;
+  /* VARIANT E: Warm Personal */
+  .bar-e { background: #FFF8F0; height: 48px; border-bottom: 1px solid #F0D9B5; }
+  .bar-e .bar-link { color: #1a1a1a !important; font-family: Georgia, serif; gap: 12px; }
+  .bar-e-avatar {
+    width: 28px; height: 28px; border-radius: 50%;
+    background: #C2410C; color: white;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 12px; font-weight: 700;
+    font-family: var(--font-sans, system-ui);
     flex-shrink: 0;
   }
-  
-  .ebook-announcement-text {
-    font-size: 14px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: flex;
-    align-items: center;
-    gap: 6px;
+  .bar-e-quote { font-size: 14px; font-style: italic; color: #3A2817; }
+  .bar-e-signature {
+    font-size: 13px; color: #C2410C; font-weight: 700;
+    border-bottom: 1px solid #C2410C; padding-bottom: 1px;
+  }
+  .bar-e-cta {
+    background: #1a1a1a; color: white;
+    font-size: 12px; font-weight: 700;
+    padding: 6px 14px; border-radius: 6px;
+    font-family: var(--font-sans, system-ui);
   }
   
-  .ebook-announcement-text strong {
-    font-weight: 700;
-    letter-spacing: 0.5px;
-  }
-  
-  .mobile-text { display: none; }
-  .desktop-text { display: inline; }
-  .cta-text-mobile { display: none; }
-  .cta-text-desktop { display: inline; }
-  
-  .ebook-announcement-cta {
-    display: inline-flex;
-    align-items: center;
-    gap: 4px;
-    background: white;
-    color: var(--primary, #C2410C) !important;
-    padding: 5px 12px;
-    border-radius: 20px;
-    font-size: 12px;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    white-space: nowrap;
-    flex-shrink: 0;
-    transition: transform 0.2s;
-  }
-  
-  .ebook-announcement-link:hover .ebook-announcement-cta {
-    transform: translateX(2px);
-  }
-  
-  body {
-    padding-top: 44px !important;
-  }
-  
-  header,
-  .header,
-  nav.fixed,
-  nav.sticky,
-  [class*="header"] {
+  /* PAGE LAYOUT */
+  body { padding-top: 44px; }
+  header, .header, nav.fixed, nav.sticky, [class*="header"] {
     top: 44px !important;
-    transition: top 0.3s ease;
   }
   
-  @media (max-width: 640px) {
-    .ebook-announcement-bar {
-      height: 40px;
-    }
-    
-    .desktop-only { display: none; }
-    .desktop-text { display: none; }
-    .mobile-text { display: inline; }
-    .cta-text-desktop { display: none; }
-    .cta-text-mobile { display: inline; }
-    
-    .ebook-announcement-text {
-      font-size: 12px;
-    }
-    
-    .ebook-announcement-icon {
-      font-size: 16px;
-    }
-    
-    .ebook-announcement-cta {
-      font-size: 11px;
-      padding: 4px 10px;
-    }
-    
-    .ebook-announcement-link {
-      gap: 8px;
-      padding: 0 12px;
-    }
-    
-    body {
-      padding-top: 40px !important;
-    }
-    
-    header,
-    .header,
-    nav.fixed,
-    nav.sticky,
-    [class*="header"] {
-      top: 40px !important;
-    }
-    
-    body.bar-hidden {
-      padding-top: 0 !important;
-    }
-    
-    body.bar-hidden header,
-    body.bar-hidden .header,
-    body.bar-hidden nav.fixed,
-    body.bar-hidden nav.sticky,
-    body.bar-hidden [class*="header"] {
-      top: 0 !important;
-    }
+  body.bar-active-B, body.bar-active-C, body.bar-active-E {
+    padding-top: 48px;
+  }
+  body.bar-active-B header, body.bar-active-B .header,
+  body.bar-active-B nav.fixed, body.bar-active-B nav.sticky,
+  body.bar-active-B [class*="header"],
+  body.bar-active-C header, body.bar-active-C .header,
+  body.bar-active-C nav.fixed, body.bar-active-C nav.sticky,
+  body.bar-active-C [class*="header"],
+  body.bar-active-E header, body.bar-active-E .header,
+  body.bar-active-E nav.fixed, body.bar-active-E nav.sticky,
+  body.bar-active-E [class*="header"] {
+    top: 48px !important;
   }
   
-  body.page-ebook .ebook-announcement-bar {
-    display: none;
+  body.bar-active-D { padding-top: 52px; }
+  body.bar-active-D header, body.bar-active-D .header,
+  body.bar-active-D nav.fixed, body.bar-active-D nav.sticky,
+  body.bar-active-D [class*="header"] {
+    top: 52px !important;
   }
   
-  body.page-ebook {
-    padding-top: 0 !important;
-  }
-  
-  body.page-ebook header,
-  body.page-ebook .header,
-  body.page-ebook nav.fixed,
-  body.page-ebook nav.sticky,
+  body.page-ebook .ebook-bar { display: none !important; }
+  body.page-ebook { padding-top: 0 !important; }
+  body.page-ebook header, body.page-ebook .header,
+  body.page-ebook nav.fixed, body.page-ebook nav.sticky,
   body.page-ebook [class*="header"] {
     top: 0 !important;
   }
+  
+  /* MOBILE */
+  @media (max-width: 768px) {
+    .ebook-bar { height: 40px !important; }
+    body { padding-top: 40px !important; }
+    header, .header, nav.fixed, nav.sticky, [class*="header"] {
+      top: 40px !important;
+    }
+    
+    .bar-a-text { display: none; }
+    .bar-a .bar-link { gap: 10px; padding: 0 12px; }
+    .bar-a-badge { font-size: 9px; padding: 3px 8px; }
+    .bar-a-cta { font-size: 11px; padding: 5px 10px; }
+    
+    .bar-b { border-top-width: 1px; border-bottom-width: 1px; }
+    .bar-b-prefix { display: none; }
+    .bar-b .bar-link { gap: 10px; padding: 0 12px; }
+    .bar-b-text { font-size: 13px; }
+    .bar-b-cta { font-size: 12px; }
+    
+    .bar-c-sub { display: none; }
+    .bar-c .bar-link { gap: 10px; padding: 0 12px; }
+    .bar-c-text { font-size: 13px; }
+    .bar-c-price { font-size: 11px; padding: 4px 10px; }
+    
+    .bar-d-right { padding: 0 12px; }
+    .bar-d-left { padding: 0 12px; gap: 8px; }
+    .bar-d-text { font-size: 12px; }
+    .bar-d-cta { font-size: 11px; }
+    .bar-d-badge { font-size: 9px; padding: 3px 8px; }
+    .bar-d-title { font-size: 13px; }
+    
+    .bar-e-quote { font-size: 12px; }
+    .bar-e-signature { display: none; }
+    .bar-e .bar-link { gap: 8px; padding: 0 12px; }
+    .bar-e-avatar { width: 24px; height: 24px; font-size: 10px; }
+    .bar-e-cta { font-size: 11px; padding: 5px 10px; }
+  }
 </style>
- 
+
 <script>
 (function() {
-  var isMobile = window.matchMedia('(max-width: 640px)').matches;
-  if (!isMobile) return;
+  var VARIANTS = ['A', 'B', 'C', 'D', 'E'];
+  var STORAGE_KEY = 'bar_ab_variant';
+  var STORAGE_DATE_KEY = 'bar_ab_date';
+  var REFRESH_DAYS = 7;
   
-  var bar = document.getElementById('ebookAnnouncementBar');
-  if (!bar) return;
-  
-  var lastScrollY = window.scrollY;
-  var scrollThreshold = 50;
-  var ticking = false;
-  
-  function updateBar() {
-    var currentScrollY = window.scrollY;
+  function getVariant() {
+    var stored = localStorage.getItem(STORAGE_KEY);
+    var storedDate = localStorage.getItem(STORAGE_DATE_KEY);
     
-    if (currentScrollY < scrollThreshold) {
-      bar.classList.remove('hidden');
-      document.body.classList.remove('bar-hidden');
-    } else if (currentScrollY > lastScrollY) {
-      bar.classList.add('hidden');
-      document.body.classList.add('bar-hidden');
-    } else if (currentScrollY < lastScrollY) {
-      bar.classList.remove('hidden');
-      document.body.classList.remove('bar-hidden');
+    if (stored && storedDate) {
+      var daysSince = (Date.now() - parseInt(storedDate)) / (1000 * 60 * 60 * 24);
+      if (daysSince < REFRESH_DAYS && VARIANTS.indexOf(stored) !== -1) {
+        return stored;
+      }
     }
     
-    lastScrollY = currentScrollY;
-    ticking = false;
+    var assigned = VARIANTS[Math.floor(Math.random() * VARIANTS.length)];
+    localStorage.setItem(STORAGE_KEY, assigned);
+    localStorage.setItem(STORAGE_DATE_KEY, Date.now().toString());
+    return assigned;
   }
   
-  window.addEventListener('scroll', function() {
-    if (!ticking) {
-      window.requestAnimationFrame(updateBar);
-      ticking = true;
+  window.trackBarClick = function(variant) {
+    if (typeof gtag === 'function') {
+      gtag('event', 'announcement_bar_click', {
+        'bar_variant': variant,
+        'event_category': 'engagement',
+        'event_label': 'Bar ' + variant
+      });
     }
-  });
+    return true;
+  };
   
-  window.addEventListener('resize', function() {
-    isMobile = window.matchMedia('(max-width: 640px)').matches;
-    if (!isMobile) {
-      bar.classList.remove('hidden');
-      document.body.classList.remove('bar-hidden');
+  function trackBarImpression(variant) {
+    if (typeof gtag === 'function') {
+      gtag('event', 'announcement_bar_view', {
+        'bar_variant': variant,
+        'event_category': 'engagement',
+        'event_label': 'Bar ' + variant
+      });
+    }
+  }
+  
+  document.addEventListener('DOMContentLoaded', function() {
+    if (document.body.classList.contains('page-ebook')) return;
+    if (window.location.pathname.startsWith('/ebook')) return;
+    
+    var variant = getVariant();
+    var wrapper = document.getElementById('barWrapper');
+    if (!wrapper) return;
+    
+    var allBars = wrapper.querySelectorAll('.ebook-bar');
+    allBars.forEach(function(bar) {
+      if (bar.getAttribute('data-variant') === variant) {
+        bar.style.display = 'block';
+      } else {
+        bar.remove();
+      }
+    });
+    
+    wrapper.style.display = 'block';
+    document.body.classList.add('bar-active-' + variant);
+    
+    var impressionKey = 'bar_impression_' + variant;
+    if (!sessionStorage.getItem(impressionKey)) {
+      trackBarImpression(variant);
+      sessionStorage.setItem(impressionKey, '1');
     }
   });
 })();
