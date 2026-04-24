@@ -1,4 +1,3 @@
-
 {{/* 
   partials/email-capture-popup.html
   HIGH-CONVERSION VERSION - v2
@@ -47,10 +46,10 @@
           <li><strong>Orange Chicken</strong> — better than takeout, I promise</li>
         </ul>
         
-        <div class="ml-embedded" data-form="J4whou"></div>
+        <div class="ml-embedded" data-form="YOUR_MAILERLITE_FORM_ID"></div>
         
         <p class="email-popup-privacy">
-          🔒 No spam. Unsubscribe in 1 click. Your email stays with me.
+          No spam. Unsubscribe in 1 click. Your email stays with me.
         </p>
       </div>
     </div>
@@ -317,6 +316,13 @@
     if (popupShown) return false;
     if (localStorage.getItem(POPUP_SUBSCRIBED_KEY)) return false;
     
+    // Don't show popup on /ebook/ or /shop/ pages (no distractions when selling)
+    var path = window.location.pathname;
+    if (path.startsWith('/ebook')) return false;
+    if (path.startsWith('/shop')) return false;
+    if (document.body.classList.contains('page-ebook')) return false;
+    if (document.body.classList.contains('page-shop')) return false;
+    
     var lastSeen = localStorage.getItem(POPUP_KEY);
     if (lastSeen) {
       var daysSince = (Date.now() - parseInt(lastSeen)) / (1000 * 60 * 60 * 24);
@@ -387,6 +393,5 @@
 .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
 n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
 (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
-ml('account', '2285841');
+ml('account', 'YOUR_MAILERLITE_ACCOUNT_ID');
 </script>
-
