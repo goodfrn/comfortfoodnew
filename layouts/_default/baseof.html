@@ -15,6 +15,11 @@
   {{ if not $isSalesPage }}
     <meta name="google-adsense-account" content="ca-pub-2544647998947125">
   {{ end }}
+
+  {{/* 🏦 PREBID HB - LE PLUS HAUT POSSIBLE POUR MAXIMISER LES ENCHÈRES */}}
+  {{ if not $isSalesPage }}
+    <script src="https://d3u598arehftfk.cloudfront.net/prebid_hb_38407_37645.js" async></script>
+  {{ end }}
   
   <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
@@ -35,7 +40,6 @@
   
   <link rel="canonical" href="{{ .Permalink }}">
   {{ partial "head-meta.html" . }}
-
 
   {{/* 🎯 IMAGE ORIGINALE POUR PINTEREST */}}
   {{ if .Params.image }}
@@ -87,10 +91,7 @@
     t.parentNode.insertBefore(e,t);
     })();
     </script>
-    
-    <script src="https://d3u598arehftfk.cloudfront.net/prebid_hb_38407_37645.js" async></script>
   {{ end }}
-  
 </head>
 <body class="flex flex-col min-h-screen leading-relaxed antialiased{{ if $isSalesPage }} page-sales{{ end }}{{ if hasPrefix .RelPermalink "/ebook" }} page-ebook{{ end }}{{ if hasPrefix .RelPermalink "/shop" }} page-shop{{ end }}">
 
