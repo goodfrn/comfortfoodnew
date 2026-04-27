@@ -1,25 +1,26 @@
 <!DOCTYPE HTML>
 <html lang="{{ .Site.Data.config.site.language | default .Site.Language.Lang }}">
-<head> 
-  <link rel="preconnect" href="https://images.comfortfood.uk">
-  <link rel="dns-prefetch" href="https://images.comfortfood.uk">
-  <meta charset="UTF-8">  
-  
+<head>
+  <meta charset="UTF-8">
+
   {{/* ============ DETECT SALES PAGES (no ads, no distractions) ============ */}}
   {{ $isSalesPage := false }}
   {{ if or (hasPrefix .RelPermalink "/ebook") (hasPrefix .RelPermalink "/shop") }}
     {{ $isSalesPage = true }}
   {{ end }}
-  
+
+  {{/* 🏦 PREBID HB - LE PLUS HAUT POSSIBLE */}}
+  {{ if not $isSalesPage }}
+    <script src="https://d3u598arehftfk.cloudfront.net/prebid_hb_38407_37645.js" async></script>
+  {{ end }}
+
   {{/* Only load AdSense on non-sales pages */}}
   {{ if not $isSalesPage }}
     <meta name="google-adsense-account" content="ca-pub-2544647998947125">
   {{ end }}
 
-  {{/* 🏦 PREBID HB - LE PLUS HAUT POSSIBLE POUR MAXIMISER LES ENCHÈRES */}}
-  {{ if not $isSalesPage }}
-    <script src="https://d3u598arehftfk.cloudfront.net/prebid_hb_38407_37645.js" async></script>
-  {{ end }}
+  <link rel="preconnect" href="https://images.comfortfood.uk">
+  <link rel="dns-prefetch" href="https://images.comfortfood.uk">
   
   <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
