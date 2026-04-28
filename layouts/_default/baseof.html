@@ -153,11 +153,14 @@
         <div id='hbagency_space_301251'></div>
       </div>
     </div>
+    
+    {{/* 🎯 INTERSTITIAL HB AGENCY */}}
+    <div id='hbagency_space_301252'></div>
   {{ end }}
   
   {{/* ============ POPUP + STICKY BANNER — only on non-sales pages ============ */}}
   {{ if not $isSalesPage }}
-    {{ partial "email-capture-popup.html" . }}
+    {{/* {{ partial "email-capture-popup.html" . }} */}}
     {{ partial "sticky-ebook-banner.html" . }}
   {{ end }}
   
