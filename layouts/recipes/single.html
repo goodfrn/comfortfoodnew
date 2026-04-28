@@ -172,18 +172,25 @@
         <!-- BODY MARKDOWN LIBRE (introduction, whyLoveThis, paragraphes custom, shortcodes ingredients/instructions, recipe-card, faq) -->
         {{ $content := .Content }}
         {{ $inlineCapture := partial "email-capture-inline.html" . }}
-
+        
+        {{/* 🎯 IN-CONTENT AD HB AGENCY (à injecter avant le 3e h2) */}}
+        {{ $inContentAd := `<div class="hb-ad-inpage"><div class="hb-ad-inner"><div class="hbagency_cls hbagency_space_301254"></div></div></div>` }}
+        
         {{/* 1) Inject après recipe card */}}
         {{ $content = replace $content `<div id="recipe-card-end-marker"></div>` (print `<div id="recipe-card-end-marker"></div>` $inlineCapture) 1 }}
-
-        {{/* 2) Split pour injecter avant 4e h2 */}}
+        
+        {{/* 2) Split pour injecter ads + email capture */}}
         {{ $parts := split $content "<h2" }}
-
         <div class="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-gray-900 prose-p:text-gray-700 prose-p:leading-relaxed prose-li:text-gray-700">
           {{ range $i, $part := $parts }}
             {{ if eq $i 0 }}
               {{ $part | safeHTML }}
             {{ else }}
+              {{/* Avant le 3e h2 → IN-CONTENT AD 301254 */}}
+              {{ if eq $i 3 }}
+                {{ $inContentAd | safeHTML }}
+              {{ end }}
+              {{/* Avant le 4e h2 → email capture (déjà existant) */}}
               {{ if eq $i 4 }}
                 {{ $inlineCapture }}
               {{ end }}
@@ -191,20 +198,22 @@
             {{ end }}
           {{ end }}
         </div>
+        
         <script>
           document.addEventListener("DOMContentLoaded", function() {
             var headings = document.querySelectorAll(".prose h2");
             if (headings.length > 0) {
               var ad = document.createElement("div");
-              ad.className = "hb-ad-inpage";
-              ad.innerHTML = '<div class="hb-ad-inner"><div class="hbagency_cls hbagency_space_301254"></div></div>';
+              ad.className = "hb-ad-inarticle";
+              ad.innerHTML = '<div class="hb-ad-inner"><div class="hbagency_cls" id="hbagency_space_320459"></div></div>';
               headings[0].parentNode.insertBefore(ad, headings[0].nextSibling);
             }
           });
         </script>
+        
         {{ partial "email-capture-inline.html" . }}
         {{ partial "related-wide-scroll-random.html" . }}
-        {{ partial "comments.html" . }}
+        {{ partial "comments.html" . }}  
         
       </div>
       <!-- Sidebar inchangée -->
