@@ -169,47 +169,51 @@
       <!-- Colonne principale -->
       <div class="w-full min-w-0">
 
-        <!-- BODY MARKDOWN LIBRE (introduction, whyLoveThis, paragraphes custom, shortcodes ingredients/instructions, recipe-card, faq) -->
+        <!-- BODY MARKDOWN LIBRE -->
         {{ $content := .Content }}
-        {{ $inlineCapture := partial "email-capture-inline.html" . }}
         
-        {{/* 🎯 IN-CONTENT AD HB AGENCY (à injecter avant le 3e h2) */}}
-        {{ $inContentAd := `<div class="hb-ad-inpage"><div class="hb-ad-inner"><div class="hbagency_cls hbagency_space_301254"></div></div></div>` }}
+        {{ $ad301254 := `<div class="hb-ad-inpage"><div class="hb-ad-inner"><div class="hbagency_cls hbagency_space_301254"></div></div></div>` }}
         
-        {{/* 1) Inject après recipe card */}}
-        {{ $content = replace $content `<div id="recipe-card-end-marker"></div>` (print `<div id="recipe-card-end-marker"></div>` $inlineCapture) 1 }}
-        
-        {{/* 2) Split pour injecter ads + email capture */}}
         {{ $parts := split $content "<h2" }}
+        
         <div class="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-gray-900 prose-p:text-gray-700 prose-p:leading-relaxed prose-li:text-gray-700">
           {{ range $i, $part := $parts }}
             {{ if eq $i 0 }}
               {{ $part | safeHTML }}
             {{ else }}
-              {{/* Avant le 3e h2 → IN-CONTENT AD 301254 */}}
-              {{ if eq $i 3 }}
-                {{ $inContentAd | safeHTML }}
-              {{ end }}
-              {{/* Avant le 4e h2 → email capture (déjà existant) */}}
-              {{ if eq $i 4 }}
-                {{ $inlineCapture }}
-              {{ end }}
               {{ print "<h2" $part | safeHTML }}
+        
+              {{/* Après 1er H2 → 320459 */}}
+              {{ if eq $i 1 }}
+                <div class="hb-ad-inarticle">
+                  <div class="hb-ad-inner">
+                    <div class="hbagency_cls" id="hbagency_space_320459"></div>
+                  </div>
+                </div>
+              {{ end }}
+        
+              {{/* Après 2e H2 → 321836 */}}
+              {{ if eq $i 2 }}
+                <div class="hb-ad-inarticle">
+                  <div class="hb-ad-inner">
+                    <div class="hbagency_cls" id="hbagency_space_321836"></div>
+                  </div>
+                </div>
+              {{ end }}
+        
+              {{/* Après 3e H2 → 321837 Native */}}
+              {{ if eq $i 3 }}
+                <div id='hbagency_space_321837'></div>
+              {{ end }}
+        
+              {{/* Après 4e H2 → 301254 In Page */}}
+              {{ if eq $i 4 }}
+                {{ $ad301254 | safeHTML }}
+              {{ end }}
+        
             {{ end }}
           {{ end }}
         </div>
-        
-        <script>
-          document.addEventListener("DOMContentLoaded", function() {
-            var headings = document.querySelectorAll(".prose h2");
-            if (headings.length > 0) {
-              var ad = document.createElement("div");
-              ad.className = "hb-ad-inarticle";
-              ad.innerHTML = '<div class="hb-ad-inner"><div class="hbagency_cls" id="hbagency_space_320459"></div></div>';
-              headings[0].parentNode.insertBefore(ad, headings[0].nextSibling);
-            }
-          });
-        </script>
         
         {{ partial "email-capture-inline.html" . }}
         {{ partial "related-wide-scroll-random.html" . }}
