@@ -178,7 +178,13 @@
 
         <!-- BODY MARKDOWN LIBRE -->
         {{ $content := .Content }}
+        <!-- BODY MARKDOWN LIBRE -->
+        {{ $content := .Content }}
         {{ $parts := split $content "<h2" }}
+        {{ $totalParts := len $parts }}
+        
+        {{/* Compte le nombre réel de H2 dans l'article */}}
+        {{ $h2Count := sub $totalParts 1 }}
         
         <div class="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-gray-900 prose-p:text-gray-700 prose-p:leading-relaxed prose-li:text-gray-700">
           {{ range $i, $part := $parts }}
@@ -187,9 +193,11 @@
             {{ else }}
               {{ print "<h2" $part | safeHTML }}
         
-              {{/* Après 1er H2 → 321837 Native */}}
+              {{/* Après 1er H2 → 321837 Native (avec wrapper isolé anti-boucle) */}}
               {{ if eq $i 1 }}
-                <div id="hbagency_space_321837"></div>
+                <div class="hb-ad-native my-8" style="display: block; clear: both; min-height: 250px; overflow: hidden;">
+                  <div id="hbagency_space_321837"></div>
+                </div>
               {{ end }}
         
               {{/* Après 2e H2 → 320459 Interscroller */}}
@@ -249,6 +257,8 @@
             {{ end }}
           {{ end }}
         </div>
+        
+        <!-- Debug: cet article a {{ $h2Count }} H2 -->
         
         {{ partial "email-capture-inline.html" . }}
         {{ partial "related-wide-scroll-random.html" . }}
