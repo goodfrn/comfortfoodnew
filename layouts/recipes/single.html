@@ -178,22 +178,25 @@
 
         <!-- BODY MARKDOWN LIBRE -->
         {{ $content := .Content }}
-        <!-- BODY MARKDOWN LIBRE -->
-        {{ $content := .Content }}
         {{ $parts := split $content "<h2" }}
         {{ $totalParts := len $parts }}
-        
-        {{/* Compte le nombre réel de H2 dans l'article */}}
         {{ $h2Count := sub $totalParts 1 }}
+        
+        {{/* Liste des slots In Page disponibles dans l'ordre */}}
+        {{ $inPageSlots := slice "hbagency_space_301254" "hbagency_space_301254_1" "hbagency_space_301254_2" "hbagency_space_301254_3" "hbagency_space_301254_4" }}
         
         <div class="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-gray-900 prose-p:text-gray-700 prose-p:leading-relaxed prose-li:text-gray-700">
           {{ range $i, $part := $parts }}
             {{ if eq $i 0 }}
+              {{/* Avant le 1er H2 — intro de l'article */}}
               {{ $part | safeHTML }}
             {{ else }}
+              {{/* On affiche le H2 + son contenu */}}
               {{ print "<h2" $part | safeHTML }}
-        
-              {{/* Après 1er H2 → 321837 Native — DÉSACTIVÉ (bug HB injection infinie) */}}
+              
+              {{/* ============ PUBS APRÈS CHAQUE H2 ============ */}}
+              
+              {{/* Native DÉSACTIVÉ — bug HB injection infinie en cours de fix */}}
               {{/*
               {{ if eq $i 1 }}
                 <div class="hb-ad-native my-8" style="display: block; clear: both; min-height: 250px; overflow: hidden;">
@@ -201,67 +204,37 @@
                 </div>
               {{ end }}
               */}}
-        
-              {{/* Après 2e H2 → 320459 Interscroller */}}
-              {{ if eq $i 2 }}
-                <div class="hb-ad-inarticle">
+              
+              {{/* Après 1er H2 → Interscroller 320459 (position fixe) */}}
+              {{ if eq $i 1 }}
+                <div class="hb-ad-inarticle my-6">
                   <div class="hb-ad-inner">
                     <div class="hbagency_cls" id="hbagency_space_320459"></div>
                   </div>
                 </div>
               {{ end }}
-        
-              {{/* Après 3e H2 → 301254 (base) */}}
-              {{ if eq $i 3 }}
-                <div class="hb-ad-inpage">
-                  <div class="hb-ad-inner">
-                    <div class="hbagency_cls hbagency_space_301254"></div>
+              
+              {{/* Après le 2e H2 jusqu'à l'avant-dernier H2 → In Page 301254 + variantes */}}
+              {{/* Stratégie B agressive : on remplit toutes les positions intermédiaires */}}
+              {{ if and (ge $i 2) (lt $i $h2Count) }}
+                {{ $slotIndex := sub $i 2 }}
+                {{ if lt $slotIndex (len $inPageSlots) }}
+                  {{ $slotId := index $inPageSlots $slotIndex }}
+                  <div class="hb-ad-inpage my-6">
+                    <div class="hb-ad-inner">
+                      <div class="hbagency_cls {{ $slotId }}"></div>
+                    </div>
                   </div>
-                </div>
+                {{ end }}
               {{ end }}
-        
-              {{/* Après 4e H2 → 301254_1 */}}
-              {{ if eq $i 4 }}
-                <div class="hb-ad-inpage">
-                  <div class="hb-ad-inner">
-                    <div class="hbagency_cls hbagency_space_301254_1"></div>
-                  </div>
-                </div>
-              {{ end }}
-        
-              {{/* Après 5e H2 → 301254_2 */}}
-              {{ if eq $i 5 }}
-                <div class="hb-ad-inpage">
-                  <div class="hb-ad-inner">
-                    <div class="hbagency_cls hbagency_space_301254_2"></div>
-                  </div>
-                </div>
-              {{ end }}
-        
-              {{/* Après 6e H2 → 301254_3 */}}
-              {{ if eq $i 6 }}
-                <div class="hb-ad-inpage">
-                  <div class="hb-ad-inner">
-                    <div class="hbagency_cls hbagency_space_301254_3"></div>
-                  </div>
-                </div>
-              {{ end }}
-        
-              {{/* Après 7e H2 → 301254_4 */}}
-              {{ if eq $i 7 }}
-                <div class="hb-ad-inpage">
-                  <div class="hb-ad-inner">
-                    <div class="hbagency_cls hbagency_space_301254_4"></div>
-                  </div>
-                </div>
-              {{ end }}
-        
+              
             {{ end }}
           {{ end }}
         </div>
         
-        <!-- Debug: cet article a {{ $h2Count }} H2 -->
-        
+        <!-- DEBUG: cet article a {{ $h2Count }} H2 -->
+
+          
         {{ partial "email-capture-inline.html" . }}
         {{ partial "related-wide-scroll-random.html" . }}
         {{ partial "comments.html" . }}  
