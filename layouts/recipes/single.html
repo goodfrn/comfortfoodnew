@@ -193,12 +193,14 @@
             {{ else }}
               {{ print "<h2" $part | safeHTML }}
         
-              {{/* Après 1er H2 → 321837 Native (avec wrapper isolé anti-boucle) */}}
+              {{/* Après 1er H2 → 321837 Native — DÉSACTIVÉ (bug HB injection infinie) */}}
+              {{/*
               {{ if eq $i 1 }}
                 <div class="hb-ad-native my-8" style="display: block; clear: both; min-height: 250px; overflow: hidden;">
                   <div id="hbagency_space_321837"></div>
                 </div>
               {{ end }}
+              */}}
         
               {{/* Après 2e H2 → 320459 Interscroller */}}
               {{ if eq $i 2 }}
