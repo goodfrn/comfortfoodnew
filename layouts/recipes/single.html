@@ -163,6 +163,13 @@
       </div>
 
     </div>
+    
+    <!-- Pub Billboard 970x250 (avant contenu) -->
+    <div class="hb-ad-static hb-ad-billboard my-8 flex justify-center">
+      <div class="hb-ad-inner">
+        <div class="hbagency_cls_static" id="hbagency_space_321838"></div>
+      </div>
+    </div>
 
     <!-- CORPS : colonne principale + sidebar -->
     <div class="grid lg:grid-cols-[2fr_1fr] gap-6 sm:gap-8 lg:gap-12 items-start">
@@ -171,9 +178,6 @@
 
         <!-- BODY MARKDOWN LIBRE -->
         {{ $content := .Content }}
-        
-        {{ $ad301254 := `<div class="hb-ad-inpage"><div class="hb-ad-inner"><div class="hbagency_cls hbagency_space_301254"></div></div></div>` }}
-        
         {{ $parts := split $content "<h2" }}
         
         <div class="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-gray-900 prose-p:text-gray-700 prose-p:leading-relaxed prose-li:text-gray-700">
@@ -183,8 +187,13 @@
             {{ else }}
               {{ print "<h2" $part | safeHTML }}
         
-              {{/* Après 1er H2 → 320459 */}}
+              {{/* Après 1er H2 → 321837 Native */}}
               {{ if eq $i 1 }}
+                <div id="hbagency_space_321837"></div>
+              {{ end }}
+        
+              {{/* Après 2e H2 → 320459 Interscroller */}}
+              {{ if eq $i 2 }}
                 <div class="hb-ad-inarticle">
                   <div class="hb-ad-inner">
                     <div class="hbagency_cls" id="hbagency_space_320459"></div>
@@ -192,23 +201,49 @@
                 </div>
               {{ end }}
         
-              {{/* Après 2e H2 → 321836 */}}
-              {{ if eq $i 2 }}
-                <div class="hb-ad-inarticle">
+              {{/* Après 3e H2 → 301254 (base) */}}
+              {{ if eq $i 3 }}
+                <div class="hb-ad-inpage">
                   <div class="hb-ad-inner">
-                    <div class="hbagency_cls" id="hbagency_space_321836"></div>
+                    <div class="hbagency_cls hbagency_space_301254"></div>
                   </div>
                 </div>
               {{ end }}
         
-              {{/* Après 3e H2 → 321837 Native */}}
-              {{ if eq $i 3 }}
-                <div id='hbagency_space_321837'></div>
+              {{/* Après 4e H2 → 301254_1 */}}
+              {{ if eq $i 4 }}
+                <div class="hb-ad-inpage">
+                  <div class="hb-ad-inner">
+                    <div class="hbagency_cls hbagency_space_301254_1"></div>
+                  </div>
+                </div>
               {{ end }}
         
-              {{/* Après 4e H2 → 301254 In Page */}}
-              {{ if eq $i 4 }}
-                {{ $ad301254 | safeHTML }}
+              {{/* Après 5e H2 → 301254_2 */}}
+              {{ if eq $i 5 }}
+                <div class="hb-ad-inpage">
+                  <div class="hb-ad-inner">
+                    <div class="hbagency_cls hbagency_space_301254_2"></div>
+                  </div>
+                </div>
+              {{ end }}
+        
+              {{/* Après 6e H2 → 301254_3 */}}
+              {{ if eq $i 6 }}
+                <div class="hb-ad-inpage">
+                  <div class="hb-ad-inner">
+                    <div class="hbagency_cls hbagency_space_301254_3"></div>
+                  </div>
+                </div>
+              {{ end }}
+        
+              {{/* Après 7e H2 → 301254_4 */}}
+              {{ if eq $i 7 }}
+                <div class="hb-ad-inpage">
+                  <div class="hb-ad-inner">
+                    <div class="hbagency_cls hbagency_space_301254_4"></div>
+                  </div>
+                </div>
               {{ end }}
         
             {{ end }}
