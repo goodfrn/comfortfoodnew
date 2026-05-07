@@ -72,6 +72,28 @@
     <link rel="stylesheet" href="{{ $css.RelPermalink }}">
   {{ end }}
   
+  <!-- Force HB ad slots minimum dimensions (fix height:0 bug) -->
+  <style>
+    /* Header Banner 304392 */
+    #HB_Footer_Close_hbagency_space_304392,
+    #HB_OUTER_hbagency_space_304392,
+    #hbagency_space_304392 {
+      min-height: 90px;
+      width: 100%;
+      display: block;
+      text-align: center;
+    }
+    /* Tous les wrappers HB Floating */
+    [id^="HB_Footer_Close_"] {
+      min-height: 90px;
+    }
+    /* Half Page sidebar 321844 */
+    .hb-ad-half {
+      min-height: 600px;
+      max-width: 300px;
+    }
+  </style>
+  
   {{/* ============ ADSENSE + AD NETWORKS — only on non-sales pages ============ */}}
   {{ if not $isSalesPage }}
     <script async 
@@ -139,7 +161,7 @@
     {{ end }}
   {{ end }}
   
-  {{/* ============ MEDIAVINE AD SLOTS — only on non-sales pages ============ */}}
+  {{/* ============ HB AGENCY AD SLOTS — only on non-sales pages ============ */}}
   {{ if not $isSalesPage }}
     <div id='HB_Footer_Close_hbagency_space_321835'>
       <div id='HB_CLOSE_hbagency_space_321835'></div>
