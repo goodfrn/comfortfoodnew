@@ -963,6 +963,21 @@ adform.com, 1889, RESELLER
 openx.com, 558758631, RESELLER, 6a698e2ec38604c6
 video.unrulymedia.com, 724823153, RESELLER
 teads.tv, 32754, DIRECT, 15a9c44f6d26cbe1
+kntxy.com, 67709, DIRECT
+rubiconproject.com, 27883, RESELLER, 0bfd66d529a55807
+amxrtb.com, 105199840, RESELLER
+lijit.com, 542485, RESELLER, fafdf38b16bf6b2b
+adyoulike.com, ed49f1bd83a35e2c77b72423c181aaa4, RESELLER
+onetag.com, 92ca3ee66889ee2, RESELLER
+inmobi.com, 257651565cd44fc9a272f26e6975ee35, RESELLER, 83e75a7ae333ca9d
+152media.info, 152M1053, RESELLER
+minutemedia.com, 01jsf5my8xgr, RESELLER
+pubmatic.com, 166733, RESELLER, 5d62403b186f2ace
+smartadserver.com, 5397, RESELLER, 060d053dcf45cbf3
+improvedigital.com, 2630, RESELLER
+video.unrulymedia.com, 675370387, RESELLER
+xandr.com, 17781, RESELLER
+
 hbagency.it, 37645, DIRECT
 headerbidding.agency, 37645, DIRECT
 # End Header Bidding Agency
